@@ -1,0 +1,38 @@
+<region name="Virgin Islands" count="6">
+  <point>
+    <name>Christiansted</name>
+    <region>Virgin Islands</region>
+    <district>Saint Croix</district>
+    <id>257064</id>
+  </point>
+  <point>
+    <name>Frederiksted</name>
+    <region>Virgin Islands</region>
+    <district>Saint Croix</district>
+    <id>285757</id>
+  </point>
+  <point>
+    <name>Henry E. Rohlsen (airport)</name>
+    <region>Virgin Islands</region>
+    <district>Saint Croix</district>
+    <id>508443</id>
+  </point>
+  <point>
+    <name>Kingshill</name>
+    <region>Virgin Islands</region>
+    <district>Saint Croix</district>
+    <id>285758</id>
+  </point>
+  <point>
+    <name>Cruz Bay</name>
+    <region>Virgin Islands</region>
+    <district>Saint John</district>
+    <id>257065</id>
+  </point>
+  <point>
+    <name>Charlotte Amalie</name>
+    <region>Virgin Islands</region>
+    <district>Saint Thomas</district>
+    <id>257066</id>
+  </point>
+</region>

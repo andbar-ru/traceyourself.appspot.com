@@ -1,0 +1,8397 @@
+<region name="Краснодарский край" count="1679">
+  <point>
+    <name>Абинск</name>
+    <district>Абинский район</district>
+    <id>869</id>
+  </point>
+  <point>
+    <name>Ахтырский</name>
+    <district>Абинский район</district>
+    <id>1228</id>
+  </point>
+  <point>
+    <name>Мингрельская</name>
+    <district>Абинский район</district>
+    <id>5348</id>
+  </point>
+  <point>
+    <name>Федоровская</name>
+    <district>Абинский район</district>
+    <id>75113</id>
+  </point>
+  <point>
+    <name>Холмская</name>
+    <district>Абинский район</district>
+    <id>8815</id>
+  </point>
+  <point>
+    <name>Аушед</name>
+    <district>Абинский район</district>
+    <id>75122</id>
+  </point>
+  <point>
+    <name>Бережной</name>
+    <district>Абинский район</district>
+    <id>75150</id>
+  </point>
+  <point>
+    <name>Богдасаров</name>
+    <district>Абинский район</district>
+    <id>75126</id>
+  </point>
+  <point>
+    <name>Варнавинское</name>
+    <district>Абинский район</district>
+    <id>75156</id>
+  </point>
+  <point>
+    <name>Васильевский</name>
+    <district>Абинский район</district>
+    <id>75101</id>
+  </point>
+  <point>
+    <name>Воробьев</name>
+    <district>Абинский район</district>
+    <id>75110</id>
+  </point>
+  <point>
+    <name>Екатериновский</name>
+    <district>Абинский район</district>
+    <id>75114</id>
+  </point>
+  <point>
+    <name>Коробкин</name>
+    <district>Абинский район</district>
+    <id>75137</id>
+  </point>
+  <point>
+    <name>Косовичи</name>
+    <district>Абинский район</district>
+    <id>75100</id>
+  </point>
+  <point>
+    <name>Кравченко</name>
+    <district>Абинский район</district>
+    <id>75107</id>
+  </point>
+  <point>
+    <name>Краснооктябрьский</name>
+    <district>Абинский район</district>
+    <id>75121</id>
+  </point>
+  <point>
+    <name>Ленинский</name>
+    <district>Абинский район</district>
+    <id>75139</id>
+  </point>
+  <point>
+    <name>Нечаевский</name>
+    <district>Абинский район</district>
+    <id>75127</id>
+  </point>
+  <point>
+    <name>Новосадовый</name>
+    <district>Абинский район</district>
+    <id>92526</id>
+  </point>
+  <point>
+    <name>Новый</name>
+    <district>Абинский район</district>
+    <id>64882</id>
+  </point>
+  <point>
+    <name>Ольгинский</name>
+    <district>Абинский район</district>
+    <id>75123</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Абинский район</district>
+    <id>75109</id>
+  </point>
+  <point>
+    <name>Покровский</name>
+    <district>Абинский район</district>
+    <id>75116</id>
+  </point>
+  <point>
+    <name>Пролетарий</name>
+    <district>Абинский район</district>
+    <id>64879</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Абинский район</district>
+    <id>75138</id>
+  </point>
+  <point>
+    <name>Свердловский</name>
+    <district>Абинский район</district>
+    <id>75099</id>
+  </point>
+  <point>
+    <name>Свободный</name>
+    <district>Абинский район</district>
+    <id>75124</id>
+  </point>
+  <point>
+    <name>Синегорск</name>
+    <district>Абинский район</district>
+    <id>75119</id>
+  </point>
+  <point>
+    <name>Сосновая Роща</name>
+    <district>Абинский район</district>
+    <id>75118</id>
+  </point>
+  <point>
+    <name>Хабль</name>
+    <district>Абинский район</district>
+    <id>75120</id>
+  </point>
+  <point>
+    <name>Шапсугская</name>
+    <district>Абинский район</district>
+    <id>9132</id>
+  </point>
+  <point>
+    <name>Эрастов</name>
+    <district>Абинский район</district>
+    <id>75108</id>
+  </point>
+  <point>
+    <name>Эриванская</name>
+    <district>Абинский район</district>
+    <id>75149</id>
+  </point>
+  <point>
+    <name>Эриванский</name>
+    <district>Абинский район</district>
+    <id>75136</id>
+  </point>
+  <point>
+    <name>Анапа</name>
+    <district>Анапа</district>
+    <id>1058</id>
+  </point>
+  <point>
+    <name>Анапа (аэропорт)</name>
+    <district>Анапа</district>
+    <id>470317</id>
+  </point>
+  <point>
+    <name>Благовещенская</name>
+    <district>Анапа</district>
+    <id>74572</id>
+  </point>
+  <point>
+    <name>Витязево</name>
+    <district>Анапа</district>
+    <id>75254</id>
+  </point>
+  <point>
+    <name>Чембурка</name>
+    <district>Анапа</district>
+    <id>74588</id>
+  </point>
+  <point>
+    <name>Анапская</name>
+    <district>Анапский район</district>
+    <id>74587</id>
+  </point>
+  <point>
+    <name>Большой Разнокол</name>
+    <district>Анапский район</district>
+    <id>74610</id>
+  </point>
+  <point>
+    <name>Большой Утриш</name>
+    <district>Анапский район</district>
+    <id>74584</id>
+  </point>
+  <point>
+    <name>Бужор</name>
+    <district>Анапский район</district>
+    <id>74600</id>
+  </point>
+  <point>
+    <name>Варваровка</name>
+    <district>Анапский район</district>
+    <id>74585</id>
+  </point>
+  <point>
+    <name>Верхнее Джемете</name>
+    <district>Анапский район</district>
+    <id>64942</id>
+  </point>
+  <point>
+    <name>Верхний Ханчакрак</name>
+    <district>Анапский район</district>
+    <id>64921</id>
+  </point>
+  <point>
+    <name>Веселая Гора</name>
+    <district>Анапский район</district>
+    <id>64925</id>
+  </point>
+  <point>
+    <name>Вестник</name>
+    <district>Анапский район</district>
+    <id>74607</id>
+  </point>
+  <point>
+    <name>Виноградный</name>
+    <district>Анапский район</district>
+    <id>74579</id>
+  </point>
+  <point>
+    <name>Воскресенский</name>
+    <district>Анапский район</district>
+    <id>74583</id>
+  </point>
+  <point>
+    <name>Гай-Кодзор</name>
+    <district>Анапский район</district>
+    <id>74601</id>
+  </point>
+  <point>
+    <name>Гостагаевская</name>
+    <district>Анапский район</district>
+    <id>2670</id>
+  </point>
+  <point>
+    <name>Джигинка</name>
+    <district>Анапский район</district>
+    <id>2988</id>
+  </point>
+  <point>
+    <name>Заря</name>
+    <district>Анапский район</district>
+    <id>64902</id>
+  </point>
+  <point>
+    <name>Иванов</name>
+    <district>Анапский район</district>
+    <id>74608</id>
+  </point>
+  <point>
+    <name>Капустин</name>
+    <district>Анапский район</district>
+    <id>74580</id>
+  </point>
+  <point>
+    <name>Коваленко</name>
+    <district>Анапский район</district>
+    <id>74617</id>
+  </point>
+  <point>
+    <name>Красная Горка</name>
+    <district>Анапский район</district>
+    <id>74609</id>
+  </point>
+  <point>
+    <name>Красная Скала</name>
+    <district>Анапский район</district>
+    <id>74598</id>
+  </point>
+  <point>
+    <name>Красный Курган</name>
+    <district>Анапский район</district>
+    <id>74591</id>
+  </point>
+  <point>
+    <name>Красный</name>
+    <district>Анапский район</district>
+    <id>64934</id>
+  </point>
+  <point>
+    <name>Куматырь</name>
+    <district>Анапский район</district>
+    <id>74605</id>
+  </point>
+  <point>
+    <name>Курбацкий</name>
+    <district>Анапский район</district>
+    <id>64894</id>
+  </point>
+  <point>
+    <name>Куток</name>
+    <district>Анапский район</district>
+    <id>74606</id>
+  </point>
+  <point>
+    <name>Малый Разнокол</name>
+    <district>Анапский район</district>
+    <id>64930</id>
+  </point>
+  <point>
+    <name>Малый Утриш</name>
+    <district>Анапский район</district>
+    <id>64945</id>
+  </point>
+  <point>
+    <name>Нижний Ханчакрак</name>
+    <district>Анапский район</district>
+    <id>64931</id>
+  </point>
+  <point>
+    <name>Нижняя Гостагайка</name>
+    <district>Анапский район</district>
+    <id>74592</id>
+  </point>
+  <point>
+    <name>Песчаный</name>
+    <district>Анапский район</district>
+    <id>74581</id>
+  </point>
+  <point>
+    <name>Прикубанский</name>
+    <district>Анапский район</district>
+    <id>74611</id>
+  </point>
+  <point>
+    <name>Просторный</name>
+    <district>Анапский район</district>
+    <id>74589</id>
+  </point>
+  <point>
+    <name>Пятихатки</name>
+    <district>Анапский район</district>
+    <id>74582</id>
+  </point>
+  <point>
+    <name>Рассвет</name>
+    <district>Анапский район</district>
+    <id>74604</id>
+  </point>
+  <point>
+    <name>Розы Люксембург</name>
+    <district>Анапский район</district>
+    <id>74597</id>
+  </point>
+  <point>
+    <name>Суворов-Черкесский</name>
+    <district>Анапский район</district>
+    <id>74573</id>
+  </point>
+  <point>
+    <name>Сукко</name>
+    <district>Анапский район</district>
+    <id>74602</id>
+  </point>
+  <point>
+    <name>Супсех</name>
+    <district>Анапский район</district>
+    <id>74586</id>
+  </point>
+  <point>
+    <name>Тарусин</name>
+    <district>Анапский район</district>
+    <id>74603</id>
+  </point>
+  <point>
+    <name>Усатова Балка</name>
+    <district>Анапский район</district>
+    <id>74599</id>
+  </point>
+  <point>
+    <name>Уташ</name>
+    <district>Анапский район</district>
+    <id>74578</id>
+  </point>
+  <point>
+    <name>Цибанобалка</name>
+    <district>Анапский район</district>
+    <id>74590</id>
+  </point>
+  <point>
+    <name>Чекон</name>
+    <district>Анапский район</district>
+    <id>74613</id>
+  </point>
+  <point>
+    <name>Черный</name>
+    <district>Анапский район</district>
+    <id>74593</id>
+  </point>
+  <point>
+    <name>Юровка</name>
+    <district>Анапский район</district>
+    <id>74596</id>
+  </point>
+  <point>
+    <name>Апшеронск</name>
+    <district>Апшеронский район</district>
+    <id>1128</id>
+  </point>
+  <point>
+    <name>Гуамка</name>
+    <district>Апшеронский район</district>
+    <id>74083</id>
+  </point>
+  <point>
+    <name>Лаго-Наки</name>
+    <district>Апшеронский район</district>
+    <id>470312</id>
+  </point>
+  <point>
+    <name>Мезмай</name>
+    <district>Апшеронский район</district>
+    <id>13921</id>
+  </point>
+  <point>
+    <name>Хадыженск</name>
+    <district>Апшеронский район</district>
+    <id>8731</id>
+  </point>
+  <point>
+    <name>Акредасов</name>
+    <district>Апшеронский район</district>
+    <id>74128</id>
+  </point>
+  <point>
+    <name>Армянский</name>
+    <district>Апшеронский район</district>
+    <id>74084</id>
+  </point>
+  <point>
+    <name>Асфальтовая Гора</name>
+    <district>Апшеронский район</district>
+    <id>74131</id>
+  </point>
+  <point>
+    <name>Верхние Тубы</name>
+    <district>Апшеронский район</district>
+    <id>74102</id>
+  </point>
+  <point>
+    <name>Вперед</name>
+    <district>Апшеронский район</district>
+    <id>74080</id>
+  </point>
+  <point>
+    <name>Годовников</name>
+    <district>Апшеронский район</district>
+    <id>64958</id>
+  </point>
+  <point>
+    <name>Горный Луч</name>
+    <district>Апшеронский район</district>
+    <id>74090</id>
+  </point>
+  <point>
+    <name>Городок</name>
+    <district>Апшеронский район</district>
+    <id>74137</id>
+  </point>
+  <point>
+    <name>Десятый Километр</name>
+    <district>Апшеронский район</district>
+    <id>64967</id>
+  </point>
+  <point>
+    <name>Елинский</name>
+    <district>Апшеронский район</district>
+    <id>74120</id>
+  </point>
+  <point>
+    <name>Ерик</name>
+    <district>Апшеронский район</district>
+    <id>74105</id>
+  </point>
+  <point>
+    <name>Зазулин</name>
+    <district>Апшеронский район</district>
+    <id>74094</id>
+  </point>
+  <point>
+    <name>Заречный</name>
+    <district>Апшеронский район</district>
+    <id>74104</id>
+  </point>
+  <point>
+    <name>Захаров</name>
+    <district>Апшеронский район</district>
+    <id>74121</id>
+  </point>
+  <point>
+    <name>Кабардинская</name>
+    <district>Апшеронский район</district>
+    <id>74125</id>
+  </point>
+  <point>
+    <name>Калинина</name>
+    <district>Апшеронский район</district>
+    <id>74098</id>
+  </point>
+  <point>
+    <name>Красная Горка</name>
+    <district>Апшеронский район</district>
+    <id>74114</id>
+  </point>
+  <point>
+    <name>Красный Дагестан</name>
+    <district>Апшеронский район</district>
+    <id>74082</id>
+  </point>
+  <point>
+    <name>Кубанская</name>
+    <district>Апшеронский район</district>
+    <id>74106</id>
+  </point>
+  <point>
+    <name>Куринская</name>
+    <district>Апшеронский район</district>
+    <id>74136</id>
+  </point>
+  <point>
+    <name>Кушинка</name>
+    <district>Апшеронский район</district>
+    <id>74110</id>
+  </point>
+  <point>
+    <name>Лесогорская</name>
+    <district>Апшеронский район</district>
+    <id>74119</id>
+  </point>
+  <point>
+    <name>Линейная</name>
+    <district>Апшеронский район</district>
+    <id>74127</id>
+  </point>
+  <point>
+    <name>Малько</name>
+    <district>Апшеронский район</district>
+    <id>74107</id>
+  </point>
+  <point>
+    <name>Нефтегорск</name>
+    <district>Апшеронский район</district>
+    <id>5744</id>
+  </point>
+  <point>
+    <name>Нефтяная</name>
+    <district>Апшеронский район</district>
+    <id>74115</id>
+  </point>
+  <point>
+    <name>Нижегородская</name>
+    <district>Апшеронский район</district>
+    <id>74081</id>
+  </point>
+  <point>
+    <name>Николаенко</name>
+    <district>Апшеронский район</district>
+    <id>74108</id>
+  </point>
+  <point>
+    <name>Новые Поляны</name>
+    <district>Апшеронский район</district>
+    <id>74086</id>
+  </point>
+  <point>
+    <name>Новый Режет</name>
+    <district>Апшеронский район</district>
+    <id>74111</id>
+  </point>
+  <point>
+    <name>Осиновское</name>
+    <district>Апшеронский район</district>
+    <id>74126</id>
+  </point>
+  <point>
+    <name>Отдаленный</name>
+    <district>Апшеронский район</district>
+    <id>74101</id>
+  </point>
+  <point>
+    <name>Папоротный</name>
+    <district>Апшеронский район</district>
+    <id>74123</id>
+  </point>
+  <point>
+    <name>Подольский</name>
+    <district>Апшеронский район</district>
+    <id>64950</id>
+  </point>
+  <point>
+    <name>Пригорное</name>
+    <district>Апшеронский район</district>
+    <id>74100</id>
+  </point>
+  <point>
+    <name>Режет</name>
+    <district>Апшеронский район</district>
+    <id>74112</id>
+  </point>
+  <point>
+    <name>Самурская</name>
+    <district>Апшеронский район</district>
+    <id>74085</id>
+  </point>
+  <point>
+    <name>Серебряный Ключ</name>
+    <district>Апшеронский район</district>
+    <id>13509</id>
+  </point>
+  <point>
+    <name>Спасов</name>
+    <district>Апшеронский район</district>
+    <id>74113</id>
+  </point>
+  <point>
+    <name>Станционный</name>
+    <district>Апшеронский район</district>
+    <id>74124</id>
+  </point>
+  <point>
+    <name>Старый Куринский</name>
+    <district>Апшеронский район</district>
+    <id>74130</id>
+  </point>
+  <point>
+    <name>Тверская</name>
+    <district>Апшеронский район</district>
+    <id>74117</id>
+  </point>
+  <point>
+    <name>Темнолесская</name>
+    <district>Апшеронский район</district>
+    <id>74718</id>
+  </point>
+  <point>
+    <name>Травалев</name>
+    <district>Апшеронский район</district>
+    <id>74118</id>
+  </point>
+  <point>
+    <name>Тубы</name>
+    <district>Апшеронский район</district>
+    <id>74103</id>
+  </point>
+  <point>
+    <name>Цуревский</name>
+    <district>Апшеронский район</district>
+    <id>74093</id>
+  </point>
+  <point>
+    <name>Черниговское</name>
+    <district>Апшеронский район</district>
+    <id>74099</id>
+  </point>
+  <point>
+    <name>Ширванская</name>
+    <district>Апшеронский район</district>
+    <id>74091</id>
+  </point>
+  <point>
+    <name>Армавир</name>
+    <district>Армавир</district>
+    <id>1153</id>
+  </point>
+  <point>
+    <name>Заветный</name>
+    <district>Армавир</district>
+    <id>74322</id>
+  </point>
+  <point>
+    <name>Красная Поляна</name>
+    <district>Армавир</district>
+    <id>74328</id>
+  </point>
+  <point>
+    <name>Маяк</name>
+    <district>Армавир</district>
+    <id>74277</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Армавир</district>
+    <id>74341</id>
+  </point>
+  <point>
+    <name>Зуево</name>
+    <district>Армавир</district>
+    <id>74312</id>
+  </point>
+  <point>
+    <name>Красин</name>
+    <district>Армавир</district>
+    <id>74319</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Армавир</district>
+    <id>74318</id>
+  </point>
+  <point>
+    <name>Старая Станица</name>
+    <district>Армавир</district>
+    <id>74326</id>
+  </point>
+  <point>
+    <name>Белая Глина</name>
+    <district>Белоглинский район</district>
+    <id>1430</id>
+  </point>
+  <point>
+    <name>Новолокинская</name>
+    <district>Белоглинский район</district>
+    <id>74515</id>
+  </point>
+  <point>
+    <name>Новопавловка</name>
+    <district>Белоглинский район</district>
+    <id>74411</id>
+  </point>
+  <point>
+    <name>Семеноводческий</name>
+    <district>Белоглинский район</district>
+    <id>74703</id>
+  </point>
+  <point>
+    <name>Успенская</name>
+    <district>Белоглинский район</district>
+    <id>74516</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Белоглинский район</district>
+    <id>74706</id>
+  </point>
+  <point>
+    <name>Кулешовка</name>
+    <district>Белоглинский район</district>
+    <id>74513</id>
+  </point>
+  <point>
+    <name>Магистральный</name>
+    <district>Белоглинский район</district>
+    <id>74705</id>
+  </point>
+  <point>
+    <name>Меклета</name>
+    <district>Белоглинский район</district>
+    <id>74410</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Белоглинский район</district>
+    <id>64974</id>
+  </point>
+  <point>
+    <name>Селекционный</name>
+    <district>Белоглинский район</district>
+    <id>74704</id>
+  </point>
+  <point>
+    <name>Туркинский</name>
+    <district>Белоглинский район</district>
+    <id>74413</id>
+  </point>
+  <point>
+    <name>Центральный</name>
+    <district>Белоглинский район</district>
+    <id>74716</id>
+  </point>
+  <point>
+    <name>Авиация</name>
+    <district>Белореченский район</district>
+    <id>74865</id>
+  </point>
+  <point>
+    <name>Амосов</name>
+    <district>Белореченский район</district>
+    <id>74868</id>
+  </point>
+  <point>
+    <name>Архиповское</name>
+    <district>Белореченский район</district>
+    <id>74870</id>
+  </point>
+  <point>
+    <name>Беляевский</name>
+    <district>Белореченский район</district>
+    <id>74872</id>
+  </point>
+  <point>
+    <name>Бережной</name>
+    <district>Белореченский район</district>
+    <id>74879</id>
+  </point>
+  <point>
+    <name>Бжедуховская</name>
+    <district>Белореченский район</district>
+    <id>74896</id>
+  </point>
+  <point>
+    <name>Большой Бродовой</name>
+    <district>Белореченский район</district>
+    <id>74877</id>
+  </point>
+  <point>
+    <name>Великовечное</name>
+    <district>Белореченский район</district>
+    <id>74883</id>
+  </point>
+  <point>
+    <name>Вербин</name>
+    <district>Белореченский район</district>
+    <id>74869</id>
+  </point>
+  <point>
+    <name>Верхневеденеевский</name>
+    <district>Белореченский район</district>
+    <id>64979</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Белореченский район</district>
+    <id>74911</id>
+  </point>
+  <point>
+    <name>Высотный</name>
+    <district>Белореченский район</district>
+    <id>74875</id>
+  </point>
+  <point>
+    <name>Ганжинский</name>
+    <district>Белореченский район</district>
+    <id>74887</id>
+  </point>
+  <point>
+    <name>Гливенко</name>
+    <district>Белореченский район</district>
+    <id>74885</id>
+  </point>
+  <point>
+    <name>Головков</name>
+    <district>Белореченский район</district>
+    <id>74924</id>
+  </point>
+  <point>
+    <name>Грушевый</name>
+    <district>Белореченский район</district>
+    <id>74910</id>
+  </point>
+  <point>
+    <name>Гурийская</name>
+    <district>Белореченский район</district>
+    <id>64999</id>
+  </point>
+  <point>
+    <name>Долгогусевский</name>
+    <district>Белореченский район</district>
+    <id>74900</id>
+  </point>
+  <point>
+    <name>Дружный</name>
+    <district>Белореченский район</district>
+    <id>74914</id>
+  </point>
+  <point>
+    <name>Дунайский</name>
+    <district>Белореченский район</district>
+    <id>74096</id>
+  </point>
+  <point>
+    <name>Каневецкий</name>
+    <district>Белореченский район</district>
+    <id>74903</id>
+  </point>
+  <point>
+    <name>Капустин</name>
+    <district>Белореченский район</district>
+    <id>74891</id>
+  </point>
+  <point>
+    <name>Комсомольский</name>
+    <district>Белореченский район</district>
+    <id>74884</id>
+  </point>
+  <point>
+    <name>Коренная Балка</name>
+    <district>Белореченский район</district>
+    <id>74095</id>
+  </point>
+  <point>
+    <name>Кубанский</name>
+    <district>Белореченский район</district>
+    <id>74097</id>
+  </point>
+  <point>
+    <name>Лантратов</name>
+    <district>Белореченский район</district>
+    <id>74890</id>
+  </point>
+  <point>
+    <name>Леонтьевское</name>
+    <district>Белореченский район</district>
+    <id>74889</id>
+  </point>
+  <point>
+    <name>Лесной</name>
+    <district>Белореченский район</district>
+    <id>64992</id>
+  </point>
+  <point>
+    <name>Лукашев</name>
+    <district>Белореченский район</district>
+    <id>74901</id>
+  </point>
+  <point>
+    <name>Малый Бродовой</name>
+    <district>Белореченский район</district>
+    <id>74867</id>
+  </point>
+  <point>
+    <name>Малый Дукмасов</name>
+    <district>Белореченский район</district>
+    <id>74881</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Белореченский район</district>
+    <id>64978</id>
+  </point>
+  <point>
+    <name>Молодежный</name>
+    <district>Белореченский район</district>
+    <id>65026</id>
+  </point>
+  <point>
+    <name>Нижневеденеевский</name>
+    <district>Белореченский район</district>
+    <id>74886</id>
+  </point>
+  <point>
+    <name>Новоалексеевское</name>
+    <district>Белореченский район</district>
+    <id>74876</id>
+  </point>
+  <point>
+    <name>Новогурийский</name>
+    <district>Белореченский район</district>
+    <id>74902</id>
+  </point>
+  <point>
+    <name>Новоселовка</name>
+    <district>Белореченский район</district>
+    <id>74839</id>
+  </point>
+  <point>
+    <name>Октябрьская</name>
+    <district>Белореченский район</district>
+    <id>74897</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Белореченский район</district>
+    <id>74888</id>
+  </point>
+  <point>
+    <name>Подгорный</name>
+    <district>Белореченский район</district>
+    <id>74898</id>
+  </point>
+  <point>
+    <name>Потин</name>
+    <district>Белореченский район</district>
+    <id>65027</id>
+  </point>
+  <point>
+    <name>Привольный</name>
+    <district>Белореченский район</district>
+    <id>74893</id>
+  </point>
+  <point>
+    <name>Приречный</name>
+    <district>Белореченский район</district>
+    <id>74912</id>
+  </point>
+  <point>
+    <name>Проточный</name>
+    <district>Белореченский район</district>
+    <id>74895</id>
+  </point>
+  <point>
+    <name>Пшехская</name>
+    <district>Белореченский район</district>
+    <id>74915</id>
+  </point>
+  <point>
+    <name>Родники</name>
+    <district>Белореченский район</district>
+    <id>2994</id>
+  </point>
+  <point>
+    <name>Рязанская</name>
+    <district>Белореченский район</district>
+    <id>74874</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Белореченский район</district>
+    <id>74899</id>
+  </point>
+  <point>
+    <name>Северный</name>
+    <district>Белореченский район</district>
+    <id>74866</id>
+  </point>
+  <point>
+    <name>Средний Дукмасов</name>
+    <district>Белореченский район</district>
+    <id>74878</id>
+  </point>
+  <point>
+    <name>Степной</name>
+    <district>Белореченский район</district>
+    <id>74892</id>
+  </point>
+  <point>
+    <name>Терновый</name>
+    <district>Белореченский район</district>
+    <id>74088</id>
+  </point>
+  <point>
+    <name>Фадеевский</name>
+    <district>Белореченский район</district>
+    <id>74089</id>
+  </point>
+  <point>
+    <name>Фокин</name>
+    <district>Белореченский район</district>
+    <id>74871</id>
+  </point>
+  <point>
+    <name>Черниговская</name>
+    <district>Белореченский район</district>
+    <id>9007</id>
+  </point>
+  <point>
+    <name>Черниговский</name>
+    <district>Белореченский район</district>
+    <id>74880</id>
+  </point>
+  <point>
+    <name>Школьное</name>
+    <district>Белореченский район</district>
+    <id>74882</id>
+  </point>
+  <point>
+    <name>Белореченск</name>
+    <district>Белореченск</district>
+    <id>1464</id>
+  </point>
+  <point>
+    <name>Заречный</name>
+    <district>Белореченск</district>
+    <id>74909</id>
+  </point>
+  <point>
+    <name>Новый</name>
+    <district>Белореченск</district>
+    <id>74913</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Белореченск</district>
+    <id>3977</id>
+  </point>
+  <point>
+    <name>Брюховецкая</name>
+    <district>Брюховецкий район</district>
+    <id>1856</id>
+  </point>
+  <point>
+    <name>Батуринская</name>
+    <district>Брюховецкий район</district>
+    <id>1387</id>
+  </point>
+  <point>
+    <name>Новоджерелиевская</name>
+    <district>Брюховецкий район</district>
+    <id>5951</id>
+  </point>
+  <point>
+    <name>Новое Село</name>
+    <district>Брюховецкий район</district>
+    <id>74768</id>
+  </point>
+  <point>
+    <name>Чепигинская</name>
+    <district>Брюховецкий район</district>
+    <id>74986</id>
+  </point>
+  <point>
+    <name>Бейсугское</name>
+    <district>Брюховецкий район</district>
+    <id>74985</id>
+  </point>
+  <point>
+    <name>Большой Бейсуг</name>
+    <district>Брюховецкий район</district>
+    <id>74779</id>
+  </point>
+  <point>
+    <name>Встречный</name>
+    <district>Брюховецкий район</district>
+    <id>74988</id>
+  </point>
+  <point>
+    <name>Гарбузовая Балка</name>
+    <district>Брюховецкий район</district>
+    <id>75040</id>
+  </point>
+  <point>
+    <name>Заря</name>
+    <district>Брюховецкий район</district>
+    <id>65032</id>
+  </point>
+  <point>
+    <name>Зозова Балка</name>
+    <district>Брюховецкий район</district>
+    <id>65046</id>
+  </point>
+  <point>
+    <name>Имерницин</name>
+    <district>Брюховецкий район</district>
+    <id>74786</id>
+  </point>
+  <point>
+    <name>Кавказский</name>
+    <district>Брюховецкий район</district>
+    <id>74797</id>
+  </point>
+  <point>
+    <name>Киновия</name>
+    <district>Брюховецкий район</district>
+    <id>74989</id>
+  </point>
+  <point>
+    <name>Красная Звезда</name>
+    <district>Брюховецкий район</district>
+    <id>75041</id>
+  </point>
+  <point>
+    <name>Красная Нива</name>
+    <district>Брюховецкий район</district>
+    <id>74784</id>
+  </point>
+  <point>
+    <name>Красная Поляна</name>
+    <district>Брюховецкий район</district>
+    <id>74785</id>
+  </point>
+  <point>
+    <name>Кубань</name>
+    <district>Брюховецкий район</district>
+    <id>74782</id>
+  </point>
+  <point>
+    <name>Лебяжий Остров</name>
+    <district>Брюховецкий район</district>
+    <id>75050</id>
+  </point>
+  <point>
+    <name>Лиманский</name>
+    <district>Брюховецкий район</district>
+    <id>75058</id>
+  </point>
+  <point>
+    <name>Переясловская</name>
+    <district>Брюховецкий район</district>
+    <id>6556</id>
+  </point>
+  <point>
+    <name>Победа</name>
+    <district>Брюховецкий район</district>
+    <id>74796</id>
+  </point>
+  <point>
+    <name>Поды</name>
+    <district>Брюховецкий район</district>
+    <id>75042</id>
+  </point>
+  <point>
+    <name>Полтавский</name>
+    <district>Брюховецкий район</district>
+    <id>65047</id>
+  </point>
+  <point>
+    <name>Привольный</name>
+    <district>Брюховецкий район</district>
+    <id>74780</id>
+  </point>
+  <point>
+    <name>Приречное</name>
+    <district>Брюховецкий район</district>
+    <id>74778</id>
+  </point>
+  <point>
+    <name>Раздольный</name>
+    <district>Брюховецкий район</district>
+    <id>74990</id>
+  </point>
+  <point>
+    <name>Рогачи</name>
+    <district>Брюховецкий район</district>
+    <id>75039</id>
+  </point>
+  <point>
+    <name>Свободное</name>
+    <district>Брюховецкий район</district>
+    <id>74772</id>
+  </point>
+  <point>
+    <name>Сопова Балка</name>
+    <district>Брюховецкий район</district>
+    <id>74987</id>
+  </point>
+  <point>
+    <name>Харьково-Полтавское</name>
+    <district>Брюховецкий район</district>
+    <id>74781</id>
+  </point>
+  <point>
+    <name>Челюскинец</name>
+    <district>Брюховецкий район</district>
+    <id>75027</id>
+  </point>
+  <point>
+    <name>Чкалова</name>
+    <district>Брюховецкий район</district>
+    <id>65069</id>
+  </point>
+  <point>
+    <name>Выселки</name>
+    <district>Выселковский район</district>
+    <id>2452</id>
+  </point>
+  <point>
+    <name>Бейсуг</name>
+    <district>Выселковский район</district>
+    <id>74788</id>
+  </point>
+  <point>
+    <name>Березанская</name>
+    <district>Выселковский район</district>
+    <id>1506</id>
+  </point>
+  <point>
+    <name>Газырь</name>
+    <district>Выселковский район</district>
+    <id>74787</id>
+  </point>
+  <point>
+    <name>Новомалороссийская</name>
+    <district>Выселковский район</district>
+    <id>5991</id>
+  </point>
+  <point>
+    <name>Александроневская</name>
+    <district>Выселковский район</district>
+    <id>74789</id>
+  </point>
+  <point>
+    <name>Балковская</name>
+    <district>Выселковский район</district>
+    <id>74777</id>
+  </point>
+  <point>
+    <name>Бейсужек Второй</name>
+    <district>Выселковский район</district>
+    <id>3012</id>
+  </point>
+  <point>
+    <name>Бузиновская</name>
+    <district>Выселковский район</district>
+    <id>74802</id>
+  </point>
+  <point>
+    <name>Гражданский</name>
+    <district>Выселковский район</district>
+    <id>74775</id>
+  </point>
+  <point>
+    <name>Заречный</name>
+    <district>Выселковский район</district>
+    <id>74791</id>
+  </point>
+  <point>
+    <name>Заря</name>
+    <district>Выселковский район</district>
+    <id>74699</id>
+  </point>
+  <point>
+    <name>Иногородне-Малеваный</name>
+    <district>Выселковский район</district>
+    <id>74813</id>
+  </point>
+  <point>
+    <name>Ирклиевская</name>
+    <district>Выселковский район</district>
+    <id>3563</id>
+  </point>
+  <point>
+    <name>Красный</name>
+    <district>Выселковский район</district>
+    <id>74773</id>
+  </point>
+  <point>
+    <name>Крупская</name>
+    <district>Выселковский район</district>
+    <id>74801</id>
+  </point>
+  <point>
+    <name>Новобейсугская</name>
+    <district>Выселковский район</district>
+    <id>74820</id>
+  </point>
+  <point>
+    <name>Новогражданская</name>
+    <district>Выселковский район</district>
+    <id>65082</id>
+  </point>
+  <point>
+    <name>Новодонецкая</name>
+    <district>Выселковский район</district>
+    <id>74790</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Выселковский район</district>
+    <id>74774</id>
+  </point>
+  <point>
+    <name>Отважный</name>
+    <district>Выселковский район</district>
+    <id>74776</id>
+  </point>
+  <point>
+    <name>Память Ленина</name>
+    <district>Выселковский район</district>
+    <id>74770</id>
+  </point>
+  <point>
+    <name>Первомайское</name>
+    <district>Выселковский район</district>
+    <id>92479</id>
+  </point>
+  <point>
+    <name>Советский</name>
+    <district>Выселковский район</district>
+    <id>65073</id>
+  </point>
+  <point>
+    <name>Геленджик</name>
+    <district>Геленджик</district>
+    <id>2525</id>
+  </point>
+  <point>
+    <name>Архипо-Осиповка</name>
+    <district>Геленджик</district>
+    <id>1183</id>
+  </point>
+  <point>
+    <name>Бетта</name>
+    <district>Геленджик</district>
+    <id>92506</id>
+  </point>
+  <point>
+    <name>Дивноморское</name>
+    <district>Геленджик</district>
+    <id>92509</id>
+  </point>
+  <point>
+    <name>Кабардинка</name>
+    <district>Геленджик</district>
+    <id>3613</id>
+  </point>
+  <point>
+    <name>Адербиевка</name>
+    <district>Геленджик</district>
+    <id>92530</id>
+  </point>
+  <point>
+    <name>Афонка</name>
+    <district>Геленджик</district>
+    <id>67649</id>
+  </point>
+  <point>
+    <name>Береговое</name>
+    <district>Геленджик</district>
+    <id>92517</id>
+  </point>
+  <point>
+    <name>Виноградное</name>
+    <district>Геленджик</district>
+    <id>92529</id>
+  </point>
+  <point>
+    <name>Возрождение</name>
+    <district>Геленджик</district>
+    <id>92522</id>
+  </point>
+  <point>
+    <name>Джанхот</name>
+    <district>Геленджик</district>
+    <id>92508</id>
+  </point>
+  <point>
+    <name>Криница</name>
+    <district>Геленджик</district>
+    <id>92507</id>
+  </point>
+  <point>
+    <name>Марьина Роща</name>
+    <district>Геленджик</district>
+    <id>92528</id>
+  </point>
+  <point>
+    <name>Михайловский Перевал</name>
+    <district>Геленджик</district>
+    <id>92520</id>
+  </point>
+  <point>
+    <name>Прасковеевка</name>
+    <district>Геленджик</district>
+    <id>92518</id>
+  </point>
+  <point>
+    <name>Пшада</name>
+    <district>Геленджик</district>
+    <id>92533</id>
+  </point>
+  <point>
+    <name>Светлый</name>
+    <district>Геленджик</district>
+    <id>92521</id>
+  </point>
+  <point>
+    <name>Текос</name>
+    <district>Геленджик</district>
+    <id>92534</id>
+  </point>
+  <point>
+    <name>Тешебс</name>
+    <district>Геленджик</district>
+    <id>92515</id>
+  </point>
+  <point>
+    <name>Широкая Пшадская Щель</name>
+    <district>Геленджик</district>
+    <id>92519</id>
+  </point>
+  <point>
+    <name>Широкая Щель</name>
+    <district>Геленджик</district>
+    <id>92527</id>
+  </point>
+  <point>
+    <name>Горячий Ключ</name>
+    <district>Горячий Ключ</district>
+    <id>2668</id>
+  </point>
+  <point>
+    <name>Молькин</name>
+    <district>Горячий Ключ</district>
+    <id>74905</id>
+  </point>
+  <point>
+    <name>Пятигорская</name>
+    <district>Горячий Ключ</district>
+    <id>74169</id>
+  </point>
+  <point>
+    <name>Саратовская</name>
+    <district>Горячий Ключ</district>
+    <id>74917</id>
+  </point>
+  <point>
+    <name>Фанагорийское</name>
+    <district>Горячий Ключ</district>
+    <id>74167</id>
+  </point>
+  <point>
+    <name>Бакинская</name>
+    <district>Горячий Ключ</district>
+    <id>1305</id>
+  </point>
+  <point>
+    <name>Безымянное</name>
+    <district>Горячий Ключ</district>
+    <id>74165</id>
+  </point>
+  <point>
+    <name>Веселый</name>
+    <district>Горячий Ключ</district>
+    <id>67663</id>
+  </point>
+  <point>
+    <name>Домики</name>
+    <district>Горячий Ключ</district>
+    <id>74139</id>
+  </point>
+  <point>
+    <name>Имеретинская</name>
+    <district>Горячий Ключ</district>
+    <id>74921</id>
+  </point>
+  <point>
+    <name>Красный Восток</name>
+    <district>Горячий Ключ</district>
+    <id>74904</id>
+  </point>
+  <point>
+    <name>Кура-Транспортный</name>
+    <district>Горячий Ключ</district>
+    <id>74140</id>
+  </point>
+  <point>
+    <name>Кура-Цеце</name>
+    <district>Горячий Ключ</district>
+    <id>74141</id>
+  </point>
+  <point>
+    <name>Кутаисская</name>
+    <district>Горячий Ключ</district>
+    <id>74170</id>
+  </point>
+  <point>
+    <name>Кутаис</name>
+    <district>Горячий Ключ</district>
+    <id>4745</id>
+  </point>
+  <point>
+    <name>Мартанская</name>
+    <district>Горячий Ключ</district>
+    <id>74908</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Горячий Ключ</district>
+    <id>4031</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Горячий Ключ</district>
+    <id>67656</id>
+  </point>
+  <point>
+    <name>Папоротный</name>
+    <district>Горячий Ключ</district>
+    <id>74918</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Горячий Ключ</district>
+    <id>74920</id>
+  </point>
+  <point>
+    <name>Поднависла 1-я</name>
+    <district>Горячий Ключ</district>
+    <id>74079</id>
+  </point>
+  <point>
+    <name>Приреченский</name>
+    <district>Горячий Ключ</district>
+    <id>74906</id>
+  </point>
+  <point>
+    <name>Соленый</name>
+    <district>Горячий Ключ</district>
+    <id>74919</id>
+  </point>
+  <point>
+    <name>Сорокин</name>
+    <district>Горячий Ключ</district>
+    <id>74923</id>
+  </point>
+  <point>
+    <name>Суздальская</name>
+    <district>Горячий Ключ</district>
+    <id>74907</id>
+  </point>
+  <point>
+    <name>Транспортный</name>
+    <district>Горячий Ключ</district>
+    <id>67695</id>
+  </point>
+  <point>
+    <name>Хребтовое</name>
+    <district>Горячий Ключ</district>
+    <id>92524</id>
+  </point>
+  <point>
+    <name>Черноморская</name>
+    <district>Горячий Ключ</district>
+    <id>74916</id>
+  </point>
+  <point>
+    <name>Широкая Балка</name>
+    <district>Горячий Ключ</district>
+    <id>67748</id>
+  </point>
+  <point>
+    <name>Гулькевичи</name>
+    <district>Гулькевичский район</district>
+    <id>2739</id>
+  </point>
+  <point>
+    <name>Ботаника</name>
+    <district>Гулькевичский район</district>
+    <id>74241</id>
+  </point>
+  <point>
+    <name>Венцы</name>
+    <district>Гулькевичский район</district>
+    <id>74421</id>
+  </point>
+  <point>
+    <name>Отрадо-Кубанское</name>
+    <district>Гулькевичский район</district>
+    <id>74248</id>
+  </point>
+  <point>
+    <name>Отрадо-Ольгинское</name>
+    <district>Гулькевичский район</district>
+    <id>74271</id>
+  </point>
+  <point>
+    <name>Алексеевский</name>
+    <district>Гулькевичский район</district>
+    <id>74225</id>
+  </point>
+  <point>
+    <name>Борисов</name>
+    <district>Гулькевичский район</district>
+    <id>74206</id>
+  </point>
+  <point>
+    <name>Братский</name>
+    <district>Гулькевичский район</district>
+    <id>74244</id>
+  </point>
+  <point>
+    <name>Булгаков</name>
+    <district>Гулькевичский район</district>
+    <id>74215</id>
+  </point>
+  <point>
+    <name>Вербовый</name>
+    <district>Гулькевичский район</district>
+    <id>74210</id>
+  </point>
+  <point>
+    <name>Воздвиженский</name>
+    <district>Гулькевичский район</district>
+    <id>74243</id>
+  </point>
+  <point>
+    <name>Гирей</name>
+    <district>Гулькевичский район</district>
+    <id>3086</id>
+  </point>
+  <point>
+    <name>Дальний</name>
+    <district>Гулькевичский район</district>
+    <id>74220</id>
+  </point>
+  <point>
+    <name>Духовской</name>
+    <district>Гулькевичский район</district>
+    <id>74415</id>
+  </point>
+  <point>
+    <name>Журавлев</name>
+    <district>Гулькевичский район</district>
+    <id>74201</id>
+  </point>
+  <point>
+    <name>Зарьков</name>
+    <district>Гулькевичский район</district>
+    <id>74231</id>
+  </point>
+  <point>
+    <name>Заря</name>
+    <district>Гулькевичский район</district>
+    <id>65141</id>
+  </point>
+  <point>
+    <name>Зеленчук</name>
+    <district>Гулькевичский район</district>
+    <id>74230</id>
+  </point>
+  <point>
+    <name>Ивлев</name>
+    <district>Гулькевичский район</district>
+    <id>74216</id>
+  </point>
+  <point>
+    <name>Киевка</name>
+    <district>Гулькевичский район</district>
+    <id>74342</id>
+  </point>
+  <point>
+    <name>Комсомольский</name>
+    <district>Гулькевичский район</district>
+    <id>74222</id>
+  </point>
+  <point>
+    <name>Кравченко</name>
+    <district>Гулькевичский район</district>
+    <id>74414</id>
+  </point>
+  <point>
+    <name>Красная Поляна</name>
+    <district>Гулькевичский район</district>
+    <id>74417</id>
+  </point>
+  <point>
+    <name>Красносельский</name>
+    <district>Гулькевичский район</district>
+    <id>141384</id>
+  </point>
+  <point>
+    <name>Крупский</name>
+    <district>Гулькевичский район</district>
+    <id>74422</id>
+  </point>
+  <point>
+    <name>Кубань</name>
+    <district>Гулькевичский район</district>
+    <id>74466</id>
+  </point>
+  <point>
+    <name>Лебедев</name>
+    <district>Гулькевичский район</district>
+    <id>74211</id>
+  </point>
+  <point>
+    <name>Лебяжий</name>
+    <district>Гулькевичский район</district>
+    <id>74420</id>
+  </point>
+  <point>
+    <name>Лесодача</name>
+    <district>Гулькевичский район</district>
+    <id>74416</id>
+  </point>
+  <point>
+    <name>Майкопское</name>
+    <district>Гулькевичский район</district>
+    <id>74430</id>
+  </point>
+  <point>
+    <name>Машевский</name>
+    <district>Гулькевичский район</district>
+    <id>74223</id>
+  </point>
+  <point>
+    <name>Мирный Пахарь</name>
+    <district>Гулькевичский район</district>
+    <id>74249</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Гулькевичский район</district>
+    <id>65204</id>
+  </point>
+  <point>
+    <name>Николенское</name>
+    <district>Гулькевичский район</district>
+    <id>74212</id>
+  </point>
+  <point>
+    <name>Новоивановский</name>
+    <district>Гулькевичский район</district>
+    <id>74467</id>
+  </point>
+  <point>
+    <name>Новокрасный</name>
+    <district>Гулькевичский район</district>
+    <id>74229</id>
+  </point>
+  <point>
+    <name>Новомихайловское</name>
+    <district>Гулькевичский район</district>
+    <id>74343</id>
+  </point>
+  <point>
+    <name>Новопавловский</name>
+    <district>Гулькевичский район</district>
+    <id>74224</id>
+  </point>
+  <point>
+    <name>Новоукраинское</name>
+    <district>Гулькевичский район</district>
+    <id>74451</id>
+  </point>
+  <point>
+    <name>Орлов</name>
+    <district>Гулькевичский район</district>
+    <id>74209</id>
+  </point>
+  <point>
+    <name>Партизан</name>
+    <district>Гулькевичский район</district>
+    <id>74203</id>
+  </point>
+  <point>
+    <name>Петровский</name>
+    <district>Гулькевичский район</district>
+    <id>74226</id>
+  </point>
+  <point>
+    <name>Подлесный (п.)</name>
+    <district>Гулькевичский район</district>
+    <id>74465</id>
+  </point>
+  <point>
+    <name>Подлесный (х.)</name>
+    <district>Гулькевичский район</district>
+    <id>65178</id>
+  </point>
+  <point>
+    <name>Приозерное</name>
+    <district>Гулькевичский район</district>
+    <id>65092</id>
+  </point>
+  <point>
+    <name>Прогресс</name>
+    <district>Гулькевичский район</district>
+    <id>65267</id>
+  </point>
+  <point>
+    <name>Пушкинское</name>
+    <district>Гулькевичский район</district>
+    <id>74227</id>
+  </point>
+  <point>
+    <name>Родников</name>
+    <district>Гулькевичский район</district>
+    <id>74204</id>
+  </point>
+  <point>
+    <name>Самойлов</name>
+    <district>Гулькевичский район</district>
+    <id>74435</id>
+  </point>
+  <point>
+    <name>Сергеевский</name>
+    <district>Гулькевичский район</district>
+    <id>74202</id>
+  </point>
+  <point>
+    <name>Скобелевская</name>
+    <district>Гулькевичский район</district>
+    <id>74205</id>
+  </point>
+  <point>
+    <name>Советский</name>
+    <district>Гулькевичский район</district>
+    <id>65210</id>
+  </point>
+  <point>
+    <name>Соколовское</name>
+    <district>Гулькевичский район</district>
+    <id>74221</id>
+  </point>
+  <point>
+    <name>Спорный</name>
+    <district>Гулькевичский район</district>
+    <id>74208</id>
+  </point>
+  <point>
+    <name>Старогермановский</name>
+    <district>Гулькевичский район</district>
+    <id>74246</id>
+  </point>
+  <point>
+    <name>Старомавринский</name>
+    <district>Гулькевичский район</district>
+    <id>74240</id>
+  </point>
+  <point>
+    <name>Тельман</name>
+    <district>Гулькевичский район</district>
+    <id>74434</id>
+  </point>
+  <point>
+    <name>Трудовой</name>
+    <district>Гулькевичский район</district>
+    <id>74476</id>
+  </point>
+  <point>
+    <name>Тысячный</name>
+    <district>Гулькевичский район</district>
+    <id>74242</id>
+  </point>
+  <point>
+    <name>Урожайный</name>
+    <district>Гулькевичский район</district>
+    <id>74452</id>
+  </point>
+  <point>
+    <name>Чаплыгин</name>
+    <district>Гулькевичский район</district>
+    <id>74245</id>
+  </point>
+  <point>
+    <name>Черединовский</name>
+    <district>Гулькевичский район</district>
+    <id>74431</id>
+  </point>
+  <point>
+    <name>Динская</name>
+    <district>Динской район</district>
+    <id>2878</id>
+  </point>
+  <point>
+    <name>Васюринская</name>
+    <district>Динской район</district>
+    <id>74861</id>
+  </point>
+  <point>
+    <name>Нововеличковская</name>
+    <district>Динской район</district>
+    <id>75072</id>
+  </point>
+  <point>
+    <name>Пластуновская</name>
+    <district>Динской район</district>
+    <id>6668</id>
+  </point>
+  <point>
+    <name>Старомышастовская</name>
+    <district>Динской район</district>
+    <id>3092</id>
+  </point>
+  <point>
+    <name>Агроном</name>
+    <district>Динской район</district>
+    <id>74851</id>
+  </point>
+  <point>
+    <name>Вишняки</name>
+    <district>Динской район</district>
+    <id>65280</id>
+  </point>
+  <point>
+    <name>Воронцовская</name>
+    <district>Динской район</district>
+    <id>75086</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Динской район</district>
+    <id>74822</id>
+  </point>
+  <point>
+    <name>Горлачивка</name>
+    <district>Динской район</district>
+    <id>65380</id>
+  </point>
+  <point>
+    <name>Дальний</name>
+    <district>Динской район</district>
+    <id>75047</id>
+  </point>
+  <point>
+    <name>Зарождение</name>
+    <district>Динской район</district>
+    <id>74850</id>
+  </point>
+  <point>
+    <name>Карла Маркса</name>
+    <district>Динской район</district>
+    <id>74843</id>
+  </point>
+  <point>
+    <name>Кочетинский</name>
+    <district>Динской район</district>
+    <id>65275</id>
+  </point>
+  <point>
+    <name>Красносельское</name>
+    <district>Динской район</district>
+    <id>74837</id>
+  </point>
+  <point>
+    <name>Найдорф</name>
+    <district>Динской район</district>
+    <id>75073</id>
+  </point>
+  <point>
+    <name>Новотитаровская</name>
+    <district>Динской район</district>
+    <id>6044</id>
+  </point>
+  <point>
+    <name>Новый</name>
+    <district>Динской район</district>
+    <id>74831</id>
+  </point>
+  <point>
+    <name>Осечки</name>
+    <district>Динской район</district>
+    <id>65370</id>
+  </point>
+  <point>
+    <name>Первореченское</name>
+    <district>Динской район</district>
+    <id>74849</id>
+  </point>
+  <point>
+    <name>Примаки</name>
+    <district>Динской район</district>
+    <id>65371</id>
+  </point>
+  <point>
+    <name>Украинский</name>
+    <district>Динской район</district>
+    <id>74838</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Динской район</district>
+    <id>74854</id>
+  </point>
+  <point>
+    <name>Янтарный</name>
+    <district>Динской район</district>
+    <id>74859</id>
+  </point>
+  <point>
+    <name>Александровка</name>
+    <district>Ейский район</district>
+    <id>74547</id>
+  </point>
+  <point>
+    <name>Большевик</name>
+    <district>Ейский район</district>
+    <id>74558</id>
+  </point>
+  <point>
+    <name>Братский</name>
+    <district>Ейский район</district>
+    <id>74552</id>
+  </point>
+  <point>
+    <name>Воронцовка</name>
+    <district>Ейский район</district>
+    <id>74568</id>
+  </point>
+  <point>
+    <name>Дальний</name>
+    <district>Ейский район</district>
+    <id>74567</id>
+  </point>
+  <point>
+    <name>Должанская</name>
+    <district>Ейский район</district>
+    <id>2909</id>
+  </point>
+  <point>
+    <name>Заводской</name>
+    <district>Ейский район</district>
+    <id>74543</id>
+  </point>
+  <point>
+    <name>Заря</name>
+    <district>Ейский район</district>
+    <id>74562</id>
+  </point>
+  <point>
+    <name>Зеленая Роща</name>
+    <district>Ейский район</district>
+    <id>65387</id>
+  </point>
+  <point>
+    <name>Камышеватская</name>
+    <district>Ейский район</district>
+    <id>3751</id>
+  </point>
+  <point>
+    <name>Комсомолец</name>
+    <district>Ейский район</district>
+    <id>74557</id>
+  </point>
+  <point>
+    <name>Копанская</name>
+    <district>Ейский район</district>
+    <id>4256</id>
+  </point>
+  <point>
+    <name>Красноармейское</name>
+    <district>Ейский район</district>
+    <id>74564</id>
+  </point>
+  <point>
+    <name>Кухаривка</name>
+    <district>Ейский район</district>
+    <id>74566</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Ейский район</district>
+    <id>65404</id>
+  </point>
+  <point>
+    <name>Моревка</name>
+    <district>Ейский район</district>
+    <id>74569</id>
+  </point>
+  <point>
+    <name>Новатор</name>
+    <district>Ейский район</district>
+    <id>74563</id>
+  </point>
+  <point>
+    <name>Новодеревянковский</name>
+    <district>Ейский район</district>
+    <id>74542</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Ейский район</district>
+    <id>3127</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Ейский район</district>
+    <id>65388</id>
+  </point>
+  <point>
+    <name>Приазовка</name>
+    <district>Ейский район</district>
+    <id>74565</id>
+  </point>
+  <point>
+    <name>Пролетарский</name>
+    <district>Ейский район</district>
+    <id>65392</id>
+  </point>
+  <point>
+    <name>Симоновка</name>
+    <district>Ейский район</district>
+    <id>74553</id>
+  </point>
+  <point>
+    <name>Советский</name>
+    <district>Ейский район</district>
+    <id>3150</id>
+  </point>
+  <point>
+    <name>Степной</name>
+    <district>Ейский район</district>
+    <id>74546</id>
+  </point>
+  <point>
+    <name>Шиловка</name>
+    <district>Ейский район</district>
+    <id>74559</id>
+  </point>
+  <point>
+    <name>Ясенская Переправа</name>
+    <district>Ейский район</district>
+    <id>13853</id>
+  </point>
+  <point>
+    <name>Ясенская</name>
+    <district>Ейский район</district>
+    <id>9472</id>
+  </point>
+  <point>
+    <name>Яснопольский</name>
+    <district>Ейский район</district>
+    <id>74545</id>
+  </point>
+  <point>
+    <name>Ейск</name>
+    <district>Ейск</district>
+    <id>3033</id>
+  </point>
+  <point>
+    <name>Ближнеейский</name>
+    <district>Ейск</district>
+    <id>74937</id>
+  </point>
+  <point>
+    <name>Большелугский</name>
+    <district>Ейск</district>
+    <id>74556</id>
+  </point>
+  <point>
+    <name>Морской</name>
+    <district>Ейск</district>
+    <id>74938</id>
+  </point>
+  <point>
+    <name>Широчанка</name>
+    <district>Ейск</district>
+    <id>74548</id>
+  </point>
+  <point>
+    <name>Краснофлотский</name>
+    <district>Ейск</district>
+    <id>74555</id>
+  </point>
+  <point>
+    <name>Подбельский</name>
+    <district>Ейск</district>
+    <id>74554</id>
+  </point>
+  <point>
+    <name>Кавказская</name>
+    <district>Кавказский район</district>
+    <id>3621</id>
+  </point>
+  <point>
+    <name>Дмитриевская</name>
+    <district>Кавказский район</district>
+    <id>74427</id>
+  </point>
+  <point>
+    <name>Лосево</name>
+    <district>Кавказский район</district>
+    <id>74436</id>
+  </point>
+  <point>
+    <name>Мирской</name>
+    <district>Кавказский район</district>
+    <id>74463</id>
+  </point>
+  <point>
+    <name>Темижбекская</name>
+    <district>Кавказский район</district>
+    <id>74419</id>
+  </point>
+  <point>
+    <name>Внуковский</name>
+    <district>Кавказский район</district>
+    <id>74447</id>
+  </point>
+  <point>
+    <name>Возрождение</name>
+    <district>Кавказский район</district>
+    <id>74453</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Кавказский район</district>
+    <id>74448</id>
+  </point>
+  <point>
+    <name>Десятихатка</name>
+    <district>Кавказский район</district>
+    <id>74450</id>
+  </point>
+  <point>
+    <name>им. Максима Горького</name>
+    <district>Кавказский район</district>
+    <id>74428</id>
+  </point>
+  <point>
+    <name>Казанская</name>
+    <district>Кавказский район</district>
+    <id>74464</id>
+  </point>
+  <point>
+    <name>Казачий</name>
+    <district>Кавказский район</district>
+    <id>74437</id>
+  </point>
+  <point>
+    <name>Комсомольский</name>
+    <district>Кавказский район</district>
+    <id>74474</id>
+  </point>
+  <point>
+    <name>Красная Звезда</name>
+    <district>Кавказский район</district>
+    <id>74455</id>
+  </point>
+  <point>
+    <name>Красноармейский</name>
+    <district>Кавказский район</district>
+    <id>74468</id>
+  </point>
+  <point>
+    <name>Озерный</name>
+    <district>Кавказский район</district>
+    <id>74429</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Кавказский район</district>
+    <id>65419</id>
+  </point>
+  <point>
+    <name>Полтавский</name>
+    <district>Кавказский район</district>
+    <id>74456</id>
+  </point>
+  <point>
+    <name>Прибрежный</name>
+    <district>Кавказский район</district>
+    <id>74446</id>
+  </point>
+  <point>
+    <name>Привольный</name>
+    <district>Кавказский район</district>
+    <id>74454</id>
+  </point>
+  <point>
+    <name>Пролетарский (п.)</name>
+    <district>Кавказский район</district>
+    <id>65412</id>
+  </point>
+  <point>
+    <name>Пролетарский (х.)</name>
+    <district>Кавказский район</district>
+    <id>65414</id>
+  </point>
+  <point>
+    <name>Расцвет</name>
+    <district>Кавказский район</district>
+    <id>74478</id>
+  </point>
+  <point>
+    <name>Рогачев</name>
+    <district>Кавказский район</district>
+    <id>74449</id>
+  </point>
+  <point>
+    <name>Розы Люксембург</name>
+    <district>Кавказский район</district>
+    <id>74473</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Кавказский район</district>
+    <id>65426</id>
+  </point>
+  <point>
+    <name>Степной</name>
+    <district>Кавказский район</district>
+    <id>74445</id>
+  </point>
+  <point>
+    <name>Черномуровский</name>
+    <district>Кавказский район</district>
+    <id>74418</id>
+  </point>
+  <point>
+    <name>Калининская</name>
+    <district>Калининский район</district>
+    <id>3695</id>
+  </point>
+  <point>
+    <name>Гривенская</name>
+    <district>Калининский район</district>
+    <id>2704</id>
+  </point>
+  <point>
+    <name>Гришковское</name>
+    <district>Калининский район</district>
+    <id>75034</id>
+  </point>
+  <point>
+    <name>Новониколаевская</name>
+    <district>Калининский район</district>
+    <id>75006</id>
+  </point>
+  <point>
+    <name>Старовеличковская</name>
+    <district>Калининский район</district>
+    <id>13837</id>
+  </point>
+  <point>
+    <name>Ангелинский</name>
+    <district>Калининский район</district>
+    <id>75007</id>
+  </point>
+  <point>
+    <name>Андреевская</name>
+    <district>Калининский район</district>
+    <id>75092</id>
+  </point>
+  <point>
+    <name>Бойкопонура</name>
+    <district>Калининский район</district>
+    <id>75049</id>
+  </point>
+  <point>
+    <name>Греки</name>
+    <district>Калининский район</district>
+    <id>75023</id>
+  </point>
+  <point>
+    <name>Гречаная Балка</name>
+    <district>Калининский район</district>
+    <id>75029</id>
+  </point>
+  <point>
+    <name>Джумайловка</name>
+    <district>Калининский район</district>
+    <id>75032</id>
+  </point>
+  <point>
+    <name>Долиновское</name>
+    <district>Калининский район</district>
+    <id>75048</id>
+  </point>
+  <point>
+    <name>Журавлевка</name>
+    <district>Калининский район</district>
+    <id>65442</id>
+  </point>
+  <point>
+    <name>Зареченское</name>
+    <district>Калининский район</district>
+    <id>75031</id>
+  </point>
+  <point>
+    <name>Лебеди</name>
+    <district>Калининский район</district>
+    <id>13937</id>
+  </point>
+  <point>
+    <name>Малаи</name>
+    <district>Калининский район</district>
+    <id>75018</id>
+  </point>
+  <point>
+    <name>Масенковский</name>
+    <district>Калининский район</district>
+    <id>65443</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Калининский район</district>
+    <id>65445</id>
+  </point>
+  <point>
+    <name>Могукоровка</name>
+    <district>Калининский район</district>
+    <id>75013</id>
+  </point>
+  <point>
+    <name>Пригибский</name>
+    <district>Калининский район</district>
+    <id>74996</id>
+  </point>
+  <point>
+    <name>Рашпыли</name>
+    <district>Калининский район</district>
+    <id>65441</id>
+  </point>
+  <point>
+    <name>Редант</name>
+    <district>Калининский район</district>
+    <id>75022</id>
+  </point>
+  <point>
+    <name>Рогачевский</name>
+    <district>Калининский район</district>
+    <id>75030</id>
+  </point>
+  <point>
+    <name>Северный</name>
+    <district>Калининский район</district>
+    <id>65432</id>
+  </point>
+  <point>
+    <name>Степной</name>
+    <district>Калининский район</district>
+    <id>75019</id>
+  </point>
+  <point>
+    <name>Каневская</name>
+    <district>Каневской район</district>
+    <id>3774</id>
+  </point>
+  <point>
+    <name>Новодеревянковская</name>
+    <district>Каневской район</district>
+    <id>5950</id>
+  </point>
+  <point>
+    <name>Новоминская</name>
+    <district>Каневской район</district>
+    <id>5996</id>
+  </point>
+  <point>
+    <name>Привольная</name>
+    <district>Каневской район</district>
+    <id>6882</id>
+  </point>
+  <point>
+    <name>Челбасская</name>
+    <district>Каневской район</district>
+    <id>8951</id>
+  </point>
+  <point>
+    <name>Албаши</name>
+    <district>Каневской район</district>
+    <id>74536</id>
+  </point>
+  <point>
+    <name>Александровская</name>
+    <district>Каневской район</district>
+    <id>92498</id>
+  </point>
+  <point>
+    <name>Большие Челбасы</name>
+    <district>Каневской район</district>
+    <id>92489</id>
+  </point>
+  <point>
+    <name>Борец Труда</name>
+    <district>Каневской район</district>
+    <id>74528</id>
+  </point>
+  <point>
+    <name>Бурсаки</name>
+    <district>Каневской район</district>
+    <id>92499</id>
+  </point>
+  <point>
+    <name>Веселый</name>
+    <district>Каневской район</district>
+    <id>65452</id>
+  </point>
+  <point>
+    <name>Вольный</name>
+    <district>Каневской район</district>
+    <id>65451</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Каневской район</district>
+    <id>74524</id>
+  </point>
+  <point>
+    <name>Добровольный</name>
+    <district>Каневской район</district>
+    <id>74535</id>
+  </point>
+  <point>
+    <name>Калинино</name>
+    <district>Каневской район</district>
+    <id>74759</id>
+  </point>
+  <point>
+    <name>Красногвардеец</name>
+    <district>Каневской район</district>
+    <id>92486</id>
+  </point>
+  <point>
+    <name>Красный Очаг</name>
+    <district>Каневской район</district>
+    <id>74527</id>
+  </point>
+  <point>
+    <name>Кубанская Степь</name>
+    <district>Каневской район</district>
+    <id>74760</id>
+  </point>
+  <point>
+    <name>Ленинский</name>
+    <district>Каневской район</district>
+    <id>74533</id>
+  </point>
+  <point>
+    <name>Мигуты</name>
+    <district>Каневской район</district>
+    <id>92492</id>
+  </point>
+  <point>
+    <name>Орджоникидзе</name>
+    <district>Каневской район</district>
+    <id>74530</id>
+  </point>
+  <point>
+    <name>Партизанский</name>
+    <district>Каневской район</district>
+    <id>74767</id>
+  </point>
+  <point>
+    <name>Придорожная</name>
+    <district>Каневской район</district>
+    <id>74976</id>
+  </point>
+  <point>
+    <name>Приютный</name>
+    <district>Каневской район</district>
+    <id>74534</id>
+  </point>
+  <point>
+    <name>Раздольный</name>
+    <district>Каневской район</district>
+    <id>74537</id>
+  </point>
+  <point>
+    <name>Раков</name>
+    <district>Каневской район</district>
+    <id>74975</id>
+  </point>
+  <point>
+    <name>Сладкий Лиман</name>
+    <district>Каневской район</district>
+    <id>74531</id>
+  </point>
+  <point>
+    <name>Средние Челбасы</name>
+    <district>Каневской район</district>
+    <id>92488</id>
+  </point>
+  <point>
+    <name>Стародеревянковская</name>
+    <district>Каневской район</district>
+    <id>7751</id>
+  </point>
+  <point>
+    <name>Степной</name>
+    <district>Каневской район</district>
+    <id>74830</id>
+  </point>
+  <point>
+    <name>Сухие Челбасы</name>
+    <district>Каневской район</district>
+    <id>74758</id>
+  </point>
+  <point>
+    <name>Трудовая Армения</name>
+    <district>Каневской район</district>
+    <id>74529</id>
+  </point>
+  <point>
+    <name>Труд</name>
+    <district>Каневской район</district>
+    <id>74539</id>
+  </point>
+  <point>
+    <name>Ударный</name>
+    <district>Каневской район</district>
+    <id>92501</id>
+  </point>
+  <point>
+    <name>Украинка</name>
+    <district>Каневской район</district>
+    <id>92491</id>
+  </point>
+  <point>
+    <name>Чапаев</name>
+    <district>Каневской район</district>
+    <id>74522</id>
+  </point>
+  <point>
+    <name>Черкасский</name>
+    <district>Каневской район</district>
+    <id>74523</id>
+  </point>
+  <point>
+    <name>Шевченко</name>
+    <district>Каневской район</district>
+    <id>92490</id>
+  </point>
+  <point>
+    <name>Кореновск</name>
+    <district>Кореновский район</district>
+    <id>4272</id>
+  </point>
+  <point>
+    <name>Дядьковская</name>
+    <district>Кореновский район</district>
+    <id>74809</id>
+  </point>
+  <point>
+    <name>Журавская</name>
+    <district>Кореновский район</district>
+    <id>74805</id>
+  </point>
+  <point>
+    <name>Новоберезанский</name>
+    <district>Кореновский район</district>
+    <id>13521</id>
+  </point>
+  <point>
+    <name>Платнировская</name>
+    <district>Кореновский район</district>
+    <id>6669</id>
+  </point>
+  <point>
+    <name>Анапский</name>
+    <district>Кореновский район</district>
+    <id>13520</id>
+  </point>
+  <point>
+    <name>Бабиче-Кореновский</name>
+    <district>Кореновский район</district>
+    <id>74810</id>
+  </point>
+  <point>
+    <name>Братковское</name>
+    <district>Кореновский район</district>
+    <id>74804</id>
+  </point>
+  <point>
+    <name>Братский</name>
+    <district>Кореновский район</district>
+    <id>74873</id>
+  </point>
+  <point>
+    <name>Бураковский</name>
+    <district>Кореновский район</district>
+    <id>74819</id>
+  </point>
+  <point>
+    <name>Верхний</name>
+    <district>Кореновский район</district>
+    <id>74825</id>
+  </point>
+  <point>
+    <name>Журавский</name>
+    <district>Кореновский район</district>
+    <id>74806</id>
+  </point>
+  <point>
+    <name>Казаче-Малеваный</name>
+    <district>Кореновский район</district>
+    <id>74812</id>
+  </point>
+  <point>
+    <name>Казачий</name>
+    <district>Кореновский район</district>
+    <id>74823</id>
+  </point>
+  <point>
+    <name>Комсомольский</name>
+    <district>Кореновский район</district>
+    <id>74803</id>
+  </point>
+  <point>
+    <name>Левченко</name>
+    <district>Кореновский район</district>
+    <id>65456</id>
+  </point>
+  <point>
+    <name>Малеваный</name>
+    <district>Кореновский район</district>
+    <id>74811</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Кореновский район</district>
+    <id>74816</id>
+  </point>
+  <point>
+    <name>Нижний</name>
+    <district>Кореновский район</district>
+    <id>74363</id>
+  </point>
+  <point>
+    <name>Песчаный</name>
+    <district>Кореновский район</district>
+    <id>74792</id>
+  </point>
+  <point>
+    <name>Привольный</name>
+    <district>Кореновский район</district>
+    <id>74793</id>
+  </point>
+  <point>
+    <name>Пролетарский (п.)</name>
+    <district>Кореновский район</district>
+    <id>65454</id>
+  </point>
+  <point>
+    <name>Пролетарский (х.)</name>
+    <district>Кореновский район</district>
+    <id>74817</id>
+  </point>
+  <point>
+    <name>Раздольная</name>
+    <district>Кореновский район</district>
+    <id>74826</id>
+  </point>
+  <point>
+    <name>Раздольный</name>
+    <district>Кореновский район</district>
+    <id>65453</id>
+  </point>
+  <point>
+    <name>Свободный</name>
+    <district>Кореновский район</district>
+    <id>74815</id>
+  </point>
+  <point>
+    <name>Северный</name>
+    <district>Кореновский район</district>
+    <id>74807</id>
+  </point>
+  <point>
+    <name>Сергиевская</name>
+    <district>Кореновский район</district>
+    <id>74821</id>
+  </point>
+  <point>
+    <name>Тыщенко</name>
+    <district>Кореновский район</district>
+    <id>65469</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Кореновский район</district>
+    <id>74824</id>
+  </point>
+  <point>
+    <name>Водный</name>
+    <district>Красноармейский район</district>
+    <id>75134</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Красноармейский район</district>
+    <id>75015</id>
+  </point>
+  <point>
+    <name>Дружный</name>
+    <district>Красноармейский район</district>
+    <id>65471</id>
+  </point>
+  <point>
+    <name>Заря</name>
+    <district>Красноармейский район</district>
+    <id>75143</id>
+  </point>
+  <point>
+    <name>Зеленский</name>
+    <district>Красноармейский район</district>
+    <id>75144</id>
+  </point>
+  <point>
+    <name>Ивановская</name>
+    <district>Красноармейский район</district>
+    <id>3418</id>
+  </point>
+  <point>
+    <name>Казачий Ерик</name>
+    <district>Красноармейский район</district>
+    <id>65480</id>
+  </point>
+  <point>
+    <name>Колос</name>
+    <district>Красноармейский район</district>
+    <id>75125</id>
+  </point>
+  <point>
+    <name>Коржевский</name>
+    <district>Красноармейский район</district>
+    <id>75163</id>
+  </point>
+  <point>
+    <name>Краснодарский</name>
+    <district>Красноармейский район</district>
+    <id>75135</id>
+  </point>
+  <point>
+    <name>Краснополянский</name>
+    <district>Красноармейский район</district>
+    <id>75131</id>
+  </point>
+  <point>
+    <name>Красный Лес</name>
+    <district>Красноармейский район</district>
+    <id>75117</id>
+  </point>
+  <point>
+    <name>Крижановский</name>
+    <district>Красноармейский район</district>
+    <id>75166</id>
+  </point>
+  <point>
+    <name>Крикуна</name>
+    <district>Красноармейский район</district>
+    <id>75145</id>
+  </point>
+  <point>
+    <name>Крупской</name>
+    <district>Красноармейский район</district>
+    <id>75008</id>
+  </point>
+  <point>
+    <name>Кулика</name>
+    <district>Красноармейский район</district>
+    <id>75146</id>
+  </point>
+  <point>
+    <name>Марьянская</name>
+    <district>Красноармейский район</district>
+    <id>5247</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Красноармейский район</district>
+    <id>75133</id>
+  </point>
+  <point>
+    <name>Молдаванский</name>
+    <district>Красноармейский район</district>
+    <id>75128</id>
+  </point>
+  <point>
+    <name>Новомышастовская</name>
+    <district>Красноармейский район</district>
+    <id>6003</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Красноармейский район</district>
+    <id>75142</id>
+  </point>
+  <point>
+    <name>Отрубные</name>
+    <district>Красноармейский район</district>
+    <id>75009</id>
+  </point>
+  <point>
+    <name>Первомайский (п.)</name>
+    <district>Красноармейский район</district>
+    <id>75129</id>
+  </point>
+  <point>
+    <name>Первомайский (х.)</name>
+    <district>Красноармейский район</district>
+    <id>65495</id>
+  </point>
+  <point>
+    <name>Подлесный</name>
+    <district>Красноармейский район</district>
+    <id>75130</id>
+  </point>
+  <point>
+    <name>Полтавская</name>
+    <district>Красноармейский район</district>
+    <id>4408</id>
+  </point>
+  <point>
+    <name>Полтавский</name>
+    <district>Красноармейский район</district>
+    <id>75148</id>
+  </point>
+  <point>
+    <name>Прикубанский</name>
+    <district>Красноармейский район</district>
+    <id>75115</id>
+  </point>
+  <point>
+    <name>Протичка</name>
+    <district>Красноармейский район</district>
+    <id>6633</id>
+  </point>
+  <point>
+    <name>Протоцкие</name>
+    <district>Красноармейский район</district>
+    <id>74999</id>
+  </point>
+  <point>
+    <name>Рисоопытный</name>
+    <district>Красноармейский район</district>
+    <id>75132</id>
+  </point>
+  <point>
+    <name>Староджерелиевская</name>
+    <district>Красноармейский район</district>
+    <id>13593</id>
+  </point>
+  <point>
+    <name>Старонижестеблиевская</name>
+    <district>Красноармейский район</district>
+    <id>75014</id>
+  </point>
+  <point>
+    <name>Сурово</name>
+    <district>Красноармейский район</district>
+    <id>75140</id>
+  </point>
+  <point>
+    <name>Телегин</name>
+    <district>Красноармейский район</district>
+    <id>75147</id>
+  </point>
+  <point>
+    <name>Тиховский</name>
+    <district>Красноармейский район</district>
+    <id>75141</id>
+  </point>
+  <point>
+    <name>Трудобеликовский</name>
+    <district>Красноармейский район</district>
+    <id>3152</id>
+  </point>
+  <point>
+    <name>Турковский</name>
+    <district>Красноармейский район</district>
+    <id>75164</id>
+  </point>
+  <point>
+    <name>Чебурголь</name>
+    <district>Красноармейский район</district>
+    <id>8938</id>
+  </point>
+  <point>
+    <name>Чигрина</name>
+    <district>Красноармейский район</district>
+    <id>75165</id>
+  </point>
+  <point>
+    <name>Элитный</name>
+    <district>Красноармейский район</district>
+    <id>65472</id>
+  </point>
+  <point>
+    <name>Краснодар</name>
+    <district>Краснодар</district>
+    <id>4429</id>
+  </point>
+  <point>
+    <name>Елизаветинская</name>
+    <district>Краснодар</district>
+    <id>75083</id>
+  </point>
+  <point>
+    <name>Краснодар (аэропорт)</name>
+    <district>Краснодар</district>
+    <id>507953</id>
+  </point>
+  <point>
+    <name>Краснодар / Круглик</name>
+    <district>Краснодар</district>
+    <id>152535</id>
+  </point>
+  <point>
+    <name>Краснодарский</name>
+    <district>Краснодар</district>
+    <id>74852</id>
+  </point>
+  <point>
+    <name>Белозерный</name>
+    <district>Краснодар</district>
+    <id>75090</id>
+  </point>
+  <point>
+    <name>Березовый</name>
+    <district>Краснодар</district>
+    <id>75065</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Краснодар</district>
+    <id>75085</id>
+  </point>
+  <point>
+    <name>Дорожный</name>
+    <district>Краснодар</district>
+    <id>74860</id>
+  </point>
+  <point>
+    <name>Дружелюбный</name>
+    <district>Краснодар</district>
+    <id>74857</id>
+  </point>
+  <point>
+    <name>Зеленопольский</name>
+    <district>Краснодар</district>
+    <id>74858</id>
+  </point>
+  <point>
+    <name>Знаменский</name>
+    <district>Краснодар</district>
+    <id>67632</id>
+  </point>
+  <point>
+    <name>Зональный</name>
+    <district>Краснодар</district>
+    <id>74925</id>
+  </point>
+  <point>
+    <name>Индустриальный</name>
+    <district>Краснодар</district>
+    <id>74856</id>
+  </point>
+  <point>
+    <name>Калинино</name>
+    <district>Краснодар</district>
+    <id>3691</id>
+  </point>
+  <point>
+    <name>Колосистый</name>
+    <district>Краснодар</district>
+    <id>75069</id>
+  </point>
+  <point>
+    <name>Копанской</name>
+    <district>Краснодар</district>
+    <id>75084</id>
+  </point>
+  <point>
+    <name>Краснолит</name>
+    <district>Краснодар</district>
+    <id>75070</id>
+  </point>
+  <point>
+    <name>Лазурный</name>
+    <district>Краснодар</district>
+    <id>74853</id>
+  </point>
+  <point>
+    <name>Ленина</name>
+    <district>Краснодар</district>
+    <id>67626</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Краснодар</district>
+    <id>74844</id>
+  </point>
+  <point>
+    <name>Пашковский</name>
+    <district>Краснодар</district>
+    <id>6484</id>
+  </point>
+  <point>
+    <name>Плодородный</name>
+    <district>Краснодар</district>
+    <id>74863</id>
+  </point>
+  <point>
+    <name>Победитель</name>
+    <district>Краснодар</district>
+    <id>74926</id>
+  </point>
+  <point>
+    <name>Российский</name>
+    <district>Краснодар</district>
+    <id>74855</id>
+  </point>
+  <point>
+    <name>Старокорсунская</name>
+    <district>Краснодар</district>
+    <id>74864</id>
+  </point>
+  <point>
+    <name>Черников</name>
+    <district>Краснодар</district>
+    <id>75071</id>
+  </point>
+  <point>
+    <name>Кропоткин</name>
+    <district>Кропоткин</district>
+    <id>4555</id>
+  </point>
+  <point>
+    <name>Крыловская</name>
+    <district>Крыловский район</district>
+    <id>4572</id>
+  </point>
+  <point>
+    <name>Кугоейская</name>
+    <district>Крыловский район</district>
+    <id>74717</id>
+  </point>
+  <point>
+    <name>Новопашковская</name>
+    <district>Крыловский район</district>
+    <id>74682</id>
+  </point>
+  <point>
+    <name>Октябрьская</name>
+    <district>Крыловский район</district>
+    <id>151272</id>
+  </point>
+  <point>
+    <name>Шевченковское</name>
+    <district>Крыловский район</district>
+    <id>74695</id>
+  </point>
+  <point>
+    <name>Водораздельный</name>
+    <district>Крыловский район</district>
+    <id>74711</id>
+  </point>
+  <point>
+    <name>Грузское</name>
+    <district>Крыловский район</district>
+    <id>74689</id>
+  </point>
+  <point>
+    <name>Ея</name>
+    <district>Крыловский район</district>
+    <id>74691</id>
+  </point>
+  <point>
+    <name>Запрудный</name>
+    <district>Крыловский район</district>
+    <id>74683</id>
+  </point>
+  <point>
+    <name>Ириновка</name>
+    <district>Крыловский район</district>
+    <id>74708</id>
+  </point>
+  <point>
+    <name>Казачий</name>
+    <district>Крыловский район</district>
+    <id>74686</id>
+  </point>
+  <point>
+    <name>Калинин</name>
+    <district>Крыловский район</district>
+    <id>65497</id>
+  </point>
+  <point>
+    <name>Ковалевка</name>
+    <district>Крыловский район</district>
+    <id>74687</id>
+  </point>
+  <point>
+    <name>Красногоровка</name>
+    <district>Крыловский район</district>
+    <id>74709</id>
+  </point>
+  <point>
+    <name>Кугоейский</name>
+    <district>Крыловский район</district>
+    <id>74712</id>
+  </point>
+  <point>
+    <name>Лобова Балка</name>
+    <district>Крыловский район</district>
+    <id>74690</id>
+  </point>
+  <point>
+    <name>Новосергиевская</name>
+    <district>Крыловский район</district>
+    <id>3191</id>
+  </point>
+  <point>
+    <name>Обильный</name>
+    <district>Крыловский район</district>
+    <id>42556</id>
+  </point>
+  <point>
+    <name>Решетиловский</name>
+    <district>Крыловский район</district>
+    <id>74692</id>
+  </point>
+  <point>
+    <name>Роккель</name>
+    <district>Крыловский район</district>
+    <id>74710</id>
+  </point>
+  <point>
+    <name>Сборный</name>
+    <district>Крыловский район</district>
+    <id>141514</id>
+  </point>
+  <point>
+    <name>Сиротино</name>
+    <district>Крыловский район</district>
+    <id>74714</id>
+  </point>
+  <point>
+    <name>Тверской</name>
+    <district>Крыловский район</district>
+    <id>74694</id>
+  </point>
+  <point>
+    <name>Тимашевка</name>
+    <district>Крыловский район</district>
+    <id>65505</id>
+  </point>
+  <point>
+    <name>Крымск</name>
+    <district>Крымский район</district>
+    <id>4575</id>
+  </point>
+  <point>
+    <name>Варениковская</name>
+    <district>Крымский район</district>
+    <id>2000</id>
+  </point>
+  <point>
+    <name>Киевское</name>
+    <district>Крымский район</district>
+    <id>3967</id>
+  </point>
+  <point>
+    <name>Саукдере</name>
+    <district>Крымский район</district>
+    <id>74675</id>
+  </point>
+  <point>
+    <name>Троицкая</name>
+    <district>Крымский район</district>
+    <id>8265</id>
+  </point>
+  <point>
+    <name>Адагум</name>
+    <district>Крымский район</district>
+    <id>74630</id>
+  </point>
+  <point>
+    <name>Аккерменка</name>
+    <district>Крымский район</district>
+    <id>74621</id>
+  </point>
+  <point>
+    <name>Анапский</name>
+    <district>Крымский район</district>
+    <id>74641</id>
+  </point>
+  <point>
+    <name>Армянский</name>
+    <district>Крымский район</district>
+    <id>65561</id>
+  </point>
+  <point>
+    <name>Баранцовское</name>
+    <district>Крымский район</district>
+    <id>74624</id>
+  </point>
+  <point>
+    <name>Безводный</name>
+    <district>Крымский район</district>
+    <id>74648</id>
+  </point>
+  <point>
+    <name>Верхнеадагум</name>
+    <district>Крымский район</district>
+    <id>65547</id>
+  </point>
+  <point>
+    <name>Верхняя Ставрополька</name>
+    <district>Крымский район</district>
+    <id>75168</id>
+  </point>
+  <point>
+    <name>Веселый (Кеслеровский с.с.)</name>
+    <district>Крымский район</district>
+    <id>65523</id>
+  </point>
+  <point>
+    <name>Веселый (Мерчанский с.с.)</name>
+    <district>Крымский район</district>
+    <id>75154</id>
+  </point>
+  <point>
+    <name>Веселый (Южный с.с.)</name>
+    <district>Крымский район</district>
+    <id>65590</id>
+  </point>
+  <point>
+    <name>Виноградный</name>
+    <district>Крымский район</district>
+    <id>74672</id>
+  </point>
+  <point>
+    <name>Гапоновский</name>
+    <district>Крымский район</district>
+    <id>65554</id>
+  </point>
+  <point>
+    <name>Гвардейское</name>
+    <district>Крымский район</district>
+    <id>74663</id>
+  </point>
+  <point>
+    <name>Гладковская</name>
+    <district>Крымский район</district>
+    <id>74634</id>
+  </point>
+  <point>
+    <name>Горно-Веселый</name>
+    <district>Крымский район</district>
+    <id>74674</id>
+  </point>
+  <point>
+    <name>Даманка</name>
+    <district>Крымский район</district>
+    <id>74653</id>
+  </point>
+  <point>
+    <name>Долгождановский</name>
+    <district>Крымский район</district>
+    <id>74651</id>
+  </point>
+  <point>
+    <name>Евсеевский</name>
+    <district>Крымский район</district>
+    <id>75157</id>
+  </point>
+  <point>
+    <name>Западный</name>
+    <district>Крымский район</district>
+    <id>75177</id>
+  </point>
+  <point>
+    <name>Калиновка Вторая</name>
+    <district>Крымский район</district>
+    <id>65535</id>
+  </point>
+  <point>
+    <name>Калиновка Первая</name>
+    <district>Крымский район</district>
+    <id>65527</id>
+  </point>
+  <point>
+    <name>Карла Маркса</name>
+    <district>Крымский район</district>
+    <id>65536</id>
+  </point>
+  <point>
+    <name>Кеслерово</name>
+    <district>Крымский район</district>
+    <id>74646</id>
+  </point>
+  <point>
+    <name>Красная Батарея</name>
+    <district>Крымский район</district>
+    <id>74644</id>
+  </point>
+  <point>
+    <name>Красный (Молдаванский с.с.)</name>
+    <district>Крымский район</district>
+    <id>65571</id>
+  </point>
+  <point>
+    <name>Красный (Южный с.с.)</name>
+    <district>Крымский район</district>
+    <id>75172</id>
+  </point>
+  <point>
+    <name>Красный Октябрь</name>
+    <district>Крымский район</district>
+    <id>74638</id>
+  </point>
+  <point>
+    <name>Кубанская Колонка</name>
+    <district>Крымский район</district>
+    <id>74625</id>
+  </point>
+  <point>
+    <name>Кувичинский</name>
+    <district>Крымский район</district>
+    <id>75158</id>
+  </point>
+  <point>
+    <name>Ленинский (Киевский с.с.)</name>
+    <district>Крымский район</district>
+    <id>74662</id>
+  </point>
+  <point>
+    <name>Ленинский (Молдаванский с.с.)</name>
+    <district>Крымский район</district>
+    <id>74268</id>
+  </point>
+  <point>
+    <name>Львовский</name>
+    <district>Крымский район</district>
+    <id>74661</id>
+  </point>
+  <point>
+    <name>Майоровский</name>
+    <district>Крымский район</district>
+    <id>75152</id>
+  </point>
+  <point>
+    <name>Меккерстук</name>
+    <district>Крымский район</district>
+    <id>74657</id>
+  </point>
+  <point>
+    <name>Мерчанское</name>
+    <district>Крымский район</district>
+    <id>75153</id>
+  </point>
+  <point>
+    <name>Милютинский</name>
+    <district>Крымский район</district>
+    <id>74649</id>
+  </point>
+  <point>
+    <name>Мова</name>
+    <district>Крымский район</district>
+    <id>75155</id>
+  </point>
+  <point>
+    <name>Могукоровский</name>
+    <district>Крымский район</district>
+    <id>75160</id>
+  </point>
+  <point>
+    <name>Молдаванское</name>
+    <district>Крымский район</district>
+    <id>74659</id>
+  </point>
+  <point>
+    <name>Неберджаевская</name>
+    <district>Крымский район</district>
+    <id>74676</id>
+  </point>
+  <point>
+    <name>Некрасовский</name>
+    <district>Крымский район</district>
+    <id>74668</id>
+  </point>
+  <point>
+    <name>Непиль</name>
+    <district>Крымский район</district>
+    <id>74640</id>
+  </point>
+  <point>
+    <name>Нефтепромысел</name>
+    <district>Крымский район</district>
+    <id>74645</id>
+  </point>
+  <point>
+    <name>Нефтепромысловый</name>
+    <district>Крымский район</district>
+    <id>65509</id>
+  </point>
+  <point>
+    <name>Нижнебаканская</name>
+    <district>Крымский район</district>
+    <id>5762</id>
+  </point>
+  <point>
+    <name>Нижняя Ставрополька</name>
+    <district>Крымский район</district>
+    <id>75169</id>
+  </point>
+  <point>
+    <name>Никитинский</name>
+    <district>Крымский район</district>
+    <id>74660</id>
+  </point>
+  <point>
+    <name>Новокалиновка</name>
+    <district>Крымский район</district>
+    <id>74633</id>
+  </point>
+  <point>
+    <name>Новокрымский</name>
+    <district>Крымский район</district>
+    <id>74654</id>
+  </point>
+  <point>
+    <name>Новомихайловский</name>
+    <district>Крымский район</district>
+    <id>74632</id>
+  </point>
+  <point>
+    <name>Новопокровское</name>
+    <district>Крымский район</district>
+    <id>74622</id>
+  </point>
+  <point>
+    <name>Новотроицкий</name>
+    <district>Крымский район</district>
+    <id>75175</id>
+  </point>
+  <point>
+    <name>Новоукраинский</name>
+    <district>Крымский район</district>
+    <id>75171</id>
+  </point>
+  <point>
+    <name>Новый</name>
+    <district>Крымский район</district>
+    <id>65544</id>
+  </point>
+  <point>
+    <name>Ольховский</name>
+    <district>Крымский район</district>
+    <id>74678</id>
+  </point>
+  <point>
+    <name>Орджоникидзе</name>
+    <district>Крымский район</district>
+    <id>74637</id>
+  </point>
+  <point>
+    <name>Павловский</name>
+    <district>Крымский район</district>
+    <id>74642</id>
+  </point>
+  <point>
+    <name>Первенец</name>
+    <district>Крымский район</district>
+    <id>74658</id>
+  </point>
+  <point>
+    <name>Плавненский</name>
+    <district>Крымский район</district>
+    <id>74670</id>
+  </point>
+  <point>
+    <name>Плавни</name>
+    <district>Крымский район</district>
+    <id>75176</id>
+  </point>
+  <point>
+    <name>Подгорный</name>
+    <district>Крымский район</district>
+    <id>65589</id>
+  </point>
+  <point>
+    <name>Пролетарский</name>
+    <district>Крымский район</district>
+    <id>65517</id>
+  </point>
+  <point>
+    <name>Прохладный</name>
+    <district>Крымский район</district>
+    <id>74650</id>
+  </point>
+  <point>
+    <name>Русское</name>
+    <district>Крымский район</district>
+    <id>74681</id>
+  </point>
+  <point>
+    <name>Садовый (Кеслеровский с.с.)</name>
+    <district>Крымский район</district>
+    <id>65519</id>
+  </point>
+  <point>
+    <name>Садовый (Киевский с.с.)</name>
+    <district>Крымский район</district>
+    <id>65526</id>
+  </point>
+  <point>
+    <name>Свет</name>
+    <district>Крымский район</district>
+    <id>74623</id>
+  </point>
+  <point>
+    <name>Свобода</name>
+    <district>Крымский район</district>
+    <id>74673</id>
+  </point>
+  <point>
+    <name>Семенцовка</name>
+    <district>Крымский район</district>
+    <id>75167</id>
+  </point>
+  <point>
+    <name>Тетерятник</name>
+    <district>Крымский район</district>
+    <id>74664</id>
+  </point>
+  <point>
+    <name>Трудовой (Киевский с.с.)</name>
+    <district>Крымский район</district>
+    <id>65539</id>
+  </point>
+  <point>
+    <name>Трудовой (Молдаванский с.с.)</name>
+    <district>Крымский район</district>
+    <id>74652</id>
+  </point>
+  <point>
+    <name>Ударное</name>
+    <district>Крымский район</district>
+    <id>65538</id>
+  </point>
+  <point>
+    <name>Фадеево</name>
+    <district>Крымский район</district>
+    <id>74615</id>
+  </point>
+  <point>
+    <name>Черноморский</name>
+    <district>Крымский район</district>
+    <id>75173</id>
+  </point>
+  <point>
+    <name>Шептальский</name>
+    <district>Крымский район</district>
+    <id>75170</id>
+  </point>
+  <point>
+    <name>Шибик</name>
+    <district>Крымский район</district>
+    <id>65568</id>
+  </point>
+  <point>
+    <name>Школьный</name>
+    <district>Крымский район</district>
+    <id>74618</id>
+  </point>
+  <point>
+    <name>Экономическое</name>
+    <district>Крымский район</district>
+    <id>74671</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Крымский район</district>
+    <id>75174</id>
+  </point>
+  <point>
+    <name>Ястребовский</name>
+    <district>Крымский район</district>
+    <id>75151</id>
+  </point>
+  <point>
+    <name>Курганинск</name>
+    <district>Курганинский район</district>
+    <id>4712</id>
+  </point>
+  <point>
+    <name>Михайловская</name>
+    <district>Курганинский район</district>
+    <id>74228</id>
+  </point>
+  <point>
+    <name>Петропавловская</name>
+    <district>Курганинский район</district>
+    <id>74207</id>
+  </point>
+  <point>
+    <name>Родниковская</name>
+    <district>Курганинский район</district>
+    <id>74233</id>
+  </point>
+  <point>
+    <name>Темиргоевская</name>
+    <district>Курганинский район</district>
+    <id>8094</id>
+  </point>
+  <point>
+    <name>Андрее-Дмитриевский</name>
+    <district>Курганинский район</district>
+    <id>74264</id>
+  </point>
+  <point>
+    <name>Веселый</name>
+    <district>Курганинский район</district>
+    <id>65610</id>
+  </point>
+  <point>
+    <name>Воздвиженская</name>
+    <district>Курганинский район</district>
+    <id>74187</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Курганинский район</district>
+    <id>74247</id>
+  </point>
+  <point>
+    <name>Высокий</name>
+    <district>Курганинский район</district>
+    <id>74280</id>
+  </point>
+  <point>
+    <name>Комсомольский</name>
+    <district>Курганинский район</district>
+    <id>74232</id>
+  </point>
+  <point>
+    <name>Константиновская</name>
+    <district>Курганинский район</district>
+    <id>74239</id>
+  </point>
+  <point>
+    <name>Кочергин</name>
+    <district>Курганинский район</district>
+    <id>74254</id>
+  </point>
+  <point>
+    <name>Красное Знамя</name>
+    <district>Курганинский район</district>
+    <id>74217</id>
+  </point>
+  <point>
+    <name>Красное Поле</name>
+    <district>Курганинский район</district>
+    <id>74238</id>
+  </point>
+  <point>
+    <name>Красный</name>
+    <district>Курганинский район</district>
+    <id>65594</id>
+  </point>
+  <point>
+    <name>Лучезарный</name>
+    <district>Курганинский район</district>
+    <id>74214</id>
+  </point>
+  <point>
+    <name>Мира</name>
+    <district>Курганинский район</district>
+    <id>74236</id>
+  </point>
+  <point>
+    <name>Михайлов</name>
+    <district>Курганинский район</district>
+    <id>65591</id>
+  </point>
+  <point>
+    <name>Новоалексеевская</name>
+    <district>Курганинский район</district>
+    <id>74267</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Курганинский район</district>
+    <id>3193</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Курганинский район</district>
+    <id>65626</id>
+  </point>
+  <point>
+    <name>Светлая Заря</name>
+    <district>Курганинский район</district>
+    <id>74237</id>
+  </point>
+  <point>
+    <name>Свобода</name>
+    <district>Курганинский район</district>
+    <id>74171</id>
+  </point>
+  <point>
+    <name>Северный (Октябрьский с.с.)</name>
+    <district>Курганинский район</district>
+    <id>65612</id>
+  </point>
+  <point>
+    <name>Северный (Петропавловский с.с.)</name>
+    <district>Курганинский район</district>
+    <id>65622</id>
+  </point>
+  <point>
+    <name>Сеятель</name>
+    <district>Курганинский район</district>
+    <id>74218</id>
+  </point>
+  <point>
+    <name>Степной</name>
+    <district>Курганинский район</district>
+    <id>74255</id>
+  </point>
+  <point>
+    <name>Сухой Кут</name>
+    <district>Курганинский район</district>
+    <id>74191</id>
+  </point>
+  <point>
+    <name>Урмия</name>
+    <district>Курганинский район</district>
+    <id>74266</id>
+  </point>
+  <point>
+    <name>Щебенозаводской</name>
+    <district>Курганинский район</district>
+    <id>74265</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Курганинский район</district>
+    <id>74213</id>
+  </point>
+  <point>
+    <name>Кущевская</name>
+    <district>Кущевский район</district>
+    <id>4762</id>
+  </point>
+  <point>
+    <name>Кисляковская</name>
+    <district>Кущевский район</district>
+    <id>4038</id>
+  </point>
+  <point>
+    <name>Красное (с.)</name>
+    <district>Кущевский район</district>
+    <id>4435</id>
+  </point>
+  <point>
+    <name>Средние Чубурки</name>
+    <district>Кущевский район</district>
+    <id>74947</id>
+  </point>
+  <point>
+    <name>Шкуринская</name>
+    <district>Кущевский район</district>
+    <id>9252</id>
+  </point>
+  <point>
+    <name>Александровка</name>
+    <district>Кущевский район</district>
+    <id>65773</id>
+  </point>
+  <point>
+    <name>Алексеевское</name>
+    <district>Кущевский район</district>
+    <id>74962</id>
+  </point>
+  <point>
+    <name>Братское</name>
+    <district>Кущевский район</district>
+    <id>65660</id>
+  </point>
+  <point>
+    <name>Водяная Балка (Красносельский с.с.)</name>
+    <district>Кущевский район</district>
+    <id>65695</id>
+  </point>
+  <point>
+    <name>Водяная Балка (Раздольненский с.с.)</name>
+    <district>Кущевский район</district>
+    <id>74956</id>
+  </point>
+  <point>
+    <name>Водянский</name>
+    <district>Кущевский район</district>
+    <id>74954</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Кущевский район</district>
+    <id>74922</id>
+  </point>
+  <point>
+    <name>Глебовка</name>
+    <district>Кущевский район</district>
+    <id>3301</id>
+  </point>
+  <point>
+    <name>Гудко-Лиманский</name>
+    <district>Кущевский район</district>
+    <id>92461</id>
+  </point>
+  <point>
+    <name>Дальний</name>
+    <district>Кущевский район</district>
+    <id>74948</id>
+  </point>
+  <point>
+    <name>Заветы Ильича</name>
+    <district>Кущевский район</district>
+    <id>92459</id>
+  </point>
+  <point>
+    <name>Заводской</name>
+    <district>Кущевский район</district>
+    <id>92463</id>
+  </point>
+  <point>
+    <name>Звездочка</name>
+    <district>Кущевский район</district>
+    <id>74955</id>
+  </point>
+  <point>
+    <name>Зеленая Роща</name>
+    <district>Кущевский район</district>
+    <id>65797</id>
+  </point>
+  <point>
+    <name>Ивано-Слюсаревское</name>
+    <district>Кущевский район</district>
+    <id>65798</id>
+  </point>
+  <point>
+    <name>Ильинское</name>
+    <district>Кущевский район</district>
+    <id>3304</id>
+  </point>
+  <point>
+    <name>Исаевский</name>
+    <district>Кущевский район</district>
+    <id>74953</id>
+  </point>
+  <point>
+    <name>Калининский</name>
+    <district>Кущевский район</district>
+    <id>74946</id>
+  </point>
+  <point>
+    <name>Комсомольский</name>
+    <district>Кущевский район</district>
+    <id>92466</id>
+  </point>
+  <point>
+    <name>Красная Поляна</name>
+    <district>Кущевский район</district>
+    <id>92472</id>
+  </point>
+  <point>
+    <name>Красная Слободка</name>
+    <district>Кущевский район</district>
+    <id>74964</id>
+  </point>
+  <point>
+    <name>Красное (х.)</name>
+    <district>Кущевский район</district>
+    <id>65727</id>
+  </point>
+  <point>
+    <name>Красный (Среднечубуркский с.с.)</name>
+    <district>Кущевский район</district>
+    <id>65804</id>
+  </point>
+  <point>
+    <name>Красный (Шкуринский с.с.)</name>
+    <district>Кущевский район</district>
+    <id>65950</id>
+  </point>
+  <point>
+    <name>Крутоярский</name>
+    <district>Кущевский район</district>
+    <id>74965</id>
+  </point>
+  <point>
+    <name>Кубанец</name>
+    <district>Кущевский район</district>
+    <id>92471</id>
+  </point>
+  <point>
+    <name>Лопатина</name>
+    <district>Кущевский район</district>
+    <id>65739</id>
+  </point>
+  <point>
+    <name>Майский</name>
+    <district>Кущевский район</district>
+    <id>65858</id>
+  </point>
+  <point>
+    <name>Набережный</name>
+    <district>Кущевский район</district>
+    <id>92460</id>
+  </point>
+  <point>
+    <name>Новобатайский</name>
+    <district>Кущевский район</district>
+    <id>74963</id>
+  </point>
+  <point>
+    <name>Нововысоченский</name>
+    <district>Кущевский район</district>
+    <id>74949</id>
+  </point>
+  <point>
+    <name>Новоивановское</name>
+    <district>Кущевский район</district>
+    <id>65887</id>
+  </point>
+  <point>
+    <name>Новомихайловское</name>
+    <district>Кущевский район</district>
+    <id>3351</id>
+  </point>
+  <point>
+    <name>Новостепнянский</name>
+    <district>Кущевский район</district>
+    <id>74952</id>
+  </point>
+  <point>
+    <name>Новый Урожай</name>
+    <district>Кущевский район</district>
+    <id>74957</id>
+  </point>
+  <point>
+    <name>Объездная Балка</name>
+    <district>Кущевский район</district>
+    <id>74960</id>
+  </point>
+  <point>
+    <name>Осенний</name>
+    <district>Кущевский район</district>
+    <id>65682</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Кущевский район</district>
+    <id>3356</id>
+  </point>
+  <point>
+    <name>Пионер</name>
+    <district>Кущевский район</district>
+    <id>92462</id>
+  </point>
+  <point>
+    <name>Подшкуринский</name>
+    <district>Кущевский район</district>
+    <id>92465</id>
+  </point>
+  <point>
+    <name>Полтавский</name>
+    <district>Кущевский район</district>
+    <id>74961</id>
+  </point>
+  <point>
+    <name>Полтавченское</name>
+    <district>Кущевский район</district>
+    <id>74967</id>
+  </point>
+  <point>
+    <name>Пролетарский</name>
+    <district>Кущевский район</district>
+    <id>65742</id>
+  </point>
+  <point>
+    <name>Раздольное</name>
+    <district>Кущевский район</district>
+    <id>74959</id>
+  </point>
+  <point>
+    <name>Северный</name>
+    <district>Кущевский район</district>
+    <id>65930</id>
+  </point>
+  <point>
+    <name>Семеновка</name>
+    <district>Кущевский район</district>
+    <id>65800</id>
+  </point>
+  <point>
+    <name>Серебрянка</name>
+    <district>Кущевский район</district>
+    <id>74966</id>
+  </point>
+  <point>
+    <name>Степное</name>
+    <district>Кущевский район</district>
+    <id>65947</id>
+  </point>
+  <point>
+    <name>Таврическое</name>
+    <district>Кущевский район</district>
+    <id>74950</id>
+  </point>
+  <point>
+    <name>Тауруп Второй</name>
+    <district>Кущевский район</district>
+    <id>65886</id>
+  </point>
+  <point>
+    <name>Тауруп Первый</name>
+    <district>Кущевский район</district>
+    <id>65872</id>
+  </point>
+  <point>
+    <name>Цукерова Балка</name>
+    <district>Кущевский район</district>
+    <id>74958</id>
+  </point>
+  <point>
+    <name>Ахметовская</name>
+    <district>Лабинский район</district>
+    <id>13874</id>
+  </point>
+  <point>
+    <name>Бочаров</name>
+    <district>Лабинский район</district>
+    <id>74332</id>
+  </point>
+  <point>
+    <name>Братский</name>
+    <district>Лабинский район</district>
+    <id>74334</id>
+  </point>
+  <point>
+    <name>Веселый (п.)</name>
+    <district>Лабинский район</district>
+    <id>66014</id>
+  </point>
+  <point>
+    <name>Веселый (х.)</name>
+    <district>Лабинский район</district>
+    <id>66091</id>
+  </point>
+  <point>
+    <name>Владимирская</name>
+    <district>Лабинский район</district>
+    <id>74739</id>
+  </point>
+  <point>
+    <name>Вознесенская</name>
+    <district>Лабинский район</district>
+    <id>74397</id>
+  </point>
+  <point>
+    <name>Горное</name>
+    <district>Лабинский район</district>
+    <id>74399</id>
+  </point>
+  <point>
+    <name>Гофицкое</name>
+    <district>Лабинский район</district>
+    <id>74755</id>
+  </point>
+  <point>
+    <name>Ереминская</name>
+    <district>Лабинский район</district>
+    <id>66019</id>
+  </point>
+  <point>
+    <name>Заря</name>
+    <district>Лабинский район</district>
+    <id>74347</id>
+  </point>
+  <point>
+    <name>Зассовская</name>
+    <district>Лабинский район</district>
+    <id>3394</id>
+  </point>
+  <point>
+    <name>Каладжинская</name>
+    <district>Лабинский район</district>
+    <id>74745</id>
+  </point>
+  <point>
+    <name>Красный</name>
+    <district>Лабинский район</district>
+    <id>66036</id>
+  </point>
+  <point>
+    <name>Лобода</name>
+    <district>Лабинский район</district>
+    <id>74256</id>
+  </point>
+  <point>
+    <name>Лукин</name>
+    <district>Лабинский район</district>
+    <id>74345</id>
+  </point>
+  <point>
+    <name>Луч</name>
+    <district>Лабинский район</district>
+    <id>74742</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Лабинский район</district>
+    <id>66150</id>
+  </point>
+  <point>
+    <name>Некрасов</name>
+    <district>Лабинский район</district>
+    <id>74333</id>
+  </point>
+  <point>
+    <name>Новолабинский</name>
+    <district>Лабинский район</district>
+    <id>74270</id>
+  </point>
+  <point>
+    <name>Новый Мир</name>
+    <district>Лабинский район</district>
+    <id>74396</id>
+  </point>
+  <point>
+    <name>Отважная</name>
+    <district>Лабинский район</district>
+    <id>3452</id>
+  </point>
+  <point>
+    <name>Первая Синюха</name>
+    <district>Лабинский район</district>
+    <id>74344</id>
+  </point>
+  <point>
+    <name>Подгорный</name>
+    <district>Лабинский район</district>
+    <id>66143</id>
+  </point>
+  <point>
+    <name>Привольный</name>
+    <district>Лабинский район</district>
+    <id>74744</id>
+  </point>
+  <point>
+    <name>Розовый</name>
+    <district>Лабинский район</district>
+    <id>74393</id>
+  </point>
+  <point>
+    <name>Северный</name>
+    <district>Лабинский район</district>
+    <id>66054</id>
+  </point>
+  <point>
+    <name>Сельский Пахарь</name>
+    <district>Лабинский район</district>
+    <id>74398</id>
+  </point>
+  <point>
+    <name>Сладкий</name>
+    <district>Лабинский район</district>
+    <id>74394</id>
+  </point>
+  <point>
+    <name>Соколихин</name>
+    <district>Лабинский район</district>
+    <id>74752</id>
+  </point>
+  <point>
+    <name>Соцгородок</name>
+    <district>Лабинский район</district>
+    <id>74740</id>
+  </point>
+  <point>
+    <name>Тегин</name>
+    <district>Лабинский район</district>
+    <id>74405</id>
+  </point>
+  <point>
+    <name>Упорная</name>
+    <district>Лабинский район</district>
+    <id>74395</id>
+  </point>
+  <point>
+    <name>Харьковский</name>
+    <district>Лабинский район</district>
+    <id>74390</id>
+  </point>
+  <point>
+    <name>Хачивань</name>
+    <district>Лабинский район</district>
+    <id>74753</id>
+  </point>
+  <point>
+    <name>Хлебодаровский</name>
+    <district>Лабинский район</district>
+    <id>74751</id>
+  </point>
+  <point>
+    <name>Чамлыкская</name>
+    <district>Лабинский район</district>
+    <id>74269</id>
+  </point>
+  <point>
+    <name>Чернореченская</name>
+    <district>Лабинский район</district>
+    <id>74754</id>
+  </point>
+  <point>
+    <name>Лабинск</name>
+    <district>Лабинск</district>
+    <id>4791</id>
+  </point>
+  <point>
+    <name>Заря Мира</name>
+    <district>Лабинск</district>
+    <id>74738</id>
+  </point>
+  <point>
+    <name>Кирпичный Завод</name>
+    <district>Лабинск</district>
+    <id>74234</id>
+  </point>
+  <point>
+    <name>Прохладный</name>
+    <district>Лабинск</district>
+    <id>74235</id>
+  </point>
+  <point>
+    <name>Ленинградская</name>
+    <district>Ленинградский район</district>
+    <id>4863</id>
+  </point>
+  <point>
+    <name>Бичевый</name>
+    <district>Ленинградский район</district>
+    <id>3482</id>
+  </point>
+  <point>
+    <name>Крыловская</name>
+    <district>Ленинградский район</district>
+    <id>4573</id>
+  </point>
+  <point>
+    <name>Новоплатнировская</name>
+    <district>Ленинградский район</district>
+    <id>92469</id>
+  </point>
+  <point>
+    <name>Образцовый</name>
+    <district>Ленинградский район</district>
+    <id>75252</id>
+  </point>
+  <point>
+    <name>Андрющенко</name>
+    <district>Ленинградский район</district>
+    <id>92458</id>
+  </point>
+  <point>
+    <name>Белый</name>
+    <district>Ленинградский район</district>
+    <id>3471</id>
+  </point>
+  <point>
+    <name>Березанский</name>
+    <district>Ленинградский район</district>
+    <id>92494</id>
+  </point>
+  <point>
+    <name>Ближний</name>
+    <district>Ленинградский район</district>
+    <id>92484</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Ленинградский район</district>
+    <id>92496</id>
+  </point>
+  <point>
+    <name>Грачевка</name>
+    <district>Ленинградский район</district>
+    <id>92473</id>
+  </point>
+  <point>
+    <name>Западный</name>
+    <district>Ленинградский район</district>
+    <id>3524</id>
+  </point>
+  <point>
+    <name>Звезда</name>
+    <district>Ленинградский район</district>
+    <id>92468</id>
+  </point>
+  <point>
+    <name>Зерновой</name>
+    <district>Ленинградский район</district>
+    <id>92467</id>
+  </point>
+  <point>
+    <name>Изобильный</name>
+    <district>Ленинградский район</district>
+    <id>92485</id>
+  </point>
+  <point>
+    <name>Коржи</name>
+    <district>Ленинградский район</district>
+    <id>92487</id>
+  </point>
+  <point>
+    <name>Куликовский</name>
+    <district>Ленинградский район</district>
+    <id>3512</id>
+  </point>
+  <point>
+    <name>Лаштованный</name>
+    <district>Ленинградский район</district>
+    <id>66240</id>
+  </point>
+  <point>
+    <name>Ленина</name>
+    <district>Ленинградский район</district>
+    <id>66221</id>
+  </point>
+  <point>
+    <name>Луговой</name>
+    <district>Ленинградский район</district>
+    <id>92470</id>
+  </point>
+  <point>
+    <name>Моторный</name>
+    <district>Ленинградский район</district>
+    <id>92476</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Ленинградский район</district>
+    <id>3514</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Ленинградский район</district>
+    <id>3520</id>
+  </point>
+  <point>
+    <name>Реконструктор</name>
+    <district>Ленинградский район</district>
+    <id>92493</id>
+  </point>
+  <point>
+    <name>Ромашки</name>
+    <district>Ленинградский район</district>
+    <id>92477</id>
+  </point>
+  <point>
+    <name>Смелый</name>
+    <district>Ленинградский район</district>
+    <id>66154</id>
+  </point>
+  <point>
+    <name>Солнечный</name>
+    <district>Ленинградский район</district>
+    <id>74087</id>
+  </point>
+  <point>
+    <name>Трудовой</name>
+    <district>Ленинградский район</district>
+    <id>66161</id>
+  </point>
+  <point>
+    <name>Уманский</name>
+    <district>Ленинградский район</district>
+    <id>92475</id>
+  </point>
+  <point>
+    <name>Утро</name>
+    <district>Ленинградский район</district>
+    <id>66205</id>
+  </point>
+  <point>
+    <name>Мостовской</name>
+    <district>Мостовский район</district>
+    <id>5498</id>
+  </point>
+  <point>
+    <name>Баговская</name>
+    <district>Мостовский район</district>
+    <id>74732</id>
+  </point>
+  <point>
+    <name>Псебай</name>
+    <district>Мостовский район</district>
+    <id>6933</id>
+  </point>
+  <point>
+    <name>Шедок</name>
+    <district>Мостовский район</district>
+    <id>9181</id>
+  </point>
+  <point>
+    <name>Ярославская</name>
+    <district>Мостовский район</district>
+    <id>9463</id>
+  </point>
+  <point>
+    <name>Андрюки</name>
+    <district>Мостовский район</district>
+    <id>74743</id>
+  </point>
+  <point>
+    <name>Баракаевская</name>
+    <district>Мостовский район</district>
+    <id>74723</id>
+  </point>
+  <point>
+    <name>Беноково</name>
+    <district>Мостовский район</district>
+    <id>74733</id>
+  </point>
+  <point>
+    <name>Бесленеевская</name>
+    <district>Мостовский район</district>
+    <id>74734</id>
+  </point>
+  <point>
+    <name>Бугунжа</name>
+    <district>Мостовский район</district>
+    <id>74735</id>
+  </point>
+  <point>
+    <name>Бурный</name>
+    <district>Мостовский район</district>
+    <id>74737</id>
+  </point>
+  <point>
+    <name>Веселый</name>
+    <district>Мостовский район</district>
+    <id>66254</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Мостовский район</district>
+    <id>74727</id>
+  </point>
+  <point>
+    <name>Высокий</name>
+    <district>Мостовский район</district>
+    <id>74736</id>
+  </point>
+  <point>
+    <name>Губская</name>
+    <district>Мостовский район</district>
+    <id>74730</id>
+  </point>
+  <point>
+    <name>Дятлов</name>
+    <district>Мостовский район</district>
+    <id>74749</id>
+  </point>
+  <point>
+    <name>Заречное</name>
+    <district>Мостовский район</district>
+    <id>74750</id>
+  </point>
+  <point>
+    <name>Кизинка</name>
+    <district>Мостовский район</district>
+    <id>74731</id>
+  </point>
+  <point>
+    <name>Кировский</name>
+    <district>Мостовский район</district>
+    <id>66295</id>
+  </point>
+  <point>
+    <name>Костромская</name>
+    <district>Мостовский район</district>
+    <id>74728</id>
+  </point>
+  <point>
+    <name>Красный Гай</name>
+    <district>Мостовский район</district>
+    <id>74748</id>
+  </point>
+  <point>
+    <name>Красный Кут</name>
+    <district>Мостовский район</district>
+    <id>74725</id>
+  </point>
+  <point>
+    <name>Кутан</name>
+    <district>Мостовский район</district>
+    <id>75181</id>
+  </point>
+  <point>
+    <name>Махошевская</name>
+    <district>Мостовский район</district>
+    <id>74719</id>
+  </point>
+  <point>
+    <name>Никитино</name>
+    <district>Мостовский район</district>
+    <id>66292</id>
+  </point>
+  <point>
+    <name>Новотроицкий</name>
+    <district>Мостовский район</district>
+    <id>74721</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Мостовский район</district>
+    <id>66260</id>
+  </point>
+  <point>
+    <name>Перевалка</name>
+    <district>Мостовский район</district>
+    <id>74741</id>
+  </point>
+  <point>
+    <name>Переправная</name>
+    <district>Мостовский район</district>
+    <id>13604</id>
+  </point>
+  <point>
+    <name>Пролетарский</name>
+    <district>Мостовский район</district>
+    <id>66285</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Мостовский район</district>
+    <id>66263</id>
+  </point>
+  <point>
+    <name>Свободный Мир</name>
+    <district>Мостовский район</district>
+    <id>74747</id>
+  </point>
+  <point>
+    <name>Северный</name>
+    <district>Мостовский район</district>
+    <id>66312</id>
+  </point>
+  <point>
+    <name>Славянский</name>
+    <district>Мостовский район</district>
+    <id>74756</id>
+  </point>
+  <point>
+    <name>Соленое</name>
+    <district>Мостовский район</district>
+    <id>7612</id>
+  </point>
+  <point>
+    <name>Узловой</name>
+    <district>Мостовский район</district>
+    <id>74729</id>
+  </point>
+  <point>
+    <name>Ульяново</name>
+    <district>Мостовский район</district>
+    <id>74722</id>
+  </point>
+  <point>
+    <name>Унароково</name>
+    <district>Мостовский район</district>
+    <id>74219</id>
+  </point>
+  <point>
+    <name>Хамкетинская</name>
+    <district>Мостовский район</district>
+    <id>13923</id>
+  </point>
+  <point>
+    <name>Центральный</name>
+    <district>Мостовский район</district>
+    <id>74746</id>
+  </point>
+  <point>
+    <name>Новокубанск</name>
+    <district>Новокубанский район</district>
+    <id>5983</id>
+  </point>
+  <point>
+    <name>Бесскорбная</name>
+    <district>Новокубанский район</district>
+    <id>141372</id>
+  </point>
+  <point>
+    <name>Ковалевское</name>
+    <district>Новокубанский район</district>
+    <id>141357</id>
+  </point>
+  <point>
+    <name>Прочноокопская</name>
+    <district>Новокубанский район</district>
+    <id>74329</id>
+  </point>
+  <point>
+    <name>Советская</name>
+    <district>Новокубанский район</district>
+    <id>7580</id>
+  </point>
+  <point>
+    <name>Большевик</name>
+    <district>Новокубанский район</district>
+    <id>74275</id>
+  </point>
+  <point>
+    <name>Веселый</name>
+    <district>Новокубанский район</district>
+    <id>74311</id>
+  </point>
+  <point>
+    <name>Восход</name>
+    <district>Новокубанский район</district>
+    <id>74272</id>
+  </point>
+  <point>
+    <name>Глубокий</name>
+    <district>Новокубанский район</district>
+    <id>74340</id>
+  </point>
+  <point>
+    <name>Горькая Балка</name>
+    <district>Новокубанский район</district>
+    <id>74302</id>
+  </point>
+  <point>
+    <name>Дальний</name>
+    <district>Новокубанский район</district>
+    <id>74253</id>
+  </point>
+  <point>
+    <name>Западный</name>
+    <district>Новокубанский район</district>
+    <id>66333</id>
+  </point>
+  <point>
+    <name>Зорька</name>
+    <district>Новокубанский район</district>
+    <id>74252</id>
+  </point>
+  <point>
+    <name>Ивановский</name>
+    <district>Новокубанский район</district>
+    <id>74259</id>
+  </point>
+  <point>
+    <name>Измайлов</name>
+    <district>Новокубанский район</district>
+    <id>74278</id>
+  </point>
+  <point>
+    <name>Камышеваха</name>
+    <district>Новокубанский район</district>
+    <id>74303</id>
+  </point>
+  <point>
+    <name>Каспаровский</name>
+    <district>Новокубанский район</district>
+    <id>74281</id>
+  </point>
+  <point>
+    <name>Кирова</name>
+    <district>Новокубанский район</district>
+    <id>74274</id>
+  </point>
+  <point>
+    <name>Комсомольский</name>
+    <district>Новокубанский район</district>
+    <id>74257</id>
+  </point>
+  <point>
+    <name>Косякинская</name>
+    <district>Новокубанский район</district>
+    <id>74296</id>
+  </point>
+  <point>
+    <name>Красная Звезда</name>
+    <district>Новокубанский район</district>
+    <id>74337</id>
+  </point>
+  <point>
+    <name>Ленинский</name>
+    <district>Новокубанский район</district>
+    <id>74261</id>
+  </point>
+  <point>
+    <name>Ляпино</name>
+    <district>Новокубанский район</district>
+    <id>74330</id>
+  </point>
+  <point>
+    <name>Марьинский</name>
+    <district>Новокубанский район</district>
+    <id>74262</id>
+  </point>
+  <point>
+    <name>Мирской</name>
+    <district>Новокубанский район</district>
+    <id>74250</id>
+  </point>
+  <point>
+    <name>Нововоскресенский</name>
+    <district>Новокубанский район</district>
+    <id>74353</id>
+  </point>
+  <point>
+    <name>Новокарский</name>
+    <district>Новокубанский район</district>
+    <id>74331</id>
+  </point>
+  <point>
+    <name>Новосельское</name>
+    <district>Новокубанский район</district>
+    <id>74339</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Новокубанский район</district>
+    <id>74315</id>
+  </point>
+  <point>
+    <name>Передовой</name>
+    <district>Новокубанский район</district>
+    <id>74310</id>
+  </point>
+  <point>
+    <name>Подлесный</name>
+    <district>Новокубанский район</district>
+    <id>74306</id>
+  </point>
+  <point>
+    <name>Прикубанский</name>
+    <district>Новокубанский район</district>
+    <id>74325</id>
+  </point>
+  <point>
+    <name>Прогресс</name>
+    <district>Новокубанский район</district>
+    <id>66342</id>
+  </point>
+  <point>
+    <name>Пчела</name>
+    <district>Новокубанский район</district>
+    <id>74279</id>
+  </point>
+  <point>
+    <name>Радищево</name>
+    <district>Новокубанский район</district>
+    <id>74320</id>
+  </point>
+  <point>
+    <name>Раздольный</name>
+    <district>Новокубанский район</district>
+    <id>74335</id>
+  </point>
+  <point>
+    <name>Родниковский</name>
+    <district>Новокубанский район</district>
+    <id>74305</id>
+  </point>
+  <point>
+    <name>Роте-Фане</name>
+    <district>Новокубанский район</district>
+    <id>74258</id>
+  </point>
+  <point>
+    <name>Северокавказский</name>
+    <district>Новокубанский район</district>
+    <id>74336</id>
+  </point>
+  <point>
+    <name>Степной (Ляпинский с.с.)</name>
+    <district>Новокубанский район</district>
+    <id>74316</id>
+  </point>
+  <point>
+    <name>Степной (Новосельский с.с.)</name>
+    <district>Новокубанский район</district>
+    <id>66346</id>
+  </point>
+  <point>
+    <name>Теплый</name>
+    <district>Новокубанский район</district>
+    <id>74251</id>
+  </point>
+  <point>
+    <name>Федоровский</name>
+    <district>Новокубанский район</district>
+    <id>74276</id>
+  </point>
+  <point>
+    <name>Фортштадт</name>
+    <district>Новокубанский район</district>
+    <id>74327</id>
+  </point>
+  <point>
+    <name>Чапаево</name>
+    <district>Новокубанский район</district>
+    <id>74338</id>
+  </point>
+  <point>
+    <name>Энгельса</name>
+    <district>Новокубанский район</district>
+    <id>74260</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Новокубанский район</district>
+    <id>74317</id>
+  </point>
+  <point>
+    <name>Новопокровская</name>
+    <district>Новопокровский район</district>
+    <id>6019</id>
+  </point>
+  <point>
+    <name>Ильинская</name>
+    <district>Новопокровский район</district>
+    <id>74426</id>
+  </point>
+  <point>
+    <name>Калниболотская</name>
+    <district>Новопокровский район</district>
+    <id>3705</id>
+  </point>
+  <point>
+    <name>Малокубанский</name>
+    <district>Новопокровский район</district>
+    <id>74440</id>
+  </point>
+  <point>
+    <name>Незамаевский</name>
+    <district>Новопокровский район</district>
+    <id>74697</id>
+  </point>
+  <point>
+    <name>Восход</name>
+    <district>Новопокровский район</district>
+    <id>74412</id>
+  </point>
+  <point>
+    <name>Вперед</name>
+    <district>Новопокровский район</district>
+    <id>74441</id>
+  </point>
+  <point>
+    <name>Горькая Балка</name>
+    <district>Новопокровский район</district>
+    <id>2664</id>
+  </point>
+  <point>
+    <name>Ея</name>
+    <district>Новопокровский район</district>
+    <id>74439</id>
+  </point>
+  <point>
+    <name>Животновод</name>
+    <district>Новопокровский район</district>
+    <id>74425</id>
+  </point>
+  <point>
+    <name>Заречный</name>
+    <district>Новопокровский район</district>
+    <id>74432</id>
+  </point>
+  <point>
+    <name>Заря</name>
+    <district>Новопокровский район</district>
+    <id>74715</id>
+  </point>
+  <point>
+    <name>Красноармейский</name>
+    <district>Новопокровский район</district>
+    <id>74696</id>
+  </point>
+  <point>
+    <name>Кубанский</name>
+    <district>Новопокровский район</district>
+    <id>74438</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Новопокровский район</district>
+    <id>66369</id>
+  </point>
+  <point>
+    <name>Новоивановская</name>
+    <district>Новопокровский район</district>
+    <id>74698</id>
+  </point>
+  <point>
+    <name>Новопокровский</name>
+    <district>Новопокровский район</district>
+    <id>74424</id>
+  </point>
+  <point>
+    <name>Новый Мир</name>
+    <district>Новопокровский район</district>
+    <id>74701</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Новопокровский район</district>
+    <id>66353</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Новопокровский район</district>
+    <id>66355</id>
+  </point>
+  <point>
+    <name>Плоская</name>
+    <district>Новопокровский район</district>
+    <id>74700</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Новопокровский район</district>
+    <id>66358</id>
+  </point>
+  <point>
+    <name>Советский</name>
+    <district>Новопокровский район</district>
+    <id>66352</id>
+  </point>
+  <point>
+    <name>Степной</name>
+    <district>Новопокровский район</district>
+    <id>74423</id>
+  </point>
+  <point>
+    <name>Урожайный</name>
+    <district>Новопокровский район</district>
+    <id>74443</id>
+  </point>
+  <point>
+    <name>Хлебороб</name>
+    <district>Новопокровский район</district>
+    <id>74702</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Новопокровский район</district>
+    <id>74442</id>
+  </point>
+  <point>
+    <name>Новороссийск</name>
+    <district>Новороссийск</district>
+    <id>6026</id>
+  </point>
+  <point>
+    <name>Абрау-Дюрсо</name>
+    <district>Новороссийск</district>
+    <id>874</id>
+  </point>
+  <point>
+    <name>Натухаевская</name>
+    <district>Новороссийск</district>
+    <id>5666</id>
+  </point>
+  <point>
+    <name>Раевская</name>
+    <district>Новороссийск</district>
+    <id>74614</id>
+  </point>
+  <point>
+    <name>Южная Озереевка</name>
+    <district>Новороссийск</district>
+    <id>74619</id>
+  </point>
+  <point>
+    <name>Большие Хутора</name>
+    <district>Новороссийск</district>
+    <id>67784</id>
+  </point>
+  <point>
+    <name>Борисовка</name>
+    <district>Новороссийск</district>
+    <id>67750</id>
+  </point>
+  <point>
+    <name>Верхнебаканский</name>
+    <district>Новороссийск</district>
+    <id>2101</id>
+  </point>
+  <point>
+    <name>Владимировка</name>
+    <district>Новороссийск</district>
+    <id>74620</id>
+  </point>
+  <point>
+    <name>Гайдук</name>
+    <district>Новороссийск</district>
+    <id>4039</id>
+  </point>
+  <point>
+    <name>Глебовское</name>
+    <district>Новороссийск</district>
+    <id>67752</id>
+  </point>
+  <point>
+    <name>Горный</name>
+    <district>Новороссийск</district>
+    <id>74636</id>
+  </point>
+  <point>
+    <name>Грушевый</name>
+    <district>Новороссийск</district>
+    <id>74656</id>
+  </point>
+  <point>
+    <name>Дюрсо</name>
+    <district>Новороссийск</district>
+    <id>67785</id>
+  </point>
+  <point>
+    <name>Камчатка</name>
+    <district>Новороссийск</district>
+    <id>67787</id>
+  </point>
+  <point>
+    <name>Кирилловка</name>
+    <district>Новороссийск</district>
+    <id>67759</id>
+  </point>
+  <point>
+    <name>Ленинский Путь</name>
+    <district>Новороссийск</district>
+    <id>67812</id>
+  </point>
+  <point>
+    <name>Лесничество Абрау-Дюрсо</name>
+    <district>Новороссийск</district>
+    <id>67792</id>
+  </point>
+  <point>
+    <name>Мысхако</name>
+    <district>Новороссийск</district>
+    <id>74635</id>
+  </point>
+  <point>
+    <name>Победа</name>
+    <district>Новороссийск</district>
+    <id>67837</id>
+  </point>
+  <point>
+    <name>Северная Озереевка</name>
+    <district>Новороссийск</district>
+    <id>67793</id>
+  </point>
+  <point>
+    <name>Семигорский</name>
+    <district>Новороссийск</district>
+    <id>67830</id>
+  </point>
+  <point>
+    <name>Убых</name>
+    <district>Новороссийск</district>
+    <id>67775</id>
+  </point>
+  <point>
+    <name>Федотовка</name>
+    <district>Новороссийск</district>
+    <id>67801</id>
+  </point>
+  <point>
+    <name>Широкая Балка</name>
+    <district>Новороссийск</district>
+    <id>74517</id>
+  </point>
+  <point>
+    <name>Отрадная</name>
+    <district>Отрадненский район</district>
+    <id>6390</id>
+  </point>
+  <point>
+    <name>Попутная</name>
+    <district>Отрадненский район</district>
+    <id>6820</id>
+  </point>
+  <point>
+    <name>Спокойная</name>
+    <district>Отрадненский район</district>
+    <id>7705</id>
+  </point>
+  <point>
+    <name>Удобная</name>
+    <district>Отрадненский район</district>
+    <id>74374</id>
+  </point>
+  <point>
+    <name>Урупский</name>
+    <district>Отрадненский район</district>
+    <id>74362</id>
+  </point>
+  <point>
+    <name>Байбарис</name>
+    <district>Отрадненский район</district>
+    <id>74385</id>
+  </point>
+  <point>
+    <name>Бережиновский</name>
+    <district>Отрадненский район</district>
+    <id>74401</id>
+  </point>
+  <point>
+    <name>Бесстрашная</name>
+    <district>Отрадненский район</district>
+    <id>3602</id>
+  </point>
+  <point>
+    <name>Благодарное</name>
+    <district>Отрадненский район</district>
+    <id>74360</id>
+  </point>
+  <point>
+    <name>Веселый (п.)</name>
+    <district>Отрадненский район</district>
+    <id>66422</id>
+  </point>
+  <point>
+    <name>Веселый (х.)</name>
+    <district>Отрадненский район</district>
+    <id>74407</id>
+  </point>
+  <point>
+    <name>Воскресенское</name>
+    <district>Отрадненский район</district>
+    <id>66388</id>
+  </point>
+  <point>
+    <name>Гоголевский</name>
+    <district>Отрадненский район</district>
+    <id>74408</id>
+  </point>
+  <point>
+    <name>Гусаровское</name>
+    <district>Отрадненский район</district>
+    <id>74351</id>
+  </point>
+  <point>
+    <name>Донской</name>
+    <district>Отрадненский район</district>
+    <id>74406</id>
+  </point>
+  <point>
+    <name>Зеленчук Мостовой</name>
+    <district>Отрадненский район</district>
+    <id>151253</id>
+  </point>
+  <point>
+    <name>Изобильное</name>
+    <district>Отрадненский район</district>
+    <id>74387</id>
+  </point>
+  <point>
+    <name>Ильич</name>
+    <district>Отрадненский район</district>
+    <id>74386</id>
+  </point>
+  <point>
+    <name>Красные Горы</name>
+    <district>Отрадненский район</district>
+    <id>74369</id>
+  </point>
+  <point>
+    <name>Кубрань</name>
+    <district>Отрадненский район</district>
+    <id>74357</id>
+  </point>
+  <point>
+    <name>Лазарчук</name>
+    <district>Отрадненский район</district>
+    <id>74373</id>
+  </point>
+  <point>
+    <name>Ленина</name>
+    <district>Отрадненский район</district>
+    <id>74366</id>
+  </point>
+  <point>
+    <name>Малотенгинская</name>
+    <district>Отрадненский район</district>
+    <id>74379</id>
+  </point>
+  <point>
+    <name>Маяк</name>
+    <district>Отрадненский район</district>
+    <id>74382</id>
+  </point>
+  <point>
+    <name>Надежная</name>
+    <district>Отрадненский район</district>
+    <id>74378</id>
+  </point>
+  <point>
+    <name>Новосинюхинское</name>
+    <district>Отрадненский район</district>
+    <id>66445</id>
+  </point>
+  <point>
+    <name>Новоурупский</name>
+    <district>Отрадненский район</district>
+    <id>66430</id>
+  </point>
+  <point>
+    <name>Отрадо-Солдатский</name>
+    <district>Отрадненский район</district>
+    <id>74380</id>
+  </point>
+  <point>
+    <name>Отрадо-Тенгинский</name>
+    <district>Отрадненский район</district>
+    <id>66457</id>
+  </point>
+  <point>
+    <name>Пенькозавод</name>
+    <district>Отрадненский район</district>
+    <id>74375</id>
+  </point>
+  <point>
+    <name>Передовая</name>
+    <district>Отрадненский район</district>
+    <id>74376</id>
+  </point>
+  <point>
+    <name>Петровское</name>
+    <district>Отрадненский район</district>
+    <id>74358</id>
+  </point>
+  <point>
+    <name>Пискуновское</name>
+    <district>Отрадненский район</district>
+    <id>74400</id>
+  </point>
+  <point>
+    <name>Подгорная Синюха</name>
+    <district>Отрадненский район</district>
+    <id>74384</id>
+  </point>
+  <point>
+    <name>Подгорная</name>
+    <district>Отрадненский район</district>
+    <id>74377</id>
+  </point>
+  <point>
+    <name>Покровский</name>
+    <district>Отрадненский район</district>
+    <id>66432</id>
+  </point>
+  <point>
+    <name>Розановский</name>
+    <district>Отрадненский район</district>
+    <id>66401</id>
+  </point>
+  <point>
+    <name>Романчуков</name>
+    <district>Отрадненский район</district>
+    <id>74372</id>
+  </point>
+  <point>
+    <name>Рудь</name>
+    <district>Отрадненский район</district>
+    <id>74388</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Отрадненский район</district>
+    <id>74365</id>
+  </point>
+  <point>
+    <name>Саньков</name>
+    <district>Отрадненский район</district>
+    <id>74368</id>
+  </point>
+  <point>
+    <name>Светлый</name>
+    <district>Отрадненский район</district>
+    <id>74361</id>
+  </point>
+  <point>
+    <name>Солдатская Балка</name>
+    <district>Отрадненский район</district>
+    <id>74381</id>
+  </point>
+  <point>
+    <name>Спокойная Синюха</name>
+    <district>Отрадненский район</district>
+    <id>74383</id>
+  </point>
+  <point>
+    <name>Столяров</name>
+    <district>Отрадненский район</district>
+    <id>74371</id>
+  </point>
+  <point>
+    <name>Стукановский</name>
+    <district>Отрадненский район</district>
+    <id>74409</id>
+  </point>
+  <point>
+    <name>Стуканов</name>
+    <district>Отрадненский район</district>
+    <id>74370</id>
+  </point>
+  <point>
+    <name>Трактовый</name>
+    <district>Отрадненский район</district>
+    <id>74352</id>
+  </point>
+  <point>
+    <name>Троицкий</name>
+    <district>Отрадненский район</district>
+    <id>66404</id>
+  </point>
+  <point>
+    <name>Удобно-Зеленчукский</name>
+    <district>Отрадненский район</district>
+    <id>74355</id>
+  </point>
+  <point>
+    <name>Удобно-Покровский</name>
+    <district>Отрадненский район</district>
+    <id>66406</id>
+  </point>
+  <point>
+    <name>Улановский</name>
+    <district>Отрадненский район</district>
+    <id>74402</id>
+  </point>
+  <point>
+    <name>Хлопонин</name>
+    <district>Отрадненский район</district>
+    <id>74367</id>
+  </point>
+  <point>
+    <name>Хорин</name>
+    <district>Отрадненский район</district>
+    <id>74403</id>
+  </point>
+  <point>
+    <name>Чайкин</name>
+    <district>Отрадненский район</district>
+    <id>74359</id>
+  </point>
+  <point>
+    <name>Чехрак</name>
+    <district>Отрадненский район</district>
+    <id>74354</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Отрадненский район</district>
+    <id>74364</id>
+  </point>
+  <point>
+    <name>Павловская</name>
+    <district>Павловский район</district>
+    <id>6423</id>
+  </point>
+  <point>
+    <name>Веселая</name>
+    <district>Павловский район</district>
+    <id>74685</id>
+  </point>
+  <point>
+    <name>Незамаевская</name>
+    <district>Павловский район</district>
+    <id>5694</id>
+  </point>
+  <point>
+    <name>Новолеушковская</name>
+    <district>Павловский район</district>
+    <id>5989</id>
+  </point>
+  <point>
+    <name>Старолеушковская</name>
+    <district>Павловский район</district>
+    <id>7767</id>
+  </point>
+  <point>
+    <name>Атаманская</name>
+    <district>Павловский район</district>
+    <id>141677</id>
+  </point>
+  <point>
+    <name>Бейсужек</name>
+    <district>Павловский район</district>
+    <id>74771</id>
+  </point>
+  <point>
+    <name>Западный</name>
+    <district>Павловский район</district>
+    <id>66513</id>
+  </point>
+  <point>
+    <name>Красный</name>
+    <district>Павловский район</district>
+    <id>151360</id>
+  </point>
+  <point>
+    <name>Ленинодар</name>
+    <district>Павловский район</district>
+    <id>74762</id>
+  </point>
+  <point>
+    <name>Междуреченский</name>
+    <district>Павловский район</district>
+    <id>66459</id>
+  </point>
+  <point>
+    <name>Новопетровская</name>
+    <district>Павловский район</district>
+    <id>141608</id>
+  </point>
+  <point>
+    <name>Новопластуновская</name>
+    <district>Павловский район</district>
+    <id>3647</id>
+  </point>
+  <point>
+    <name>Новый Урал</name>
+    <district>Павловский район</district>
+    <id>66468</id>
+  </point>
+  <point>
+    <name>Новый</name>
+    <district>Павловский район</district>
+    <id>66477</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Павловский район</district>
+    <id>74763</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Павловский район</district>
+    <id>66458</id>
+  </point>
+  <point>
+    <name>Свободный</name>
+    <district>Павловский район</district>
+    <id>74684</id>
+  </point>
+  <point>
+    <name>Северный</name>
+    <district>Павловский район</district>
+    <id>3671</id>
+  </point>
+  <point>
+    <name>Сосыка-Ростовская</name>
+    <district>Павловский район</district>
+    <id>429858</id>
+  </point>
+  <point>
+    <name>Средний Челбас</name>
+    <district>Павловский район</district>
+    <id>74766</id>
+  </point>
+  <point>
+    <name>Украинская</name>
+    <district>Павловский район</district>
+    <id>74764</id>
+  </point>
+  <point>
+    <name>Упорный</name>
+    <district>Павловский район</district>
+    <id>3709</id>
+  </point>
+  <point>
+    <name>Шевченко</name>
+    <district>Павловский район</district>
+    <id>66494</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Павловский район</district>
+    <id>74765</id>
+  </point>
+  <point>
+    <name>Приморско-Ахтарск</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>6894</id>
+  </point>
+  <point>
+    <name>Бриньковская</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>1846</id>
+  </point>
+  <point>
+    <name>Ольгинская</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>6275</id>
+  </point>
+  <point>
+    <name>Приазовская</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75026</id>
+  </point>
+  <point>
+    <name>Садки</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74977</id>
+  </point>
+  <point>
+    <name>Аджановка</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74970</id>
+  </point>
+  <point>
+    <name>Ахтарский</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74550</id>
+  </point>
+  <point>
+    <name>Батога</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75017</id>
+  </point>
+  <point>
+    <name>Бейсуг</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74983</id>
+  </point>
+  <point>
+    <name>Бородинская</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74561</id>
+  </point>
+  <point>
+    <name>Бригадный</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74969</id>
+  </point>
+  <point>
+    <name>Возрождение</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74974</id>
+  </point>
+  <point>
+    <name>Добровольный</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74982</id>
+  </point>
+  <point>
+    <name>Занко</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74980</id>
+  </point>
+  <point>
+    <name>Красный</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>66582</id>
+  </point>
+  <point>
+    <name>Крупской</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75016</id>
+  </point>
+  <point>
+    <name>Курчанский</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74971</id>
+  </point>
+  <point>
+    <name>Лотос</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75003</id>
+  </point>
+  <point>
+    <name>Максима Горького</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75021</id>
+  </point>
+  <point>
+    <name>Морозовский</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74560</id>
+  </point>
+  <point>
+    <name>Новонекрасовский</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75002</id>
+  </point>
+  <point>
+    <name>Новопокровский</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74979</id>
+  </point>
+  <point>
+    <name>Новые Лиманокирпили</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75004</id>
+  </point>
+  <point>
+    <name>Огородный</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74978</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>66543</id>
+  </point>
+  <point>
+    <name>Пригородное</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75028</id>
+  </point>
+  <point>
+    <name>Приморский</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74551</id>
+  </point>
+  <point>
+    <name>Свободный</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74973</id>
+  </point>
+  <point>
+    <name>Старые Лиманокирпили</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75005</id>
+  </point>
+  <point>
+    <name>Степная</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75012</id>
+  </point>
+  <point>
+    <name>Хорошилов</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>74972</id>
+  </point>
+  <point>
+    <name>Центральный</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>75020</id>
+  </point>
+  <point>
+    <name>Ягодное</name>
+    <district>Приморско-Ахтарский район</district>
+    <id>66576</id>
+  </point>
+  <point>
+    <name>Северская</name>
+    <district>Северский район</district>
+    <id>7383</id>
+  </point>
+  <point>
+    <name>Афипский</name>
+    <district>Северский район</district>
+    <id>1221</id>
+  </point>
+  <point>
+    <name>Ильский</name>
+    <district>Северский район</district>
+    <id>3506</id>
+  </point>
+  <point>
+    <name>Смоленская</name>
+    <district>Северский район</district>
+    <id>75076</id>
+  </point>
+  <point>
+    <name>Черноморский</name>
+    <district>Северский район</district>
+    <id>9019</id>
+  </point>
+  <point>
+    <name>8-е Марта</name>
+    <district>Северский район</district>
+    <id>75088</id>
+  </point>
+  <point>
+    <name>Азовская</name>
+    <district>Северский район</district>
+    <id>75093</id>
+  </point>
+  <point>
+    <name>Александровский</name>
+    <district>Северский район</district>
+    <id>75098</id>
+  </point>
+  <point>
+    <name>Ананьевский</name>
+    <district>Северский район</district>
+    <id>75111</id>
+  </point>
+  <point>
+    <name>Бондаренко</name>
+    <district>Северский район</district>
+    <id>75081</id>
+  </point>
+  <point>
+    <name>Бончковский</name>
+    <district>Северский район</district>
+    <id>75060</id>
+  </point>
+  <point>
+    <name>Веселый</name>
+    <district>Северский район</district>
+    <id>75105</id>
+  </point>
+  <point>
+    <name>Водокачка</name>
+    <district>Северский район</district>
+    <id>66633</id>
+  </point>
+  <point>
+    <name>Воликов</name>
+    <district>Северский район</district>
+    <id>75080</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Северский район</district>
+    <id>75068</id>
+  </point>
+  <point>
+    <name>Григорьевская</name>
+    <district>Северский район</district>
+    <id>75075</id>
+  </point>
+  <point>
+    <name>Дербентская</name>
+    <district>Северский район</district>
+    <id>75103</id>
+  </point>
+  <point>
+    <name>Калужская</name>
+    <district>Северский район</district>
+    <id>75062</id>
+  </point>
+  <point>
+    <name>Карский</name>
+    <district>Северский район</district>
+    <id>66761</id>
+  </point>
+  <point>
+    <name>Кипячий</name>
+    <district>Северский район</district>
+    <id>75104</id>
+  </point>
+  <point>
+    <name>Коваленко</name>
+    <district>Северский район</district>
+    <id>75082</id>
+  </point>
+  <point>
+    <name>Кошарский</name>
+    <district>Северский район</district>
+    <id>75089</id>
+  </point>
+  <point>
+    <name>Красный</name>
+    <district>Северский район</district>
+    <id>75095</id>
+  </point>
+  <point>
+    <name>Крепостная</name>
+    <district>Северский район</district>
+    <id>75087</id>
+  </point>
+  <point>
+    <name>Львовское</name>
+    <district>Северский район</district>
+    <id>75097</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Северский район</district>
+    <id>66915</id>
+  </point>
+  <point>
+    <name>Михайловское</name>
+    <district>Северский район</district>
+    <id>75112</id>
+  </point>
+  <point>
+    <name>Науменков</name>
+    <district>Северский район</district>
+    <id>75079</id>
+  </point>
+  <point>
+    <name>Новоалексеевский</name>
+    <district>Северский район</district>
+    <id>75077</id>
+  </point>
+  <point>
+    <name>Новодмитриевская</name>
+    <district>Северский район</district>
+    <id>75066</id>
+  </point>
+  <point>
+    <name>Новоивановский</name>
+    <district>Северский район</district>
+    <id>75096</id>
+  </point>
+  <point>
+    <name>Новопетровский</name>
+    <district>Северский район</district>
+    <id>75106</id>
+  </point>
+  <point>
+    <name>Новый</name>
+    <district>Северский район</district>
+    <id>66798</id>
+  </point>
+  <point>
+    <name>Оазис</name>
+    <district>Северский район</district>
+    <id>75063</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Северский район</district>
+    <id>66709</id>
+  </point>
+  <point>
+    <name>Песчаный</name>
+    <district>Северский район</district>
+    <id>75094</id>
+  </point>
+  <point>
+    <name>Планческая Щель</name>
+    <district>Северский район</district>
+    <id>92531</id>
+  </point>
+  <point>
+    <name>Предгорный</name>
+    <district>Северский район</district>
+    <id>66842</id>
+  </point>
+  <point>
+    <name>Свободный</name>
+    <district>Северский район</district>
+    <id>75078</id>
+  </point>
+  <point>
+    <name>Спутник</name>
+    <district>Северский район</district>
+    <id>66747</id>
+  </point>
+  <point>
+    <name>Ставропольская</name>
+    <district>Северский район</district>
+    <id>75074</id>
+  </point>
+  <point>
+    <name>Стефановский</name>
+    <district>Северский район</district>
+    <id>75091</id>
+  </point>
+  <point>
+    <name>Тхамаха</name>
+    <district>Северский район</district>
+    <id>92532</id>
+  </point>
+  <point>
+    <name>Убинская</name>
+    <district>Северский район</district>
+    <id>75102</id>
+  </point>
+  <point>
+    <name>Чибий</name>
+    <district>Северский район</district>
+    <id>75061</id>
+  </point>
+  <point>
+    <name>Шабановское</name>
+    <district>Северский район</district>
+    <id>92525</id>
+  </point>
+  <point>
+    <name>Шуваев</name>
+    <district>Северский район</district>
+    <id>75064</id>
+  </point>
+  <point>
+    <name>Славянск-на-Кубани</name>
+    <district>Славянский район</district>
+    <id>7544</id>
+  </point>
+  <point>
+    <name>Анастасиевская</name>
+    <district>Славянский район</district>
+    <id>1060</id>
+  </point>
+  <point>
+    <name>Ачуево</name>
+    <district>Славянский район</district>
+    <id>1237</id>
+  </point>
+  <point>
+    <name>Верхний</name>
+    <district>Славянский район</district>
+    <id>74932</id>
+  </point>
+  <point>
+    <name>Забойский</name>
+    <district>Славянский район</district>
+    <id>3739</id>
+  </point>
+  <point>
+    <name>Бараниковский</name>
+    <district>Славянский район</district>
+    <id>74995</id>
+  </point>
+  <point>
+    <name>Беликов</name>
+    <district>Славянский район</district>
+    <id>74933</id>
+  </point>
+  <point>
+    <name>Вишневый</name>
+    <district>Славянский район</district>
+    <id>75178</id>
+  </point>
+  <point>
+    <name>Водный</name>
+    <district>Славянский район</district>
+    <id>75001</id>
+  </point>
+  <point>
+    <name>Галицын</name>
+    <district>Славянский район</district>
+    <id>75000</id>
+  </point>
+  <point>
+    <name>Голубая Нива</name>
+    <district>Славянский район</district>
+    <id>3713</id>
+  </point>
+  <point>
+    <name>Губернаторский</name>
+    <district>Славянский район</district>
+    <id>66981</id>
+  </point>
+  <point>
+    <name>Деревянковка</name>
+    <district>Славянский район</district>
+    <id>74997</id>
+  </point>
+  <point>
+    <name>Калабатка</name>
+    <district>Славянский район</district>
+    <id>74929</id>
+  </point>
+  <point>
+    <name>Колесников</name>
+    <district>Славянский район</district>
+    <id>75161</id>
+  </point>
+  <point>
+    <name>Коржевский</name>
+    <district>Славянский район</district>
+    <id>74628</id>
+  </point>
+  <point>
+    <name>Красноармейский Городок</name>
+    <district>Славянский район</district>
+    <id>74998</id>
+  </point>
+  <point>
+    <name>Маевский</name>
+    <district>Славянский район</district>
+    <id>75159</id>
+  </point>
+  <point>
+    <name>Мостовянский</name>
+    <district>Славянский район</district>
+    <id>66986</id>
+  </point>
+  <point>
+    <name>Нещадимовский</name>
+    <district>Славянский район</district>
+    <id>74994</id>
+  </point>
+  <point>
+    <name>Петровская</name>
+    <district>Славянский район</district>
+    <id>6593</id>
+  </point>
+  <point>
+    <name>Петровское</name>
+    <district>Славянский район</district>
+    <id>74993</id>
+  </point>
+  <point>
+    <name>Погорелово</name>
+    <district>Славянский район</district>
+    <id>74992</id>
+  </point>
+  <point>
+    <name>Прибрежный</name>
+    <district>Славянский район</district>
+    <id>66977</id>
+  </point>
+  <point>
+    <name>Прикубанский (Анастасиевский с.с.)</name>
+    <district>Славянский район</district>
+    <id>66961</id>
+  </point>
+  <point>
+    <name>Прикубанский (Прикубанский с.с.)</name>
+    <district>Славянский район</district>
+    <id>75253</id>
+  </point>
+  <point>
+    <name>Прорвенский</name>
+    <district>Славянский район</district>
+    <id>74931</id>
+  </point>
+  <point>
+    <name>Рисовый</name>
+    <district>Славянский район</district>
+    <id>74665</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Славянский район</district>
+    <id>75180</id>
+  </point>
+  <point>
+    <name>Семисводный</name>
+    <district>Славянский район</district>
+    <id>74680</id>
+  </point>
+  <point>
+    <name>Сербин</name>
+    <district>Славянский район</district>
+    <id>75162</id>
+  </point>
+  <point>
+    <name>Слободка</name>
+    <district>Славянский район</district>
+    <id>74935</id>
+  </point>
+  <point>
+    <name>Соболевский</name>
+    <district>Славянский район</district>
+    <id>74679</id>
+  </point>
+  <point>
+    <name>Совхозный</name>
+    <district>Славянский район</district>
+    <id>3771</id>
+  </point>
+  <point>
+    <name>Солодковский</name>
+    <district>Славянский район</district>
+    <id>74991</id>
+  </point>
+  <point>
+    <name>Ставки</name>
+    <district>Славянский район</district>
+    <id>74927</id>
+  </point>
+  <point>
+    <name>Степной</name>
+    <district>Славянский район</district>
+    <id>75179</id>
+  </point>
+  <point>
+    <name>Троицкий</name>
+    <district>Славянский район</district>
+    <id>66967</id>
+  </point>
+  <point>
+    <name>Урма</name>
+    <district>Славянский район</district>
+    <id>74667</id>
+  </point>
+  <point>
+    <name>Ханьков</name>
+    <district>Славянский район</district>
+    <id>74666</id>
+  </point>
+  <point>
+    <name>Целинный</name>
+    <district>Славянский район</district>
+    <id>74934</id>
+  </point>
+  <point>
+    <name>Черноерковская</name>
+    <district>Славянский район</district>
+    <id>3808</id>
+  </point>
+  <point>
+    <name>Черный Ерик</name>
+    <district>Славянский район</district>
+    <id>74930</id>
+  </point>
+  <point>
+    <name>Шапарской</name>
+    <district>Славянский район</district>
+    <id>74629</id>
+  </point>
+  <point>
+    <name>Сочи</name>
+    <district>Сочи</district>
+    <id>7694</id>
+  </point>
+  <point>
+    <name>Красная Поляна</name>
+    <district>Сочи</district>
+    <id>4401</id>
+  </point>
+  <point>
+    <name>Лазаревское</name>
+    <district>Сочи</district>
+    <id>4808</id>
+  </point>
+  <point>
+    <name>Лоо</name>
+    <district>Сочи</district>
+    <id>4987</id>
+  </point>
+  <point>
+    <name>Сочи / Адлер (аэропорт)</name>
+    <district>Сочи</district>
+    <id>902</id>
+  </point>
+  <point>
+    <name>Аибга</name>
+    <district>Сочи</district>
+    <id>151258</id>
+  </point>
+  <point>
+    <name>Алексеевское</name>
+    <district>Сочи</district>
+    <id>1012</id>
+  </point>
+  <point>
+    <name>Альтмец</name>
+    <district>Сочи</district>
+    <id>68035</id>
+  </point>
+  <point>
+    <name>Ахштырь</name>
+    <district>Сочи</district>
+    <id>75186</id>
+  </point>
+  <point>
+    <name>Аше</name>
+    <district>Сочи</district>
+    <id>1241</id>
+  </point>
+  <point>
+    <name>Бабук-Аул</name>
+    <district>Сочи</district>
+    <id>75216</id>
+  </point>
+  <point>
+    <name>Барановка (Барановский с.с.)</name>
+    <district>Сочи</district>
+    <id>68103</id>
+  </point>
+  <point>
+    <name>Барановка (Волковский с.с.)</name>
+    <district>Сочи</district>
+    <id>75221</id>
+  </point>
+  <point>
+    <name>Беранда</name>
+    <district>Сочи</district>
+    <id>75241</id>
+  </point>
+  <point>
+    <name>Бестужевское</name>
+    <district>Сочи</district>
+    <id>75202</id>
+  </point>
+  <point>
+    <name>Бзогу</name>
+    <district>Сочи</district>
+    <id>75229</id>
+  </point>
+  <point>
+    <name>Богушевка</name>
+    <district>Сочи</district>
+    <id>68128</id>
+  </point>
+  <point>
+    <name>Большой Кичмай</name>
+    <district>Сочи</district>
+    <id>75243</id>
+  </point>
+  <point>
+    <name>Варваровка</name>
+    <district>Сочи</district>
+    <id>67933</id>
+  </point>
+  <point>
+    <name>Вардане-Верино</name>
+    <district>Сочи</district>
+    <id>75203</id>
+  </point>
+  <point>
+    <name>Вардане</name>
+    <district>Сочи</district>
+    <id>1998</id>
+  </point>
+  <point>
+    <name>Васильевка</name>
+    <district>Сочи</district>
+    <id>75223</id>
+  </point>
+  <point>
+    <name>Верх-Юрт</name>
+    <district>Сочи</district>
+    <id>75217</id>
+  </point>
+  <point>
+    <name>Верхне-Имеретинская Бухта</name>
+    <district>Сочи</district>
+    <id>75201</id>
+  </point>
+  <point>
+    <name>Верхнеармянская Хобза</name>
+    <district>Сочи</district>
+    <id>75192</id>
+  </point>
+  <point>
+    <name>Верхневеселое</name>
+    <district>Сочи</district>
+    <id>75200</id>
+  </point>
+  <point>
+    <name>Верхнее Буу</name>
+    <district>Сочи</district>
+    <id>67918</id>
+  </point>
+  <point>
+    <name>Верхнее Учдере</name>
+    <district>Сочи</district>
+    <id>67976</id>
+  </point>
+  <point>
+    <name>Верхнениколаевское</name>
+    <district>Сочи</district>
+    <id>75204</id>
+  </point>
+  <point>
+    <name>Верхнерусское Лоо</name>
+    <district>Сочи</district>
+    <id>75233</id>
+  </point>
+  <point>
+    <name>Верхнеякорная Щель</name>
+    <district>Сочи</district>
+    <id>67929</id>
+  </point>
+  <point>
+    <name>Верховское</name>
+    <district>Сочи</district>
+    <id>75213</id>
+  </point>
+  <point>
+    <name>Веселое</name>
+    <district>Сочи</district>
+    <id>75189</id>
+  </point>
+  <point>
+    <name>Волковка</name>
+    <district>Сочи</district>
+    <id>67987</id>
+  </point>
+  <point>
+    <name>Волконка</name>
+    <district>Сочи</district>
+    <id>68048</id>
+  </point>
+  <point>
+    <name>Воронцовка</name>
+    <district>Сочи</district>
+    <id>75206</id>
+  </point>
+  <point>
+    <name>Высокое</name>
+    <district>Сочи</district>
+    <id>67889</id>
+  </point>
+  <point>
+    <name>Головинка</name>
+    <district>Сочи</district>
+    <id>2580</id>
+  </point>
+  <point>
+    <name>Горная Карусель (1500)</name>
+    <district>Сочи</district>
+    <id>510468</id>
+  </point>
+  <point>
+    <name>Дагомыс</name>
+    <district>Сочи</district>
+    <id>2778</id>
+  </point>
+  <point>
+    <name>Детляжка</name>
+    <district>Сочи</district>
+    <id>75240</id>
+  </point>
+  <point>
+    <name>Ермоловка</name>
+    <district>Сочи</district>
+    <id>75185</id>
+  </point>
+  <point>
+    <name>Зубова Щель</name>
+    <district>Сочи</district>
+    <id>75247</id>
+  </point>
+  <point>
+    <name>Измайловка</name>
+    <district>Сочи</district>
+    <id>75212</id>
+  </point>
+  <point>
+    <name>Илларионовка</name>
+    <district>Сочи</district>
+    <id>75208</id>
+  </point>
+  <point>
+    <name>Имеретинка (метеостанция)</name>
+    <district>Сочи</district>
+    <id>510463</id>
+  </point>
+  <point>
+    <name>Казачий Брод</name>
+    <district>Сочи</district>
+    <id>75195</id>
+  </point>
+  <point>
+    <name>Калеж</name>
+    <district>Сочи</district>
+    <id>4103</id>
+  </point>
+  <point>
+    <name>Калиновое Озеро</name>
+    <district>Сочи</district>
+    <id>75209</id>
+  </point>
+  <point>
+    <name>Каткова Щель</name>
+    <district>Сочи</district>
+    <id>75248</id>
+  </point>
+  <point>
+    <name>Каштаны</name>
+    <district>Сочи</district>
+    <id>67850</id>
+  </point>
+  <point>
+    <name>Кепша</name>
+    <district>Сочи</district>
+    <id>75183</id>
+  </point>
+  <point>
+    <name>Кордон Лаура</name>
+    <district>Сочи</district>
+    <id>510461</id>
+  </point>
+  <point>
+    <name>Краевско-Армянское</name>
+    <district>Сочи</district>
+    <id>4111</id>
+  </point>
+  <point>
+    <name>Красная Воля</name>
+    <district>Сочи</district>
+    <id>75205</id>
+  </point>
+  <point>
+    <name>Красная Скала</name>
+    <district>Сочи</district>
+    <id>75190</id>
+  </point>
+  <point>
+    <name>Кудепста</name>
+    <district>Сочи</district>
+    <id>4604</id>
+  </point>
+  <point>
+    <name>Лесное</name>
+    <district>Сочи</district>
+    <id>75193</id>
+  </point>
+  <point>
+    <name>Липники</name>
+    <district>Сочи</district>
+    <id>75196</id>
+  </point>
+  <point>
+    <name>Лыготх</name>
+    <district>Сочи</district>
+    <id>68096</id>
+  </point>
+  <point>
+    <name>Малый Кичмай</name>
+    <district>Сочи</district>
+    <id>75242</id>
+  </point>
+  <point>
+    <name>Мамедова Щель</name>
+    <district>Сочи</district>
+    <id>68100</id>
+  </point>
+  <point>
+    <name>Марьино</name>
+    <district>Сочи</district>
+    <id>75244</id>
+  </point>
+  <point>
+    <name>Медовеевка</name>
+    <district>Сочи</district>
+    <id>75182</id>
+  </point>
+  <point>
+    <name>Молдовка</name>
+    <district>Сочи</district>
+    <id>67907</id>
+  </point>
+  <point>
+    <name>Монастырь</name>
+    <district>Сочи</district>
+    <id>67890</id>
+  </point>
+  <point>
+    <name>Наджиго</name>
+    <district>Сочи</district>
+    <id>74147</id>
+  </point>
+  <point>
+    <name>Нижне-Высокое</name>
+    <district>Сочи</district>
+    <id>75198</id>
+  </point>
+  <point>
+    <name>Нижнее Учдере</name>
+    <district>Сочи</district>
+    <id>67931</id>
+  </point>
+  <point>
+    <name>Нижняя Шиловка</name>
+    <district>Сочи</district>
+    <id>75188</id>
+  </point>
+  <point>
+    <name>Новая Заря</name>
+    <district>Сочи</district>
+    <id>75220</id>
+  </point>
+  <point>
+    <name>Орел-Изумруд</name>
+    <district>Сочи</district>
+    <id>67900</id>
+  </point>
+  <point>
+    <name>Отрадное</name>
+    <district>Сочи</district>
+    <id>75237</id>
+  </point>
+  <point>
+    <name>Пластунка</name>
+    <district>Сочи</district>
+    <id>75214</id>
+  </point>
+  <point>
+    <name>Прогресс</name>
+    <district>Сочи</district>
+    <id>68111</id>
+  </point>
+  <point>
+    <name>Разбитый Котел</name>
+    <district>Сочи</district>
+    <id>75225</id>
+  </point>
+  <point>
+    <name>Раздольное</name>
+    <district>Сочи</district>
+    <id>68127</id>
+  </point>
+  <point>
+    <name>Русская Мамайка</name>
+    <district>Сочи</district>
+    <id>75222</id>
+  </point>
+  <point>
+    <name>Семеновка</name>
+    <district>Сочи</district>
+    <id>75210</id>
+  </point>
+  <point>
+    <name>Сергей-Поле</name>
+    <district>Сочи</district>
+    <id>75224</id>
+  </point>
+  <point>
+    <name>Солоники</name>
+    <district>Сочи</district>
+    <id>13915</id>
+  </point>
+  <point>
+    <name>Солохаул</name>
+    <district>Сочи</district>
+    <id>68101</id>
+  </point>
+  <point>
+    <name>Татьяновка</name>
+    <district>Сочи</district>
+    <id>75250</id>
+  </point>
+  <point>
+    <name>Третья Рота</name>
+    <district>Сочи</district>
+    <id>68018</id>
+  </point>
+  <point>
+    <name>Тхагапш</name>
+    <district>Сочи</district>
+    <id>4081</id>
+  </point>
+  <point>
+    <name>Хаджико</name>
+    <district>Сочи</district>
+    <id>68062</id>
+  </point>
+  <point>
+    <name>Харциз 2-й</name>
+    <district>Сочи</district>
+    <id>75234</id>
+  </point>
+  <point>
+    <name>Хлебороб</name>
+    <district>Сочи</district>
+    <id>75207</id>
+  </point>
+  <point>
+    <name>Хоста</name>
+    <district>Сочи</district>
+    <id>8837</id>
+  </point>
+  <point>
+    <name>Чвижепсе</name>
+    <district>Сочи</district>
+    <id>75184</id>
+  </point>
+  <point>
+    <name>Чемитоквадже</name>
+    <district>Сочи</district>
+    <id>75246</id>
+  </point>
+  <point>
+    <name>Черешня</name>
+    <district>Сочи</district>
+    <id>75199</id>
+  </point>
+  <point>
+    <name>Эстосадок</name>
+    <district>Сочи</district>
+    <id>67847</id>
+  </point>
+  <point>
+    <name>Староминская</name>
+    <district>Староминский район</district>
+    <id>7768</id>
+  </point>
+  <point>
+    <name>Восточный Сосык</name>
+    <district>Староминский район</district>
+    <id>141351</id>
+  </point>
+  <point>
+    <name>Канеловская</name>
+    <district>Староминский район</district>
+    <id>92481</id>
+  </point>
+  <point>
+    <name>Новоясенская</name>
+    <district>Староминский район</district>
+    <id>74532</id>
+  </point>
+  <point>
+    <name>Ясени</name>
+    <district>Староминский район</district>
+    <id>74526</id>
+  </point>
+  <point>
+    <name>Веселый</name>
+    <district>Староминский район</district>
+    <id>74761</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Староминский район</district>
+    <id>67012</id>
+  </point>
+  <point>
+    <name>Дальний</name>
+    <district>Староминский район</district>
+    <id>92495</id>
+  </point>
+  <point>
+    <name>Ейский</name>
+    <district>Староминский район</district>
+    <id>92478</id>
+  </point>
+  <point>
+    <name>Желтые Копани</name>
+    <district>Староминский район</district>
+    <id>74525</id>
+  </point>
+  <point>
+    <name>Западный Сосык</name>
+    <district>Староминский район</district>
+    <id>92483</id>
+  </point>
+  <point>
+    <name>Заря</name>
+    <district>Староминский район</district>
+    <id>92502</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Староминский район</district>
+    <id>66987</id>
+  </point>
+  <point>
+    <name>Набережный</name>
+    <district>Староминский район</district>
+    <id>92482</id>
+  </point>
+  <point>
+    <name>Орлово-Кубанский</name>
+    <district>Староминский район</district>
+    <id>74945</id>
+  </point>
+  <point>
+    <name>Придорожный</name>
+    <district>Староминский район</district>
+    <id>92503</id>
+  </point>
+  <point>
+    <name>Рассвет</name>
+    <district>Староминский район</district>
+    <id>92497</id>
+  </point>
+  <point>
+    <name>Тбилисская</name>
+    <district>Тбилисский район</district>
+    <id>8076</id>
+  </point>
+  <point>
+    <name>Алексее-Тенгинская</name>
+    <district>Тбилисский район</district>
+    <id>74186</id>
+  </point>
+  <point>
+    <name>Геймановская</name>
+    <district>Тбилисский район</district>
+    <id>74190</id>
+  </point>
+  <point>
+    <name>Ловлинская</name>
+    <district>Тбилисский район</district>
+    <id>74488</id>
+  </point>
+  <point>
+    <name>Нововладимировские</name>
+    <district>Тбилисский район</district>
+    <id>67061</id>
+  </point>
+  <point>
+    <name>Ванновское</name>
+    <district>Тбилисский район</district>
+    <id>74193</id>
+  </point>
+  <point>
+    <name>Веревкин</name>
+    <district>Тбилисский район</district>
+    <id>74198</id>
+  </point>
+  <point>
+    <name>Верхний</name>
+    <district>Тбилисский район</district>
+    <id>74184</id>
+  </point>
+  <point>
+    <name>Веселый</name>
+    <district>Тбилисский район</district>
+    <id>67028</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Тбилисский район</district>
+    <id>74477</id>
+  </point>
+  <point>
+    <name>Горский</name>
+    <district>Тбилисский район</district>
+    <id>74504</id>
+  </point>
+  <point>
+    <name>Дальний</name>
+    <district>Тбилисский район</district>
+    <id>74182</id>
+  </point>
+  <point>
+    <name>Долинов</name>
+    <district>Тбилисский район</district>
+    <id>74179</id>
+  </point>
+  <point>
+    <name>Дубовиков</name>
+    <district>Тбилисский район</district>
+    <id>74181</id>
+  </point>
+  <point>
+    <name>Екатеринославский</name>
+    <district>Тбилисский район</district>
+    <id>67040</id>
+  </point>
+  <point>
+    <name>Еремин</name>
+    <district>Тбилисский район</district>
+    <id>74506</id>
+  </point>
+  <point>
+    <name>Зайчанский</name>
+    <district>Тбилисский район</district>
+    <id>74180</id>
+  </point>
+  <point>
+    <name>Зиссермановский</name>
+    <district>Тбилисский район</district>
+    <id>74189</id>
+  </point>
+  <point>
+    <name>Зубов</name>
+    <district>Тбилисский район</district>
+    <id>67032</id>
+  </point>
+  <point>
+    <name>Ивановка</name>
+    <district>Тбилисский район</district>
+    <id>74501</id>
+  </point>
+  <point>
+    <name>Красный Зеленчук</name>
+    <district>Тбилисский район</district>
+    <id>74195</id>
+  </point>
+  <point>
+    <name>Марьинский</name>
+    <district>Тбилисский район</district>
+    <id>74178</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Тбилисский район</district>
+    <id>74814</id>
+  </point>
+  <point>
+    <name>Новобекешевская</name>
+    <district>Тбилисский район</district>
+    <id>74503</id>
+  </point>
+  <point>
+    <name>Нововладимировская</name>
+    <district>Тбилисский район</district>
+    <id>74489</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Тбилисский район</district>
+    <id>67076</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Тбилисский район</district>
+    <id>67086</id>
+  </point>
+  <point>
+    <name>Песчаный</name>
+    <district>Тбилисский район</district>
+    <id>74197</id>
+  </point>
+  <point>
+    <name>Причтовый</name>
+    <district>Тбилисский район</district>
+    <id>74185</id>
+  </point>
+  <point>
+    <name>Ромашевка</name>
+    <district>Тбилисский район</district>
+    <id>74502</id>
+  </point>
+  <point>
+    <name>Северин</name>
+    <district>Тбилисский район</district>
+    <id>67092</id>
+  </point>
+  <point>
+    <name>Северокубанский</name>
+    <district>Тбилисский район</district>
+    <id>74194</id>
+  </point>
+  <point>
+    <name>Советский</name>
+    <district>Тбилисский район</district>
+    <id>151341</id>
+  </point>
+  <point>
+    <name>Соколовка</name>
+    <district>Тбилисский район</district>
+    <id>67072</id>
+  </point>
+  <point>
+    <name>Средний</name>
+    <district>Тбилисский район</district>
+    <id>74183</id>
+  </point>
+  <point>
+    <name>Староармянский</name>
+    <district>Тбилисский район</district>
+    <id>74196</id>
+  </point>
+  <point>
+    <name>Терновый</name>
+    <district>Тбилисский район</district>
+    <id>74505</id>
+  </point>
+  <point>
+    <name>Терско-Каламбетский</name>
+    <district>Тбилисский район</district>
+    <id>74177</id>
+  </point>
+  <point>
+    <name>Чернобабов</name>
+    <district>Тбилисский район</district>
+    <id>67074</id>
+  </point>
+  <point>
+    <name>Шевченко</name>
+    <district>Тбилисский район</district>
+    <id>74192</id>
+  </point>
+  <point>
+    <name>Шереметьевское</name>
+    <district>Тбилисский район</district>
+    <id>74188</id>
+  </point>
+  <point>
+    <name>Темрюк</name>
+    <district>Темрюкский район</district>
+    <id>8100</id>
+  </point>
+  <point>
+    <name>Волна</name>
+    <district>Темрюкский район</district>
+    <id>3161</id>
+  </point>
+  <point>
+    <name>Голубицкая</name>
+    <district>Темрюкский район</district>
+    <id>13534</id>
+  </point>
+  <point>
+    <name>Кубанская Устьевая</name>
+    <district>Темрюкский район</district>
+    <id>4585</id>
+  </point>
+  <point>
+    <name>Тамань</name>
+    <district>Темрюкский район</district>
+    <id>3872</id>
+  </point>
+  <point>
+    <name>Артющенко</name>
+    <district>Темрюкский район</district>
+    <id>74518</id>
+  </point>
+  <point>
+    <name>Ахтанизовская</name>
+    <district>Темрюкский район</district>
+    <id>74571</id>
+  </point>
+  <point>
+    <name>Батарейка</name>
+    <district>Темрюкский район</district>
+    <id>67126</id>
+  </point>
+  <point>
+    <name>Белый</name>
+    <district>Темрюкский район</district>
+    <id>74574</id>
+  </point>
+  <point>
+    <name>Береговой</name>
+    <district>Темрюкский район</district>
+    <id>67129</id>
+  </point>
+  <point>
+    <name>Веселовка</name>
+    <district>Темрюкский район</district>
+    <id>13653</id>
+  </point>
+  <point>
+    <name>Виноградный</name>
+    <district>Темрюкский район</district>
+    <id>74520</id>
+  </point>
+  <point>
+    <name>Волна Революции</name>
+    <district>Темрюкский район</district>
+    <id>67233</id>
+  </point>
+  <point>
+    <name>Вышестеблиевская</name>
+    <district>Темрюкский район</district>
+    <id>2468</id>
+  </point>
+  <point>
+    <name>Гаркуша</name>
+    <district>Темрюкский район</district>
+    <id>74519</id>
+  </point>
+  <point>
+    <name>За Родину</name>
+    <district>Темрюкский район</district>
+    <id>67121</id>
+  </point>
+  <point>
+    <name>Закубанский</name>
+    <district>Темрюкский район</district>
+    <id>74595</id>
+  </point>
+  <point>
+    <name>Запорожская</name>
+    <district>Темрюкский район</district>
+    <id>3285</id>
+  </point>
+  <point>
+    <name>Ильич</name>
+    <district>Темрюкский район</district>
+    <id>13654</id>
+  </point>
+  <point>
+    <name>Красноармейский</name>
+    <district>Темрюкский район</district>
+    <id>67137</id>
+  </point>
+  <point>
+    <name>Красный Октябрь</name>
+    <district>Темрюкский район</district>
+    <id>74626</id>
+  </point>
+  <point>
+    <name>Курчанская</name>
+    <district>Темрюкский район</district>
+    <id>74616</id>
+  </point>
+  <point>
+    <name>Кучугуры</name>
+    <district>Темрюкский район</district>
+    <id>13536</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Темрюкский район</district>
+    <id>67099</id>
+  </point>
+  <point>
+    <name>Ордынский</name>
+    <district>Темрюкский район</district>
+    <id>74936</id>
+  </point>
+  <point>
+    <name>Орехов Кут</name>
+    <district>Темрюкский район</district>
+    <id>74594</id>
+  </point>
+  <point>
+    <name>Пересыпь</name>
+    <district>Темрюкский район</district>
+    <id>13535</id>
+  </point>
+  <point>
+    <name>Приазовский</name>
+    <district>Темрюкский район</district>
+    <id>67157</id>
+  </point>
+  <point>
+    <name>Приморский</name>
+    <district>Темрюкский район</district>
+    <id>67205</id>
+  </point>
+  <point>
+    <name>Прогресс</name>
+    <district>Темрюкский район</district>
+    <id>67183</id>
+  </point>
+  <point>
+    <name>Светлый Путь Ленина</name>
+    <district>Темрюкский район</district>
+    <id>74627</id>
+  </point>
+  <point>
+    <name>Сенной</name>
+    <district>Темрюкский район</district>
+    <id>13652</id>
+  </point>
+  <point>
+    <name>Соленый</name>
+    <district>Темрюкский район</district>
+    <id>74570</id>
+  </point>
+  <point>
+    <name>Старотитаровская</name>
+    <district>Темрюкский район</district>
+    <id>7774</id>
+  </point>
+  <point>
+    <name>Стрелка</name>
+    <district>Темрюкский район</district>
+    <id>74575</id>
+  </point>
+  <point>
+    <name>Таманский</name>
+    <district>Темрюкский район</district>
+    <id>74521</id>
+  </point>
+  <point>
+    <name>Фонталовская</name>
+    <district>Темрюкский район</district>
+    <id>74757</id>
+  </point>
+  <point>
+    <name>Чушка</name>
+    <district>Темрюкский район</district>
+    <id>67167</id>
+  </point>
+  <point>
+    <name>Юбилейный</name>
+    <district>Темрюкский район</district>
+    <id>67238</id>
+  </point>
+  <point>
+    <name>Южный Склон</name>
+    <district>Темрюкский район</district>
+    <id>74612</id>
+  </point>
+  <point>
+    <name>Тимашевск</name>
+    <district>Тимашевский район</district>
+    <id>8150</id>
+  </point>
+  <point>
+    <name>Медведовская</name>
+    <district>Тимашевский район</district>
+    <id>5279</id>
+  </point>
+  <point>
+    <name>Незаймановский</name>
+    <district>Тимашевский район</district>
+    <id>74794</id>
+  </point>
+  <point>
+    <name>Новокорсунская</name>
+    <district>Тимашевский район</district>
+    <id>5981</id>
+  </point>
+  <point>
+    <name>Роговская</name>
+    <district>Тимашевский район</district>
+    <id>7102</id>
+  </point>
+  <point>
+    <name>Барыбинский</name>
+    <district>Тимашевский район</district>
+    <id>74800</id>
+  </point>
+  <point>
+    <name>Беднягина</name>
+    <district>Тимашевский район</district>
+    <id>75059</id>
+  </point>
+  <point>
+    <name>Большевик</name>
+    <district>Тимашевский район</district>
+    <id>74818</id>
+  </point>
+  <point>
+    <name>Дербентский</name>
+    <district>Тимашевский район</district>
+    <id>75057</id>
+  </point>
+  <point>
+    <name>Димитрова</name>
+    <district>Тимашевский район</district>
+    <id>67254</id>
+  </point>
+  <point>
+    <name>Днепровская</name>
+    <district>Тимашевский район</district>
+    <id>75037</id>
+  </point>
+  <point>
+    <name>Калинина</name>
+    <district>Тимашевский район</district>
+    <id>75045</id>
+  </point>
+  <point>
+    <name>Карла Маркса</name>
+    <district>Тимашевский район</district>
+    <id>75043</id>
+  </point>
+  <point>
+    <name>Кирпичный</name>
+    <district>Тимашевский район</district>
+    <id>75052</id>
+  </point>
+  <point>
+    <name>Комсомольский</name>
+    <district>Тимашевский район</district>
+    <id>75038</id>
+  </point>
+  <point>
+    <name>Красноармейский (п.)</name>
+    <district>Тимашевский район</district>
+    <id>67285</id>
+  </point>
+  <point>
+    <name>Красноармейский (х.)</name>
+    <district>Тимашевский район</district>
+    <id>67266</id>
+  </point>
+  <point>
+    <name>Красный (п.)</name>
+    <district>Тимашевский район</district>
+    <id>67280</id>
+  </point>
+  <point>
+    <name>Красный (х.)</name>
+    <district>Тимашевский район</district>
+    <id>67332</id>
+  </point>
+  <point>
+    <name>Крупской</name>
+    <district>Тимашевский район</district>
+    <id>67261</id>
+  </point>
+  <point>
+    <name>Кубанский</name>
+    <district>Тимашевский район</district>
+    <id>75035</id>
+  </point>
+  <point>
+    <name>Ленина</name>
+    <district>Тимашевский район</district>
+    <id>75044</id>
+  </point>
+  <point>
+    <name>Ленинский (Медведовский с.с.)</name>
+    <district>Тимашевский район</district>
+    <id>92464</id>
+  </point>
+  <point>
+    <name>Ленинский (Новоленинский с.с.)</name>
+    <district>Тимашевский район</district>
+    <id>74799</id>
+  </point>
+  <point>
+    <name>Лютых</name>
+    <district>Тимашевский район</district>
+    <id>75055</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Тимашевский район</district>
+    <id>67249</id>
+  </point>
+  <point>
+    <name>Некрасова</name>
+    <district>Тимашевский район</district>
+    <id>75051</id>
+  </point>
+  <point>
+    <name>Новый (п.)</name>
+    <district>Тимашевский район</district>
+    <id>67286</id>
+  </point>
+  <point>
+    <name>Новый (х.)</name>
+    <district>Тимашевский район</district>
+    <id>67271</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Тимашевский район</district>
+    <id>67302</id>
+  </point>
+  <point>
+    <name>Ольховский</name>
+    <district>Тимашевский район</district>
+    <id>75046</id>
+  </point>
+  <point>
+    <name>Привокзальный</name>
+    <district>Тимашевский район</district>
+    <id>67346</id>
+  </point>
+  <point>
+    <name>Причтовый</name>
+    <district>Тимашевский район</district>
+    <id>67351</id>
+  </point>
+  <point>
+    <name>Рашпиль</name>
+    <district>Тимашевский район</district>
+    <id>74798</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Тимашевский район</district>
+    <id>67250</id>
+  </point>
+  <point>
+    <name>Советский</name>
+    <district>Тимашевский район</district>
+    <id>3875</id>
+  </point>
+  <point>
+    <name>Стринский</name>
+    <district>Тимашевский район</district>
+    <id>74795</id>
+  </point>
+  <point>
+    <name>Танцура Крамаренко</name>
+    <district>Тимашевский район</district>
+    <id>75054</id>
+  </point>
+  <point>
+    <name>Тополи</name>
+    <district>Тимашевский район</district>
+    <id>75056</id>
+  </point>
+  <point>
+    <name>Алексеевская</name>
+    <district>Тихорецкий район</district>
+    <id>74490</id>
+  </point>
+  <point>
+    <name>Архангельская</name>
+    <district>Тихорецкий район</district>
+    <id>1175</id>
+  </point>
+  <point>
+    <name>Атаманка</name>
+    <district>Тихорецкий район</district>
+    <id>74485</id>
+  </point>
+  <point>
+    <name>Большевик</name>
+    <district>Тихорецкий район</district>
+    <id>74492</id>
+  </point>
+  <point>
+    <name>Братский</name>
+    <district>Тихорецкий район</district>
+    <id>74688</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Тихорецкий район</district>
+    <id>74494</id>
+  </point>
+  <point>
+    <name>Еремизино-Борисовская</name>
+    <district>Тихорецкий район</district>
+    <id>3887</id>
+  </point>
+  <point>
+    <name>Западный (Братский с.с.)</name>
+    <district>Тихорецкий район</district>
+    <id>67352</id>
+  </point>
+  <point>
+    <name>Западный (Парковский с.с.)</name>
+    <district>Тихорецкий район</district>
+    <id>67372</id>
+  </point>
+  <point>
+    <name>Зеленый</name>
+    <district>Тихорецкий район</district>
+    <id>74512</id>
+  </point>
+  <point>
+    <name>Казаче-Борисовский</name>
+    <district>Тихорецкий район</district>
+    <id>74471</id>
+  </point>
+  <point>
+    <name>Карасев</name>
+    <district>Тихорецкий район</district>
+    <id>74470</id>
+  </point>
+  <point>
+    <name>Краснооктябрьская</name>
+    <district>Тихорецкий район</district>
+    <id>74508</id>
+  </point>
+  <point>
+    <name>Красный Борец</name>
+    <district>Тихорецкий район</district>
+    <id>74497</id>
+  </point>
+  <point>
+    <name>Красный Партизан</name>
+    <district>Тихорецкий район</district>
+    <id>74487</id>
+  </point>
+  <point>
+    <name>Красный</name>
+    <district>Тихорецкий район</district>
+    <id>141373</id>
+  </point>
+  <point>
+    <name>Криница</name>
+    <district>Тихорецкий район</district>
+    <id>74511</id>
+  </point>
+  <point>
+    <name>Крутой</name>
+    <district>Тихорецкий район</district>
+    <id>74483</id>
+  </point>
+  <point>
+    <name>Культура</name>
+    <district>Тихорецкий район</district>
+    <id>74469</id>
+  </point>
+  <point>
+    <name>Латыши</name>
+    <district>Тихорецкий район</district>
+    <id>74693</id>
+  </point>
+  <point>
+    <name>Ленинский</name>
+    <district>Тихорецкий район</district>
+    <id>74461</id>
+  </point>
+  <point>
+    <name>Ленинское Возрождение</name>
+    <district>Тихорецкий район</district>
+    <id>74496</id>
+  </point>
+  <point>
+    <name>Малороссийский</name>
+    <district>Тихорецкий район</district>
+    <id>74479</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Тихорецкий район</district>
+    <id>67368</id>
+  </point>
+  <point>
+    <name>Москальчук</name>
+    <district>Тихорецкий район</district>
+    <id>74493</id>
+  </point>
+  <point>
+    <name>Нехворощанский</name>
+    <district>Тихорецкий район</district>
+    <id>74462</id>
+  </point>
+  <point>
+    <name>Новоархангельская</name>
+    <district>Тихорецкий район</district>
+    <id>74491</id>
+  </point>
+  <point>
+    <name>Новорождественская</name>
+    <district>Тихорецкий район</district>
+    <id>74769</id>
+  </point>
+  <point>
+    <name>Новоромановская</name>
+    <district>Тихорецкий район</district>
+    <id>74472</id>
+  </point>
+  <point>
+    <name>Отрадная</name>
+    <district>Тихорецкий район</district>
+    <id>6391</id>
+  </point>
+  <point>
+    <name>Парковый</name>
+    <district>Тихорецкий район</district>
+    <id>74495</id>
+  </point>
+  <point>
+    <name>Полевой</name>
+    <district>Тихорецкий район</district>
+    <id>74480</id>
+  </point>
+  <point>
+    <name>Привольный</name>
+    <district>Тихорецкий район</district>
+    <id>74457</id>
+  </point>
+  <point>
+    <name>Пригородный</name>
+    <district>Тихорецкий район</district>
+    <id>74507</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Тихорецкий район</district>
+    <id>67373</id>
+  </point>
+  <point>
+    <name>Степной</name>
+    <district>Тихорецкий район</district>
+    <id>74481</id>
+  </point>
+  <point>
+    <name>Терновская</name>
+    <district>Тихорецкий район</district>
+    <id>8125</id>
+  </point>
+  <point>
+    <name>Тихонький</name>
+    <district>Тихорецкий район</district>
+    <id>74510</id>
+  </point>
+  <point>
+    <name>Украинский</name>
+    <district>Тихорецкий район</district>
+    <id>74444</id>
+  </point>
+  <point>
+    <name>Урожайный</name>
+    <district>Тихорецкий район</district>
+    <id>74482</id>
+  </point>
+  <point>
+    <name>Усть-Джигутинка</name>
+    <district>Тихорецкий район</district>
+    <id>67416</id>
+  </point>
+  <point>
+    <name>Фастовецкая</name>
+    <district>Тихорецкий район</district>
+    <id>8689</id>
+  </point>
+  <point>
+    <name>Федоренко</name>
+    <district>Тихорецкий район</district>
+    <id>74459</id>
+  </point>
+  <point>
+    <name>Хоперская</name>
+    <district>Тихорецкий район</district>
+    <id>74458</id>
+  </point>
+  <point>
+    <name>Челбас (п.)</name>
+    <district>Тихорецкий район</district>
+    <id>67370</id>
+  </point>
+  <point>
+    <name>Челбас (х.)</name>
+    <district>Тихорецкий район</district>
+    <id>67397</id>
+  </point>
+  <point>
+    <name>Чкалова</name>
+    <district>Тихорецкий район</district>
+    <id>74460</id>
+  </point>
+  <point>
+    <name>Школьный</name>
+    <district>Тихорецкий район</district>
+    <id>74500</id>
+  </point>
+  <point>
+    <name>Шоссейный</name>
+    <district>Тихорецкий район</district>
+    <id>74484</id>
+  </point>
+  <point>
+    <name>Юго-Северная</name>
+    <district>Тихорецкий район</district>
+    <id>74486</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Тихорецкий район</district>
+    <id>74498</id>
+  </point>
+  <point>
+    <name>Тихорецк</name>
+    <district>Тихорецк</district>
+    <id>8176</id>
+  </point>
+  <point>
+    <name>Каменный</name>
+    <district>Тихорецк</district>
+    <id>74509</id>
+  </point>
+  <point>
+    <name>Туапсе</name>
+    <district>Туапсинский район</district>
+    <id>8289</id>
+  </point>
+  <point>
+    <name>Джубга</name>
+    <district>Туапсинский район</district>
+    <id>2861</id>
+  </point>
+  <point>
+    <name>Небуг</name>
+    <district>Туапсинский район</district>
+    <id>67426</id>
+  </point>
+  <point>
+    <name>Новомихайловский</name>
+    <district>Туапсинский район</district>
+    <id>5999</id>
+  </point>
+  <point>
+    <name>Ольгинка</name>
+    <district>Туапсинский район</district>
+    <id>6273</id>
+  </point>
+  <point>
+    <name>Агой</name>
+    <district>Туапсинский район</district>
+    <id>74168</id>
+  </point>
+  <point>
+    <name>Агуй-Шапсуг</name>
+    <district>Туапсинский район</district>
+    <id>67427</id>
+  </point>
+  <point>
+    <name>Алтубинал</name>
+    <district>Туапсинский район</district>
+    <id>74122</id>
+  </point>
+  <point>
+    <name>Анастасиевка</name>
+    <district>Туапсинский район</district>
+    <id>74148</id>
+  </point>
+  <point>
+    <name>Афанасьевский Постик</name>
+    <district>Туапсинский район</district>
+    <id>74164</id>
+  </point>
+  <point>
+    <name>Бжид</name>
+    <district>Туапсинский район</district>
+    <id>92514</id>
+  </point>
+  <point>
+    <name>Большое Псеушхо</name>
+    <district>Туапсинский район</district>
+    <id>74138</id>
+  </point>
+  <point>
+    <name>Вольное</name>
+    <district>Туапсинский район</district>
+    <id>67474</id>
+  </point>
+  <point>
+    <name>Георгиевское</name>
+    <district>Туапсинский район</district>
+    <id>3918</id>
+  </point>
+  <point>
+    <name>Гойтх</name>
+    <district>Туапсинский район</district>
+    <id>74133</id>
+  </point>
+  <point>
+    <name>Горный</name>
+    <district>Туапсинский район</district>
+    <id>2635</id>
+  </point>
+  <point>
+    <name>Горское</name>
+    <district>Туапсинский район</district>
+    <id>92516</id>
+  </point>
+  <point>
+    <name>Греческий</name>
+    <district>Туапсинский район</district>
+    <id>74152</id>
+  </point>
+  <point>
+    <name>Гунайка 1-я</name>
+    <district>Туапсинский район</district>
+    <id>74134</id>
+  </point>
+  <point>
+    <name>Гунайка Четвертая</name>
+    <district>Туапсинский район</district>
+    <id>67433</id>
+  </point>
+  <point>
+    <name>Дедеркой</name>
+    <district>Туапсинский район</district>
+    <id>74157</id>
+  </point>
+  <point>
+    <name>Дефановка</name>
+    <district>Туапсинский район</district>
+    <id>92536</id>
+  </point>
+  <point>
+    <name>Дзеберкой</name>
+    <district>Туапсинский район</district>
+    <id>74158</id>
+  </point>
+  <point>
+    <name>Заречье</name>
+    <district>Туапсинский район</district>
+    <id>74160</id>
+  </point>
+  <point>
+    <name>Индюк</name>
+    <district>Туапсинский район</district>
+    <id>13892</id>
+  </point>
+  <point>
+    <name>Кирпичное</name>
+    <district>Туапсинский район</district>
+    <id>74154</id>
+  </point>
+  <point>
+    <name>Крайняя Щель</name>
+    <district>Туапсинский район</district>
+    <id>74155</id>
+  </point>
+  <point>
+    <name>Красное</name>
+    <district>Туапсинский район</district>
+    <id>74151</id>
+  </point>
+  <point>
+    <name>Кривенковское</name>
+    <district>Туапсинский район</district>
+    <id>74149</id>
+  </point>
+  <point>
+    <name>Кроянское</name>
+    <district>Туапсинский район</district>
+    <id>74159</id>
+  </point>
+  <point>
+    <name>Куйбышевка</name>
+    <district>Туапсинский район</district>
+    <id>74166</id>
+  </point>
+  <point>
+    <name>Лермонтово</name>
+    <district>Туапсинский район</district>
+    <id>13927</id>
+  </point>
+  <point>
+    <name>Магри</name>
+    <district>Туапсинский район</district>
+    <id>510462</id>
+  </point>
+  <point>
+    <name>Майский</name>
+    <district>Туапсинский район</district>
+    <id>92504</id>
+  </point>
+  <point>
+    <name>Макопсе</name>
+    <district>Туапсинский район</district>
+    <id>5124</id>
+  </point>
+  <point>
+    <name>Малое Псеушхо</name>
+    <district>Туапсинский район</district>
+    <id>74143</id>
+  </point>
+  <point>
+    <name>Мессажай</name>
+    <district>Туапсинский район</district>
+    <id>74162</id>
+  </point>
+  <point>
+    <name>Молдавановка</name>
+    <district>Туапсинский район</district>
+    <id>74078</id>
+  </point>
+  <point>
+    <name>Навагинское</name>
+    <district>Туапсинский район</district>
+    <id>74144</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Туапсинский район</district>
+    <id>3924</id>
+  </point>
+  <point>
+    <name>Островская Щель</name>
+    <district>Туапсинский район</district>
+    <id>67469</id>
+  </point>
+  <point>
+    <name>Папоротный</name>
+    <district>Туапсинский район</district>
+    <id>74132</id>
+  </point>
+  <point>
+    <name>Пляхо</name>
+    <district>Туапсинский район</district>
+    <id>67421</id>
+  </point>
+  <point>
+    <name>Подхребтовое</name>
+    <district>Туапсинский район</district>
+    <id>92513</id>
+  </point>
+  <point>
+    <name>Полковничий</name>
+    <district>Туапсинский район</district>
+    <id>92538</id>
+  </point>
+  <point>
+    <name>Пригородный</name>
+    <district>Туапсинский район</district>
+    <id>74161</id>
+  </point>
+  <point>
+    <name>Псебе</name>
+    <district>Туапсинский район</district>
+    <id>92511</id>
+  </point>
+  <point>
+    <name>Садовое</name>
+    <district>Туапсинский район</district>
+    <id>74156</id>
+  </point>
+  <point>
+    <name>Сосновый</name>
+    <district>Туапсинский район</district>
+    <id>92505</id>
+  </point>
+  <point>
+    <name>Тенгинка</name>
+    <district>Туапсинский район</district>
+    <id>92512</id>
+  </point>
+  <point>
+    <name>Терзиян</name>
+    <district>Туапсинский район</district>
+    <id>74129</id>
+  </point>
+  <point>
+    <name>Тюменский</name>
+    <district>Туапсинский район</district>
+    <id>92510</id>
+  </point>
+  <point>
+    <name>Холодный Родник</name>
+    <district>Туапсинский район</district>
+    <id>67432</id>
+  </point>
+  <point>
+    <name>Цыпка</name>
+    <district>Туапсинский район</district>
+    <id>74153</id>
+  </point>
+  <point>
+    <name>Шаумян</name>
+    <district>Туапсинский район</district>
+    <id>35638</id>
+  </point>
+  <point>
+    <name>Шепси</name>
+    <district>Туапсинский район</district>
+    <id>13541</id>
+  </point>
+  <point>
+    <name>Шубинка</name>
+    <district>Туапсинский район</district>
+    <id>74135</id>
+  </point>
+  <point>
+    <name>Успенское</name>
+    <district>Успенский район</district>
+    <id>8528</id>
+  </point>
+  <point>
+    <name>Коноково</name>
+    <district>Успенский район</district>
+    <id>74301</id>
+  </point>
+  <point>
+    <name>Маламино</name>
+    <district>Успенский район</district>
+    <id>74287</id>
+  </point>
+  <point>
+    <name>Марьино</name>
+    <district>Успенский район</district>
+    <id>74308</id>
+  </point>
+  <point>
+    <name>Трехсельское</name>
+    <district>Успенский район</district>
+    <id>3933</id>
+  </point>
+  <point>
+    <name>Белецкий</name>
+    <district>Успенский район</district>
+    <id>74294</id>
+  </point>
+  <point>
+    <name>Веселый</name>
+    <district>Успенский район</district>
+    <id>74290</id>
+  </point>
+  <point>
+    <name>Вольное</name>
+    <district>Успенский район</district>
+    <id>74313</id>
+  </point>
+  <point>
+    <name>Вольность</name>
+    <district>Успенский район</district>
+    <id>67486</id>
+  </point>
+  <point>
+    <name>Воронежский</name>
+    <district>Успенский район</district>
+    <id>67487</id>
+  </point>
+  <point>
+    <name>Державный</name>
+    <district>Успенский район</district>
+    <id>67490</id>
+  </point>
+  <point>
+    <name>Дивный</name>
+    <district>Успенский район</district>
+    <id>74323</id>
+  </point>
+  <point>
+    <name>Западный</name>
+    <district>Успенский район</district>
+    <id>74299</id>
+  </point>
+  <point>
+    <name>Заречный</name>
+    <district>Успенский район</district>
+    <id>74324</id>
+  </point>
+  <point>
+    <name>Карс</name>
+    <district>Успенский район</district>
+    <id>74283</id>
+  </point>
+  <point>
+    <name>Коноковский</name>
+    <district>Успенский район</district>
+    <id>74304</id>
+  </point>
+  <point>
+    <name>Кургоковский</name>
+    <district>Успенский район</district>
+    <id>74288</id>
+  </point>
+  <point>
+    <name>Лесной</name>
+    <district>Успенский район</district>
+    <id>74289</id>
+  </point>
+  <point>
+    <name>Лок</name>
+    <district>Успенский район</district>
+    <id>74285</id>
+  </point>
+  <point>
+    <name>Мичуринский</name>
+    <district>Успенский район</district>
+    <id>74293</id>
+  </point>
+  <point>
+    <name>Николаевская</name>
+    <district>Успенский район</district>
+    <id>74284</id>
+  </point>
+  <point>
+    <name>Новенький</name>
+    <district>Успенский район</district>
+    <id>74314</id>
+  </point>
+  <point>
+    <name>Новоурупское</name>
+    <district>Успенский район</district>
+    <id>74349</id>
+  </point>
+  <point>
+    <name>Пантелеймоновское</name>
+    <district>Успенский район</district>
+    <id>74350</id>
+  </point>
+  <point>
+    <name>Первокубанский</name>
+    <district>Успенский район</district>
+    <id>74282</id>
+  </point>
+  <point>
+    <name>Подковский</name>
+    <district>Успенский район</district>
+    <id>74291</id>
+  </point>
+  <point>
+    <name>Приозерный</name>
+    <district>Успенский район</district>
+    <id>74300</id>
+  </point>
+  <point>
+    <name>Серединский</name>
+    <district>Успенский район</district>
+    <id>74295</id>
+  </point>
+  <point>
+    <name>Убеженская</name>
+    <district>Успенский район</district>
+    <id>74309</id>
+  </point>
+  <point>
+    <name>Украинский</name>
+    <district>Успенский район</district>
+    <id>74298</id>
+  </point>
+  <point>
+    <name>Урупский</name>
+    <district>Успенский район</district>
+    <id>74307</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Успенский район</district>
+    <id>74297</id>
+  </point>
+  <point>
+    <name>Усть-Лабинск</name>
+    <district>Усть-Лабинский район</district>
+    <id>8595</id>
+  </point>
+  <point>
+    <name>Кирпильская</name>
+    <district>Усть-Лабинский район</district>
+    <id>4023</id>
+  </point>
+  <point>
+    <name>Ладожская</name>
+    <district>Усть-Лабинский район</district>
+    <id>4802</id>
+  </point>
+  <point>
+    <name>Новолабинская</name>
+    <district>Усть-Лабинский район</district>
+    <id>74862</id>
+  </point>
+  <point>
+    <name>Тенгинская</name>
+    <district>Усть-Лабинский район</district>
+    <id>3946</id>
+  </point>
+  <point>
+    <name>Александровский</name>
+    <district>Усть-Лабинский район</district>
+    <id>74175</id>
+  </point>
+  <point>
+    <name>Безлесный</name>
+    <district>Усть-Лабинский район</district>
+    <id>3945</id>
+  </point>
+  <point>
+    <name>Болгов</name>
+    <district>Усть-Лабинский район</district>
+    <id>74840</id>
+  </point>
+  <point>
+    <name>Братский</name>
+    <district>Усть-Лабинский район</district>
+    <id>13904</id>
+  </point>
+  <point>
+    <name>Вимовец</name>
+    <district>Усть-Лабинский район</district>
+    <id>3944</id>
+  </point>
+  <point>
+    <name>Воронежская</name>
+    <district>Усть-Лабинский район</district>
+    <id>74842</id>
+  </point>
+  <point>
+    <name>Восточная</name>
+    <district>Усть-Лабинский район</district>
+    <id>74828</id>
+  </point>
+  <point>
+    <name>Двубратский</name>
+    <district>Усть-Лабинский район</district>
+    <id>74834</id>
+  </point>
+  <point>
+    <name>Железный</name>
+    <district>Усть-Лабинский район</district>
+    <id>74835</id>
+  </point>
+  <point>
+    <name>Заречный</name>
+    <district>Усть-Лабинский район</district>
+    <id>74846</id>
+  </point>
+  <point>
+    <name>Кадухин</name>
+    <district>Усть-Лабинский район</district>
+    <id>74847</id>
+  </point>
+  <point>
+    <name>Калининский</name>
+    <district>Усть-Лабинский район</district>
+    <id>74176</id>
+  </point>
+  <point>
+    <name>Красный</name>
+    <district>Усть-Лабинский район</district>
+    <id>67503</id>
+  </point>
+  <point>
+    <name>Кубанский</name>
+    <district>Усть-Лабинский район</district>
+    <id>74841</id>
+  </point>
+  <point>
+    <name>Неелинский</name>
+    <district>Усть-Лабинский район</district>
+    <id>74833</id>
+  </point>
+  <point>
+    <name>Некрасовская</name>
+    <district>Усть-Лабинский район</district>
+    <id>74848</id>
+  </point>
+  <point>
+    <name>Новоекатериновка</name>
+    <district>Усть-Лабинский район</district>
+    <id>67535</id>
+  </point>
+  <point>
+    <name>Новониколаевка</name>
+    <district>Усть-Лабинский район</district>
+    <id>74173</id>
+  </point>
+  <point>
+    <name>Огонек</name>
+    <district>Усть-Лабинский район</district>
+    <id>74845</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Усть-Лабинский район</district>
+    <id>74832</id>
+  </point>
+  <point>
+    <name>Потаенный</name>
+    <district>Усть-Лабинский район</district>
+    <id>67571</id>
+  </point>
+  <point>
+    <name>Пятихатский</name>
+    <district>Усть-Лабинский район</district>
+    <id>74174</id>
+  </point>
+  <point>
+    <name>Саратовский</name>
+    <district>Усть-Лабинский район</district>
+    <id>67561</id>
+  </point>
+  <point>
+    <name>Свободный</name>
+    <district>Усть-Лабинский район</district>
+    <id>74827</id>
+  </point>
+  <point>
+    <name>Семеновка</name>
+    <district>Усть-Лабинский район</district>
+    <id>74172</id>
+  </point>
+  <point>
+    <name>Семенов</name>
+    <district>Усть-Лабинский район</district>
+    <id>67527</id>
+  </point>
+  <point>
+    <name>Согласный</name>
+    <district>Усть-Лабинский район</district>
+    <id>67506</id>
+  </point>
+  <point>
+    <name>Суворовское</name>
+    <district>Усть-Лабинский район</district>
+    <id>74836</id>
+  </point>
+  <point>
+    <name>Финогеновский</name>
+    <district>Усть-Лабинский район</district>
+    <id>67524</id>
+  </point>
+  <point>
+    <name>Херсонский</name>
+    <district>Усть-Лабинский район</district>
+    <id>67552</id>
+  </point>
+  <point>
+    <name>Южный</name>
+    <district>Усть-Лабинский район</district>
+    <id>74829</id>
+  </point>
+  <point>
+    <name>Восточный</name>
+    <district>Щербиновский район</district>
+    <id>74538</id>
+  </point>
+  <point>
+    <name>Глафировка</name>
+    <district>Щербиновский район</district>
+    <id>74942</id>
+  </point>
+  <point>
+    <name>Ейское Укрепление</name>
+    <district>Щербиновский район</district>
+    <id>74940</id>
+  </point>
+  <point>
+    <name>Екатериновка</name>
+    <district>Щербиновский район</district>
+    <id>74939</id>
+  </point>
+  <point>
+    <name>Красный Дар</name>
+    <district>Щербиновский район</district>
+    <id>67572</id>
+  </point>
+  <point>
+    <name>Любимов</name>
+    <district>Щербиновский район</district>
+    <id>14036</id>
+  </point>
+  <point>
+    <name>Молчановка</name>
+    <district>Щербиновский район</district>
+    <id>74944</id>
+  </point>
+  <point>
+    <name>Николаевка</name>
+    <district>Щербиновский район</district>
+    <id>74941</id>
+  </point>
+  <point>
+    <name>Новощербиновская</name>
+    <district>Щербиновский район</district>
+    <id>6066</id>
+  </point>
+  <point>
+    <name>Новый Путь</name>
+    <district>Щербиновский район</district>
+    <id>74943</id>
+  </point>
+  <point>
+    <name>Прилиманский</name>
+    <district>Щербиновский район</district>
+    <id>67622</id>
+  </point>
+  <point>
+    <name>Северный</name>
+    <district>Щербиновский район</district>
+    <id>67573</id>
+  </point>
+  <point>
+    <name>Старощербиновская</name>
+    <district>Щербиновский район</district>
+    <id>7779</id>
+  </point>
+  <point>
+    <name>Шабельское</name>
+    <district>Щербиновский район</district>
+    <id>9112</id>
+  </point>
+  <point>
+    <name>Щербиновский</name>
+    <district>Щербиновский район</district>
+    <id>74540</id>
+  </point>
+</region>

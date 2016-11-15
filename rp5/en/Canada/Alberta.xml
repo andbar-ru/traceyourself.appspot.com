@@ -1,0 +1,3959 @@
+<region name="Alberta" count="672">
+  <point>
+    <name>Acadia Valley</name>
+    <district>Acadia</district>
+    <id>339227</id>
+  </point>
+  <point>
+    <name>Altario</name>
+    <district>Acadia</district>
+    <id>342235</id>
+  </point>
+  <point>
+    <name>Atlee</name>
+    <district>Acadia</district>
+    <id>338480</id>
+  </point>
+  <point>
+    <name>Oyen (AWS)</name>
+    <district>Acadia</district>
+    <id>338990</id>
+  </point>
+  <point>
+    <name>Pollockville</name>
+    <district>Acadia</district>
+    <id>339055</id>
+  </point>
+  <point>
+    <name>Big Stone</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>344017</id>
+  </point>
+  <point>
+    <name>Bindloss</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>344994</id>
+  </point>
+  <point>
+    <name>Buffalo</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>345435</id>
+  </point>
+  <point>
+    <name>Cereal</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>345787</id>
+  </point>
+  <point>
+    <name>Cessford</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>346649</id>
+  </point>
+  <point>
+    <name>Chinook</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>347076</id>
+  </point>
+  <point>
+    <name>Compeer</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>347830</id>
+  </point>
+  <point>
+    <name>Consort</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>339090</id>
+  </point>
+  <point>
+    <name>Dorothy</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>341621</id>
+  </point>
+  <point>
+    <name>Empress</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>341652</id>
+  </point>
+  <point>
+    <name>Esther (AWS)</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>339073</id>
+  </point>
+  <point>
+    <name>Finnegan</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>341660</id>
+  </point>
+  <point>
+    <name>Hanna</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>341664</id>
+  </point>
+  <point>
+    <name>Hemaruka (weather station)</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>338632</id>
+  </point>
+  <point>
+    <name>Iddesleigh</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>341666</id>
+  </point>
+  <point>
+    <name>Jenner</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>341668</id>
+  </point>
+  <point>
+    <name>Kirriemuir</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>341690</id>
+  </point>
+  <point>
+    <name>Monitor</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>341753</id>
+  </point>
+  <point>
+    <name>New Brigden</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>342236</id>
+  </point>
+  <point>
+    <name>Sedalia</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>338938</id>
+  </point>
+  <point>
+    <name>Sibbald</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>342737</id>
+  </point>
+  <point>
+    <name>Spondin (weather station)</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>338925</id>
+  </point>
+  <point>
+    <name>Sunnynook</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>342935</id>
+  </point>
+  <point>
+    <name>Veteran</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>343089</id>
+  </point>
+  <point>
+    <name>Wardlow</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>343218</id>
+  </point>
+  <point>
+    <name>Youngstown</name>
+    <region>Alberta</region>
+    <district>Acadia</district>
+    <id>343518</id>
+  </point>
+  <point>
+    <name>Athabasca</name>
+    <district>Athabasca</district>
+    <id>339046</id>
+  </point>
+  <point>
+    <name>Abee (AWS)</name>
+    <district>Athabasca</district>
+    <id>339034</id>
+  </point>
+  <point>
+    <name>Atmore</name>
+    <district>Athabasca</district>
+    <id>339032</id>
+  </point>
+  <point>
+    <name>Dapp (AWS)</name>
+    <district>Athabasca</district>
+    <id>338992</id>
+  </point>
+  <point>
+    <name>Tawatinaw</name>
+    <district>Athabasca</district>
+    <id>338798</id>
+  </point>
+  <point>
+    <name>Alberta Beach</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344018</id>
+  </point>
+  <point>
+    <name>Barrhead</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>339217</id>
+  </point>
+  <point>
+    <name>Bloomsbury</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>343887</id>
+  </point>
+  <point>
+    <name>Blue Ridge</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>343912</id>
+  </point>
+  <point>
+    <name>Boyle</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>343924</id>
+  </point>
+  <point>
+    <name>Breynat</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>343946</id>
+  </point>
+  <point>
+    <name>Busby</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>339035</id>
+  </point>
+  <point>
+    <name>Camp Creek</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>343954</id>
+  </point>
+  <point>
+    <name>Campsie</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>510485</id>
+  </point>
+  <point>
+    <name>Caslan</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>343990</id>
+  </point>
+  <point>
+    <name>Cherhill</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344001</id>
+  </point>
+  <point>
+    <name>Clyde</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344019</id>
+  </point>
+  <point>
+    <name>Colinton</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344075</id>
+  </point>
+  <point>
+    <name>Darwell</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344085</id>
+  </point>
+  <point>
+    <name>Egremont</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344086</id>
+  </point>
+  <point>
+    <name>Ellscott</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344114</id>
+  </point>
+  <point>
+    <name>Fawcett</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344122</id>
+  </point>
+  <point>
+    <name>Fort Assiniboine</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>338861</id>
+  </point>
+  <point>
+    <name>Glenevis</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>338845</id>
+  </point>
+  <point>
+    <name>Grassland</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344123</id>
+  </point>
+  <point>
+    <name>Gunn</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344138</id>
+  </point>
+  <point>
+    <name>Island Lake</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344147</id>
+  </point>
+  <point>
+    <name>Island Lake South</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344202</id>
+  </point>
+  <point>
+    <name>Jarvie</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344264</id>
+  </point>
+  <point>
+    <name>Lake Isle</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344270</id>
+  </point>
+  <point>
+    <name>Lone Pine</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344310</id>
+  </point>
+  <point>
+    <name>Mayerthorpe</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344356</id>
+  </point>
+  <point>
+    <name>Neerlandia</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344473</id>
+  </point>
+  <point>
+    <name>Nestow</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344491</id>
+  </point>
+  <point>
+    <name>Newbrook</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344502</id>
+  </point>
+  <point>
+    <name>Onoway</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344503</id>
+  </point>
+  <point>
+    <name>Opal</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344519</id>
+  </point>
+  <point>
+    <name>Perryvale</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344527</id>
+  </point>
+  <point>
+    <name>Pickardville</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344528</id>
+  </point>
+  <point>
+    <name>Radway</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>338802</id>
+  </point>
+  <point>
+    <name>Rochester</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344537</id>
+  </point>
+  <point>
+    <name>Rochfort Bridge</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344567</id>
+  </point>
+  <point>
+    <name>Sangudo</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344568</id>
+  </point>
+  <point>
+    <name>South Baptiste</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344587</id>
+  </point>
+  <point>
+    <name>Sunset Beach</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344614</id>
+  </point>
+  <point>
+    <name>Thorhild</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344637</id>
+  </point>
+  <point>
+    <name>Tiger Lily</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344641</id>
+  </point>
+  <point>
+    <name>Vega</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344642</id>
+  </point>
+  <point>
+    <name>Vimy</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344657</id>
+  </point>
+  <point>
+    <name>Wandering River</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344673</id>
+  </point>
+  <point>
+    <name>West Baptiste</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344675</id>
+  </point>
+  <point>
+    <name>Westlock</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>344676</id>
+  </point>
+  <point>
+    <name>Whispering Hills</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>346366</id>
+  </point>
+  <point>
+    <name>White Gull</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>346377</id>
+  </point>
+  <point>
+    <name>Whitecourt (airport)</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>338524</id>
+  </point>
+  <point>
+    <name>Whitecourt (AWS)</name>
+    <region>Alberta</region>
+    <district>Athabasca</district>
+    <id>339058</id>
+  </point>
+  <point>
+    <name>Atikameg</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347736</id>
+  </point>
+  <point>
+    <name>Bear Canyon</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347772</id>
+  </point>
+  <point>
+    <name>Buffalo Head Prairie</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347785</id>
+  </point>
+  <point>
+    <name>Cadotte Lake</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347786</id>
+  </point>
+  <point>
+    <name>Calling Lake</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347787</id>
+  </point>
+  <point>
+    <name>Canyon Creek</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347789</id>
+  </point>
+  <point>
+    <name>Carcajou</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347790</id>
+  </point>
+  <point>
+    <name>Chateh</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347791</id>
+  </point>
+  <point>
+    <name>Cherry Point</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347792</id>
+  </point>
+  <point>
+    <name>Chisholm Mills</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347793</id>
+  </point>
+  <point>
+    <name>Cleardale</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>339092</id>
+  </point>
+  <point>
+    <name>Deadwood</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347794</id>
+  </point>
+  <point>
+    <name>Dixonville</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347795</id>
+  </point>
+  <point>
+    <name>Driftpile</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347796</id>
+  </point>
+  <point>
+    <name>Enilda</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347797</id>
+  </point>
+  <point>
+    <name>Eureka River</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347798</id>
+  </point>
+  <point>
+    <name>Faust</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347799</id>
+  </point>
+  <point>
+    <name>Flatbush</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347800</id>
+  </point>
+  <point>
+    <name>Fort Vermilion</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>339245</id>
+  </point>
+  <point>
+    <name>Fox Lake</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347801</id>
+  </point>
+  <point>
+    <name>Gift Lake</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347802</id>
+  </point>
+  <point>
+    <name>Grouard</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347803</id>
+  </point>
+  <point>
+    <name>Gundy</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347804</id>
+  </point>
+  <point>
+    <name>Hawk Hills (weather station)</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>338838</id>
+  </point>
+  <point>
+    <name>High Level (airport)</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>339212</id>
+  </point>
+  <point>
+    <name>High Prairie</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>339087</id>
+  </point>
+  <point>
+    <name>Hines Creek</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347805</id>
+  </point>
+  <point>
+    <name>Hondo</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347806</id>
+  </point>
+  <point>
+    <name>Hotchkiss</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347807</id>
+  </point>
+  <point>
+    <name>John d'or Prairie</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347808</id>
+  </point>
+  <point>
+    <name>Joussard</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347809</id>
+  </point>
+  <point>
+    <name>Keg River</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347810</id>
+  </point>
+  <point>
+    <name>Kinuso</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347811</id>
+  </point>
+  <point>
+    <name>La Crète</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>338805</id>
+  </point>
+  <point>
+    <name>Manning</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>339084</id>
+  </point>
+  <point>
+    <name>Marie Reine</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347812</id>
+  </point>
+  <point>
+    <name>Meander River</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347813</id>
+  </point>
+  <point>
+    <name>Nampa</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347814</id>
+  </point>
+  <point>
+    <name>North Star</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347815</id>
+  </point>
+  <point>
+    <name>Notikewin</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347816</id>
+  </point>
+  <point>
+    <name>Paddle Prairie</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347817</id>
+  </point>
+  <point>
+    <name>Peerless Lake</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347818</id>
+  </point>
+  <point>
+    <name>Rainbow Lake</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347819</id>
+  </point>
+  <point>
+    <name>Red Earth Creek</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>339068</id>
+  </point>
+  <point>
+    <name>Slave Lake</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>429794</id>
+  </point>
+  <point>
+    <name>Slave Lake (airport)</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>339209</id>
+  </point>
+  <point>
+    <name>Slave Lake (Rcs)</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>510226</id>
+  </point>
+  <point>
+    <name>Smith</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347820</id>
+  </point>
+  <point>
+    <name>St. Isidore</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347821</id>
+  </point>
+  <point>
+    <name>Sunset House</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347822</id>
+  </point>
+  <point>
+    <name>Swan Hills</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347823</id>
+  </point>
+  <point>
+    <name>Trout Lake</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347824</id>
+  </point>
+  <point>
+    <name>Wabasca</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347825</id>
+  </point>
+  <point>
+    <name>Widewater</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347826</id>
+  </point>
+  <point>
+    <name>Worsley</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347827</id>
+  </point>
+  <point>
+    <name>Zama City</name>
+    <region>Alberta</region>
+    <district>Big Lakes</district>
+    <id>347828</id>
+  </point>
+  <point>
+    <name>Calgary</name>
+    <district>Calgary</district>
+    <id>338566</id>
+  </point>
+  <point>
+    <name>Beiseker</name>
+    <district>Calgary</district>
+    <id>339260</id>
+  </point>
+  <point>
+    <name>Calgary (AWS)</name>
+    <district>Calgary</district>
+    <id>338942</id>
+  </point>
+  <point>
+    <name>Calgary (airport)</name>
+    <district>Calgary</district>
+    <id>508065</id>
+  </point>
+  <point>
+    <name>Sundre (AWS)</name>
+    <district>Calgary</district>
+    <id>339066</id>
+  </point>
+  <point>
+    <name>Airdrie</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>347829</id>
+  </point>
+  <point>
+    <name>Aldersyde</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>341669</id>
+  </point>
+  <point>
+    <name>Azure</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>338484</id>
+  </point>
+  <point>
+    <name>Balzac</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>341670</id>
+  </point>
+  <point>
+    <name>Black Diamond</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>338483</id>
+  </point>
+  <point>
+    <name>Blackie</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>341671</id>
+  </point>
+  <point>
+    <name>Bragg Creek</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>341672</id>
+  </point>
+  <point>
+    <name>Carstairs</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343870</id>
+  </point>
+  <point>
+    <name>Cayley</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343873</id>
+  </point>
+  <point>
+    <name>Chestermere</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343874</id>
+  </point>
+  <point>
+    <name>Cochrane</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343915</id>
+  </point>
+  <point>
+    <name>Cop Upper</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>339078</id>
+  </point>
+  <point>
+    <name>Cremona</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343947</id>
+  </point>
+  <point>
+    <name>Crossfield</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343948</id>
+  </point>
+  <point>
+    <name>Dalemead</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343949</id>
+  </point>
+  <point>
+    <name>De Winton</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343950</id>
+  </point>
+  <point>
+    <name>Delacour</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343951</id>
+  </point>
+  <point>
+    <name>Didsbury</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343952</id>
+  </point>
+  <point>
+    <name>High River</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>343953</id>
+  </point>
+  <point>
+    <name>Hill Spring</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344002</id>
+  </point>
+  <point>
+    <name>Irricana</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344003</id>
+  </point>
+  <point>
+    <name>Kathyrn</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344004</id>
+  </point>
+  <point>
+    <name>Keoma</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344005</id>
+  </point>
+  <point>
+    <name>Langdon</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344006</id>
+  </point>
+  <point>
+    <name>Longview</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344007</id>
+  </point>
+  <point>
+    <name>Madden</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344008</id>
+  </point>
+  <point>
+    <name>Millarville</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344009</id>
+  </point>
+  <point>
+    <name>Neir (weather station)</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>338850</id>
+  </point>
+  <point>
+    <name>Okotoks</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344010</id>
+  </point>
+  <point>
+    <name>Olds</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>339056</id>
+  </point>
+  <point>
+    <name>Pekisko</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>338729</id>
+  </point>
+  <point>
+    <name>Priddis</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344087</id>
+  </point>
+  <point>
+    <name>Redwood Meadows</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344088</id>
+  </point>
+  <point>
+    <name>Rocky View</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344089</id>
+  </point>
+  <point>
+    <name>Springbank (airport)</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>338580</id>
+  </point>
+  <point>
+    <name>Tsuu T'ina</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344099</id>
+  </point>
+  <point>
+    <name>Turner Valley</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344100</id>
+  </point>
+  <point>
+    <name>Water Valley</name>
+    <region>Alberta</region>
+    <district>Calgary</district>
+    <id>344101</id>
+  </point>
+  <point>
+    <name>Camrose</name>
+    <district>Camrose</district>
+    <id>339060</id>
+  </point>
+  <point>
+    <name>Bruderheim</name>
+    <district>Camrose</district>
+    <id>344115</id>
+  </point>
+  <point>
+    <name>Ferintosh</name>
+    <district>Camrose</district>
+    <id>338725</id>
+  </point>
+  <point>
+    <name>Holden</name>
+    <district>Camrose</district>
+    <id>339086</id>
+  </point>
+  <point>
+    <name>Vegreville (AWS)</name>
+    <district>Camrose</district>
+    <id>338885</id>
+  </point>
+  <point>
+    <name>Andrew</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>339033</id>
+  </point>
+  <point>
+    <name>Armena</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344102</id>
+  </point>
+  <point>
+    <name>Bashaw</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344103</id>
+  </point>
+  <point>
+    <name>Bawlf</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344104</id>
+  </point>
+  <point>
+    <name>Beauvallon</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344105</id>
+  </point>
+  <point>
+    <name>Bittern Lake</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344107</id>
+  </point>
+  <point>
+    <name>Blackfoot</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344109</id>
+  </point>
+  <point>
+    <name>Brosseau</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344112</id>
+  </point>
+  <point>
+    <name>Bruce</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344113</id>
+  </point>
+  <point>
+    <name>Chipman</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344278</id>
+  </point>
+  <point>
+    <name>Clandonald</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344279</id>
+  </point>
+  <point>
+    <name>Derwent</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344280</id>
+  </point>
+  <point>
+    <name>Dewberry</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>338973</id>
+  </point>
+  <point>
+    <name>Edberg</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344281</id>
+  </point>
+  <point>
+    <name>Elk Island National Park</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>339075</id>
+  </point>
+  <point>
+    <name>Gilt Edge North (weather station)</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>338634</id>
+  </point>
+  <point>
+    <name>Hairy Hill</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344282</id>
+  </point>
+  <point>
+    <name>Hay Lakes</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344283</id>
+  </point>
+  <point>
+    <name>Hilliard</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344284</id>
+  </point>
+  <point>
+    <name>Innisfree</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344285</id>
+  </point>
+  <point>
+    <name>Islay</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344286</id>
+  </point>
+  <point>
+    <name>Kelsey</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344287</id>
+  </point>
+  <point>
+    <name>Kingman</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344288</id>
+  </point>
+  <point>
+    <name>Kinsella</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344289</id>
+  </point>
+  <point>
+    <name>Kitscoty</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>338628</id>
+  </point>
+  <point>
+    <name>Lamont</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344290</id>
+  </point>
+  <point>
+    <name>Lavoy</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344291</id>
+  </point>
+  <point>
+    <name>Lloydminster</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344292</id>
+  </point>
+  <point>
+    <name>Mannville</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>339228</id>
+  </point>
+  <point>
+    <name>Marwayne</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344504</id>
+  </point>
+  <point>
+    <name>McLaughlin</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344505</id>
+  </point>
+  <point>
+    <name>Meeting Creek</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344506</id>
+  </point>
+  <point>
+    <name>Minburn</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344507</id>
+  </point>
+  <point>
+    <name>Mundare</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>338978</id>
+  </point>
+  <point>
+    <name>Musidora</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344508</id>
+  </point>
+  <point>
+    <name>Myrnam</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>339213</id>
+  </point>
+  <point>
+    <name>New Norway</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344509</id>
+  </point>
+  <point>
+    <name>Ohaton</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344510</id>
+  </point>
+  <point>
+    <name>Paradise Valley</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344511</id>
+  </point>
+  <point>
+    <name>Ranfurly</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344512</id>
+  </point>
+  <point>
+    <name>Rivercourse</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>339183</id>
+  </point>
+  <point>
+    <name>Rosalind</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>339106</id>
+  </point>
+  <point>
+    <name>Round Hill</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344513</id>
+  </point>
+  <point>
+    <name>Ryley</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344514</id>
+  </point>
+  <point>
+    <name>Shonts (weather station)</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>338933</id>
+  </point>
+  <point>
+    <name>St. Michael</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344515</id>
+  </point>
+  <point>
+    <name>Star</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344516</id>
+  </point>
+  <point>
+    <name>Streamstown</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344517</id>
+  </point>
+  <point>
+    <name>Tofield</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344518</id>
+  </point>
+  <point>
+    <name>Tulliby Lake</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>338582</id>
+  </point>
+  <point>
+    <name>Two Hills (AWS)</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>339042</id>
+  </point>
+  <point>
+    <name>Vermilion</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>339040</id>
+  </point>
+  <point>
+    <name>Viking</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>338558</id>
+  </point>
+  <point>
+    <name>Willingdon</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344529</id>
+  </point>
+  <point>
+    <name>Wostok</name>
+    <region>Alberta</region>
+    <district>Camrose</district>
+    <id>344530</id>
+  </point>
+  <point>
+    <name>Canmore</name>
+    <district>Canmore</district>
+    <id>341448</id>
+  </point>
+  <point>
+    <name>Banff (AWS)</name>
+    <district>Canmore</district>
+    <id>339168</id>
+  </point>
+  <point>
+    <name>Jasper (AWS)</name>
+    <district>Canmore</district>
+    <id>338858</id>
+  </point>
+  <point>
+    <name>Turtle mountain</name>
+    <district>Canmore</district>
+    <id>339064</id>
+  </point>
+  <point>
+    <name>Yoho Park (AWS)</name>
+    <district>Canmore</district>
+    <id>338638</id>
+  </point>
+  <point>
+    <name>Bellevue</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344535</id>
+  </point>
+  <point>
+    <name>Blairmore</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344536</id>
+  </point>
+  <point>
+    <name>Bow Valley (AWS)</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>339081</id>
+  </point>
+  <point>
+    <name>Coleman</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344615</id>
+  </point>
+  <point>
+    <name>Crowsnest (AWS)</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>339077</id>
+  </point>
+  <point>
+    <name>Dead Man's Flats</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344616</id>
+  </point>
+  <point>
+    <name>Exshaw</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344617</id>
+  </point>
+  <point>
+    <name>Harvie Heights</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344618</id>
+  </point>
+  <point>
+    <name>Hillcrest Mines</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344619</id>
+  </point>
+  <point>
+    <name>Kananaskis</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344620</id>
+  </point>
+  <point>
+    <name>Lac des Arcs</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344621</id>
+  </point>
+  <point>
+    <name>Lake Louise</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344622</id>
+  </point>
+  <point>
+    <name>Morley</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>344623</id>
+  </point>
+  <point>
+    <name>Nakiska Ridgetop</name>
+    <region>Alberta</region>
+    <district>Canmore</district>
+    <id>339069</id>
+  </point>
+  <point>
+    <name>Edmonton / City Centre (airport)</name>
+    <district>Edmonton</district>
+    <id>338564</id>
+  </point>
+  <point>
+    <name>Edmonton (weather station)</name>
+    <district>Edmonton</district>
+    <id>339144</id>
+  </point>
+  <point>
+    <name>Edmonton / International (airport)</name>
+    <district>Edmonton</district>
+    <id>339167</id>
+  </point>
+  <point>
+    <name>Edmonton / Municipal (airport)</name>
+    <district>Edmonton</district>
+    <id>339142</id>
+  </point>
+  <point>
+    <name>Lodgepole</name>
+    <district>Edmonton</district>
+    <id>345736</id>
+  </point>
+  <point>
+    <name>Acheson</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344624</id>
+  </point>
+  <point>
+    <name>Alcomdale</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344625</id>
+  </point>
+  <point>
+    <name>Alder Flats</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344626</id>
+  </point>
+  <point>
+    <name>Alsike</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344627</id>
+  </point>
+  <point>
+    <name>Ardrossan</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344628</id>
+  </point>
+  <point>
+    <name>Beaumont</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344640</id>
+  </point>
+  <point>
+    <name>Bon Accord</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344643</id>
+  </point>
+  <point>
+    <name>Breton</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>339080</id>
+  </point>
+  <point>
+    <name>Buck Creek</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344648</id>
+  </point>
+  <point>
+    <name>Buck Lake</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344649</id>
+  </point>
+  <point>
+    <name>Calahoo</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344650</id>
+  </point>
+  <point>
+    <name>Calmar</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344651</id>
+  </point>
+  <point>
+    <name>Carnwood</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344652</id>
+  </point>
+  <point>
+    <name>Carvel</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344653</id>
+  </point>
+  <point>
+    <name>Cooking Lake</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344654</id>
+  </point>
+  <point>
+    <name>Cynthia</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344655</id>
+  </point>
+  <point>
+    <name>Devon</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344656</id>
+  </point>
+  <point>
+    <name>Drayton Valley</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344674</id>
+  </point>
+  <point>
+    <name>Duffield</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>344677</id>
+  </point>
+  <point>
+    <name>Edmonton / Villeneuve (airport)</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>510367</id>
+  </point>
+  <point>
+    <name>Edmonton Namao (airport)</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>339169</id>
+  </point>
+  <point>
+    <name>Enoch</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345631</id>
+  </point>
+  <point>
+    <name>Entwistle</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345632</id>
+  </point>
+  <point>
+    <name>Fallis</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345633</id>
+  </point>
+  <point>
+    <name>Falun</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345634</id>
+  </point>
+  <point>
+    <name>Fort Saskatchewan</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345635</id>
+  </point>
+  <point>
+    <name>Gainford</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345649</id>
+  </point>
+  <point>
+    <name>Gibbons</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345650</id>
+  </point>
+  <point>
+    <name>Gwynne</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345651</id>
+  </point>
+  <point>
+    <name>Hobbema</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345652</id>
+  </point>
+  <point>
+    <name>Kapasiwin</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345653</id>
+  </point>
+  <point>
+    <name>Lancaster Park</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345654</id>
+  </point>
+  <point>
+    <name>Leduc</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345655</id>
+  </point>
+  <point>
+    <name>Legal</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>338803</id>
+  </point>
+  <point>
+    <name>Lindale</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345735</id>
+  </point>
+  <point>
+    <name>Ma-Me-O Beach</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345737</id>
+  </point>
+  <point>
+    <name>Millet</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345738</id>
+  </point>
+  <point>
+    <name>Morinville</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345739</id>
+  </point>
+  <point>
+    <name>Mulhurst Bay</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345784</id>
+  </point>
+  <point>
+    <name>Namao</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345785</id>
+  </point>
+  <point>
+    <name>New Sarepta</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>339211</id>
+  </point>
+  <point>
+    <name>Nisku</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345786</id>
+  </point>
+  <point>
+    <name>Oliver</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>338981</id>
+  </point>
+  <point>
+    <name>Parkland</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345825</id>
+  </point>
+  <point>
+    <name>Redwater</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345826</id>
+  </point>
+  <point>
+    <name>Rivière Qui Barre</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345827</id>
+  </point>
+  <point>
+    <name>Rocky Rapids</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345828</id>
+  </point>
+  <point>
+    <name>Rolly View</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345829</id>
+  </point>
+  <point>
+    <name>Seba Beach</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345830</id>
+  </point>
+  <point>
+    <name>Sherwood Park</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>345831</id>
+  </point>
+  <point>
+    <name>Spring Lake</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>346040</id>
+  </point>
+  <point>
+    <name>Spruce Grove</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>346041</id>
+  </point>
+  <point>
+    <name>St. Albert</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>346118</id>
+  </point>
+  <point>
+    <name>Stony Plain</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>339165</id>
+  </point>
+  <point>
+    <name>Sunnybrook</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>346378</id>
+  </point>
+  <point>
+    <name>Thorsby</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>338841</id>
+  </point>
+  <point>
+    <name>Tomahawk</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>338785</id>
+  </point>
+  <point>
+    <name>Violet Grove</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>339216</id>
+  </point>
+  <point>
+    <name>Wabamun</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>346382</id>
+  </point>
+  <point>
+    <name>Warburg</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>346383</id>
+  </point>
+  <point>
+    <name>Westerose</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>346384</id>
+  </point>
+  <point>
+    <name>Wetaskiwin</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>338552</id>
+  </point>
+  <point>
+    <name>Winfield</name>
+    <region>Alberta</region>
+    <district>Edmonton</district>
+    <id>346398</id>
+  </point>
+  <point>
+    <name>Fort Macleod</name>
+    <district>Fort McLeod</district>
+    <id>338635</id>
+  </point>
+  <point>
+    <name>Brocket (AWS)</name>
+    <district>Fort McLeod</district>
+    <id>338991</id>
+  </point>
+  <point>
+    <name>Cardston (airport)</name>
+    <district>Fort McLeod</district>
+    <id>339146</id>
+  </point>
+  <point>
+    <name>Carway</name>
+    <district>Fort McLeod</district>
+    <id>510503</id>
+  </point>
+  <point>
+    <name>Del Bonita (airport)</name>
+    <district>Fort McLeod</district>
+    <id>339089</id>
+  </point>
+  <point>
+    <name>Aetna</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346399</id>
+  </point>
+  <point>
+    <name>Beaver Mines</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>510502</id>
+  </point>
+  <point>
+    <name>Bullhorn Coulee Reservoir</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>338595</id>
+  </point>
+  <point>
+    <name>Bullhorn Headwaters</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>339253</id>
+  </point>
+  <point>
+    <name>Claresholm (airport)</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>339079</id>
+  </point>
+  <point>
+    <name>Cowley</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346400</id>
+  </point>
+  <point>
+    <name>Glenwood</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>338560</id>
+  </point>
+  <point>
+    <name>Granum</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346401</id>
+  </point>
+  <point>
+    <name>Lundbreck</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346402</id>
+  </point>
+  <point>
+    <name>Magrath</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346403</id>
+  </point>
+  <point>
+    <name>Mountain View</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346404</id>
+  </point>
+  <point>
+    <name>Nanton</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346405</id>
+  </point>
+  <point>
+    <name>Pincher Creek</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>338568</id>
+  </point>
+  <point>
+    <name>Pincher Creek (airport)</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>509628</id>
+  </point>
+  <point>
+    <name>Pincher Creek (weather station)</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>338681</id>
+  </point>
+  <point>
+    <name>Spring Coulee</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346406</id>
+  </point>
+  <point>
+    <name>St. Mary Reservoir</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>338596</id>
+  </point>
+  <point>
+    <name>Stand Off</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346407</id>
+  </point>
+  <point>
+    <name>Stavely</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>338792</id>
+  </point>
+  <point>
+    <name>Twin Butte</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346408</id>
+  </point>
+  <point>
+    <name>Waterton Park (AWS)</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>339145</id>
+  </point>
+  <point>
+    <name>Welling</name>
+    <region>Alberta</region>
+    <district>Fort McLeod</district>
+    <id>346409</id>
+  </point>
+  <point>
+    <name>Fort McMurray</name>
+    <district>Fort McMurray</district>
+    <id>338767</id>
+  </point>
+  <point>
+    <name>Conklin</name>
+    <district>Fort McMurray</district>
+    <id>346412</id>
+  </point>
+  <point>
+    <name>Fort Chipewyan (airport)</name>
+    <district>Fort McMurray</district>
+    <id>338521</id>
+  </point>
+  <point>
+    <name>Fort McMurray (AWS)</name>
+    <district>Fort McMurray</district>
+    <id>508088</id>
+  </point>
+  <point>
+    <name>Fort McMurray (airport)</name>
+    <district>Fort McMurray</district>
+    <id>338522</id>
+  </point>
+  <point>
+    <name>Anzac</name>
+    <region>Alberta</region>
+    <district>Fort McMurray</district>
+    <id>346410</id>
+  </point>
+  <point>
+    <name>Chard</name>
+    <region>Alberta</region>
+    <district>Fort McMurray</district>
+    <id>346411</id>
+  </point>
+  <point>
+    <name>Egg Island</name>
+    <region>Alberta</region>
+    <district>Fort McMurray</district>
+    <id>338934</id>
+  </point>
+  <point>
+    <name>Fitzgerald</name>
+    <region>Alberta</region>
+    <district>Fort McMurray</district>
+    <id>346413</id>
+  </point>
+  <point>
+    <name>Fort Chipewyan (weather station 71056)</name>
+    <region>Alberta</region>
+    <district>Fort McMurray</district>
+    <id>429793</id>
+  </point>
+  <point>
+    <name>Fort MacKay</name>
+    <region>Alberta</region>
+    <district>Fort McMurray</district>
+    <id>346414</id>
+  </point>
+  <point>
+    <name>Garden Rriver</name>
+    <region>Alberta</region>
+    <district>Fort McMurray</district>
+    <id>339061</id>
+  </point>
+  <point>
+    <name>Mildred Lake</name>
+    <region>Alberta</region>
+    <district>Fort McMurray</district>
+    <id>339059</id>
+  </point>
+  <point>
+    <name>Grande Prairie (airport)</name>
+    <district>Grande Prairie</district>
+    <id>338516</id>
+  </point>
+  <point>
+    <name>Fairview (airport)</name>
+    <district>Grande Prairie</district>
+    <id>508087</id>
+  </point>
+  <point>
+    <name>Peace River (airport)</name>
+    <district>Grande Prairie</district>
+    <id>508091</id>
+  </point>
+  <point>
+    <name>Pieoria (weather station)</name>
+    <district>Grande Prairie</district>
+    <id>338984</id>
+  </point>
+  <point>
+    <name>Savanna (weather station)</name>
+    <district>Grande Prairie</district>
+    <id>338800</id>
+  </point>
+  <point>
+    <name>Bay Tree</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346505</id>
+  </point>
+  <point>
+    <name>Beaverlodge</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>339083</id>
+  </point>
+  <point>
+    <name>Berwyn</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346507</id>
+  </point>
+  <point>
+    <name>Bezanson</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346508</id>
+  </point>
+  <point>
+    <name>Blueberry Mountain</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346509</id>
+  </point>
+  <point>
+    <name>Bluesky</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346510</id>
+  </point>
+  <point>
+    <name>Bonanza</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346511</id>
+  </point>
+  <point>
+    <name>Brownvale</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>339036</id>
+  </point>
+  <point>
+    <name>Clairmont</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346512</id>
+  </point>
+  <point>
+    <name>Demmitt</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346513</id>
+  </point>
+  <point>
+    <name>Donnelly</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346514</id>
+  </point>
+  <point>
+    <name>Eaglesham</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>338882</id>
+  </point>
+  <point>
+    <name>Elmworth</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346515</id>
+  </point>
+  <point>
+    <name>Fairview</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>338985</id>
+  </point>
+  <point>
+    <name>Falher</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346516</id>
+  </point>
+  <point>
+    <name>Girouxville</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346517</id>
+  </point>
+  <point>
+    <name>Goodfare</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346518</id>
+  </point>
+  <point>
+    <name>Gordondale</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346519</id>
+  </point>
+  <point>
+    <name>Grimshaw</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346540</id>
+  </point>
+  <point>
+    <name>Guy</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346541</id>
+  </point>
+  <point>
+    <name>Hythe</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346542</id>
+  </point>
+  <point>
+    <name>Jean Cote</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>338806</id>
+  </point>
+  <point>
+    <name>La Glace</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>338804</id>
+  </point>
+  <point>
+    <name>McLennan</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346543</id>
+  </point>
+  <point>
+    <name>Peace River</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>339210</id>
+  </point>
+  <point>
+    <name>Rycroft</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>338801</id>
+  </point>
+  <point>
+    <name>Sexsmith</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346563</id>
+  </point>
+  <point>
+    <name>Silver Valley</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346564</id>
+  </point>
+  <point>
+    <name>Spirit River (AWS)</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>338780</id>
+  </point>
+  <point>
+    <name>Tangent</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346573</id>
+  </point>
+  <point>
+    <name>Teepee Creek (weather station)</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>338716</id>
+  </point>
+  <point>
+    <name>Valhalla Centre</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346574</id>
+  </point>
+  <point>
+    <name>Wanham</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346575</id>
+  </point>
+  <point>
+    <name>Watino</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346576</id>
+  </point>
+  <point>
+    <name>Wembley</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346577</id>
+  </point>
+  <point>
+    <name>Whitelaw</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346578</id>
+  </point>
+  <point>
+    <name>Woking</name>
+    <region>Alberta</region>
+    <district>Grande Prairie</district>
+    <id>346579</id>
+  </point>
+  <point>
+    <name>Calais</name>
+    <region>Alberta</region>
+    <district>Greenview</district>
+    <id>346580</id>
+  </point>
+  <point>
+    <name>Crooked Creek</name>
+    <region>Alberta</region>
+    <district>Greenview</district>
+    <id>346581</id>
+  </point>
+  <point>
+    <name>Debolt</name>
+    <region>Alberta</region>
+    <district>Greenview</district>
+    <id>346582</id>
+  </point>
+  <point>
+    <name>Fox Creek</name>
+    <region>Alberta</region>
+    <district>Greenview</district>
+    <id>346583</id>
+  </point>
+  <point>
+    <name>Grande Cache</name>
+    <region>Alberta</region>
+    <district>Greenview</district>
+    <id>346584</id>
+  </point>
+  <point>
+    <name>Grovedale</name>
+    <region>Alberta</region>
+    <district>Greenview</district>
+    <id>346585</id>
+  </point>
+  <point>
+    <name>Hendrickson Creek</name>
+    <region>Alberta</region>
+    <district>Greenview</district>
+    <id>338486</id>
+  </point>
+  <point>
+    <name>Little Smoky</name>
+    <region>Alberta</region>
+    <district>Greenview</district>
+    <id>346586</id>
+  </point>
+  <point>
+    <name>Valleyview</name>
+    <region>Alberta</region>
+    <district>Greenview</district>
+    <id>339041</id>
+  </point>
+  <point>
+    <name>Lethbridge</name>
+    <district>Lethbridge</district>
+    <id>339071</id>
+  </point>
+  <point>
+    <name>Fincastle (weather station)</name>
+    <district>Lethbridge</district>
+    <id>338812</id>
+  </point>
+  <point>
+    <name>Lethbridge (airport)</name>
+    <district>Lethbridge</district>
+    <id>348416</id>
+  </point>
+  <point>
+    <name>Masinasin (weather station)</name>
+    <district>Lethbridge</district>
+    <id>338987</id>
+  </point>
+  <point>
+    <name>Milk River (airport)</name>
+    <district>Lethbridge</district>
+    <id>339070</id>
+  </point>
+  <point>
+    <name>Barnwell</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338986</id>
+  </point>
+  <point>
+    <name>Barons</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>339262</id>
+  </point>
+  <point>
+    <name>Bassano</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>339261</id>
+  </point>
+  <point>
+    <name>Bathurst Inlet</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338569</id>
+  </point>
+  <point>
+    <name>Blood Tribe (weather station)</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338828</id>
+  </point>
+  <point>
+    <name>Brooks (AWS)</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338886</id>
+  </point>
+  <point>
+    <name>Coaldale</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346616</id>
+  </point>
+  <point>
+    <name>Coalhurst</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346635</id>
+  </point>
+  <point>
+    <name>Coutts</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346636</id>
+  </point>
+  <point>
+    <name>Cranford</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346637</id>
+  </point>
+  <point>
+    <name>Diamond City</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346638</id>
+  </point>
+  <point>
+    <name>Duchess</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346639</id>
+  </point>
+  <point>
+    <name>Enchant</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338827</id>
+  </point>
+  <point>
+    <name>Gem</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346640</id>
+  </point>
+  <point>
+    <name>Grassy Lake</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338636</id>
+  </point>
+  <point>
+    <name>Hays</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346641</id>
+  </point>
+  <point>
+    <name>Iron Springs</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338817</id>
+  </point>
+  <point>
+    <name>Lethbridge Farm</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338836</id>
+  </point>
+  <point>
+    <name>Milk River Ridge (weather station)</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>339254</id>
+  </point>
+  <point>
+    <name>Millicent</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346783</id>
+  </point>
+  <point>
+    <name>Monarch</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346784</id>
+  </point>
+  <point>
+    <name>New Dayton</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346785</id>
+  </point>
+  <point>
+    <name>Nobleford</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346786</id>
+  </point>
+  <point>
+    <name>Patricia</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346787</id>
+  </point>
+  <point>
+    <name>Picture Butte</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346788</id>
+  </point>
+  <point>
+    <name>Purple Springs</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346789</id>
+  </point>
+  <point>
+    <name>Rainier</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346790</id>
+  </point>
+  <point>
+    <name>Raymond</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338811</id>
+  </point>
+  <point>
+    <name>Rolling Hills</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>339181</id>
+  </point>
+  <point>
+    <name>Rosemary (AWS)</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338810</id>
+  </point>
+  <point>
+    <name>Scandia</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346791</id>
+  </point>
+  <point>
+    <name>Shaughnessy</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346792</id>
+  </point>
+  <point>
+    <name>Stirling</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346793</id>
+  </point>
+  <point>
+    <name>Taber</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346794</id>
+  </point>
+  <point>
+    <name>Tilley</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346800</id>
+  </point>
+  <point>
+    <name>Turin</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346801</id>
+  </point>
+  <point>
+    <name>Vauxhall</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>339063</id>
+  </point>
+  <point>
+    <name>Warner</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>346802</id>
+  </point>
+  <point>
+    <name>Wrentham (AWS)</name>
+    <region>Alberta</region>
+    <district>Lethbridge</district>
+    <id>338989</id>
+  </point>
+  <point>
+    <name>Medicine Hat</name>
+    <district>Medicine Hat</district>
+    <id>339067</id>
+  </point>
+  <point>
+    <name>Medicine Hat (AWS)</name>
+    <district>Medicine Hat</district>
+    <id>339244</id>
+  </point>
+  <point>
+    <name>Medicine Hat (airport)</name>
+    <district>Medicine Hat</district>
+    <id>508139</id>
+  </point>
+  <point>
+    <name>Onefour (airport)</name>
+    <district>Medicine Hat</district>
+    <id>339172</id>
+  </point>
+  <point>
+    <name>Schuler (AWS)</name>
+    <district>Medicine Hat</district>
+    <id>339048</id>
+  </point>
+  <point>
+    <name>Aden</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346803</id>
+  </point>
+  <point>
+    <name>Bow Island (AWS)</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>339082</id>
+  </point>
+  <point>
+    <name>Bow Island (weather station 71519)</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>338826</id>
+  </point>
+  <point>
+    <name>Burdett</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346805</id>
+  </point>
+  <point>
+    <name>Desert Blume</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346806</id>
+  </point>
+  <point>
+    <name>Dunmore</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346807</id>
+  </point>
+  <point>
+    <name>Elkwater</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346808</id>
+  </point>
+  <point>
+    <name>Etzikom</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>338929</id>
+  </point>
+  <point>
+    <name>Foremost (airport)</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>339088</id>
+  </point>
+  <point>
+    <name>Hilda</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346809</id>
+  </point>
+  <point>
+    <name>Irvine</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>338630</id>
+  </point>
+  <point>
+    <name>Maleb</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346810</id>
+  </point>
+  <point>
+    <name>Manyberries</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>339224</id>
+  </point>
+  <point>
+    <name>Orion</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346816</id>
+  </point>
+  <point>
+    <name>Pakowki Lake (weather station)</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>339208</id>
+  </point>
+  <point>
+    <name>Ralston</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346817</id>
+  </point>
+  <point>
+    <name>Redcliff</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346818</id>
+  </point>
+  <point>
+    <name>Seven Persons (airport)</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>338820</id>
+  </point>
+  <point>
+    <name>Skiff</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346819</id>
+  </point>
+  <point>
+    <name>Suffield (heliport)</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>509887</id>
+  </point>
+  <point>
+    <name>Walsh</name>
+    <region>Alberta</region>
+    <district>Medicine Hat</district>
+    <id>346820</id>
+  </point>
+  <point>
+    <name>Red Deer</name>
+    <district>Red Deer</district>
+    <id>338565</id>
+  </point>
+  <point>
+    <name>Bowden</name>
+    <district>Red Deer</district>
+    <id>346827</id>
+  </point>
+  <point>
+    <name>Crestomere (weather station)</name>
+    <district>Red Deer</district>
+    <id>338955</id>
+  </point>
+  <point>
+    <name>Red Deer (airport)</name>
+    <district>Red Deer</district>
+    <id>508101</id>
+  </point>
+  <point>
+    <name>Tees</name>
+    <district>Red Deer</district>
+    <id>346950</id>
+  </point>
+  <point>
+    <name>Alix</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346821</id>
+  </point>
+  <point>
+    <name>Benalto</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346822</id>
+  </point>
+  <point>
+    <name>Bentley</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346823</id>
+  </point>
+  <point>
+    <name>Birchcliff</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346824</id>
+  </point>
+  <point>
+    <name>Blackfalds</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346825</id>
+  </point>
+  <point>
+    <name>Bluffton</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346826</id>
+  </point>
+  <point>
+    <name>Clive</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346828</id>
+  </point>
+  <point>
+    <name>College Heights</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346829</id>
+  </point>
+  <point>
+    <name>Delburne</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>339255</id>
+  </point>
+  <point>
+    <name>Eckville</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346830</id>
+  </point>
+  <point>
+    <name>Elnora</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346831</id>
+  </point>
+  <point>
+    <name>Halfmoon Bay</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346832</id>
+  </point>
+  <point>
+    <name>Innisfail</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346833</id>
+  </point>
+  <point>
+    <name>Jarvis Bay</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346834</id>
+  </point>
+  <point>
+    <name>Lacombe</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>339072</id>
+  </point>
+  <point>
+    <name>Leedale (weather station)</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>338786</id>
+  </point>
+  <point>
+    <name>Lousana</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346838</id>
+  </point>
+  <point>
+    <name>Markerville</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346839</id>
+  </point>
+  <point>
+    <name>Mirror</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346840</id>
+  </point>
+  <point>
+    <name>Norglenwold</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346841</id>
+  </point>
+  <point>
+    <name>Penhold</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346842</id>
+  </point>
+  <point>
+    <name>Pine Lake</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346843</id>
+  </point>
+  <point>
+    <name>Ponoka</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346844</id>
+  </point>
+  <point>
+    <name>Prentiss</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>338979</id>
+  </point>
+  <point>
+    <name>Rimbey</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346945</id>
+  </point>
+  <point>
+    <name>Rosedale Valley</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346946</id>
+  </point>
+  <point>
+    <name>Springbrook</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346947</id>
+  </point>
+  <point>
+    <name>Spruce View</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346948</id>
+  </point>
+  <point>
+    <name>Sylvan Lake</name>
+    <region>Alberta</region>
+    <district>Red Deer</district>
+    <id>346949</id>
+  </point>
+  <point>
+    <name>Rocky Mountain House (AWS)</name>
+    <district>Rocky Mountain House</district>
+    <id>338525</id>
+  </point>
+  <point>
+    <name>Alhambra</name>
+    <district>Rocky Mountain House</district>
+    <id>346951</id>
+  </point>
+  <point>
+    <name>Condor</name>
+    <district>Rocky Mountain House</district>
+    <id>346953</id>
+  </point>
+  <point>
+    <name>Nordegg</name>
+    <district>Rocky Mountain House</district>
+    <id>339218</id>
+  </point>
+  <point>
+    <name>Stauffer</name>
+    <district>Rocky Mountain House</district>
+    <id>346956</id>
+  </point>
+  <point>
+    <name>Caroline</name>
+    <region>Alberta</region>
+    <district>Rocky Mountain House</district>
+    <id>346952</id>
+  </point>
+  <point>
+    <name>Hespero (weather station)</name>
+    <region>Alberta</region>
+    <district>Rocky Mountain House</district>
+    <id>338807</id>
+  </point>
+  <point>
+    <name>James River Bridge</name>
+    <region>Alberta</region>
+    <district>Rocky Mountain House</district>
+    <id>346954</id>
+  </point>
+  <point>
+    <name>Leslieville</name>
+    <region>Alberta</region>
+    <district>Rocky Mountain House</district>
+    <id>346955</id>
+  </point>
+  <point>
+    <name>Strathmore</name>
+    <district>Strathmore</district>
+    <id>338819</id>
+  </point>
+  <point>
+    <name>Carseland</name>
+    <district>Strathmore</district>
+    <id>346962</id>
+  </point>
+  <point>
+    <name>Drumheller (AWS)</name>
+    <district>Strathmore</district>
+    <id>339076</id>
+  </point>
+  <point>
+    <name>Hussar (AWS)</name>
+    <district>Strathmore</district>
+    <id>338988</id>
+  </point>
+  <point>
+    <name>Strathmore (weather station)</name>
+    <district>Strathmore</district>
+    <id>509080</id>
+  </point>
+  <point>
+    <name>Acme</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346957</id>
+  </point>
+  <point>
+    <name>Arrowwood</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346958</id>
+  </point>
+  <point>
+    <name>Brant</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346959</id>
+  </point>
+  <point>
+    <name>Carbon</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346960</id>
+  </point>
+  <point>
+    <name>Carmangay</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346961</id>
+  </point>
+  <point>
+    <name>Champion (AWS)</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>339096</id>
+  </point>
+  <point>
+    <name>Cluny</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346963</id>
+  </point>
+  <point>
+    <name>Craigmyle</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>339256</id>
+  </point>
+  <point>
+    <name>Delia</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346964</id>
+  </point>
+  <point>
+    <name>East Coulee</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346965</id>
+  </point>
+  <point>
+    <name>Gleichen</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>338847</id>
+  </point>
+  <point>
+    <name>Huxley</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346966</id>
+  </point>
+  <point>
+    <name>Linden</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>339238</id>
+  </point>
+  <point>
+    <name>Lomond</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346967</id>
+  </point>
+  <point>
+    <name>Lyalta</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346968</id>
+  </point>
+  <point>
+    <name>Milo</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346969</id>
+  </point>
+  <point>
+    <name>Morrin</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>339057</id>
+  </point>
+  <point>
+    <name>Mossleigh</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>339221</id>
+  </point>
+  <point>
+    <name>Munson</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346970</id>
+  </point>
+  <point>
+    <name>Nacmine</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346971</id>
+  </point>
+  <point>
+    <name>Queentown</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>339207</id>
+  </point>
+  <point>
+    <name>Rockyford</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346972</id>
+  </point>
+  <point>
+    <name>Rosebud</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346973</id>
+  </point>
+  <point>
+    <name>Rosedale Station</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346974</id>
+  </point>
+  <point>
+    <name>Rowley</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346975</id>
+  </point>
+  <point>
+    <name>Rumsey</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346976</id>
+  </point>
+  <point>
+    <name>Siksika</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346977</id>
+  </point>
+  <point>
+    <name>Standard</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>338903</id>
+  </point>
+  <point>
+    <name>Swalwell</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346978</id>
+  </point>
+  <point>
+    <name>Three Hills</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>339065</id>
+  </point>
+  <point>
+    <name>Torrington</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346979</id>
+  </point>
+  <point>
+    <name>Travers (weather station)</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>338588</id>
+  </point>
+  <point>
+    <name>Trochu</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346980</id>
+  </point>
+  <point>
+    <name>Vulcan</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>346981</id>
+  </point>
+  <point>
+    <name>Wimborne</name>
+    <region>Alberta</region>
+    <district>Strathmore</district>
+    <id>338544</id>
+  </point>
+  <point>
+    <name>Wainwright</name>
+    <district>Wainwright</district>
+    <id>339171</id>
+  </point>
+  <point>
+    <name>Albert Hall (weather station)</name>
+    <district>Wainwright</district>
+    <id>339264</id>
+  </point>
+  <point>
+    <name>Bellshill (weather station)</name>
+    <district>Wainwright</district>
+    <id>339259</id>
+  </point>
+  <point>
+    <name>Edgerton</name>
+    <district>Wainwright</district>
+    <id>338972</id>
+  </point>
+  <point>
+    <name>Rochon Sands</name>
+    <district>Wainwright</district>
+    <id>347006</id>
+  </point>
+  <point>
+    <name>Alliance</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>339263</id>
+  </point>
+  <point>
+    <name>Amisk</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346982</id>
+  </point>
+  <point>
+    <name>Big Valley</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>339258</id>
+  </point>
+  <point>
+    <name>Bodo</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>339099</id>
+  </point>
+  <point>
+    <name>Botha</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346983</id>
+  </point>
+  <point>
+    <name>Brownfield</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346984</id>
+  </point>
+  <point>
+    <name>Byemoor</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346985</id>
+  </point>
+  <point>
+    <name>Cadogan</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>339257</id>
+  </point>
+  <point>
+    <name>Castor</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346986</id>
+  </point>
+  <point>
+    <name>Chauvin</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346987</id>
+  </point>
+  <point>
+    <name>Coronation (AWS)</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>339006</id>
+  </point>
+  <point>
+    <name>Czar</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346988</id>
+  </point>
+  <point>
+    <name>Daysland</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346989</id>
+  </point>
+  <point>
+    <name>Denwood</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346990</id>
+  </point>
+  <point>
+    <name>Donalda</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346991</id>
+  </point>
+  <point>
+    <name>Endiang</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346992</id>
+  </point>
+  <point>
+    <name>Erskine</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346993</id>
+  </point>
+  <point>
+    <name>Fenn</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346994</id>
+  </point>
+  <point>
+    <name>Forestburg</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>338724</id>
+  </point>
+  <point>
+    <name>Gadsby</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346995</id>
+  </point>
+  <point>
+    <name>Galahad</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346996</id>
+  </point>
+  <point>
+    <name>Halkirk</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>338633</id>
+  </point>
+  <point>
+    <name>Hardisty</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346997</id>
+  </point>
+  <point>
+    <name>Hayter</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346998</id>
+  </point>
+  <point>
+    <name>Heisler</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>346999</id>
+  </point>
+  <point>
+    <name>Hughenden</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>338631</id>
+  </point>
+  <point>
+    <name>Irma</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>347000</id>
+  </point>
+  <point>
+    <name>Kessler (weather station)</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>338629</id>
+  </point>
+  <point>
+    <name>Killam (AWS)</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>339085</id>
+  </point>
+  <point>
+    <name>Lougheed</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>347001</id>
+  </point>
+  <point>
+    <name>Metiskow</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>347002</id>
+  </point>
+  <point>
+    <name>Nevis</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>347003</id>
+  </point>
+  <point>
+    <name>Provost</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>347004</id>
+  </point>
+  <point>
+    <name>Red Willow</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>347005</id>
+  </point>
+  <point>
+    <name>Ribstone South (weather station)</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>339195</id>
+  </point>
+  <point>
+    <name>Sedgewick</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>347007</id>
+  </point>
+  <point>
+    <name>Stettler</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>339030</id>
+  </point>
+  <point>
+    <name>Strome</name>
+    <region>Alberta</region>
+    <district>Wainwright</district>
+    <id>347008</id>
+  </point>
+  <point>
+    <name>Ardmore</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347011</id>
+  </point>
+  <point>
+    <name>Ashmont</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347012</id>
+  </point>
+  <point>
+    <name>Bellis</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347013</id>
+  </point>
+  <point>
+    <name>Bonnyville</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>341449</id>
+  </point>
+  <point>
+    <name>Boyne Lake</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347017</id>
+  </point>
+  <point>
+    <name>Cherry Grove</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347018</id>
+  </point>
+  <point>
+    <name>Cold Lake (airport)</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>339170</id>
+  </point>
+  <point>
+    <name>Dupre (weather station)</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>338924</id>
+  </point>
+  <point>
+    <name>Elk Point</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347040</id>
+  </point>
+  <point>
+    <name>Foisy</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347041</id>
+  </point>
+  <point>
+    <name>Fort Kent</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347042</id>
+  </point>
+  <point>
+    <name>Frog Lake</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347043</id>
+  </point>
+  <point>
+    <name>Glendon</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347044</id>
+  </point>
+  <point>
+    <name>Goodfish Lake</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347045</id>
+  </point>
+  <point>
+    <name>Goodridge</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347046</id>
+  </point>
+  <point>
+    <name>Heinsburg</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347047</id>
+  </point>
+  <point>
+    <name>Hylo</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347048</id>
+  </point>
+  <point>
+    <name>Iron River</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347049</id>
+  </point>
+  <point>
+    <name>Jimmy Lake (AWS)</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>339246</id>
+  </point>
+  <point>
+    <name>Kehewin</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347050</id>
+  </point>
+  <point>
+    <name>Kikino</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347051</id>
+  </point>
+  <point>
+    <name>La Corey</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347052</id>
+  </point>
+  <point>
+    <name>Lac La Biche (airport)</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>339008</id>
+  </point>
+  <point>
+    <name>Lafond</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347053</id>
+  </point>
+  <point>
+    <name>Lindbergh</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>338784</id>
+  </point>
+  <point>
+    <name>Mallaig</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347054</id>
+  </point>
+  <point>
+    <name>McRae</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347055</id>
+  </point>
+  <point>
+    <name>Plamondon</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347056</id>
+  </point>
+  <point>
+    <name>Rich Lake (weather station)</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>338983</id>
+  </point>
+  <point>
+    <name>Saddle Lake</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347057</id>
+  </point>
+  <point>
+    <name>Smoky Lake</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>339044</id>
+  </point>
+  <point>
+    <name>Spedden</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347058</id>
+  </point>
+  <point>
+    <name>Sputinow</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347059</id>
+  </point>
+  <point>
+    <name>St. Brides</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347060</id>
+  </point>
+  <point>
+    <name>St. Lina</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>338799</id>
+  </point>
+  <point>
+    <name>St. Paul</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>339043</id>
+  </point>
+  <point>
+    <name>St. Vincent</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347062</id>
+  </point>
+  <point>
+    <name>Vilna</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>338660</id>
+  </point>
+  <point>
+    <name>Warspite</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347065</id>
+  </point>
+  <point>
+    <name>Waskatenau</name>
+    <region>Alberta</region>
+    <district>Wood Buffalo</district>
+    <id>347066</id>
+  </point>
+  <point>
+    <name>Brule</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>347067</id>
+  </point>
+  <point>
+    <name>Cadomin</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>347068</id>
+  </point>
+  <point>
+    <name>Carrot Creek</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>347069</id>
+  </point>
+  <point>
+    <name>Edson (airport)</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>339133</id>
+  </point>
+  <point>
+    <name>Edson (AWS)</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>339143</id>
+  </point>
+  <point>
+    <name>Evansburg</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>338863</id>
+  </point>
+  <point>
+    <name>Hinton</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>347077</id>
+  </point>
+  <point>
+    <name>Niton Junction</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>347080</id>
+  </point>
+  <point>
+    <name>Peers</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>347081</id>
+  </point>
+  <point>
+    <name>Robb</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>347082</id>
+  </point>
+  <point>
+    <name>Wildwood</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>347083</id>
+  </point>
+  <point>
+    <name>Willow Creek 1</name>
+    <region>Alberta</region>
+    <district>Yellowhead</district>
+    <id>339062</id>
+  </point>
+</region>

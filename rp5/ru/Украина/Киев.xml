@@ -1,0 +1,77 @@
+<region name="Киев" count="15">
+  <point>
+    <name>Киев</name>
+    <district/>
+    <id>509938</id>
+  </point>
+  <point>
+    <name>Киев / Жуляны (аэропорт)</name>
+    <district>Киев / Жуляны (аэропорт)</district>
+    <id>233</id>
+  </point>
+  <point>
+    <name>Осокорки</name>
+    <district>Осокорки</district>
+    <id>23121</id>
+  </point>
+  <point>
+    <name>Печерск</name>
+    <district>Печерск</district>
+    <id>23165</id>
+  </point>
+  <point>
+    <name>Харьковский Массив</name>
+    <district>Харьковский Массив</district>
+    <id>23137</id>
+  </point>
+  <point>
+    <name>Березняки</name>
+    <district>Березняки</district>
+    <id>23140</id>
+  </point>
+  <point>
+    <name>Воскресенский Массив</name>
+    <district>Воскресенский Массив</district>
+    <id>23182</id>
+  </point>
+  <point>
+    <name>Комсомольский Массив</name>
+    <district>Комсомольский Массив</district>
+    <id>23172</id>
+  </point>
+  <point>
+    <name>Куликово</name>
+    <district>Куликово</district>
+    <id>23186</id>
+  </point>
+  <point>
+    <name>Левобережный Массив</name>
+    <district>Левобережный Массив</district>
+    <id>23166</id>
+  </point>
+  <point>
+    <name>Лесной Массив</name>
+    <district>Лесной Массив</district>
+    <id>23183</id>
+  </point>
+  <point>
+    <name>Подол</name>
+    <district>Подол</district>
+    <id>23173</id>
+  </point>
+  <point>
+    <name>Русановка</name>
+    <district>Русановка</district>
+    <id>23152</id>
+  </point>
+  <point>
+    <name>Соцгород</name>
+    <district>Соцгород</district>
+    <id>23164</id>
+  </point>
+  <point>
+    <name>Труханов Остров</name>
+    <district>Труханов Остров</district>
+    <id>23174</id>
+  </point>
+</region>

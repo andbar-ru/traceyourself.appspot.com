@@ -1,0 +1,1226 @@
+<country name="Finland" count="204">
+  <point>
+    <name>Jomala</name>
+    <region>Aland Islands</region>
+    <district>Jomala</district>
+    <id>2654</id>
+  </point>
+  <point>
+    <name>Kumlinge</name>
+    <region>Aland Islands</region>
+    <district>Kumlinge</district>
+    <id>2706</id>
+  </point>
+  <point>
+    <name>Lemland Nyhamn</name>
+    <region>Aland Islands</region>
+    <district>Lemland Nyhamn</district>
+    <id>2691</id>
+  </point>
+  <point>
+    <name>Mariehamn (airport)</name>
+    <region>Aland Islands</region>
+    <district>Mariehamn (airport)</district>
+    <id>2652</id>
+  </point>
+  <point>
+    <name>Market</name>
+    <region>Aland Islands</region>
+    <district>Market</district>
+    <id>2708</id>
+  </point>
+  <point>
+    <name>Uto Island</name>
+    <region>Aland Islands</region>
+    <district>Uto Island</district>
+    <id>2694</id>
+  </point>
+  <point>
+    <name>Jamsa Halli</name>
+    <region>Central Finland</region>
+    <district>Jamsa Halli</district>
+    <id>504483</id>
+  </point>
+  <point>
+    <name>Jamsa Himos</name>
+    <region>Central Finland</region>
+    <district>Jamsa Himos</district>
+    <id>348317</id>
+  </point>
+  <point>
+    <name>Judinsalo / Makela</name>
+    <region>Central Finland</region>
+    <district>Judinsalo / Makela</district>
+    <id>348319</id>
+  </point>
+  <point>
+    <name>Jyvaskyla (airport)</name>
+    <region>Central Finland</region>
+    <district>Jyvaskyla (airport)</district>
+    <id>2598</id>
+  </point>
+  <point>
+    <name>Kuorevesi / Halli (airport)</name>
+    <region>Central Finland</region>
+    <district>Kuorevesi / Halli (airport)</district>
+    <id>2606</id>
+  </point>
+  <point>
+    <name>Leivonmaki / Savenaho</name>
+    <region>Central Finland</region>
+    <district>Leivonmaki / Savenaho</district>
+    <id>170446</id>
+  </point>
+  <point>
+    <name>Vaasa Klemettila</name>
+    <region>Central Finland</region>
+    <district>Vaasa Klemettila</district>
+    <id>348603</id>
+  </point>
+  <point>
+    <name>Vesanto Kk</name>
+    <region>Central Finland</region>
+    <district>Vesanto Kk</district>
+    <id>348309</id>
+  </point>
+  <point>
+    <name>Viitasaari</name>
+    <region>Central Finland</region>
+    <district>Viitasaari</district>
+    <id>2572</id>
+  </point>
+  <point>
+    <name>Kokkola</name>
+    <region>Central Ostrobothnia</region>
+    <district>Kokkola</district>
+    <id>151749</id>
+  </point>
+  <point>
+    <name>Toholampi Laitala</name>
+    <region>Central Ostrobothnia</region>
+    <district>Toholampi Laitala</district>
+    <id>152568</id>
+  </point>
+  <point>
+    <name>Emasalo</name>
+    <region>Eastern Uusimaa</region>
+    <district>Emasalo</district>
+    <id>152554</id>
+  </point>
+  <point>
+    <name>Kallbadagrund</name>
+    <region>Eastern Uusimaa</region>
+    <district>Kallbadagrund</district>
+    <id>2697</id>
+  </point>
+  <point>
+    <name>Pernaja Orrengrund</name>
+    <region>Eastern Uusimaa</region>
+    <district>Pernaja Orrengrund</district>
+    <id>152551</id>
+  </point>
+  <point>
+    <name>Porvoo</name>
+    <region>Eastern Uusimaa</region>
+    <district>Porvoo</district>
+    <id>152553</id>
+  </point>
+  <point>
+    <name>Bogskar</name>
+    <region>Finland Proper</region>
+    <district>Bogskar</district>
+    <id>152505</id>
+  </point>
+  <point>
+    <name>Dragsf Jard Vano</name>
+    <region>Finland Proper</region>
+    <district>Dragsf Jard Vano</district>
+    <id>348318</id>
+  </point>
+  <point>
+    <name>Fagerholm</name>
+    <region>Finland Proper</region>
+    <district>Fagerholm</district>
+    <id>170626</id>
+  </point>
+  <point>
+    <name>Kemionsaari / Kimito</name>
+    <region>Finland Proper</region>
+    <district>Kemionsaari / Kimito</district>
+    <id>510322</id>
+  </point>
+  <point>
+    <name>Kiikala (airport)</name>
+    <region>Finland Proper</region>
+    <district>Kiikala (airport)</district>
+    <id>510070</id>
+  </point>
+  <point>
+    <name>Kustavi Isokari</name>
+    <region>Finland Proper</region>
+    <district>Kustavi Isokari</district>
+    <id>152536</id>
+  </point>
+  <point>
+    <name>Piikkio / Yltoinen</name>
+    <region>Finland Proper</region>
+    <district>Piikkio / Yltoinen</district>
+    <id>170583</id>
+  </point>
+  <point>
+    <name>Russaro</name>
+    <region>Finland Proper</region>
+    <district>Russaro</district>
+    <id>2695</id>
+  </point>
+  <point>
+    <name>Salkola / Somero</name>
+    <region>Finland Proper</region>
+    <district>Salkola / Somero</district>
+    <id>510334</id>
+  </point>
+  <point>
+    <name>Salo / Karkka</name>
+    <region>Finland Proper</region>
+    <district>Salo / Karkka</district>
+    <id>151739</id>
+  </point>
+  <point>
+    <name>Turku (airport)</name>
+    <region>Finland Proper</region>
+    <district>Turku (airport)</district>
+    <id>2662</id>
+  </point>
+  <point>
+    <name>Turku / Artukainen</name>
+    <region>Finland Proper</region>
+    <district>Turku / Artukainen</district>
+    <id>152488</id>
+  </point>
+  <point>
+    <name>Turku / Rajakari</name>
+    <region>Finland Proper</region>
+    <district>Turku / Rajakari</district>
+    <id>170439</id>
+  </point>
+  <point>
+    <name>Kajaani (airport)</name>
+    <region>Kainuu</region>
+    <district>Kajaani (airport)</district>
+    <id>2552</id>
+  </point>
+  <point>
+    <name>Kajaani / Petaisenniska</name>
+    <region>Kainuu</region>
+    <district>Kajaani / Petaisenniska</district>
+    <id>510186</id>
+  </point>
+  <point>
+    <name>Kuhmo / Kalliojoki</name>
+    <region>Kainuu</region>
+    <district>Kuhmo / Kalliojoki</district>
+    <id>170631</id>
+  </point>
+  <point>
+    <name>Paljakka</name>
+    <region>Kainuu</region>
+    <district>Paljakka</district>
+    <id>510320</id>
+  </point>
+  <point>
+    <name>Sotkami / Kuolaniemi</name>
+    <region>Kainuu</region>
+    <district>Sotkami / Kuolaniemi</district>
+    <id>170637</id>
+  </point>
+  <point>
+    <name>Suomussalmi Pesio</name>
+    <region>Kainuu</region>
+    <district>Suomussalmi Pesio</district>
+    <id>2545</id>
+  </point>
+  <point>
+    <name>Vaala Pelso</name>
+    <region>Kainuu</region>
+    <district>Vaala Pelso</district>
+    <id>348310</id>
+  </point>
+  <point>
+    <name>Anjalankoski / Anjala</name>
+    <region>Kymenlaakso</region>
+    <district>Anjalankoski / Anjala</district>
+    <id>170577</id>
+  </point>
+  <point>
+    <name>Kotka Haapasaari</name>
+    <region>Kymenlaakso</region>
+    <district>Kotka Haapasaari</district>
+    <id>13555</id>
+  </point>
+  <point>
+    <name>Kotka Kirkonmaa</name>
+    <region>Kymenlaakso</region>
+    <district>Kotka Kirkonmaa</district>
+    <id>504486</id>
+  </point>
+  <point>
+    <name>Kotka Rankki</name>
+    <region>Kymenlaakso</region>
+    <district>Kotka Rankki</district>
+    <id>2690</id>
+  </point>
+  <point>
+    <name>Kouvola</name>
+    <region>Kymenlaakso</region>
+    <district>Kouvola</district>
+    <id>151747</id>
+  </point>
+  <point>
+    <name>Utti</name>
+    <region>Kymenlaakso</region>
+    <district>Utti</district>
+    <id>510326</id>
+  </point>
+  <point>
+    <name>Utti (airport)</name>
+    <region>Kymenlaakso</region>
+    <district>Utti (airport)</district>
+    <id>2650</id>
+  </point>
+  <point>
+    <name>Virolahti / Koivuniemi</name>
+    <region>Kymenlaakso</region>
+    <district>Virolahti / Koivuniemi</district>
+    <id>170606</id>
+  </point>
+  <point>
+    <name>Angeli</name>
+    <region>Lapland</region>
+    <district>Angeli</district>
+    <id>510318</id>
+  </point>
+  <point>
+    <name>Enontekio (airport)</name>
+    <region>Lapland</region>
+    <district>Enontekio (airport)</district>
+    <id>508381</id>
+  </point>
+  <point>
+    <name>Enontekiö Kilpisjärvi</name>
+    <region>Lapland</region>
+    <district>Enontekiö Kilpisjärvi</district>
+    <id>170643</id>
+  </point>
+  <point>
+    <name>Enontekio Nakkala</name>
+    <region>Lapland</region>
+    <district>Enontekio Nakkala</district>
+    <id>348315</id>
+  </point>
+  <point>
+    <name>Inari Kaamanen</name>
+    <region>Lapland</region>
+    <district>Inari Kaamanen</district>
+    <id>510584</id>
+  </point>
+  <point>
+    <name>Inari Nellim</name>
+    <region>Lapland</region>
+    <district>Inari Nellim</district>
+    <id>170627</id>
+  </point>
+  <point>
+    <name>Inari Rajajooseppi</name>
+    <region>Lapland</region>
+    <district>Inari Rajajooseppi</district>
+    <id>170629</id>
+  </point>
+  <point>
+    <name>Inari Saariselka</name>
+    <region>Lapland</region>
+    <district>Inari Saariselka</district>
+    <id>170596</id>
+  </point>
+  <point>
+    <name>Inari Saariselka (weather station)</name>
+    <region>Lapland</region>
+    <district>Inari Saariselka (weather station)</district>
+    <id>348313</id>
+  </point>
+  <point>
+    <name>Inari Seitalaassa</name>
+    <region>Lapland</region>
+    <district>Inari Seitalaassa</district>
+    <id>510331</id>
+  </point>
+  <point>
+    <name>Inari Vayla</name>
+    <region>Lapland</region>
+    <district>Inari Vayla</district>
+    <id>348331</id>
+  </point>
+  <point>
+    <name>Ivalo (airport)</name>
+    <region>Lapland</region>
+    <district>Ivalo (airport)</district>
+    <id>2477</id>
+  </point>
+  <point>
+    <name>Kemi</name>
+    <region>Lapland</region>
+    <district>Kemi</district>
+    <id>2518</id>
+  </point>
+  <point>
+    <name>Kemi (airport)</name>
+    <region>Lapland</region>
+    <district>Kemi (airport)</district>
+    <id>508076</id>
+  </point>
+  <point>
+    <name>Kemi I</name>
+    <region>Lapland</region>
+    <district>Kemi I</district>
+    <id>2511</id>
+  </point>
+  <point>
+    <name>Kemijarvi (airport)</name>
+    <region>Lapland</region>
+    <district>Kemijarvi (airport)</district>
+    <id>152531</id>
+  </point>
+  <point>
+    <name>Kilpisjarvi</name>
+    <region>Lapland</region>
+    <district>Kilpisjarvi</district>
+    <id>2471</id>
+  </point>
+  <point>
+    <name>Kirakkajarvi</name>
+    <region>Lapland</region>
+    <district>Kirakkajarvi</district>
+    <id>510319</id>
+  </point>
+  <point>
+    <name>Kittila</name>
+    <region>Lapland</region>
+    <district>Kittila</district>
+    <id>510321</id>
+  </point>
+  <point>
+    <name>Kittila (airport)</name>
+    <region>Lapland</region>
+    <district>Kittila (airport)</district>
+    <id>508487</id>
+  </point>
+  <point>
+    <name>Kittila / Laukukero</name>
+    <region>Lapland</region>
+    <district>Kittila / Laukukero</district>
+    <id>152542</id>
+  </point>
+  <point>
+    <name>Kittila Kenttarova</name>
+    <region>Lapland</region>
+    <district>Kittila Kenttarova</district>
+    <id>170641</id>
+  </point>
+  <point>
+    <name>Kittila Lompolonvuoma</name>
+    <region>Lapland</region>
+    <district>Kittila Lompolonvuoma</district>
+    <id>510585</id>
+  </point>
+  <point>
+    <name>Kittila Pokka</name>
+    <region>Lapland</region>
+    <district>Kittila Pokka</district>
+    <id>348311</id>
+  </point>
+  <point>
+    <name>Levitunturi</name>
+    <region>Lapland</region>
+    <district>Levitunturi</district>
+    <id>170609</id>
+  </point>
+  <point>
+    <name>Matorova</name>
+    <region>Lapland</region>
+    <district>Matorova</district>
+    <id>510330</id>
+  </point>
+  <point>
+    <name>Muonio Alamuonio</name>
+    <region>Lapland</region>
+    <district>Muonio Alamuonio</district>
+    <id>2493</id>
+  </point>
+  <point>
+    <name>Pelkosenniemi / Pyhatunturi</name>
+    <region>Lapland</region>
+    <district>Pelkosenniemi / Pyhatunturi</district>
+    <id>170607</id>
+  </point>
+  <point>
+    <name>Pello Kk Museotie</name>
+    <region>Lapland</region>
+    <district>Pello Kk Museotie</district>
+    <id>2501</id>
+  </point>
+  <point>
+    <name>Ranua (airport)</name>
+    <region>Lapland</region>
+    <district>Ranua (airport)</district>
+    <id>510185</id>
+  </point>
+  <point>
+    <name>Rovaniemi</name>
+    <region>Lapland</region>
+    <district>Rovaniemi</district>
+    <id>151544</id>
+  </point>
+  <point>
+    <name>Rovaniemi (airport)</name>
+    <region>Lapland</region>
+    <district>Rovaniemi (airport)</district>
+    <id>170639</id>
+  </point>
+  <point>
+    <name>Rovaniemi (AWS)</name>
+    <region>Lapland</region>
+    <district>Rovaniemi (AWS)</district>
+    <id>2504</id>
+  </point>
+  <point>
+    <name>Salla</name>
+    <region>Lapland</region>
+    <district>Salla</district>
+    <id>2509</id>
+  </point>
+  <point>
+    <name>Salla / Naruska</name>
+    <region>Lapland</region>
+    <district>Salla / Naruska</district>
+    <id>170638</id>
+  </point>
+  <point>
+    <name>Salla Varriotunturi</name>
+    <region>Lapland</region>
+    <district>Salla Varriotunturi</district>
+    <id>348329</id>
+  </point>
+  <point>
+    <name>Sammaltunturi</name>
+    <region>Lapland</region>
+    <district>Sammaltunturi</district>
+    <id>152533</id>
+  </point>
+  <point>
+    <name>Savukoski Kk</name>
+    <region>Lapland</region>
+    <district>Savukoski Kk</district>
+    <id>348328</id>
+  </point>
+  <point>
+    <name>Sodankyla</name>
+    <region>Lapland</region>
+    <district>Sodankyla</district>
+    <id>2500</id>
+  </point>
+  <point>
+    <name>Sodankyla Lokka</name>
+    <region>Lapland</region>
+    <district>Sodankyla Lokka</district>
+    <id>348312</id>
+  </point>
+  <point>
+    <name>Sodankyla Vuotso</name>
+    <region>Lapland</region>
+    <district>Sodankyla Vuotso</district>
+    <id>152564</id>
+  </point>
+  <point>
+    <name>Tornio / Torppi</name>
+    <region>Lapland</region>
+    <district>Tornio / Torppi</district>
+    <id>510184</id>
+  </point>
+  <point>
+    <name>Utsjoki Kevo</name>
+    <region>Lapland</region>
+    <district>Utsjoki Kevo</district>
+    <id>2474</id>
+  </point>
+  <point>
+    <name>Utsjoki Kevo Kevojarvi</name>
+    <region>Lapland</region>
+    <district>Utsjoki Kevo Kevojarvi</district>
+    <id>510332</id>
+  </point>
+  <point>
+    <name>Utsjoki Nuorgam</name>
+    <region>Lapland</region>
+    <district>Utsjoki Nuorgam</district>
+    <id>348330</id>
+  </point>
+  <point>
+    <name>Ylitornio Meltosjarvi</name>
+    <region>Lapland</region>
+    <district>Ylitornio Meltosjarvi</district>
+    <id>348327</id>
+  </point>
+  <point>
+    <name>Ilomantsi</name>
+    <region>North Karelia</region>
+    <district>Ilomantsi</district>
+    <id>2579</id>
+  </point>
+  <point>
+    <name>Ilomantsi Potsonvaara</name>
+    <region>North Karelia</region>
+    <district>Ilomantsi Potsonvaara</district>
+    <id>504481</id>
+  </point>
+  <point>
+    <name>Joensuu (airport)</name>
+    <region>North Karelia</region>
+    <district>Joensuu (airport)</district>
+    <id>2597</id>
+  </point>
+  <point>
+    <name>Joensuu / Linnunlahti</name>
+    <region>North Karelia</region>
+    <district>Joensuu / Linnunlahti</district>
+    <id>510325</id>
+  </point>
+  <point>
+    <name>Lieksa / Lampela</name>
+    <region>North Karelia</region>
+    <district>Lieksa / Lampela</district>
+    <id>151746</id>
+  </point>
+  <point>
+    <name>Liperi Tuiskavanluoto</name>
+    <region>North Karelia</region>
+    <district>Liperi Tuiskavanluoto</district>
+    <id>170541</id>
+  </point>
+  <point>
+    <name>Tohmajarvi / Kemie</name>
+    <region>North Karelia</region>
+    <district>Tohmajarvi / Kemie</district>
+    <id>170468</id>
+  </point>
+  <point>
+    <name>Haapavesi</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Haapavesi</district>
+    <id>348323</id>
+  </point>
+  <point>
+    <name>Hailuoto</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Hailuoto</district>
+    <id>348332</id>
+  </point>
+  <point>
+    <name>Hailuoto Marjaniemi</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Hailuoto Marjaniemi</district>
+    <id>2535</id>
+  </point>
+  <point>
+    <name>Kiutakongas</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Kiutakongas</district>
+    <id>348326</id>
+  </point>
+  <point>
+    <name>Kuusamo</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Kuusamo</district>
+    <id>2533</id>
+  </point>
+  <point>
+    <name>Kuusamo (airport)</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Kuusamo (airport)</district>
+    <id>508023</id>
+  </point>
+  <point>
+    <name>Kuusamo Ruka Talvijarvi</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Kuusamo Ruka Talvijarvi</district>
+    <id>510586</id>
+  </point>
+  <point>
+    <name>Nahkiainen (lighthouse)</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Nahkiainen (lighthouse)</district>
+    <id>170598</id>
+  </point>
+  <point>
+    <name>Nivala</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Nivala</district>
+    <id>2558</id>
+  </point>
+  <point>
+    <name>Oulu</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Oulu</district>
+    <id>8548</id>
+  </point>
+  <point>
+    <name>Oulu (airport)</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Oulu (airport)</district>
+    <id>2541</id>
+  </point>
+  <point>
+    <name>Oulunsalo / Pellonpaa</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Oulunsalo / Pellonpaa</district>
+    <id>348622</id>
+  </point>
+  <point>
+    <name>Pudasjarvi</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Pudasjarvi</district>
+    <id>2530</id>
+  </point>
+  <point>
+    <name>Pyhajarvi / Ojakyla</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Pyhajarvi / Ojakyla</district>
+    <id>170636</id>
+  </point>
+  <point>
+    <name>Raahe Lapaluoto</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Raahe Lapaluoto</district>
+    <id>151743</id>
+  </point>
+  <point>
+    <name>Ruka</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Ruka</district>
+    <id>170587</id>
+  </point>
+  <point>
+    <name>Ruukki / Revonlahti</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Ruukki / Revonlahti</district>
+    <id>170630</id>
+  </point>
+  <point>
+    <name>Taivalkoski Paloasema</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Taivalkoski Paloasema</district>
+    <id>348325</id>
+  </point>
+  <point>
+    <name>Ulkokalla</name>
+    <region>Northern Ostrobothnia</region>
+    <district>Ulkokalla</district>
+    <id>2563</id>
+  </point>
+  <point>
+    <name>Juuka</name>
+    <region>Northern Savonia</region>
+    <district>Juuka</district>
+    <id>348321</id>
+  </point>
+  <point>
+    <name>Kaarakkala</name>
+    <region>Northern Savonia</region>
+    <district>Kaarakkala</district>
+    <id>152574</id>
+  </point>
+  <point>
+    <name>Kuopio (airport)</name>
+    <region>Northern Savonia</region>
+    <district>Kuopio (airport)</district>
+    <id>2573</id>
+  </point>
+  <point>
+    <name>Kuopio / Ritoniemi</name>
+    <region>Northern Savonia</region>
+    <district>Kuopio / Ritoniemi</district>
+    <id>170578</id>
+  </point>
+  <point>
+    <name>Kuopio Yliopisto</name>
+    <region>Northern Savonia</region>
+    <district>Kuopio Yliopisto</district>
+    <id>504484</id>
+  </point>
+  <point>
+    <name>Maaninka / Halola</name>
+    <region>Northern Savonia</region>
+    <district>Maaninka / Halola</district>
+    <id>170632</id>
+  </point>
+  <point>
+    <name>Rautavaara Yla-luosta</name>
+    <region>Northern Savonia</region>
+    <district>Rautavaara Yla-luosta</district>
+    <id>152556</id>
+  </point>
+  <point>
+    <name>Valtimo Kk</name>
+    <region>Northern Savonia</region>
+    <district>Valtimo Kk</district>
+    <id>348324</id>
+  </point>
+  <point>
+    <name>Varkaus</name>
+    <region>Northern Savonia</region>
+    <district>Varkaus</district>
+    <id>151757</id>
+  </point>
+  <point>
+    <name>Varkaus (airport)</name>
+    <region>Northern Savonia</region>
+    <district>Varkaus (airport)</district>
+    <id>508727</id>
+  </point>
+  <point>
+    <name>Korsnas Bredskaret</name>
+    <region>Ostrobothnia</region>
+    <district>Korsnas Bredskaret</district>
+    <id>152438</id>
+  </point>
+  <point>
+    <name>Kristiinankaupungin (lighthouse)</name>
+    <region>Ostrobothnia</region>
+    <district>Kristiinankaupungin (lighthouse)</district>
+    <id>170582</id>
+  </point>
+  <point>
+    <name>Kronoby / Kokkola-Pietarsaa (airport)</name>
+    <region>Ostrobothnia</region>
+    <district>Kronoby / Kokkola-Pietarsaa (airport)</district>
+    <id>2557</id>
+  </point>
+  <point>
+    <name>Masskar</name>
+    <region>Ostrobothnia</region>
+    <district>Masskar</district>
+    <id>2554</id>
+  </point>
+  <point>
+    <name>Salgrund / Kaskinen</name>
+    <region>Ostrobothnia</region>
+    <district>Salgrund / Kaskinen</district>
+    <id>510333</id>
+  </point>
+  <point>
+    <name>Strommingsbadan (lighthouse)</name>
+    <region>Ostrobothnia</region>
+    <district>Strommingsbadan (lighthouse)</district>
+    <id>170588</id>
+  </point>
+  <point>
+    <name>Tankar</name>
+    <region>Ostrobothnia</region>
+    <district>Tankar</district>
+    <id>152534</id>
+  </point>
+  <point>
+    <name>Vaasa</name>
+    <region>Ostrobothnia</region>
+    <district>Vaasa</district>
+    <id>2568</id>
+  </point>
+  <point>
+    <name>Vaasa (airport)</name>
+    <region>Ostrobothnia</region>
+    <district>Vaasa (airport)</district>
+    <id>2356</id>
+  </point>
+  <point>
+    <name>Valassaaret</name>
+    <region>Ostrobothnia</region>
+    <district>Valassaaret</district>
+    <id>2566</id>
+  </point>
+  <point>
+    <name>Asikkala / Pulkkilanharju</name>
+    <region>Paijanne Tavastia</region>
+    <district>Asikkala / Pulkkilanharju</district>
+    <id>170610</id>
+  </point>
+  <point>
+    <name>Heinola / Plaani</name>
+    <region>Paijanne Tavastia</region>
+    <district>Heinola / Plaani</district>
+    <id>151732</id>
+  </point>
+  <point>
+    <name>Lahti</name>
+    <region>Paijanne Tavastia</region>
+    <district>Lahti</district>
+    <id>2638</id>
+  </point>
+  <point>
+    <name>Juupajoki / Hyytiala</name>
+    <region>Pirkanmaa</region>
+    <district>Juupajoki / Hyytiala</district>
+    <id>170603</id>
+  </point>
+  <point>
+    <name>Tampere</name>
+    <region>Pirkanmaa</region>
+    <district>Tampere</district>
+    <id>170352</id>
+  </point>
+  <point>
+    <name>Tampere / Harmala</name>
+    <region>Pirkanmaa</region>
+    <district>Tampere / Harmala</district>
+    <id>170642</id>
+  </point>
+  <point>
+    <name>Tampere / Pirkkala (airport)</name>
+    <region>Pirkanmaa</region>
+    <district>Tampere / Pirkkala (airport)</district>
+    <id>2603</id>
+  </point>
+  <point>
+    <name>Tampere / Satakunnankatu</name>
+    <region>Pirkanmaa</region>
+    <district>Tampere / Satakunnankatu</district>
+    <id>510329</id>
+  </point>
+  <point>
+    <name>Virrat / Aijanneva</name>
+    <region>Pirkanmaa</region>
+    <district>Virrat / Aijanneva</district>
+    <id>170447</id>
+  </point>
+  <point>
+    <name>Alkkia</name>
+    <region>Satakunta</region>
+    <district>Alkkia</district>
+    <id>510317</id>
+  </point>
+  <point>
+    <name>Kankaanpaa / Niinisalo (AWS)</name>
+    <region>Satakunta</region>
+    <district>Kankaanpaa / Niinisalo (AWS)</district>
+    <id>2602</id>
+  </point>
+  <point>
+    <name>Kankaanpaa Niinisalo</name>
+    <region>Satakunta</region>
+    <district>Kankaanpaa Niinisalo</district>
+    <id>170640</id>
+  </point>
+  <point>
+    <name>Kokemaki Tulkkila</name>
+    <region>Satakunta</region>
+    <district>Kokemaki Tulkkila</district>
+    <id>504482</id>
+  </point>
+  <point>
+    <name>Pori (airport)</name>
+    <region>Satakunta</region>
+    <district>Pori (airport)</district>
+    <id>2621</id>
+  </point>
+  <point>
+    <name>Pori / Rautatieasema</name>
+    <region>Satakunta</region>
+    <district>Pori / Rautatieasema</district>
+    <id>348621</id>
+  </point>
+  <point>
+    <name>Rauma / Kylmapihlaja (lighthouse)</name>
+    <region>Satakunta</region>
+    <district>Rauma / Kylmapihlaja (lighthouse)</district>
+    <id>152195</id>
+  </point>
+  <point>
+    <name>Tahkoluoto</name>
+    <region>Satakunta</region>
+    <district>Tahkoluoto</district>
+    <id>152552</id>
+  </point>
+  <point>
+    <name>Joutseno</name>
+    <region>South Karelia</region>
+    <district>Joutseno</district>
+    <id>151754</id>
+  </point>
+  <point>
+    <name>Konnunsuo</name>
+    <region>South Karelia</region>
+    <district>Konnunsuo</district>
+    <id>510069</id>
+  </point>
+  <point>
+    <name>Lappeenranta (airport)</name>
+    <region>South Karelia</region>
+    <district>Lappeenranta (airport)</district>
+    <id>2628</id>
+  </point>
+  <point>
+    <name>Lappeenranta Hietapakka</name>
+    <region>South Karelia</region>
+    <district>Lappeenranta Hietapakka</district>
+    <id>510588</id>
+  </point>
+  <point>
+    <name>Lappeenranta Lepola</name>
+    <region>South Karelia</region>
+    <district>Lappeenranta Lepola</district>
+    <id>504485</id>
+  </point>
+  <point>
+    <name>Parikkala / Koitsanlahti</name>
+    <region>South Karelia</region>
+    <district>Parikkala / Koitsanlahti</district>
+    <id>170622</id>
+  </point>
+  <point>
+    <name>Ahtari Myllymaki</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Ahtari Myllymaki</district>
+    <id>2596</id>
+  </point>
+  <point>
+    <name>Alajarvi Moksy</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Alajarvi Moksy</district>
+    <id>170633</id>
+  </point>
+  <point>
+    <name>Halsua Kanala Purola</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Halsua Kanala Purola</district>
+    <id>348314</id>
+  </point>
+  <point>
+    <name>Karhila</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Karhila</district>
+    <id>510324</id>
+  </point>
+  <point>
+    <name>Kauhajoki Kuja-Kokko</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Kauhajoki Kuja-Kokko</district>
+    <id>152528</id>
+  </point>
+  <point>
+    <name>Kauhava</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Kauhava</district>
+    <id>510323</id>
+  </point>
+  <point>
+    <name>Kauhava (airport)</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Kauhava (airport)</district>
+    <id>2570</id>
+  </point>
+  <point>
+    <name>Seinajoki</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Seinajoki</district>
+    <id>212409</id>
+  </point>
+  <point>
+    <name>Seinajoki (airport)</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Seinajoki (airport)</district>
+    <id>508659</id>
+  </point>
+  <point>
+    <name>Ylistaro / Pelma</name>
+    <region>Southern Ostrobothnia</region>
+    <district>Ylistaro / Pelma</district>
+    <id>170628</id>
+  </point>
+  <point>
+    <name>Juva</name>
+    <region>Southern Savonia</region>
+    <district>Juva</district>
+    <id>170623</id>
+  </point>
+  <point>
+    <name>Mikkeli (airport)</name>
+    <region>Southern Savonia</region>
+    <district>Mikkeli (airport)</district>
+    <id>2615</id>
+  </point>
+  <point>
+    <name>Punkaharju</name>
+    <region>Southern Savonia</region>
+    <district>Punkaharju</district>
+    <id>170579</id>
+  </point>
+  <point>
+    <name>Puumala</name>
+    <region>Southern Savonia</region>
+    <district>Puumala</district>
+    <id>170618</id>
+  </point>
+  <point>
+    <name>Rantasalmi / Rukkasluoto</name>
+    <region>Southern Savonia</region>
+    <district>Rantasalmi / Rukkasluoto</district>
+    <id>170634</id>
+  </point>
+  <point>
+    <name>Savonlinna</name>
+    <region>Southern Savonia</region>
+    <district>Savonlinna</district>
+    <id>2617</id>
+  </point>
+  <point>
+    <name>Savonlinna (airport)</name>
+    <region>Southern Savonia</region>
+    <district>Savonlinna (airport)</district>
+    <id>508024</id>
+  </point>
+  <point>
+    <name>Taipalsaari Kylaniemi</name>
+    <region>Southern Savonia</region>
+    <district>Taipalsaari Kylaniemi</district>
+    <id>348316</id>
+  </point>
+  <point>
+    <name>Evo</name>
+    <region>Tavastia Proper</region>
+    <district>Evo</district>
+    <id>510328</id>
+  </point>
+  <point>
+    <name>Hameenlinna</name>
+    <region>Tavastia Proper</region>
+    <district>Hameenlinna</district>
+    <id>151730</id>
+  </point>
+  <point>
+    <name>Jokioinen</name>
+    <region>Tavastia Proper</region>
+    <district>Jokioinen</district>
+    <id>2632</id>
+  </point>
+  <point>
+    <name>Lammi Biologinen Asema</name>
+    <region>Tavastia Proper</region>
+    <district>Lammi Biologinen Asema</district>
+    <id>348320</id>
+  </point>
+  <point>
+    <name>Lepaa</name>
+    <region>Tavastia Proper</region>
+    <district>Lepaa</district>
+    <id>348308</id>
+  </point>
+  <point>
+    <name>Bagaskar</name>
+    <region>Uusimaa</region>
+    <district>Bagaskar</district>
+    <id>2696</id>
+  </point>
+  <point>
+    <name>Espoo / Sepankyla</name>
+    <region>Uusimaa</region>
+    <district>Espoo / Sepankyla</district>
+    <id>151729</id>
+  </point>
+  <point>
+    <name>Hanko / Tulliniemi</name>
+    <region>Uusimaa</region>
+    <district>Hanko / Tulliniemi</district>
+    <id>170552</id>
+  </point>
+  <point>
+    <name>Hanko / Tvarminne</name>
+    <region>Uusimaa</region>
+    <district>Hanko / Tvarminne</district>
+    <id>151733</id>
+  </point>
+  <point>
+    <name>Helsinki</name>
+    <region>Uusimaa</region>
+    <district>Helsinki</district>
+    <id>2675</id>
+  </point>
+  <point>
+    <name>Helsinki (weather station 02934)</name>
+    <region>Uusimaa</region>
+    <district>Helsinki (weather station 02934)</district>
+    <id>504496</id>
+  </point>
+  <point>
+    <name>Helsinki / Kumpula</name>
+    <region>Uusimaa</region>
+    <district>Helsinki / Kumpula</district>
+    <id>510187</id>
+  </point>
+  <point>
+    <name>Helsinki / Malmi (airport)</name>
+    <region>Uusimaa</region>
+    <district>Helsinki / Malmi (airport)</district>
+    <id>508075</id>
+  </point>
+  <point>
+    <name>Helsinki / Vantaa (airport)</name>
+    <region>Uusimaa</region>
+    <district>Helsinki / Vantaa (airport)</district>
+    <id>2672</id>
+  </point>
+  <point>
+    <name>Hyvinkaa / Mutila</name>
+    <region>Uusimaa</region>
+    <district>Hyvinkaa / Mutila</district>
+    <id>151731</id>
+  </point>
+  <point>
+    <name>Isosaari</name>
+    <region>Uusimaa</region>
+    <district>Isosaari</district>
+    <id>2703</id>
+  </point>
+  <point>
+    <name>Isosaari (weather station)</name>
+    <region>Uusimaa</region>
+    <district>Isosaari (weather station)</district>
+    <id>504528</id>
+  </point>
+  <point>
+    <name>Kirkkonummi Makiluoto</name>
+    <region>Uusimaa</region>
+    <district>Kirkkonummi Makiluoto</district>
+    <id>348322</id>
+  </point>
+  <point>
+    <name>Lohja / Porla</name>
+    <region>Uusimaa</region>
+    <district>Lohja / Porla</district>
+    <id>170581</id>
+  </point>
+  <point>
+    <name>Nurmijarvi Geomagnetic Observatory</name>
+    <region>Uusimaa</region>
+    <district>Nurmijarvi Geomagnetic Observatory</district>
+    <id>504487</id>
+  </point>
+  <point>
+    <name>Tammisaari Jussaro</name>
+    <region>Uusimaa</region>
+    <district>Tammisaari Jussaro</district>
+    <id>152566</id>
+  </point>
+  <point>
+    <name>Vihti / Maasoja</name>
+    <region>Uusimaa</region>
+    <district>Vihti / Maasoja</district>
+    <id>170635</id>
+  </point>
+</country>

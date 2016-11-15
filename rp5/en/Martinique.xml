@@ -1,0 +1,38 @@
+<country name="Martinique" count="6">
+  <point>
+    <name>Fort-de-France</name>
+    <region>Fort-de-France</region>
+    <district>Fort-de-France</district>
+    <id>337472</id>
+  </point>
+  <point>
+    <name>Lamentin (airport)</name>
+    <region>Fort-de-France</region>
+    <district>Lamentin (airport)</district>
+    <id>338347</id>
+  </point>
+  <point>
+    <name>La Trinite</name>
+    <region>La Trinite</region>
+    <district>La Trinite</district>
+    <id>381516</id>
+  </point>
+  <point>
+    <name>La Trinite (weather station)</name>
+    <region>La Trinite</region>
+    <district>La Trinite (weather station)</district>
+    <id>338348</id>
+  </point>
+  <point>
+    <name>Le Marin</name>
+    <region>Le Marin</region>
+    <district>Le Marin</district>
+    <id>381517</id>
+  </point>
+  <point>
+    <name>Saint-Pierre</name>
+    <region>Saint-Pierre</region>
+    <district>Saint-Pierre</district>
+    <id>381518</id>
+  </point>
+</country>

@@ -1,0 +1,944 @@
+<country name="Болгария" count="157">
+  <point>
+    <name>Благоевград</name>
+    <region>Благоевградская область</region>
+    <district>Благоевград</district>
+    <id>5954</id>
+  </point>
+  <point>
+    <name>Банско</name>
+    <region>Благоевградская область</region>
+    <district>Банско</district>
+    <id>13180</id>
+  </point>
+  <point>
+    <name>Петрич</name>
+    <region>Благоевградская область</region>
+    <district>Петрич</district>
+    <id>12016</id>
+  </point>
+  <point>
+    <name>Сандански</name>
+    <region>Благоевградская область</region>
+    <district>Сандански</district>
+    <id>9097</id>
+  </point>
+  <point>
+    <name>Гоце-Делчев</name>
+    <region>Благоевградская область</region>
+    <district>Гоце-Делчев</district>
+    <id>5971</id>
+  </point>
+  <point>
+    <name>Хаджидимово</name>
+    <region>Благоевградская область</region>
+    <district>Хаджидимово</district>
+    <id>12018</id>
+  </point>
+  <point>
+    <name>Якоруда</name>
+    <region>Благоевградская область</region>
+    <district>Якоруда</district>
+    <id>12021</id>
+  </point>
+  <point>
+    <name>Бургас (аэропорт)</name>
+    <region>Бургасская область</region>
+    <district>Бургас (аэропорт)</district>
+    <id>9089</id>
+  </point>
+  <point>
+    <name>Бургас</name>
+    <region>Бургасская область</region>
+    <district>Бургас</district>
+    <id>508180</id>
+  </point>
+  <point>
+    <name>Несебыр</name>
+    <region>Бургасская область</region>
+    <district>Несебыр</district>
+    <id>11881</id>
+  </point>
+  <point>
+    <name>Солнечный берег</name>
+    <region>Бургасская область</region>
+    <district>Солнечный берег</district>
+    <id>12531</id>
+  </point>
+  <point>
+    <name>Айтос</name>
+    <region>Бургасская область</region>
+    <district>Айтос</district>
+    <id>9131</id>
+  </point>
+  <point>
+    <name>Ахтополь</name>
+    <region>Бургасская область</region>
+    <district>Ахтополь</district>
+    <id>9090</id>
+  </point>
+  <point>
+    <name>Камено</name>
+    <region>Бургасская область</region>
+    <district>Камено</district>
+    <id>12006</id>
+  </point>
+  <point>
+    <name>Карнобат</name>
+    <region>Бургасская область</region>
+    <district>Карнобат</district>
+    <id>12009</id>
+  </point>
+  <point>
+    <name>Китен</name>
+    <region>Бургасская область</region>
+    <district>Китен</district>
+    <id>11954</id>
+  </point>
+  <point>
+    <name>Нессебар</name>
+    <region>Бургасская область</region>
+    <district>Нессебар</district>
+    <id>13857</id>
+  </point>
+  <point>
+    <name>Обзор</name>
+    <region>Бургасская область</region>
+    <district>Обзор</district>
+    <id>11832</id>
+  </point>
+  <point>
+    <name>Поморие</name>
+    <region>Бургасская область</region>
+    <district>Поморие</district>
+    <id>11711</id>
+  </point>
+  <point>
+    <name>Приморско</name>
+    <region>Бургасская область</region>
+    <district>Приморско</district>
+    <id>11986</id>
+  </point>
+  <point>
+    <name>Свети-Влас</name>
+    <region>Бургасская область</region>
+    <district>Свети-Влас</district>
+    <id>11976</id>
+  </point>
+  <point>
+    <name>Созопол</name>
+    <region>Бургасская область</region>
+    <district>Созопол</district>
+    <id>11974</id>
+  </point>
+  <point>
+    <name>Средец</name>
+    <region>Бургасская область</region>
+    <district>Средец</district>
+    <id>12010</id>
+  </point>
+  <point>
+    <name>Царево</name>
+    <region>Бургасская область</region>
+    <district>Царево</district>
+    <id>11967</id>
+  </point>
+  <point>
+    <name>Варна</name>
+    <region>Варненская область</region>
+    <district>Варна</district>
+    <id>9043</id>
+  </point>
+  <point>
+    <name>Бяла</name>
+    <region>Варненская область</region>
+    <district>Бяла</district>
+    <id>8284</id>
+  </point>
+  <point>
+    <name>Варна (аэропорт)</name>
+    <region>Варненская область</region>
+    <district>Варна (аэропорт)</district>
+    <id>504557</id>
+  </point>
+  <point>
+    <name>Золотые пески</name>
+    <region>Варненская область</region>
+    <district>Золотые пески</district>
+    <id>11857</id>
+  </point>
+  <point>
+    <name>Галата</name>
+    <region>Варненская область</region>
+    <district>Галата</district>
+    <id>151405</id>
+  </point>
+  <point>
+    <name>Велико-Тырново</name>
+    <region>Великотырновская область</region>
+    <district>Велико-Тырново</district>
+    <id>9021</id>
+  </point>
+  <point>
+    <name>Горна-Оряховица (аэропорт)</name>
+    <region>Великотырновская область</region>
+    <district>Горна-Оряховица (аэропорт)</district>
+    <id>5979</id>
+  </point>
+  <point>
+    <name>Ново-Село</name>
+    <region>Великотырновская область</region>
+    <district>Ново-Село</district>
+    <id>9000</id>
+  </point>
+  <point>
+    <name>Стражица</name>
+    <region>Великотырновская область</region>
+    <district>Стражица</district>
+    <id>12066</id>
+  </point>
+  <point>
+    <name>Бяла-Черква</name>
+    <region>Великотырновская область</region>
+    <district>Бяла-Черква</district>
+    <id>12023</id>
+  </point>
+  <point>
+    <name>Дебелец</name>
+    <region>Великотырновская область</region>
+    <district>Дебелец</district>
+    <id>12041</id>
+  </point>
+  <point>
+    <name>Елена</name>
+    <region>Великотырновская область</region>
+    <district>Елена</district>
+    <id>12042</id>
+  </point>
+  <point>
+    <name>Лясковец</name>
+    <region>Великотырновская область</region>
+    <district>Лясковец</district>
+    <id>12048</id>
+  </point>
+  <point>
+    <name>Павликени</name>
+    <region>Великотырновская область</region>
+    <district>Павликени</district>
+    <id>12050</id>
+  </point>
+  <point>
+    <name>Полски-Трымбеш</name>
+    <region>Великотырновская область</region>
+    <district>Полски-Трымбеш</district>
+    <id>12058</id>
+  </point>
+  <point>
+    <name>Свиштов</name>
+    <region>Великотырновская область</region>
+    <district>Свиштов</district>
+    <id>9025</id>
+  </point>
+  <point>
+    <name>Видин</name>
+    <region>Видинская область</region>
+    <district>Видин</district>
+    <id>9001</id>
+  </point>
+  <point>
+    <name>Белоградчик</name>
+    <region>Видинская область</region>
+    <district>Белоградчик</district>
+    <id>12516</id>
+  </point>
+  <point>
+    <name>Враца</name>
+    <region>Врачанская область</region>
+    <district>Враца</district>
+    <id>9008</id>
+  </point>
+  <point>
+    <name>Бяла-Слатина</name>
+    <region>Врачанская область</region>
+    <district>Бяла-Слатина</district>
+    <id>12073</id>
+  </point>
+  <point>
+    <name>Козлодуй</name>
+    <region>Врачанская область</region>
+    <district>Козлодуй</district>
+    <id>12079</id>
+  </point>
+  <point>
+    <name>Оряхово</name>
+    <region>Врачанская область</region>
+    <district>Оряхово</district>
+    <id>9015</id>
+  </point>
+  <point>
+    <name>Мездра</name>
+    <region>Врачанская область</region>
+    <district>Мездра</district>
+    <id>12089</id>
+  </point>
+  <point>
+    <name>Габрово</name>
+    <region>Габровская область</region>
+    <district>Габрово</district>
+    <id>5953</id>
+  </point>
+  <point>
+    <name>Дряново</name>
+    <region>Габровская область</region>
+    <district>Дряново</district>
+    <id>12097</id>
+  </point>
+  <point>
+    <name>Севлиево</name>
+    <region>Габровская область</region>
+    <district>Севлиево</district>
+    <id>13169</id>
+  </point>
+  <point>
+    <name>Трявна</name>
+    <region>Габровская область</region>
+    <district>Трявна</district>
+    <id>12524</id>
+  </point>
+  <point>
+    <name>Добрич</name>
+    <region>Добричская область</region>
+    <district>Добрич</district>
+    <id>5771</id>
+  </point>
+  <point>
+    <name>Албена</name>
+    <region>Добричская область</region>
+    <district>Албена</district>
+    <id>12543</id>
+  </point>
+  <point>
+    <name>Балчик</name>
+    <region>Добричская область</region>
+    <district>Балчик</district>
+    <id>13182</id>
+  </point>
+  <point>
+    <name>Шабла</name>
+    <region>Добричская область</region>
+    <district>Шабла</district>
+    <id>9045</id>
+  </point>
+  <point>
+    <name>Генерал-Тошево</name>
+    <region>Добричская область</region>
+    <district>Генерал-Тошево</district>
+    <id>12102</id>
+  </point>
+  <point>
+    <name>Каварна</name>
+    <region>Добричская область</region>
+    <district>Каварна</district>
+    <id>11958</id>
+  </point>
+  <point>
+    <name>Калиакра</name>
+    <region>Добричская область</region>
+    <district>Калиакра</district>
+    <id>9046</id>
+  </point>
+  <point>
+    <name>Тервел</name>
+    <region>Добричская область</region>
+    <district>Тервел</district>
+    <id>12483</id>
+  </point>
+  <point>
+    <name>Кырджали</name>
+    <region>Кырджалийская область</region>
+    <district>Кырджали</district>
+    <id>9107</id>
+  </point>
+  <point>
+    <name>Ардино</name>
+    <region>Кырджалийская область</region>
+    <district>Ардино</district>
+    <id>12003</id>
+  </point>
+  <point>
+    <name>Крумовград</name>
+    <region>Кырджалийская область</region>
+    <district>Крумовград</district>
+    <id>12500</id>
+  </point>
+  <point>
+    <name>Момчилград</name>
+    <region>Кырджалийская область</region>
+    <district>Момчилград</district>
+    <id>12503</id>
+  </point>
+  <point>
+    <name>Кюстендил</name>
+    <region>Кюстендилская область</region>
+    <district>Кюстендил</district>
+    <id>9049</id>
+  </point>
+  <point>
+    <name>Бобов-Дол</name>
+    <region>Кюстендилская область</region>
+    <district>Бобов-Дол</district>
+    <id>12506</id>
+  </point>
+  <point>
+    <name>Дупница</name>
+    <region>Кюстендилская область</region>
+    <district>Дупница</district>
+    <id>5959</id>
+  </point>
+  <point>
+    <name>Ловеч</name>
+    <region>Ловечская область</region>
+    <district>Ловеч</district>
+    <id>9017</id>
+  </point>
+  <point>
+    <name>Априлци</name>
+    <region>Ловечская область</region>
+    <district>Априлци</district>
+    <id>12005</id>
+  </point>
+  <point>
+    <name>Тетевен</name>
+    <region>Ловечская область</region>
+    <district>Тетевен</district>
+    <id>12546</id>
+  </point>
+  <point>
+    <name>Троян</name>
+    <region>Ловечская область</region>
+    <district>Троян</district>
+    <id>13165</id>
+  </point>
+  <point>
+    <name>Луковит</name>
+    <region>Ловечская область</region>
+    <district>Луковит</district>
+    <id>12544</id>
+  </point>
+  <point>
+    <name>Монтана</name>
+    <region>Монтанская область</region>
+    <district>Монтана</district>
+    <id>9009</id>
+  </point>
+  <point>
+    <name>Берковица</name>
+    <region>Монтанская область</region>
+    <district>Берковица</district>
+    <id>12548</id>
+  </point>
+  <point>
+    <name>Выршец</name>
+    <region>Монтанская область</region>
+    <district>Выршец</district>
+    <id>11966</id>
+  </point>
+  <point>
+    <name>Лом</name>
+    <region>Монтанская область</region>
+    <district>Лом</district>
+    <id>9011</id>
+  </point>
+  <point>
+    <name>Пазарджик</name>
+    <region>Пазарджикская область</region>
+    <district>Пазарджик</district>
+    <id>5937</id>
+  </point>
+  <point>
+    <name>Велинград</name>
+    <region>Пазарджикская область</region>
+    <district>Велинград</district>
+    <id>10225</id>
+  </point>
+  <point>
+    <name>Ивайло</name>
+    <region>Пазарджикская область</region>
+    <district>Ивайло</district>
+    <id>9063</id>
+  </point>
+  <point>
+    <name>Пештера</name>
+    <region>Пазарджикская область</region>
+    <district>Пештера</district>
+    <id>12553</id>
+  </point>
+  <point>
+    <name>Батак</name>
+    <region>Пазарджикская область</region>
+    <district>Батак</district>
+    <id>12510</id>
+  </point>
+  <point>
+    <name>Панагюриште</name>
+    <region>Пазарджикская область</region>
+    <district>Панагюриште</district>
+    <id>12550</id>
+  </point>
+  <point>
+    <name>Радомир</name>
+    <region>Пазарджикская область</region>
+    <district>Радомир</district>
+    <id>12561</id>
+  </point>
+  <point>
+    <name>Ракитово</name>
+    <region>Пазарджикская область</region>
+    <district>Ракитово</district>
+    <id>12555</id>
+  </point>
+  <point>
+    <name>Септември</name>
+    <region>Пазарджикская область</region>
+    <district>Септември</district>
+    <id>12560</id>
+  </point>
+  <point>
+    <name>Перник</name>
+    <region>Перникская область</region>
+    <district>Перник</district>
+    <id>5932</id>
+  </point>
+  <point>
+    <name>Плевен</name>
+    <region>Плевенская область</region>
+    <district>Плевен</district>
+    <id>9020</id>
+  </point>
+  <point>
+    <name>Пловдив</name>
+    <region>Пловдивская область</region>
+    <district>Пловдив</district>
+    <id>9060</id>
+  </point>
+  <point>
+    <name>Ботев</name>
+    <region>Пловдивская область</region>
+    <district>Ботев</district>
+    <id>9061</id>
+  </point>
+  <point>
+    <name>Пловдив (аэропорт)</name>
+    <region>Пловдивская область</region>
+    <district>Пловдив (аэропорт)</district>
+    <id>508124</id>
+  </point>
+  <point>
+    <name>Хисаря</name>
+    <region>Пловдивская область</region>
+    <district>Хисаря</district>
+    <id>11971</id>
+  </point>
+  <point>
+    <name>Асеновград</name>
+    <region>Пловдивская область</region>
+    <district>Асеновград</district>
+    <id>5955</id>
+  </point>
+  <point>
+    <name>Богдан</name>
+    <region>Пловдивская область</region>
+    <district>Богдан</district>
+    <id>510068</id>
+  </point>
+  <point>
+    <name>Карлово</name>
+    <region>Пловдивская область</region>
+    <district>Карлово</district>
+    <id>14045</id>
+  </point>
+  <point>
+    <name>Климент</name>
+    <region>Пловдивская область</region>
+    <district>Климент</district>
+    <id>141592</id>
+  </point>
+  <point>
+    <name>Копривштица</name>
+    <region>Пловдивская область</region>
+    <district>Копривштица</district>
+    <id>12511</id>
+  </point>
+  <point>
+    <name>Кричим</name>
+    <region>Пловдивская область</region>
+    <district>Кричим</district>
+    <id>12567</id>
+  </point>
+  <point>
+    <name>Куклен</name>
+    <region>Пловдивская область</region>
+    <district>Куклен</district>
+    <id>894</id>
+  </point>
+  <point>
+    <name>Первомай</name>
+    <region>Пловдивская область</region>
+    <district>Первомай</district>
+    <id>11272</id>
+  </point>
+  <point>
+    <name>Раковски</name>
+    <region>Пловдивская область</region>
+    <district>Раковски</district>
+    <id>13774</id>
+  </point>
+  <point>
+    <name>Стамболийски</name>
+    <region>Пловдивская область</region>
+    <district>Стамболийски</district>
+    <id>10425</id>
+  </point>
+  <point>
+    <name>Сыединение</name>
+    <region>Пловдивская область</region>
+    <district>Сыединение</district>
+    <id>11005</id>
+  </point>
+  <point>
+    <name>Разград</name>
+    <region>Разградская область</region>
+    <district>Разград</district>
+    <id>9038</id>
+  </point>
+  <point>
+    <name>Исперих</name>
+    <region>Разградская область</region>
+    <district>Исперих</district>
+    <id>8253</id>
+  </point>
+  <point>
+    <name>Кубрат</name>
+    <region>Разградская область</region>
+    <district>Кубрат</district>
+    <id>8275</id>
+  </point>
+  <point>
+    <name>Русе</name>
+    <region>Русенская область</region>
+    <district>Русе</district>
+    <id>9026</id>
+  </point>
+  <point>
+    <name>Силистра</name>
+    <region>Силистренская область</region>
+    <district>Силистра</district>
+    <id>9040</id>
+  </point>
+  <point>
+    <name>Сливен</name>
+    <region>Сливенская область</region>
+    <district>Сливен</district>
+    <id>9075</id>
+  </point>
+  <point>
+    <name>Ехлово</name>
+    <region>Сливенская область</region>
+    <district>Ехлово</district>
+    <id>9078</id>
+  </point>
+  <point>
+    <name>Нова-Загора</name>
+    <region>Сливенская область</region>
+    <district>Нова-Загора</district>
+    <id>13174</id>
+  </point>
+  <point>
+    <name>Твырдица</name>
+    <region>Сливенская область</region>
+    <district>Твырдица</district>
+    <id>11098</id>
+  </point>
+  <point>
+    <name>Котел</name>
+    <region>Сливенская область</region>
+    <district>Котел</district>
+    <id>11096</id>
+  </point>
+  <point>
+    <name>Смолян</name>
+    <region>Смолянская область</region>
+    <district>Смолян</district>
+    <id>13168</id>
+  </point>
+  <point>
+    <name>Девин</name>
+    <region>Смолянская область</region>
+    <district>Девин</district>
+    <id>11099</id>
+  </point>
+  <point>
+    <name>Рожен</name>
+    <region>Смолянская область</region>
+    <district>Рожен</district>
+    <id>170434</id>
+  </point>
+  <point>
+    <name>Снежанка</name>
+    <region>Смолянская область</region>
+    <district>Снежанка</district>
+    <id>9105</id>
+  </point>
+  <point>
+    <name>Златоград</name>
+    <region>Смолянская область</region>
+    <district>Златоград</district>
+    <id>11074</id>
+  </point>
+  <point>
+    <name>Мадан</name>
+    <region>Смолянская область</region>
+    <district>Мадан</district>
+    <id>11077</id>
+  </point>
+  <point>
+    <name>Чепеларе</name>
+    <region>Смолянская область</region>
+    <district>Чепеларе</district>
+    <id>11056</id>
+  </point>
+  <point>
+    <name>Боровец</name>
+    <region>Софийская область</region>
+    <district>Боровец</district>
+    <id>12541</id>
+  </point>
+  <point>
+    <name>Ботевград</name>
+    <region>Софийская область</region>
+    <district>Ботевград</district>
+    <id>470334</id>
+  </point>
+  <point>
+    <name>Драгоман</name>
+    <region>Софийская область</region>
+    <district>Драгоман</district>
+    <id>9052</id>
+  </point>
+  <point>
+    <name>Елин-Пелин</name>
+    <region>Софийская область</region>
+    <district>Елин-Пелин</district>
+    <id>11034</id>
+  </point>
+  <point>
+    <name>Етрополе</name>
+    <region>Софийская область</region>
+    <district>Етрополе</district>
+    <id>10405</id>
+  </point>
+  <point>
+    <name>Костенец</name>
+    <region>Софийская область</region>
+    <district>Костенец</district>
+    <id>11019</id>
+  </point>
+  <point>
+    <name>Костинброд</name>
+    <region>Софийская область</region>
+    <district>Костинброд</district>
+    <id>11024</id>
+  </point>
+  <point>
+    <name>Мургаш</name>
+    <region>Софийская область</region>
+    <district>Мургаш</district>
+    <id>9047</id>
+  </point>
+  <point>
+    <name>Мусала</name>
+    <region>Софийская область</region>
+    <district>Мусала</district>
+    <id>9059</id>
+  </point>
+  <point>
+    <name>Пирдоп</name>
+    <region>Софийская область</region>
+    <district>Пирдоп</district>
+    <id>4315</id>
+  </point>
+  <point>
+    <name>Самоков</name>
+    <region>Софийская область</region>
+    <district>Самоков</district>
+    <id>13171</id>
+  </point>
+  <point>
+    <name>Своге</name>
+    <region>Софийская область</region>
+    <district>Своге</district>
+    <id>11131</id>
+  </point>
+  <point>
+    <name>Сливница</name>
+    <region>Софийская область</region>
+    <district>Сливница</district>
+    <id>11142</id>
+  </point>
+  <point>
+    <name>София</name>
+    <region>Городская область София</region>
+    <district>София</district>
+    <id>5696</id>
+  </point>
+  <point>
+    <name>София (метеостанция)</name>
+    <region>Городская область София</region>
+    <district>София (метеостанция)</district>
+    <id>9058</id>
+  </point>
+  <point>
+    <name>София (аэропорт)</name>
+    <region>Городская область София</region>
+    <district>София (аэропорт)</district>
+    <id>504558</id>
+  </point>
+  <point>
+    <name>Черни</name>
+    <region>Городская область София</region>
+    <district>Черни</district>
+    <id>9054</id>
+  </point>
+  <point>
+    <name>Банкя</name>
+    <region>Городская область София</region>
+    <district>Банкя</district>
+    <id>13181</id>
+  </point>
+  <point>
+    <name>Нови-Искыр</name>
+    <region>Городская область София</region>
+    <district>Нови-Искыр</district>
+    <id>11058</id>
+  </point>
+  <point>
+    <name>Стара-Загора</name>
+    <region>Старозагорская область</region>
+    <district>Стара-Загора</district>
+    <id>5776</id>
+  </point>
+  <point>
+    <name>Казанлык</name>
+    <region>Старозагорская область</region>
+    <district>Казанлык</district>
+    <id>5952</id>
+  </point>
+  <point>
+    <name>Чирпан</name>
+    <region>Старозагорская область</region>
+    <district>Чирпан</district>
+    <id>9068</id>
+  </point>
+  <point>
+    <name>Шипка</name>
+    <region>Старозагорская область</region>
+    <district>Шипка</district>
+    <id>12522</id>
+  </point>
+  <point>
+    <name>Тырговиште</name>
+    <region>Тырговиштская область</region>
+    <district>Тырговиште</district>
+    <id>13164</id>
+  </point>
+  <point>
+    <name>Омуртаг</name>
+    <region>Тырговиштская область</region>
+    <district>Омуртаг</district>
+    <id>4328</id>
+  </point>
+  <point>
+    <name>Попово</name>
+    <region>Тырговиштская область</region>
+    <district>Попово</district>
+    <id>4329</id>
+  </point>
+  <point>
+    <name>Хасково</name>
+    <region>Хасковская область</region>
+    <district>Хасково</district>
+    <id>5926</id>
+  </point>
+  <point>
+    <name>Димитровград</name>
+    <region>Хасковская область</region>
+    <district>Димитровград</district>
+    <id>5965</id>
+  </point>
+  <point>
+    <name>Свиленград</name>
+    <region>Хасковская область</region>
+    <district>Свиленград</district>
+    <id>9108</id>
+  </point>
+  <point>
+    <name>Тополовград</name>
+    <region>Хасковская область</region>
+    <district>Тополовград</district>
+    <id>4419</id>
+  </point>
+  <point>
+    <name>Любимец</name>
+    <region>Хасковская область</region>
+    <district>Любимец</district>
+    <id>4376</id>
+  </point>
+  <point>
+    <name>Симеоновград</name>
+    <region>Хасковская область</region>
+    <district>Симеоновград</district>
+    <id>4410</id>
+  </point>
+  <point>
+    <name>Харманли</name>
+    <region>Хасковская область</region>
+    <district>Харманли</district>
+    <id>9184</id>
+  </point>
+  <point>
+    <name>Шумен</name>
+    <region>Шуменская область</region>
+    <district>Шумен</district>
+    <id>5738</id>
+  </point>
+  <point>
+    <name>Велики-Преслав</name>
+    <region>Шуменская область</region>
+    <district>Велики-Преслав</district>
+    <id>12513</id>
+  </point>
+  <point>
+    <name>Нови-Пазар</name>
+    <region>Шуменская область</region>
+    <district>Нови-Пазар</district>
+    <id>4433</id>
+  </point>
+  <point>
+    <name>Плиска</name>
+    <region>Шуменская область</region>
+    <district>Плиска</district>
+    <id>12527</id>
+  </point>
+  <point>
+    <name>Ямбол</name>
+    <region>Ямболская область</region>
+    <district>Ямбол</district>
+    <id>5910</id>
+  </point>
+  <point>
+    <name>Стралджа</name>
+    <region>Ямболская область</region>
+    <district>Стралджа</district>
+    <id>4484</id>
+  </point>
+</country>

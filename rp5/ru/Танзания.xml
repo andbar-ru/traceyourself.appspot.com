@@ -1,0 +1,224 @@
+<country name="Танзания" count="37">
+  <point>
+    <name>Аруша (аэропорт)</name>
+    <region>Аруша</region>
+    <district>Аруша (аэропорт)</district>
+    <id>10682</id>
+  </point>
+  <point>
+    <name>Дар-Эс-Салам (аэропорт)</name>
+    <region>Дар-эс-Салам</region>
+    <district>Дар-Эс-Салам (аэропорт)</district>
+    <id>10698</id>
+  </point>
+  <point>
+    <name>Додома (аэропорт)</name>
+    <region>Додома</region>
+    <district>Додома (аэропорт)</district>
+    <id>10694</id>
+  </point>
+  <point>
+    <name>Занзибар / Кисауни (аэропорт)</name>
+    <region>Занзибар Западный</region>
+    <district>Занзибар / Кисауни (аэропорт)</district>
+    <id>10696</id>
+  </point>
+  <point>
+    <name>Мкокотони</name>
+    <region>Занзибар Северный</region>
+    <district>Мкокотони</district>
+    <id>292037</id>
+  </point>
+  <point>
+    <name>Коани</name>
+    <region>Занзибар Центральный/Южный</region>
+    <district>Коани</district>
+    <id>292038</id>
+  </point>
+  <point>
+    <name>Иринга (аэропорт)</name>
+    <region>Иринга</region>
+    <district>Иринга (аэропорт)</district>
+    <id>10697</id>
+  </point>
+  <point>
+    <name>Букоба (аэропорт)</name>
+    <region>Кагера</region>
+    <district>Букоба (аэропорт)</district>
+    <id>10673</id>
+  </point>
+  <point>
+    <name>Кигома</name>
+    <region>Кигома</region>
+    <district>Кигома</district>
+    <id>10687</id>
+  </point>
+  <point>
+    <name>Кигома (аэропорт)</name>
+    <region>Кигома</region>
+    <district>Кигома (аэропорт)</district>
+    <id>509071</id>
+  </point>
+  <point>
+    <name>Уджиджи</name>
+    <region>Кигома</region>
+    <district>Уджиджи</district>
+    <id>151829</id>
+  </point>
+  <point>
+    <name>Килиманджаро (аэропорт)</name>
+    <region>Килиманджаро</region>
+    <district>Килиманджаро (аэропорт)</district>
+    <id>10684</id>
+  </point>
+  <point>
+    <name>Моши</name>
+    <region>Килиманджаро</region>
+    <district>Моши</district>
+    <id>10683</id>
+  </point>
+  <point>
+    <name>Саме</name>
+    <region>Килиманджаро</region>
+    <district>Саме</district>
+    <id>10688</id>
+  </point>
+  <point>
+    <name>Линди</name>
+    <region>Линди</region>
+    <district>Линди</district>
+    <id>292045</id>
+  </point>
+  <point>
+    <name>Начингва</name>
+    <region>Линди</region>
+    <district>Начингва</district>
+    <id>10702</id>
+  </point>
+  <point>
+    <name>Бабати</name>
+    <region>Маньяра</region>
+    <district>Бабати</district>
+    <id>292039</id>
+  </point>
+  <point>
+    <name>Мусома (аэропорт)</name>
+    <region>Мара</region>
+    <district>Мусома (аэропорт)</district>
+    <id>10674</id>
+  </point>
+  <point>
+    <name>Мбея (аэропорт)</name>
+    <region>Мбея</region>
+    <district>Мбея (аэропорт)</district>
+    <id>10700</id>
+  </point>
+  <point>
+    <name>Мванза</name>
+    <region>Мванза</region>
+    <district>Мванза</district>
+    <id>10679</id>
+  </point>
+  <point>
+    <name>Мванза (аэропорт)</name>
+    <region>Мванза</region>
+    <district>Мванза (аэропорт)</district>
+    <id>509072</id>
+  </point>
+  <point>
+    <name>Морогоро</name>
+    <region>Морогоро</region>
+    <district>Морогоро</district>
+    <id>10695</id>
+  </point>
+  <point>
+    <name>Морогоро (аэропорт)</name>
+    <region>Морогоро</region>
+    <district>Морогоро (аэропорт)</district>
+    <id>509073</id>
+  </point>
+  <point>
+    <name>Мтвара</name>
+    <region>Мтвара</region>
+    <district>Мтвара</district>
+    <id>10703</id>
+  </point>
+  <point>
+    <name>Мтвара (аэропорт)</name>
+    <region>Мтвара</region>
+    <district>Мтвара (аэропорт)</district>
+    <id>509074</id>
+  </point>
+  <point>
+    <name>Кибаха</name>
+    <region>Пвани</region>
+    <district>Кибаха</district>
+    <id>292042</id>
+  </point>
+  <point>
+    <name>Мафия / Килиндони</name>
+    <region>Пвани</region>
+    <district>Мафия / Килиндони</district>
+    <id>10699</id>
+  </point>
+  <point>
+    <name>Вете</name>
+    <region>Пемба Северная</region>
+    <district>Вете</district>
+    <id>292040</id>
+  </point>
+  <point>
+    <name>Мкоани</name>
+    <region>Пемба Южная</region>
+    <district>Мкоани</district>
+    <id>292041</id>
+  </point>
+  <point>
+    <name>Пемба (аэропорт Каруме)</name>
+    <region>Пемба Южная</region>
+    <district>Пемба (аэропорт Каруме)</district>
+    <id>10693</id>
+  </point>
+  <point>
+    <name>Сонгеа (аэропорт)</name>
+    <region>Рувума</region>
+    <district>Сонгеа (аэропорт)</district>
+    <id>10701</id>
+  </point>
+  <point>
+    <name>Сумбаванга (аэропорт)</name>
+    <region>Руква</region>
+    <district>Сумбаванга (аэропорт)</district>
+    <id>170848</id>
+  </point>
+  <point>
+    <name>Сингида</name>
+    <region>Сингида</region>
+    <district>Сингида</district>
+    <id>292043</id>
+  </point>
+  <point>
+    <name>Табора (аэропорт)</name>
+    <region>Табора</region>
+    <district>Табора (аэропорт)</district>
+    <id>10691</id>
+  </point>
+  <point>
+    <name>Танга</name>
+    <region>Танга</region>
+    <district>Танга</district>
+    <id>10692</id>
+  </point>
+  <point>
+    <name>Момбо</name>
+    <region>Танга</region>
+    <district>Момбо</district>
+    <id>10689</id>
+  </point>
+  <point>
+    <name>Шиньянга</name>
+    <region>Шиньянга</region>
+    <district>Шиньянга</district>
+    <id>292044</id>
+  </point>
+</country>

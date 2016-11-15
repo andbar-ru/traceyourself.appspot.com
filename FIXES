@@ -1,0 +1,15 @@
+* Функция lazy_gettext из webapp2_extras.i18n google appengine ведёт себя не так, как мы от неё ожидаем. Проблема в том, что в классе babel.support.LazyProxy в методе value возрващается не перевод значения, а само значение.
+    Решение:
+Поменять 186 строку файла babel/support.py с
+  return self._value
+на
+  return self._func(self._value)
+
+
+* При построении графика вида `тор` или `цилиндр`, а затем последующего построения графика вида `цилиндр` или `тор`, свойство 'pane' графика не менялось.
+    Решение:
+Перед 74 строкой файла js/highcharts-more.src.js:
+  each([].concat(splat(backgroundOption)).reverse(), function (config) {
+вставить
+  firstAxis.options.plotBands = [];
+Ссылка: https://github.com/highslide-software/highcharts.com/issues/2160

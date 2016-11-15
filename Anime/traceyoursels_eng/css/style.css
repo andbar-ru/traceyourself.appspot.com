@@ -1,0 +1,69 @@
+/*
+
+	MotionComposer
+	Aquafadas 2011
+
+*/
+
+
+body {padding:0;margin:0;background-image:url(images/fond1.jpg);background-color: #434343;font-family:lucida grande,Verdana,Arial,Sans-Serif;color:#f2f2f2;font-size:13px}
+
+#top{background-image:url(images/fond2.jpg);width:100%;padding-bottom:30px}
+
+#header {width:845px;position:relative;margin:0 auto;height:110px;}
+
+hr{margin:0;border:0px solid #f2f2f2;border-top-width:2px}
+
+h2{font-weight:normal;font-size:38px}
+
+
+
+#logo {
+	width:311px;
+	height:80px;
+	float:left;
+	background-image: url(images/motion-logo.png);
+	background-repeat: no-repeat;
+	background-position:center;
+}
+
+#aqualogo {
+	width:184px;
+	height:80px;
+	float: right;
+	background-image: url(images/aqua-logo.png);
+	background-repeat: no-repeat;
+	background-position:center;
+}
+
+
+
+
+
+span.box2 {
+	background-color:#555;
+	color:#fff;
+	text-align:center;
+	padding:0.5em;
+}
+
+
+#content{text-align:center;height:66%;margin-top:20px}
+
+#dentelle{background-image: url(images/dentelle.jpg);width:100%;height:8px}
+
+#bottom{width:845px;position:relative;margin:0 auto;color:#3f3f41;padding-top:20px}
+
+#bottom .left{float:left;width:400px;text-align:left}
+
+#bottom .left h3{font-size:100px;width:180px;margin:0;float:left;font-weight:normal;}
+
+#bottom .left p{width:195px;margin:0;float:left;font-size:18px}
+
+#bottom .right{float:right;width:400px}
+
+textarea {overflow:hidden;width:398px;height:74px;font-size:13px;border:1px solid #dedfe1}
+
+#local-warning-message {height:45px;cursor:pointer;padding-left:65px;background-image: url(images/warning.png);background-repeat: no-repeat;background-position:8px;}
+
+#arrow{position:absolute;top:45px}

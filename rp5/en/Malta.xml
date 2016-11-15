@@ -1,0 +1,44 @@
+<country name="Malta" count="7">
+  <point>
+    <name>Victoria</name>
+    <region>Gozo and Comino</region>
+    <district>Victoria</district>
+    <id>152214</id>
+  </point>
+  <point>
+    <name>Valletta</name>
+    <region>Inner harbor</region>
+    <district>Valletta</district>
+    <id>152215</id>
+  </point>
+  <point>
+    <name>Mosta</name>
+    <region>Northern Province</region>
+    <district>Mosta</district>
+    <id>152211</id>
+  </point>
+  <point>
+    <name>Birkirkara</name>
+    <region>Outer harbor</region>
+    <district>Birkirkara</district>
+    <id>152216</id>
+  </point>
+  <point>
+    <name>Malta (airport)</name>
+    <region>South-Eastern Province</region>
+    <district>Malta (airport)</district>
+    <id>9647</id>
+  </point>
+  <point>
+    <name>Zejtun</name>
+    <region>South-Eastern Province</region>
+    <district>Zejtun</district>
+    <id>292029</id>
+  </point>
+  <point>
+    <name>Rabat</name>
+    <region>Western Province</region>
+    <district>Rabat</district>
+    <id>292028</id>
+  </point>
+</country>

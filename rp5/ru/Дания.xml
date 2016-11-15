@@ -1,0 +1,626 @@
+<country name="Дания" count="104">
+  <point>
+    <name>Абед</name>
+    <region>Зеландия</region>
+    <district>Абед</district>
+    <id>510400</id>
+  </point>
+  <point>
+    <name>Авно</name>
+    <region>Зеландия</region>
+    <district>Авно</district>
+    <id>4234</id>
+  </point>
+  <point>
+    <name>Албуен</name>
+    <region>Зеландия</region>
+    <district>Албуен</district>
+    <id>4221</id>
+  </point>
+  <point>
+    <name>Бранделев</name>
+    <region>Зеландия</region>
+    <district>Бранделев</district>
+    <id>510343</id>
+  </point>
+  <point>
+    <name>Виндебек-Кюст</name>
+    <region>Зеландия</region>
+    <district>Виндебек-Кюст</district>
+    <id>510401</id>
+  </point>
+  <point>
+    <name>Вордингборг</name>
+    <region>Зеландия</region>
+    <district>Вордингборг</district>
+    <id>12817</id>
+  </point>
+  <point>
+    <name>Гедсер-Одде</name>
+    <region>Зеландия</region>
+    <district>Гедсер-Одде</district>
+    <id>510342</id>
+  </point>
+  <point>
+    <name>Гедсер (мыс)</name>
+    <region>Зеландия</region>
+    <district>Гедсер (мыс)</district>
+    <id>4230</id>
+  </point>
+  <point>
+    <name>Гнибен</name>
+    <region>Зеландия</region>
+    <district>Гнибен</district>
+    <id>4254</id>
+  </point>
+  <point>
+    <name>Калуннборг</name>
+    <region>Зеландия</region>
+    <district>Калуннборг</district>
+    <id>12818</id>
+  </point>
+  <point>
+    <name>Ланго</name>
+    <region>Зеландия</region>
+    <district>Ланго</district>
+    <id>510341</id>
+  </point>
+  <point>
+    <name>Марибо (аэропорт)</name>
+    <region>Зеландия</region>
+    <district>Марибо (аэропорт)</district>
+    <id>4223</id>
+  </point>
+  <point>
+    <name>Мён</name>
+    <region>Зеландия</region>
+    <district>Мён</district>
+    <id>4263</id>
+  </point>
+  <point>
+    <name>Нюкёбинг Фальстер</name>
+    <region>Зеландия</region>
+    <district>Нюкёбинг Фальстер</district>
+    <id>12821</id>
+  </point>
+  <point>
+    <name>Рёснес</name>
+    <region>Зеландия</region>
+    <district>Рёснес</district>
+    <id>4239</id>
+  </point>
+  <point>
+    <name>Роскилле (аэропорт)</name>
+    <region>Зеландия</region>
+    <district>Роскилле (аэропорт)</district>
+    <id>4262</id>
+  </point>
+  <point>
+    <name>Роскилле</name>
+    <region>Зеландия</region>
+    <district>Роскилле</district>
+    <id>12808</id>
+  </point>
+  <point>
+    <name>Сорё</name>
+    <region>Зеландия</region>
+    <district>Сорё</district>
+    <id>180861</id>
+  </point>
+  <point>
+    <name>Тессебеле</name>
+    <region>Зеландия</region>
+    <district>Тессебеле</district>
+    <id>510344</id>
+  </point>
+  <point>
+    <name>Тисофте</name>
+    <region>Зеландия</region>
+    <district>Тисофте</district>
+    <id>510340</id>
+  </point>
+  <point>
+    <name>Тывелсе</name>
+    <region>Зеландия</region>
+    <district>Тывелсе</district>
+    <id>4237</id>
+  </point>
+  <point>
+    <name>Флаккебьерг</name>
+    <region>Зеландия</region>
+    <district>Флаккебьерг</district>
+    <id>510541</id>
+  </point>
+  <point>
+    <name>Хольбек</name>
+    <region>Зеландия</region>
+    <district>Хольбек</district>
+    <id>4238</id>
+  </point>
+  <point>
+    <name>Halfdan A Helideck (платформа)</name>
+    <region>Нефтяные платформы в Северном море</region>
+    <district>Halfdan A Helideck (платформа)</district>
+    <id>509718</id>
+  </point>
+  <point>
+    <name>Тайра-Вест (платформа)</name>
+    <region>Нефтяные платформы в Северном море</region>
+    <district>Тайра-Вест (платформа)</district>
+    <id>4104</id>
+  </point>
+  <point>
+    <name>Аггерсунд</name>
+    <region>Северная Ютландия</region>
+    <district>Аггерсунд</district>
+    <id>4133</id>
+  </point>
+  <point>
+    <name>Анхольт</name>
+    <region>Северная Ютландия</region>
+    <district>Анхольт</district>
+    <id>4168</id>
+  </point>
+  <point>
+    <name>Олестрап</name>
+    <region>Северная Ютландия</region>
+    <district>Олестрап</district>
+    <id>510397</id>
+  </point>
+  <point>
+    <name>Ольборг (аэропорт)</name>
+    <region>Северная Ютландия</region>
+    <district>Ольборг (аэропорт)</district>
+    <id>4110</id>
+  </point>
+  <point>
+    <name>Сильструп</name>
+    <region>Северная Ютландия</region>
+    <district>Сильструп</district>
+    <id>510510</id>
+  </point>
+  <point>
+    <name>Синдаль (аэропорт)</name>
+    <region>Северная Ютландия</region>
+    <district>Синдаль (аэропорт)</district>
+    <id>508983</id>
+  </point>
+  <point>
+    <name>Синналь (аэропорт)</name>
+    <region>Северная Ютландия</region>
+    <district>Синналь (аэропорт)</district>
+    <id>4115</id>
+  </point>
+  <point>
+    <name>Скаген</name>
+    <region>Северная Ютландия</region>
+    <district>Скаген</district>
+    <id>4120</id>
+  </point>
+  <point>
+    <name>Стеньхой</name>
+    <region>Северная Ютландия</region>
+    <district>Стеньхой</district>
+    <id>510395</id>
+  </point>
+  <point>
+    <name>Тистед (аэропорт)</name>
+    <region>Северная Ютландия</region>
+    <district>Тистед (аэропорт)</district>
+    <id>4105</id>
+  </point>
+  <point>
+    <name>Фредериксхавн</name>
+    <region>Северная Ютландия</region>
+    <district>Фредериксхавн</district>
+    <id>4124</id>
+  </point>
+  <point>
+    <name>Хадсунн</name>
+    <region>Северная Ютландия</region>
+    <district>Хадсунн</district>
+    <id>4125</id>
+  </point>
+  <point>
+    <name>Верлёсе</name>
+    <region>Столичная область</region>
+    <district>Верлёсе</district>
+    <id>4242</id>
+  </point>
+  <point>
+    <name>Дрогдена</name>
+    <region>Столичная область</region>
+    <district>Дрогдена</district>
+    <id>4275</id>
+  </point>
+  <point>
+    <name>Копенгаген / Аггерсборг (аэропорт)</name>
+    <region>Столичная область</region>
+    <district>Копенгаген / Аггерсборг (аэропорт)</district>
+    <id>4274</id>
+  </point>
+  <point>
+    <name>Копенгаген / Каструп (аэропорт)</name>
+    <region>Столичная область</region>
+    <district>Копенгаген / Каструп (аэропорт)</district>
+    <id>4269</id>
+  </point>
+  <point>
+    <name>Копенгаген / Ландбохейсколен</name>
+    <region>Столичная область</region>
+    <district>Копенгаген / Ландбохейсколен</district>
+    <id>4278</id>
+  </point>
+  <point>
+    <name>Кристиансё</name>
+    <region>Столичная область</region>
+    <district>Кристиансё</district>
+    <id>4283</id>
+  </point>
+  <point>
+    <name>Кунгэльв</name>
+    <region>Столичная область</region>
+    <district>Кунгэльв</district>
+    <id>151540</id>
+  </point>
+  <point>
+    <name>Наккеховед</name>
+    <region>Столичная область</region>
+    <district>Наккеховед</district>
+    <id>4251</id>
+  </point>
+  <point>
+    <name>Нексо-Вест</name>
+    <region>Столичная область</region>
+    <district>Нексо-Вест</district>
+    <id>510402</id>
+  </point>
+  <point>
+    <name>Рённе (аэропорт)</name>
+    <region>Столичная область</region>
+    <district>Рённе (аэропорт)</district>
+    <id>4279</id>
+  </point>
+  <point>
+    <name>Сельсмарк</name>
+    <region>Столичная область</region>
+    <district>Сельсмарк</district>
+    <id>510542</id>
+  </point>
+  <point>
+    <name>Хаммер (мыс)</name>
+    <region>Столичная область</region>
+    <district>Хаммер (мыс)</district>
+    <id>4286</id>
+  </point>
+  <point>
+    <name>Хельсингёр</name>
+    <region>Столичная область</region>
+    <district>Хельсингёр</district>
+    <id>12813</id>
+  </point>
+  <point>
+    <name>Хессель</name>
+    <region>Столичная область</region>
+    <district>Хессель</district>
+    <id>4250</id>
+  </point>
+  <point>
+    <name>Хиллерёд</name>
+    <region>Столичная область</region>
+    <district>Хиллерёд</district>
+    <id>180862</id>
+  </point>
+  <point>
+    <name>Акраберг</name>
+    <region>Фарерские острова</region>
+    <district>Акраберг</district>
+    <id>4095</id>
+  </point>
+  <point>
+    <name>Киркья</name>
+    <region>Фарерские острова</region>
+    <district>Киркья</district>
+    <id>152532</id>
+  </point>
+  <point>
+    <name>Мичинес</name>
+    <region>Фарерские острова</region>
+    <district>Мичинес</district>
+    <id>509859</id>
+  </point>
+  <point>
+    <name>Сорваг / Вагар (аэропорт)</name>
+    <region>Фарерские острова</region>
+    <district>Сорваг / Вагар (аэропорт)</district>
+    <id>4096</id>
+  </point>
+  <point>
+    <name>Торсхавн</name>
+    <region>Фарерские острова</region>
+    <district>Торсхавн</district>
+    <id>4102</id>
+  </point>
+  <point>
+    <name>Виборг</name>
+    <region>Центральная Ютландия</region>
+    <district>Виборг</district>
+    <id>4219</id>
+  </point>
+  <point>
+    <name>Исенвад</name>
+    <region>Центральная Ютландия</region>
+    <district>Исенвад</district>
+    <id>510537</id>
+  </point>
+  <point>
+    <name>Каруп (аэропорт)</name>
+    <region>Центральная Ютландия</region>
+    <district>Каруп (аэропорт)</district>
+    <id>4139</id>
+  </point>
+  <point>
+    <name>Линдторп (аэропорт)</name>
+    <region>Центральная Ютландия</region>
+    <district>Линдторп (аэропорт)</district>
+    <id>4135</id>
+  </point>
+  <point>
+    <name>Мейруп</name>
+    <region>Центральная Ютландия</region>
+    <district>Мейруп</district>
+    <id>510536</id>
+  </point>
+  <point>
+    <name>о. Анхольт</name>
+    <region>Центральная Ютландия</region>
+    <district>о. Анхольт</district>
+    <id>4167</id>
+  </point>
+  <point>
+    <name>Оедум</name>
+    <region>Центральная Ютландия</region>
+    <district>Оедум</district>
+    <id>510336</id>
+  </point>
+  <point>
+    <name>Орхус-Сюд</name>
+    <region>Центральная Ютландия</region>
+    <district>Орхус-Сюд</district>
+    <id>510398</id>
+  </point>
+  <point>
+    <name>Орхус</name>
+    <region>Центральная Ютландия</region>
+    <district>Орхус</district>
+    <id>12772</id>
+  </point>
+  <point>
+    <name>Раннерс</name>
+    <region>Центральная Ютландия</region>
+    <district>Раннерс</district>
+    <id>12781</id>
+  </point>
+  <point>
+    <name>Силькеборг</name>
+    <region>Центральная Ютландия</region>
+    <district>Силькеборг</district>
+    <id>12809</id>
+  </point>
+  <point>
+    <name>Скиве (аэропорт)</name>
+    <region>Центральная Ютландия</region>
+    <district>Скиве (аэропорт)</district>
+    <id>4145</id>
+  </point>
+  <point>
+    <name>Стаунинг (аэропорт)</name>
+    <region>Центральная Ютландия</region>
+    <district>Стаунинг (аэропорт)</district>
+    <id>4154</id>
+  </point>
+  <point>
+    <name>Тирструп (аэропорт)</name>
+    <region>Центральная Ютландия</region>
+    <district>Тирструп (аэропорт)</district>
+    <id>4162</id>
+  </point>
+  <point>
+    <name>Тюборён</name>
+    <region>Центральная Ютландия</region>
+    <district>Тюборён</district>
+    <id>4132</id>
+  </point>
+  <point>
+    <name>Форнес</name>
+    <region>Центральная Ютландия</region>
+    <district>Форнес</district>
+    <id>4163</id>
+  </point>
+  <point>
+    <name>Фоулум</name>
+    <region>Центральная Ютландия</region>
+    <district>Фоулум</district>
+    <id>4158</id>
+  </point>
+  <point>
+    <name>Хвиде-Санде</name>
+    <region>Центральная Ютландия</region>
+    <district>Хвиде-Санде</district>
+    <id>4136</id>
+  </point>
+  <point>
+    <name>Хельд</name>
+    <region>Центральная Ютландия</region>
+    <district>Хельд</district>
+    <id>510396</id>
+  </point>
+  <point>
+    <name>Хорсенс / Бигхольм</name>
+    <region>Центральная Ютландия</region>
+    <district>Хорсенс / Бигхольм</district>
+    <id>510338</id>
+  </point>
+  <point>
+    <name>Хорсенс</name>
+    <region>Центральная Ютландия</region>
+    <district>Хорсенс</district>
+    <id>12805</id>
+  </point>
+  <point>
+    <name>Horns Rev B (вертолетная площадка)</name>
+    <region>Южная Дания</region>
+    <district>Horns Rev B (вертолетная площадка)</district>
+    <id>509007</id>
+  </point>
+  <point>
+    <name>Аарслев</name>
+    <region>Южная Дания</region>
+    <district>Аарслев</district>
+    <id>510339</id>
+  </point>
+  <point>
+    <name>Асков</name>
+    <region>Южная Дания</region>
+    <district>Асков</district>
+    <id>510540</id>
+  </point>
+  <point>
+    <name>Бааго</name>
+    <region>Южная Дания</region>
+    <district>Бааго</district>
+    <id>4200</id>
+  </point>
+  <point>
+    <name>Биллунд (аэропорт)</name>
+    <region>Южная Дания</region>
+    <district>Биллунд (аэропорт)</district>
+    <id>4181</id>
+  </point>
+  <point>
+    <name>Блаванд</name>
+    <region>Южная Дания</region>
+    <district>Блаванд</district>
+    <id>4173</id>
+  </point>
+  <point>
+    <name>Вайле</name>
+    <region>Южная Дания</region>
+    <district>Вайле</district>
+    <id>12807</id>
+  </point>
+  <point>
+    <name>Вамдруп (аэропорт)</name>
+    <region>Южная Дания</region>
+    <district>Вамдруп (аэропорт)</district>
+    <id>4185</id>
+  </point>
+  <point>
+    <name>Вандел</name>
+    <region>Южная Дания</region>
+    <district>Вандел</district>
+    <id>4180</id>
+  </point>
+  <point>
+    <name>Вестер-Ведстед</name>
+    <region>Южная Дания</region>
+    <district>Вестер-Ведстед</district>
+    <id>510539</id>
+  </point>
+  <point>
+    <name>Войенс / Скридструп (аэропорт)</name>
+    <region>Южная Дания</region>
+    <district>Войенс / Скридструп (аэропорт)</district>
+    <id>4186</id>
+  </point>
+  <point>
+    <name>Кегнес</name>
+    <region>Южная Дания</region>
+    <district>Кегнес</district>
+    <id>4211</id>
+  </point>
+  <point>
+    <name>Нюборг</name>
+    <region>Южная Дания</region>
+    <district>Нюборг</district>
+    <id>12820</id>
+  </point>
+  <point>
+    <name>Оденсе / Белдринге (аэропорт)</name>
+    <region>Южная Дания</region>
+    <district>Оденсе / Белдринге (аэропорт)</district>
+    <id>4212</id>
+  </point>
+  <point>
+    <name>Оденсе</name>
+    <region>Южная Дания</region>
+    <district>Оденсе</district>
+    <id>12779</id>
+  </point>
+  <point>
+    <name>Омо</name>
+    <region>Южная Дания</region>
+    <district>Омо</district>
+    <id>4236</id>
+  </point>
+  <point>
+    <name>Рёмё</name>
+    <region>Южная Дания</region>
+    <district>Рёмё</district>
+    <id>4176</id>
+  </point>
+  <point>
+    <name>Рибе</name>
+    <region>Южная Дания</region>
+    <district>Рибе</district>
+    <id>12822</id>
+  </point>
+  <point>
+    <name>Сённерборг (аэропорт)</name>
+    <region>Южная Дания</region>
+    <district>Сённерборг (аэропорт)</district>
+    <id>4210</id>
+  </point>
+  <point>
+    <name>Сюдфюнс (аэропорт)</name>
+    <region>Южная Дания</region>
+    <district>Сюдфюнс (аэропорт)</district>
+    <id>4217</id>
+  </point>
+  <point>
+    <name>Торё</name>
+    <region>Южная Дания</region>
+    <district>Торё</district>
+    <id>510399</id>
+  </point>
+  <point>
+    <name>Тофтлунд</name>
+    <region>Южная Дания</region>
+    <district>Тофтлунд</district>
+    <id>4204</id>
+  </point>
+  <point>
+    <name>Фредерисия</name>
+    <region>Южная Дания</region>
+    <district>Фредерисия</district>
+    <id>12812</id>
+  </point>
+  <point>
+    <name>Хадерслев</name>
+    <region>Южная Дания</region>
+    <district>Хадерслев</district>
+    <id>12814</id>
+  </point>
+  <point>
+    <name>Хорнс-Реве А / Хелидеке (AWS)</name>
+    <region>Южная Дания</region>
+    <district>Хорнс-Реве А / Хелидеке (AWS)</district>
+    <id>509008</id>
+  </point>
+  <point>
+    <name>Эсбьерг (аэропорт)</name>
+    <region>Южная Дания</region>
+    <district>Эсбьерг (аэропорт)</district>
+    <id>4170</id>
+  </point>
+</country>

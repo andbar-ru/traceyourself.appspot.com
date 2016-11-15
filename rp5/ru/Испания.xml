@@ -1,0 +1,782 @@
+<country name="Испания" count="130">
+  <point>
+    <name>Альмерия (аэропорт)</name>
+    <region>Андалусия</region>
+    <district>Альмерия</district>
+    <id>5801</id>
+  </point>
+  <point>
+    <name>Гранада (аэропорт)</name>
+    <region>Андалусия</region>
+    <district>Гранада</district>
+    <id>5759</id>
+  </point>
+  <point>
+    <name>Армилья (аэропорт)</name>
+    <region>Андалусия</region>
+    <district>Гранада</district>
+    <id>435738</id>
+  </point>
+  <point>
+    <name>Сьерра-Невада</name>
+    <region>Андалусия</region>
+    <district>Гранада</district>
+    <id>13759</id>
+  </point>
+  <point>
+    <name>Кадис</name>
+    <region>Андалусия</region>
+    <district>Кадис</district>
+    <id>429859</id>
+  </point>
+  <point>
+    <name>Рота (аэропорт)</name>
+    <region>Андалусия</region>
+    <district>Кадис</district>
+    <id>430408</id>
+  </point>
+  <point>
+    <name>Тарифа</name>
+    <region>Андалусия</region>
+    <district>Кадис</district>
+    <id>5787</id>
+  </point>
+  <point>
+    <name>Херес-де-ла-Фронтера (аэропорт)</name>
+    <region>Андалусия</region>
+    <district>Кадис</district>
+    <id>5777</id>
+  </point>
+  <point>
+    <name>Кордова</name>
+    <region>Андалусия</region>
+    <district>Кордова</district>
+    <id>5755</id>
+  </point>
+  <point>
+    <name>Кордова (аэропорт)</name>
+    <region>Андалусия</region>
+    <district>Кордова</district>
+    <id>508135</id>
+  </point>
+  <point>
+    <name>Малага (аэропорт)</name>
+    <region>Андалусия</region>
+    <district>Малага</district>
+    <id>5800</id>
+  </point>
+  <point>
+    <name>Коста-дель-Соль</name>
+    <region>Андалусия</region>
+    <district>Малага</district>
+    <id>13991</id>
+  </point>
+  <point>
+    <name>Севилья (аэропорт)</name>
+    <region>Андалусия</region>
+    <district>Севилья</district>
+    <id>5752</id>
+  </point>
+  <point>
+    <name>Морон-де-ла-Фонтера (аэропорт)</name>
+    <region>Андалусия</region>
+    <district>Севилья</district>
+    <id>5753</id>
+  </point>
+  <point>
+    <name>Севилья / Эль-Коперо (авиабаза)</name>
+    <region>Андалусия</region>
+    <district>Севилья</district>
+    <id>509559</id>
+  </point>
+  <point>
+    <name>Уэльва</name>
+    <region>Андалусия</region>
+    <district>Уэльва</district>
+    <id>5751</id>
+  </point>
+  <point>
+    <name>Хаэн</name>
+    <region>Андалусия</region>
+    <district>Хаэн</district>
+    <id>5758</id>
+  </point>
+  <point>
+    <name>Сарагоса (аэропорт)</name>
+    <region>Арагон</region>
+    <district>Сарагоса</district>
+    <id>5632</id>
+  </point>
+  <point>
+    <name>Дароса</name>
+    <region>Арагон</region>
+    <district>Сарагоса</district>
+    <id>5631</id>
+  </point>
+  <point>
+    <name>Теруэль</name>
+    <region>Арагон</region>
+    <district>Теруэль</district>
+    <id>5697</id>
+  </point>
+  <point>
+    <name>Теруэль (аэропорт)</name>
+    <region>Арагон</region>
+    <district>Теруэль</district>
+    <id>510532</id>
+  </point>
+  <point>
+    <name>Уэска</name>
+    <region>Арагон</region>
+    <district>Уэска</district>
+    <id>429860</id>
+  </point>
+  <point>
+    <name>Канданчу / Этукса</name>
+    <region>Арагон</region>
+    <district>Уэска</district>
+    <id>5919</id>
+  </point>
+  <point>
+    <name>Уэска / Пиренеи (аэропорт)</name>
+    <region>Арагон</region>
+    <district>Уэска</district>
+    <id>509560</id>
+  </point>
+  <point>
+    <name>Астурия (аэропорт)</name>
+    <region>Астурия</region>
+    <district>Астурия (аэропорт)</district>
+    <id>508273</id>
+  </point>
+  <point>
+    <name>Мусель / Хихон</name>
+    <region>Астурия</region>
+    <district>Мусель / Хихон</district>
+    <id>510316</id>
+  </point>
+  <point>
+    <name>Овьедо</name>
+    <region>Астурия</region>
+    <district>Овьедо</district>
+    <id>5558</id>
+  </point>
+  <point>
+    <name>Хихон</name>
+    <region>Астурия</region>
+    <district>Хихон</district>
+    <id>5557</id>
+  </point>
+  <point>
+    <name>Ибица / Эс Кодола (аэропорт)</name>
+    <region>Балеарские острова</region>
+    <district>Ибица / Эс Кодола (аэропорт)</district>
+    <id>5743</id>
+  </point>
+  <point>
+    <name>Кан-Пастила</name>
+    <region>Балеарские острова</region>
+    <district>Кан-Пастила</district>
+    <id>13749</id>
+  </point>
+  <point>
+    <name>Майорка</name>
+    <region>Балеарские острова</region>
+    <district>Майорка</district>
+    <id>13989</id>
+  </point>
+  <point>
+    <name>Менорка / Махон (аэропорт)</name>
+    <region>Балеарские острова</region>
+    <district>Менорка / Махон (аэропорт)</district>
+    <id>5731</id>
+  </point>
+  <point>
+    <name>Пальма-де-Майорка / Сон-Сан-Хуан (аэропорт)</name>
+    <region>Балеарские острова</region>
+    <district>Пальма-де-Майорка / Сон-Сан-Хуан (аэропорт)</district>
+    <id>5730</id>
+  </point>
+  <point>
+    <name>Пальма-де-Майорка</name>
+    <region>Балеарские острова</region>
+    <district>Пальма-де-Майорка</district>
+    <id>5729</id>
+  </point>
+  <point>
+    <name>Пальма-Нова</name>
+    <region>Балеарские острова</region>
+    <district>Пальма-Нова</district>
+    <id>13755</id>
+  </point>
+  <point>
+    <name>Санта-Понса</name>
+    <region>Балеарские острова</region>
+    <district>Санта-Понса</district>
+    <id>13757</id>
+  </point>
+  <point>
+    <name>Эль-Ареналь</name>
+    <region>Балеарские острова</region>
+    <district>Эль-Ареналь</district>
+    <id>13756</id>
+  </point>
+  <point>
+    <name>Валенсия</name>
+    <region>Валенсия</region>
+    <district></district>
+    <id>5723</id>
+  </point>
+  <point>
+    <name>Аликанте</name>
+    <region>Валенсия</region>
+    <district>Аликанте</district>
+    <id>5740</id>
+  </point>
+  <point>
+    <name>Аликанте / Эль-Альтет (аэропорт)</name>
+    <region>Валенсия</region>
+    <district>Аликанте</district>
+    <id>5742</id>
+  </point>
+  <point>
+    <name>Валенсия (аэропорт)</name>
+    <region>Валенсия</region>
+    <district>Валенсия (аэропорт)</district>
+    <id>5715</id>
+  </point>
+  <point>
+    <name>Коста-Бланка</name>
+    <region>Валенсия</region>
+    <district>Аликанте</district>
+    <id>13990</id>
+  </point>
+  <point>
+    <name>Бетера / Ла-Мелла (авиабаза)</name>
+    <region>Валенсия</region>
+    <district>Бетера / Ла-Мелла (авиабаза)</district>
+    <id>510821</id>
+  </point>
+  <point>
+    <name>Кастельон-де-ла-Плана</name>
+    <region>Валенсия</region>
+    <district>Кастельон</district>
+    <id>5728</id>
+  </point>
+  <point>
+    <name>Ла-Корунья</name>
+    <region>Галисия</region>
+    <district>Ла-Корунья</district>
+    <id>5548</id>
+  </point>
+  <point>
+    <name>Ла-Корунья (аэропорт)</name>
+    <region>Галисия</region>
+    <district>Ла-Корунья</district>
+    <id>508136</id>
+  </point>
+  <point>
+    <name>Сантьяго-де-Компостела (аэропорт)</name>
+    <region>Галисия</region>
+    <district>Ла-Корунья</district>
+    <id>5568</id>
+  </point>
+  <point>
+    <name>Луго</name>
+    <region>Галисия</region>
+    <district>Луго</district>
+    <id>429870</id>
+  </point>
+  <point>
+    <name>Луго / Розас</name>
+    <region>Галисия</region>
+    <district>Луго</district>
+    <id>5554</id>
+  </point>
+  <point>
+    <name>Оренсе</name>
+    <region>Галисия</region>
+    <district>Оренсе</district>
+    <id>429871</id>
+  </point>
+  <point>
+    <name>Понтеведра</name>
+    <region>Галисия</region>
+    <district>Понтеведра</district>
+    <id>429872</id>
+  </point>
+  <point>
+    <name>Виго</name>
+    <region>Галисия</region>
+    <district>Понтеведра</district>
+    <id>5574</id>
+  </point>
+  <point>
+    <name>Виго / Пеинадор (аэропорт)</name>
+    <region>Галисия</region>
+    <district>Понтеведра</district>
+    <id>5572</id>
+  </point>
+  <point>
+    <name>Лас-Пальмас</name>
+    <region>Канарские острова</region>
+    <district>Лас-Пальмас</district>
+    <id>429873</id>
+  </point>
+  <point>
+    <name>Гран-Канария (аэропорт)</name>
+    <region>Канарские острова</region>
+    <district>Лас-Пальмас</district>
+    <id>10231</id>
+  </point>
+  <point>
+    <name>Лансароте (аэропорт)</name>
+    <region>Канарские острова</region>
+    <district>Лас-Пальмас</district>
+    <id>10234</id>
+  </point>
+  <point>
+    <name>Фуертевентура (аэропорт)</name>
+    <region>Канарские острова</region>
+    <district>Лас-Пальмас</district>
+    <id>10233</id>
+  </point>
+  <point>
+    <name>Санта-Крус-де-Тенерифе</name>
+    <region>Канарские острова</region>
+    <district>Санта-Крус-де-Тенерифе</district>
+    <id>10229</id>
+  </point>
+  <point>
+    <name>Иерро (аэропорт)</name>
+    <region>Канарские острова</region>
+    <district>Санта-Крус-де-Тенерифе</district>
+    <id>452560</id>
+  </point>
+  <point>
+    <name>Ла-Пальма (аэропорт)</name>
+    <region>Канарские острова</region>
+    <district>Санта-Крус-де-Тенерифе</district>
+    <id>10226</id>
+  </point>
+  <point>
+    <name>Санта-Крус-де-Тенерифе (аэропорт)</name>
+    <region>Канарские острова</region>
+    <district>Санта-Крус-де-Тенерифе</district>
+    <id>10230</id>
+  </point>
+  <point>
+    <name>Тенерифе / Лос-Родеос (аэропорт)</name>
+    <region>Канарские острова</region>
+    <district>Санта-Крус-де-Тенерифе</district>
+    <id>10228</id>
+  </point>
+  <point>
+    <name>Сантандер (аэропорт)</name>
+    <region>Кантабрия</region>
+    <district>Сантандер (аэропорт)</district>
+    <id>508137</id>
+  </point>
+  <point>
+    <name>Сантандер</name>
+    <region>Кантабрия</region>
+    <district>Сантандер</district>
+    <id>5560</id>
+  </point>
+  <point>
+    <name>Альбасете (аэропорт)</name>
+    <region>Кастилия — Ла-Манча</region>
+    <district>Альбасете</district>
+    <id>5710</id>
+  </point>
+  <point>
+    <name>Гвадалахара</name>
+    <region>Кастилия — Ла-Манча</region>
+    <district>Гвадалахара</district>
+    <id>429867</id>
+  </point>
+  <point>
+    <name>Куэнка</name>
+    <region>Кастилия — Ла-Манча</region>
+    <district>Куэнка</district>
+    <id>5681</id>
+  </point>
+  <point>
+    <name>Сьюдад Реал</name>
+    <region>Кастилия — Ла-Манча</region>
+    <district>Сьюдад Реал</district>
+    <id>5739</id>
+  </point>
+  <point>
+    <name>Сьюдад Реал (аэропорт)</name>
+    <region>Кастилия — Ла-Манча</region>
+    <district>Сьюдад Реал</district>
+    <id>508993</id>
+  </point>
+  <point>
+    <name>Сьюдад-Реаль (авиабаза)</name>
+    <region>Кастилия — Ла-Манча</region>
+    <district>Сьюдад Реал</district>
+    <id>509557</id>
+  </point>
+  <point>
+    <name>Толедо</name>
+    <region>Кастилия — Ла-Манча</region>
+    <district>Толедо</district>
+    <id>5702</id>
+  </point>
+  <point>
+    <name>Авила</name>
+    <region>Кастилия и Леон</region>
+    <district>Авила</district>
+    <id>5655</id>
+  </point>
+  <point>
+    <name>Бургос</name>
+    <region>Кастилия и Леон</region>
+    <district>Бургос</district>
+    <id>429861</id>
+  </point>
+  <point>
+    <name>Бургос / Виллафрия (аэропорт)</name>
+    <region>Кастилия и Леон</region>
+    <district>Бургос</district>
+    <id>5584</id>
+  </point>
+  <point>
+    <name>Вальядолид</name>
+    <region>Кастилия и Леон</region>
+    <district>Вальядолид</district>
+    <id>5629</id>
+  </point>
+  <point>
+    <name>Вальядолид (аэропорт)</name>
+    <region>Кастилия и Леон</region>
+    <district>Вальядолид</district>
+    <id>508134</id>
+  </point>
+  <point>
+    <name>Леон</name>
+    <region>Кастилия и Леон</region>
+    <district>Леон</district>
+    <id>429862</id>
+  </point>
+  <point>
+    <name>Леон / Вирхен-дель-Камино (аэропорт)</name>
+    <region>Кастилия и Леон</region>
+    <district>Леон</district>
+    <id>5580</id>
+  </point>
+  <point>
+    <name>Паленсия</name>
+    <region>Кастилия и Леон</region>
+    <district>Паленсия</district>
+    <id>429863</id>
+  </point>
+  <point>
+    <name>Саламанка</name>
+    <region>Кастилия и Леон</region>
+    <district>Саламанка</district>
+    <id>429864</id>
+  </point>
+  <point>
+    <name>Саламанка / Матакан (аэропорт)</name>
+    <region>Кастилия и Леон</region>
+    <district>Саламанка</district>
+    <id>5651</id>
+  </point>
+  <point>
+    <name>Самора</name>
+    <region>Кастилия и Леон</region>
+    <district>Самора</district>
+    <id>5615</id>
+  </point>
+  <point>
+    <name>Сеговия</name>
+    <region>Кастилия и Леон</region>
+    <district>Сеговия</district>
+    <id>429865</id>
+  </point>
+  <point>
+    <name>Сория</name>
+    <region>Кастилия и Леон</region>
+    <district>Сория</district>
+    <id>429866</id>
+  </point>
+  <point>
+    <name>Барселона</name>
+    <region>Каталония</region>
+    <district>Барселона</district>
+    <id>5639</id>
+  </point>
+  <point>
+    <name>Барселона (аэропорт)</name>
+    <region>Каталония</region>
+    <district>Барселона</district>
+    <id>434629</id>
+  </point>
+  <point>
+    <name>Коста-дель-Маресме</name>
+    <region>Каталония</region>
+    <district>Барселона</district>
+    <id>13751</id>
+  </point>
+  <point>
+    <name>Сабадель (аэропорт)</name>
+    <region>Каталония</region>
+    <district>Барселона</district>
+    <id>508977</id>
+  </point>
+  <point>
+    <name>Жирона</name>
+    <region>Каталония</region>
+    <district>Жирона</district>
+    <id>429868</id>
+  </point>
+  <point>
+    <name>Жирона / Коста-Брава (аэропорт)</name>
+    <region>Каталония</region>
+    <district>Жирона</district>
+    <id>5640</id>
+  </point>
+  <point>
+    <name>Маселла</name>
+    <region>Каталония</region>
+    <district>Жирона</district>
+    <id>5976</id>
+  </point>
+  <point>
+    <name>Нурия</name>
+    <region>Каталония</region>
+    <district>Жирона</district>
+    <id>5978</id>
+  </point>
+  <point>
+    <name>Тосса-де-Мар</name>
+    <region>Каталония</region>
+    <district>Жирона</district>
+    <id>152622</id>
+  </point>
+  <point>
+    <name>Ла-Молина</name>
+    <region>Каталония</region>
+    <district>Жирона</district>
+    <id>5610</id>
+  </point>
+  <point>
+    <name>Лерида</name>
+    <region>Каталония</region>
+    <district>Лерида</district>
+    <id>5634</id>
+  </point>
+  <point>
+    <name>Бакейра</name>
+    <region>Каталония</region>
+    <district>Лерида</district>
+    <id>5960</id>
+  </point>
+  <point>
+    <name>Льейда-Альгвайре (аэропорт)</name>
+    <region>Каталония</region>
+    <district>Лерида</district>
+    <id>510623</id>
+  </point>
+  <point>
+    <name>Порт-Аине</name>
+    <region>Каталония</region>
+    <district>Лерида</district>
+    <id>5967</id>
+  </point>
+  <point>
+    <name>Порт-дель-Комте</name>
+    <region>Каталония</region>
+    <district>Лерида</district>
+    <id>5972</id>
+  </point>
+  <point>
+    <name>Таррагона</name>
+    <region>Каталония</region>
+    <district>Таррагона</district>
+    <id>429869</id>
+  </point>
+  <point>
+    <name>Коста-Дорада</name>
+    <region>Каталония</region>
+    <district>Таррагона</district>
+    <id>13752</id>
+  </point>
+  <point>
+    <name>Реус (аэропорт)</name>
+    <region>Каталония</region>
+    <district>Таррагона</district>
+    <id>5636</id>
+  </point>
+  <point>
+    <name>Тортоса</name>
+    <region>Каталония</region>
+    <district>Таррагона</district>
+    <id>5699</id>
+  </point>
+  <point>
+    <name>Мадрид</name>
+    <region>Мадрид</region>
+    <district></district>
+    <id>5668</id>
+  </point>
+  <point>
+    <name>Мадрид / Барахас (аэропорт)</name>
+    <region>Мадрид</region>
+    <district>Мадрид / Барахас (аэропорт)</district>
+    <id>5667</id>
+  </point>
+  <point>
+    <name>Мадрид / Куатро-Вьентос (аэропорт)</name>
+    <region>Мадрид</region>
+    <district>Мадрид / Куатро-Вьентос (аэропорт)</district>
+    <id>509561</id>
+  </point>
+  <point>
+    <name>Мадрид / Хетафе (аэропорт)</name>
+    <region>Мадрид</region>
+    <district>Мадрид / Хетафе (аэропорт)</district>
+    <id>508819</id>
+  </point>
+  <point>
+    <name>Торрехон-де-Ардос (аэропорт)</name>
+    <region>Мадрид</region>
+    <district>Торрехон-де-Ардос (аэропорт)</district>
+    <id>509811</id>
+  </point>
+  <point>
+    <name>Кольменар-Вьехо (авиабаза)</name>
+    <region>Мадрид</region>
+    <district>Кольменар-Вьехо (авиабаза)</district>
+    <id>509558</id>
+  </point>
+  <point>
+    <name>Мадрид / Университетский городок</name>
+    <region>Мадрид</region>
+    <district>Мадрид / Университетский городок</district>
+    <id>5665</id>
+  </point>
+  <point>
+    <name>Навасеррада</name>
+    <region>Мадрид</region>
+    <district>Навасеррада</district>
+    <id>5663</id>
+  </point>
+  <point>
+    <name>Торрехон-де-Ардос</name>
+    <region>Мадрид</region>
+    <district>Торрехон-де-Ардос</district>
+    <id>437794</id>
+  </point>
+  <point>
+    <name>Мелилья (аэропорт)</name>
+    <region>Мелилья</region>
+    <district>Мелилья (аэропорт)</district>
+    <id>10272</id>
+  </point>
+  <point>
+    <name>Мурсия</name>
+    <region>Мурсия</region>
+    <district></district>
+    <id>5767</id>
+  </point>
+  <point>
+    <name>Коста-Калида</name>
+    <region>Мурсия</region>
+    <district>Коста-Калида</district>
+    <id>13761</id>
+  </point>
+  <point>
+    <name>Мурсия / Алькантарилья (аэропорт)</name>
+    <region>Мурсия</region>
+    <district>Мурсия / Алькантарилья (аэропорт)</district>
+    <id>5760</id>
+  </point>
+  <point>
+    <name>Мурсия / Сан-Хавьер (аэропорт)</name>
+    <region>Мурсия</region>
+    <district>Мурсия / Сан-Хавьер (аэропорт)</district>
+    <id>5773</id>
+  </point>
+  <point>
+    <name>Барденас-Реалес</name>
+    <region>Наварра</region>
+    <district>Барденас-Реалес</district>
+    <id>5601</id>
+  </point>
+  <point>
+    <name>Памплона (аэропорт)</name>
+    <region>Наварра</region>
+    <district>Памплона (аэропорт)</district>
+    <id>5593</id>
+  </point>
+  <point>
+    <name>Логроньо (аэропорт)</name>
+    <region>Риоха</region>
+    <district>Логроньо (аэропорт)</district>
+    <id>5590</id>
+  </point>
+  <point>
+    <name>Сеута</name>
+    <region>Сеута</region>
+    <district></district>
+    <id>10271</id>
+  </point>
+  <point>
+    <name>Витория (аэропорт)</name>
+    <region>Страна Басков</region>
+    <district>Алава</district>
+    <id>5587</id>
+  </point>
+  <point>
+    <name>Бильбао / Сондика (аэропорт)</name>
+    <region>Страна Басков</region>
+    <district>Бискайя</district>
+    <id>5564</id>
+  </point>
+  <point>
+    <name>Бильбао</name>
+    <region>Страна Басков</region>
+    <district>Бискайя</district>
+    <id>429875</id>
+  </point>
+  <point>
+    <name>Сан-Себастьян / Игуэльдо</name>
+    <region>Страна Басков</region>
+    <district>Гипускоа</district>
+    <id>5565</id>
+  </point>
+  <point>
+    <name>Сан-Себастьян / Фуэнтеррабия (аэропорт)</name>
+    <region>Страна Басков</region>
+    <district>Гипускоа</district>
+    <id>5567</id>
+  </point>
+  <point>
+    <name>Сан-Себастьян</name>
+    <region>Страна Басков</region>
+    <district>Гипускоа</district>
+    <id>429874</id>
+  </point>
+  <point>
+    <name>Бадахос (аэропорт)</name>
+    <region>Эстремадура</region>
+    <district>Бадахос</district>
+    <id>5737</id>
+  </point>
+  <point>
+    <name>Мерида</name>
+    <region>Эстремадура</region>
+    <district>Бадахос</district>
+    <id>98665</id>
+  </point>
+  <point>
+    <name>Касерес</name>
+    <region>Эстремадура</region>
+    <district>Касерес</district>
+    <id>5701</id>
+  </point>
+</country>

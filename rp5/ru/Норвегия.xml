@@ -1,0 +1,1466 @@
+<country name="Норвегия" count="244">
+  <point>
+    <name>Аскер</name>
+    <region>Акерсхус</region>
+    <district>Аскер</district>
+    <id>348229</id>
+  </point>
+  <point>
+    <name>Осло / Гардермуэн (аэропорт)</name>
+    <region>Акерсхус</region>
+    <district>Осло / Гардермуэн (аэропорт)</district>
+    <id>141335</id>
+  </point>
+  <point>
+    <name>Сандвика</name>
+    <region>Акерсхус</region>
+    <district>Сандвика</district>
+    <id>152131</id>
+  </point>
+  <point>
+    <name>Гейло-Олдебратен</name>
+    <region>Бускеруд</region>
+    <district>Гейло-Олдебратен</district>
+    <id>170644</id>
+  </point>
+  <point>
+    <name>Гейло</name>
+    <region>Бускеруд</region>
+    <district>Гейло</district>
+    <id>1683</id>
+  </point>
+  <point>
+    <name>Гулсвик</name>
+    <region>Бускеруд</region>
+    <district>Гулсвик</district>
+    <id>348211</id>
+  </point>
+  <point>
+    <name>Драммен</name>
+    <region>Бускеруд</region>
+    <district>Драммен</district>
+    <id>152133</id>
+  </point>
+  <point>
+    <name>Когнсберг</name>
+    <region>Бускеруд</region>
+    <district>Когнсберг</district>
+    <id>1890</id>
+  </point>
+  <point>
+    <name>Люнгдал</name>
+    <region>Бускеруд</region>
+    <district>Люнгдал</district>
+    <id>1874</id>
+  </point>
+  <point>
+    <name>Несбюенн-Скоглунн</name>
+    <region>Бускеруд</region>
+    <district>Несбюенн-Скоглунн</district>
+    <id>1701</id>
+  </point>
+  <point>
+    <name>Хенефосс</name>
+    <region>Бускеруд</region>
+    <district>Хенефосс</district>
+    <id>170659</id>
+  </point>
+  <point>
+    <name>Кристиансанн (аэропорт)</name>
+    <region>Вест-Агдер</region>
+    <district>Кристиансанн (аэропорт)</district>
+    <id>1855</id>
+  </point>
+  <point>
+    <name>Листа</name>
+    <region>Вест-Агдер</region>
+    <district>Листа</district>
+    <id>1796</id>
+  </point>
+  <point>
+    <name>Мандал</name>
+    <region>Вест-Агдер</region>
+    <district>Мандал</district>
+    <id>151399</id>
+  </point>
+  <point>
+    <name>Оксой</name>
+    <region>Вест-Агдер</region>
+    <district>Оксой</district>
+    <id>1849</id>
+  </point>
+  <point>
+    <name>Мелсом</name>
+    <region>Вестфолл</region>
+    <district>Мелсом</district>
+    <id>348228</id>
+  </point>
+  <point>
+    <name>Синнес</name>
+    <region>Вестфолл</region>
+    <district>Синнес</district>
+    <id>170657</id>
+  </point>
+  <point>
+    <name>Тёнсберг</name>
+    <region>Вестфолл</region>
+    <district>Тёнсберг</district>
+    <id>152130</id>
+  </point>
+  <point>
+    <name>Торп (аэропорт)</name>
+    <region>Вестфолл</region>
+    <district>Торп (аэропорт)</district>
+    <id>1893</id>
+  </point>
+  <point>
+    <name>Фердер (маяк)</name>
+    <region>Вестфолл</region>
+    <district>Фердер (маяк)</district>
+    <id>1891</id>
+  </point>
+  <point>
+    <name>Хортен</name>
+    <region>Вестфолл</region>
+    <district>Хортен</district>
+    <id>152128</id>
+  </point>
+  <point>
+    <name>Бьорли</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Бьорли</district>
+    <id>348194</id>
+  </point>
+  <point>
+    <name>Вайхольмен</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Вайхольмен</district>
+    <id>170369</id>
+  </point>
+  <point>
+    <name>Кристиансунн (аэропорт)</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Кристиансунн (аэропорт)</district>
+    <id>1451</id>
+  </point>
+  <point>
+    <name>Молде (аэропорт)</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Молде (аэропорт)</district>
+    <id>1441</id>
+  </point>
+  <point>
+    <name>Олесунн (аэропорт)</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Олесунн (аэропорт)</district>
+    <id>1422</id>
+  </point>
+  <point>
+    <name>Она</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Она</district>
+    <id>1428</id>
+  </point>
+  <point>
+    <name>Рекдал</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Рекдал</district>
+    <id>348191</id>
+  </point>
+  <point>
+    <name>Свиной (маяк)</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Свиной (маяк)</district>
+    <id>1415</id>
+  </point>
+  <point>
+    <name>Тафьорд</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Тафьорд</district>
+    <id>1446</id>
+  </point>
+  <point>
+    <name>Тингволл-Ханем</name>
+    <region>Мёре-ог-Ромсдал</region>
+    <district>Тингволл-Ханем</district>
+    <id>170650</id>
+  </point>
+  <point>
+    <name>Гуллфакс С (AWS)</name>
+    <region>Нефтедобывающие платформы</region>
+    <district>Гуллфакс С (AWS)</district>
+    <id>508424</id>
+  </point>
+  <point>
+    <name>Гуллфакс С (нефтяная платформа)</name>
+    <region>Нефтедобывающие платформы</region>
+    <district>Гуллфакс С (нефтяная платформа)</district>
+    <id>152591</id>
+  </point>
+  <point>
+    <name>Снорр А (нефтяная платформа)</name>
+    <region>Нефтедобывающие платформы</region>
+    <district>Снорр А (нефтяная платформа)</district>
+    <id>509766</id>
+  </point>
+  <point>
+    <name>Снорр Б (нефтяная платформа)</name>
+    <region>Нефтедобывающие платформы</region>
+    <district>Снорр Б (нефтяная платформа)</district>
+    <id>509765</id>
+  </point>
+  <point>
+    <name>Статфьорд (нефтяная платформа)</name>
+    <region>Нефтедобывающие платформы</region>
+    <district>Статфьорд (нефтяная платформа)</district>
+    <id>509014</id>
+  </point>
+  <point>
+    <name>Тролль-A (платформа)</name>
+    <region>Нефтедобывающие платформы</region>
+    <district>Тролль-A (платформа)</district>
+    <id>509012</id>
+  </point>
+  <point>
+    <name>Ула (платформа)</name>
+    <region>Нефтедобывающие платформы</region>
+    <district>Ула (платформа)</district>
+    <id>510089</id>
+  </point>
+  <point>
+    <name>Усеберг (платформа)</name>
+    <region>Нефтедобывающие платформы</region>
+    <district>Усеберг (платформа)</district>
+    <id>509011</id>
+  </point>
+  <point>
+    <name>Хеймдал (нефтяная платформа)</name>
+    <region>Нефтедобывающие платформы</region>
+    <district>Хеймдал (нефтяная платформа)</district>
+    <id>509763</id>
+  </point>
+  <point>
+    <name>Бейтостолен</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Бейтостолен</district>
+    <id>348209</id>
+  </point>
+  <point>
+    <name>Вердал-Реппе</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Вердал-Реппе</district>
+    <id>1520</id>
+  </point>
+  <point>
+    <name>Гартленд</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Гартленд</district>
+    <id>348201</id>
+  </point>
+  <point>
+    <name>Маракер</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Маракер</district>
+    <id>1546</id>
+  </point>
+  <point>
+    <name>Намдалсэйд</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Намдалсэйд</district>
+    <id>170652</id>
+  </point>
+  <point>
+    <name>Намсос (аэропорт)</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Намсос (аэропорт)</district>
+    <id>1545</id>
+  </point>
+  <point>
+    <name>Намсскоган</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Намсскоган</district>
+    <id>170653</id>
+  </point>
+  <point>
+    <name>Нордойан</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Нордойан</district>
+    <id>1504</id>
+  </point>
+  <point>
+    <name>Рервик / Рюмсджоен (аэропорт)</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Рервик / Рюмсджоен (аэропорт)</district>
+    <id>429805</id>
+  </point>
+  <point>
+    <name>Склинна</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Склинна</district>
+    <id>1261</id>
+  </point>
+  <point>
+    <name>Стейнхьер</name>
+    <region>Нур-Трёнделаг</region>
+    <district>Стейнхьер</district>
+    <id>1518</id>
+  </point>
+  <point>
+    <name>Анденес / Андойя (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Анденес / Андойя (аэропорт)</district>
+    <id>942</id>
+  </point>
+  <point>
+    <name>Бе (о. Верстален)</name>
+    <region>Нурланн</region>
+    <district>Бе (о. Верстален)</district>
+    <id>170647</id>
+  </point>
+  <point>
+    <name>Брённёйсунн (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Брённёйсунн (аэропорт)</district>
+    <id>1285</id>
+  </point>
+  <point>
+    <name>Буде (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Буде (аэропорт)</district>
+    <id>1351</id>
+  </point>
+  <point>
+    <name>Вега-Валлсьё</name>
+    <region>Нурланн</region>
+    <district>Вега-Валлсьё</district>
+    <id>1277</id>
+  </point>
+  <point>
+    <name>Драг</name>
+    <region>Нурланн</region>
+    <district>Драг</district>
+    <id>348184</id>
+  </point>
+  <point>
+    <name>Лаксфорс</name>
+    <region>Нурланн</region>
+    <district>Лаксфорс</district>
+    <id>504480</id>
+  </point>
+  <point>
+    <name>Лекнес (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Лекнес (аэропорт)</district>
+    <id>1328</id>
+  </point>
+  <point>
+    <name>Майаватн</name>
+    <region>Нурланн</region>
+    <district>Майаватн</district>
+    <id>170646</id>
+  </point>
+  <point>
+    <name>Му-и-Рана (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Му-и-Рана (аэропорт)</district>
+    <id>1348</id>
+  </point>
+  <point>
+    <name>Мушёэн (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Мушёэн (аэропорт)</district>
+    <id>1299</id>
+  </point>
+  <point>
+    <name>Мюкен</name>
+    <region>Нурланн</region>
+    <district>Мюкен</district>
+    <id>1293</id>
+  </point>
+  <point>
+    <name>Нарвик (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Нарвик (аэропорт)</district>
+    <id>1396</id>
+  </point>
+  <point>
+    <name>Рана Басмоен</name>
+    <region>Нурланн</region>
+    <district>Рана Басмоен</district>
+    <id>170351</id>
+  </point>
+  <point>
+    <name>Реипо</name>
+    <region>Нурланн</region>
+    <district>Реипо</district>
+    <id>170645</id>
+  </point>
+  <point>
+    <name>Рост (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Рост (аэропорт)</district>
+    <id>1272</id>
+  </point>
+  <point>
+    <name>Салтдал</name>
+    <region>Нурланн</region>
+    <district>Салтдал</district>
+    <id>348188</id>
+  </point>
+  <point>
+    <name>Санднессйоэн (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Санднессйоэн (аэропорт)</district>
+    <id>1297</id>
+  </point>
+  <point>
+    <name>Свольвер (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Свольвер (аэропорт)</district>
+    <id>1366</id>
+  </point>
+  <point>
+    <name>Северный Солваер</name>
+    <region>Нурланн</region>
+    <district>Северный Солваер</district>
+    <id>170361</id>
+  </point>
+  <point>
+    <name>Селелья</name>
+    <region>Нурланн</region>
+    <district>Селелья</district>
+    <id>504488</id>
+  </point>
+  <point>
+    <name>Сетсо</name>
+    <region>Нурланн</region>
+    <district>Сетсо</district>
+    <id>170648</id>
+  </point>
+  <point>
+    <name>Скамдал</name>
+    <region>Нурланн</region>
+    <district>Скамдал</district>
+    <id>504489</id>
+  </point>
+  <point>
+    <name>Скрова (маяк)</name>
+    <region>Нурланн</region>
+    <district>Скрова (маяк)</district>
+    <id>1365</id>
+  </point>
+  <point>
+    <name>Сортланд</name>
+    <region>Нурланн</region>
+    <district>Сортланд</district>
+    <id>1381</id>
+  </point>
+  <point>
+    <name>Стокмарнес (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Стокмарнес (аэропорт)</district>
+    <id>1372</id>
+  </point>
+  <point>
+    <name>Сторфоршей</name>
+    <region>Нурланн</region>
+    <district>Сторфоршей</district>
+    <id>429775</id>
+  </point>
+  <point>
+    <name>Страумснес</name>
+    <region>Нурланн</region>
+    <district>Страумснес</district>
+    <id>348189</id>
+  </point>
+  <point>
+    <name>Финной-и-Хамарой</name>
+    <region>Нурланн</region>
+    <district>Финной-и-Хамарой</district>
+    <id>1384</id>
+  </point>
+  <point>
+    <name>Харстад</name>
+    <region>Нурланн</region>
+    <district>Харстад</district>
+    <id>429802</id>
+  </point>
+  <point>
+    <name>Хеллигваер</name>
+    <region>Нурланн</region>
+    <district>Хеллигваер</district>
+    <id>348185</id>
+  </point>
+  <point>
+    <name>Хьётта</name>
+    <region>Нурланн</region>
+    <district>Хьётта</district>
+    <id>429801</id>
+  </point>
+  <point>
+    <name>Хьяртаасен</name>
+    <region>Нурланн</region>
+    <district>Хьяртаасен</district>
+    <id>348187</id>
+  </point>
+  <point>
+    <name>Эвенес (аэропорт)</name>
+    <region>Нурланн</region>
+    <district>Эвенес (аэропорт)</district>
+    <id>1395</id>
+  </point>
+  <point>
+    <name>Квитёя</name>
+    <region>о. Шпицберген</region>
+    <district>Квитёя</district>
+    <id>943</id>
+  </point>
+  <point>
+    <name>Конгсёйа</name>
+    <region>о. Шпицберген</region>
+    <district>Конгсёйа</district>
+    <id>429772</id>
+  </point>
+  <point>
+    <name>Лонгйир</name>
+    <region>о. Шпицберген</region>
+    <district>Лонгйир</district>
+    <id>152132</id>
+  </point>
+  <point>
+    <name>Медвежий остров</name>
+    <region>о. Шпицберген</region>
+    <district>Медвежий остров</district>
+    <id>1034</id>
+  </point>
+  <point>
+    <name>Ню-Олесунн</name>
+    <region>о. Шпицберген</region>
+    <district>Ню-Олесунн</district>
+    <id>930</id>
+  </point>
+  <point>
+    <name>Свальбард (аэропорт)</name>
+    <region>о. Шпицберген</region>
+    <district>Свальбард (аэропорт)</district>
+    <id>931</id>
+  </point>
+  <point>
+    <name>Сварттанген</name>
+    <region>о. Шпицберген</region>
+    <district>Сварттанген</district>
+    <id>429773</id>
+  </point>
+  <point>
+    <name>Серкаппея</name>
+    <region>о. Шпицберген</region>
+    <district>Серкаппея</district>
+    <id>348179</id>
+  </point>
+  <point>
+    <name>Хопен</name>
+    <region>о. Шпицберген</region>
+    <district>Хопен</district>
+    <id>1190</id>
+  </point>
+  <point>
+    <name>Хорнсунн</name>
+    <region>о. Шпицберген</region>
+    <district>Хорнсунн</district>
+    <id>897</id>
+  </point>
+  <point>
+    <name>Эдж</name>
+    <region>о. Шпицберген</region>
+    <district>Эдж</district>
+    <id>927</id>
+  </point>
+  <point>
+    <name>о. Ян-Майен</name>
+    <region>о. Ян-Майен</region>
+    <district>о. Ян-Майен</district>
+    <id>854</id>
+  </point>
+  <point>
+    <name>Венабу</name>
+    <region>Оппланн</region>
+    <district>Венабу</district>
+    <id>348212</id>
+  </point>
+  <point>
+    <name>Домбаас</name>
+    <region>Оппланн</region>
+    <district>Домбаас</district>
+    <id>348195</id>
+  </point>
+  <point>
+    <name>Квифьель</name>
+    <region>Оппланн</region>
+    <district>Квифьель</district>
+    <id>1707</id>
+  </point>
+  <point>
+    <name>Лиллехаммер</name>
+    <region>Оппланн</region>
+    <district>Лиллехаммер</district>
+    <id>1708</id>
+  </point>
+  <point>
+    <name>Скобу</name>
+    <region>Оппланн</region>
+    <district>Скобу</district>
+    <id>429778</id>
+  </point>
+  <point>
+    <name>Фаваракен (метеостанция)</name>
+    <region>Оппланн</region>
+    <district>Фаваракен (метеостанция)</district>
+    <id>510031</id>
+  </point>
+  <point>
+    <name>Фагернес Лейрин (аэропорт)</name>
+    <region>Оппланн</region>
+    <district>Фагернес Лейрин (аэропорт)</district>
+    <id>429810</id>
+  </point>
+  <point>
+    <name>Фагернес</name>
+    <region>Оппланн</region>
+    <district>Фагернес</district>
+    <id>1689</id>
+  </point>
+  <point>
+    <name>Фокстуа</name>
+    <region>Оппланн</region>
+    <district>Фокстуа</district>
+    <id>1486</id>
+  </point>
+  <point>
+    <name>Хьеркинн</name>
+    <region>Оппланн</region>
+    <district>Хьеркинн</district>
+    <id>348197</id>
+  </point>
+  <point>
+    <name>Осло / Блиндерн</name>
+    <region>Осло</region>
+    <district>Осло / Блиндерн</district>
+    <id>1901</id>
+  </point>
+  <point>
+    <name>Форнебу</name>
+    <region>Осло</region>
+    <district>Форнебу</district>
+    <id>1894</id>
+  </point>
+  <point>
+    <name>Квитсёй-Нордбё</name>
+    <region>Ругаланн</region>
+    <district>Квитсёй-Нордбё</district>
+    <id>152537</id>
+  </point>
+  <point>
+    <name>Недре</name>
+    <region>Ругаланн</region>
+    <district>Недре</district>
+    <id>1769</id>
+  </point>
+  <point>
+    <name>Обрестад</name>
+    <region>Ругаланн</region>
+    <district>Обрестад</district>
+    <id>170656</id>
+  </point>
+  <point>
+    <name>Сархайм</name>
+    <region>Ругаланн</region>
+    <district>Сархайм</district>
+    <id>429841</id>
+  </point>
+  <point>
+    <name>Сёуда</name>
+    <region>Ругаланн</region>
+    <district>Сёуда</district>
+    <id>1784</id>
+  </point>
+  <point>
+    <name>Сигмундстад (метеостанция)</name>
+    <region>Ругаланн</region>
+    <district>Сигмундстад (метеостанция)</district>
+    <id>348215</id>
+  </point>
+  <point>
+    <name>Слейпнер А (нефтяная платформа)</name>
+    <region>Ругаланн</region>
+    <district>Слейпнер А (нефтяная платформа)</district>
+    <id>509015</id>
+  </point>
+  <point>
+    <name>Ставангер (аэропорт)</name>
+    <region>Ругаланн</region>
+    <district>Ставангер (аэропорт)</district>
+    <id>1767</id>
+  </point>
+  <point>
+    <name>Ставангер Вааланд</name>
+    <region>Ругаланн</region>
+    <district>Ставангер Вааланд</district>
+    <id>348226</id>
+  </point>
+  <point>
+    <name>Уаланд</name>
+    <region>Ругаланн</region>
+    <district>Уаланд</district>
+    <id>1791</id>
+  </point>
+  <point>
+    <name>Утсира</name>
+    <region>Ругаланн</region>
+    <district>Утсира</district>
+    <id>1749</id>
+  </point>
+  <point>
+    <name>Хёугусунн (аэропорт)</name>
+    <region>Ругаланн</region>
+    <district>Хёугусунн (аэропорт)</district>
+    <id>1763</id>
+  </point>
+  <point>
+    <name>Эйгерсунн (маяк)</name>
+    <region>Ругаланн</region>
+    <district>Эйгерсунн (маяк)</district>
+    <id>348216</id>
+  </point>
+  <point>
+    <name>Афйорд</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Афйорд</district>
+    <id>348198</id>
+  </point>
+  <point>
+    <name>Бухолмраса</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Бухолмраса</district>
+    <id>1498</id>
+  </point>
+  <point>
+    <name>Волли / Тронхейм</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Волли / Тронхейм</district>
+    <id>58574</id>
+  </point>
+  <point>
+    <name>Драуген (нефтяная платформа)</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Драуген (нефтяная платформа)</district>
+    <id>509009</id>
+  </point>
+  <point>
+    <name>Марстайн</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Марстайн</district>
+    <id>170371</id>
+  </point>
+  <point>
+    <name>Оппдал</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Оппдал</district>
+    <id>1495</id>
+  </point>
+  <point>
+    <name>Орланд (аэропорт)</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Орланд (аэропорт)</district>
+    <id>1489</id>
+  </point>
+  <point>
+    <name>Рёрус (аэропорт)</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Рёрус (аэропорт)</district>
+    <id>1543</id>
+  </point>
+  <point>
+    <name>Селбу</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Селбу</district>
+    <id>170651</id>
+  </point>
+  <point>
+    <name>Селендет</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Селендет</district>
+    <id>348441</id>
+  </point>
+  <point>
+    <name>Сула</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Сула</district>
+    <id>1472</id>
+  </point>
+  <point>
+    <name>Тагдален</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Тагдален</district>
+    <id>348192</id>
+  </point>
+  <point>
+    <name>Тронхейм (аэропорт)</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Тронхейм (аэропорт)</district>
+    <id>1511</id>
+  </point>
+  <point>
+    <name>Халден</name>
+    <region>Сёр-Трёнделаг</region>
+    <district>Халден</district>
+    <id>1488</id>
+  </point>
+  <point>
+    <name>Брата</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Брата</district>
+    <id>1667</id>
+  </point>
+  <point>
+    <name>Вангснес</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Вангснес</district>
+    <id>1626</id>
+  </point>
+  <point>
+    <name>Воссеваген</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Воссеваген</district>
+    <id>1617</id>
+  </point>
+  <point>
+    <name>Домбештейн</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Домбештейн</district>
+    <id>58833</id>
+  </point>
+  <point>
+    <name>Иттеройене</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Иттеройене</district>
+    <id>1558</id>
+  </point>
+  <point>
+    <name>Крокенес</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Крокенес</district>
+    <id>170363</id>
+  </point>
+  <point>
+    <name>Лаердал</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Лаердал</district>
+    <id>1647</id>
+  </point>
+  <point>
+    <name>Лейкангер</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Лейкангер</district>
+    <id>212417</id>
+  </point>
+  <point>
+    <name>Сандане/Анда (аэропорт)</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Сандане/Анда (аэропорт)</district>
+    <id>429806</id>
+  </point>
+  <point>
+    <name>Согндал / Хаукасен (аэропорт)</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Согндал / Хаукасен (аэропорт)</district>
+    <id>429809</id>
+  </point>
+  <point>
+    <name>Согнефьель</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Согнефьель</district>
+    <id>1684</id>
+  </point>
+  <point>
+    <name>Стрюн (метеостанция)</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Стрюн (метеостанция)</district>
+    <id>510029</id>
+  </point>
+  <point>
+    <name>Фанаракен</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Фанаракен</district>
+    <id>115225</id>
+  </point>
+  <point>
+    <name>Фёрде / Брингеланд (аэропорт)</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Фёрде / Брингеланд (аэропорт)</district>
+    <id>508153</id>
+  </point>
+  <point>
+    <name>Фёрде</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Фёрде</district>
+    <id>1601</id>
+  </point>
+  <point>
+    <name>Фискабигд</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Фискабигд</district>
+    <id>348190</id>
+  </point>
+  <point>
+    <name>Флурё (аэропорт)</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Флурё (аэропорт)</district>
+    <id>1567</id>
+  </point>
+  <point>
+    <name>Фурунесет</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Фурунесет</district>
+    <id>429836</id>
+  </point>
+  <point>
+    <name>Фьёрланд (метеостанция)</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Фьёрланд (метеостанция)</district>
+    <id>348207</id>
+  </point>
+  <point>
+    <name>Эрста-Волда / Ховден (аэропорт)</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Эрста-Волда / Ховден (аэропорт)</district>
+    <id>429803</id>
+  </point>
+  <point>
+    <name>Ювассхитта</name>
+    <region>Согн-ог-Фьюране</region>
+    <district>Ювассхитта</district>
+    <id>429838</id>
+  </point>
+  <point>
+    <name>Ваагсли</name>
+    <region>Телемарк</region>
+    <district>Ваагсли</district>
+    <id>1817</id>
+  </point>
+  <point>
+    <name>Гварв</name>
+    <region>Телемарк</region>
+    <district>Гварв</district>
+    <id>170354</id>
+  </point>
+  <point>
+    <name>Йомфруланд</name>
+    <region>Телемарк</region>
+    <district>Йомфруланд</district>
+    <id>170358</id>
+  </point>
+  <point>
+    <name>Нотодден (аэропорт)</name>
+    <region>Телемарк</region>
+    <district>Нотодден (аэропорт)</district>
+    <id>508958</id>
+  </point>
+  <point>
+    <name>Порсгрунн</name>
+    <region>Телемарк</region>
+    <district>Порсгрунн</district>
+    <id>510183</id>
+  </point>
+  <point>
+    <name>Твеитсунн</name>
+    <region>Телемарк</region>
+    <district>Твеитсунн</district>
+    <id>1860</id>
+  </point>
+  <point>
+    <name>Хейдалсмо</name>
+    <region>Телемарк</region>
+    <district>Хейдалсмо</district>
+    <id>170658</id>
+  </point>
+  <point>
+    <name>Шиен (аэропорт)</name>
+    <region>Телемарк</region>
+    <district>Шиен (аэропорт)</district>
+    <id>1888</id>
+  </point>
+  <point>
+    <name>Тромсё</name>
+    <region>Тромс</region>
+    <district>Тромсё</district>
+    <id>1021</id>
+  </point>
+  <point>
+    <name>Сеньа-Лаукхелла</name>
+    <region>Тромс</region>
+    <district>Сеньа-Лаукхелла</district>
+    <id>348176</id>
+  </point>
+  <point>
+    <name>Торсваг</name>
+    <region>Тромс</region>
+    <district>Торсваг</district>
+    <id>1044</id>
+  </point>
+  <point>
+    <name>Тромсё (аэропорт)</name>
+    <region>Тромс</region>
+    <district>Тромсё (аэропорт)</district>
+    <id>1019</id>
+  </point>
+  <point>
+    <name>Бардуфосс (аэропорт)</name>
+    <region>Тромс</region>
+    <district>Бардуфосс (аэропорт)</district>
+    <id>1011</id>
+  </point>
+  <point>
+    <name>Дивидален</name>
+    <region>Тромс</region>
+    <district>Дивидален</district>
+    <id>170649</id>
+  </point>
+  <point>
+    <name>Отерен</name>
+    <region>Тромс</region>
+    <district>Отерен</district>
+    <id>1078</id>
+  </point>
+  <point>
+    <name>Соркьозен (аэропорт)</name>
+    <region>Тромс</region>
+    <district>Соркьозен (аэропорт)</district>
+    <id>1095</id>
+  </point>
+  <point>
+    <name>Алта (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Алта (аэропорт)</district>
+    <id>1132</id>
+  </point>
+  <point>
+    <name>Берлевог (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Берлевог (аэропорт)</district>
+    <id>429799</id>
+  </point>
+  <point>
+    <name>Ботсфьорд (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Ботсфьорд (аэропорт)</district>
+    <id>429829</id>
+  </point>
+  <point>
+    <name>Вадсё (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Вадсё (аэропорт)</district>
+    <id>1235</id>
+  </point>
+  <point>
+    <name>Вардё (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Вардё (аэропорт)</district>
+    <id>508988</id>
+  </point>
+  <point>
+    <name>Вардё</name>
+    <region>Финнмарк</region>
+    <district>Вардё</district>
+    <id>1258</id>
+  </point>
+  <point>
+    <name>Карасйок</name>
+    <region>Финнмарк</region>
+    <district>Карасйок</district>
+    <id>1197</id>
+  </point>
+  <point>
+    <name>Кейтокейно</name>
+    <region>Финнмарк</region>
+    <district>Кейтокейно</district>
+    <id>1130</id>
+  </point>
+  <point>
+    <name>Киркенес (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Киркенес (аэропорт)</district>
+    <id>1242</id>
+  </point>
+  <point>
+    <name>Лаксэльв / Банак (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Лаксэльв / Банак (аэропорт)</district>
+    <id>1184</id>
+  </point>
+  <point>
+    <name>Маккаур (маяк)</name>
+    <region>Финнмарк</region>
+    <district>Маккаур (маяк)</district>
+    <id>348181</id>
+  </point>
+  <point>
+    <name>Мехамн (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Мехамн (аэропорт)</district>
+    <id>429851</id>
+  </point>
+  <point>
+    <name>Нюборг</name>
+    <region>Финнмарк</region>
+    <district>Нюборг</district>
+    <id>510181</id>
+  </point>
+  <point>
+    <name>Пасвик</name>
+    <region>Финнмарк</region>
+    <district>Пасвик</district>
+    <id>429800</id>
+  </point>
+  <point>
+    <name>Рогнсундет</name>
+    <region>Финнмарк</region>
+    <district>Рогнсундет</district>
+    <id>429774</id>
+  </point>
+  <point>
+    <name>Рустефьелбма</name>
+    <region>Финнмарк</region>
+    <district>Рустефьелбма</district>
+    <id>1218</id>
+  </point>
+  <point>
+    <name>Сиккаявре</name>
+    <region>Финнмарк</region>
+    <district>Сиккаявре</district>
+    <id>170362</id>
+  </point>
+  <point>
+    <name>Слеттнес (маяк)</name>
+    <region>Финнмарк</region>
+    <district>Слеттнес (маяк)</district>
+    <id>1222</id>
+  </point>
+  <point>
+    <name>Слускфьеллет (гора)</name>
+    <region>Финнмарк</region>
+    <district>Слускфьеллет (гора)</district>
+    <id>510725</id>
+  </point>
+  <point>
+    <name>Суовддатмокки</name>
+    <region>Финнмарк</region>
+    <district>Суовддатмокки</district>
+    <id>1182</id>
+  </point>
+  <point>
+    <name>Суоловуопми</name>
+    <region>Финнмарк</region>
+    <district>Суоловуопми</district>
+    <id>1133</id>
+  </point>
+  <point>
+    <name>Тана-Бру</name>
+    <region>Финнмарк</region>
+    <district>Тана-Бру</district>
+    <id>510180</id>
+  </point>
+  <point>
+    <name>Фрухольмен (маяк)</name>
+    <region>Финнмарк</region>
+    <district>Фрухольмен (маяк)</district>
+    <id>1146</id>
+  </point>
+  <point>
+    <name>Хаммерферст (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Хаммерферст (аэропорт)</district>
+    <id>1137</id>
+  </point>
+  <point>
+    <name>Хасвик (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Хасвик (аэропорт)</district>
+    <id>429828</id>
+  </point>
+  <point>
+    <name>Хоннингсвог (аэропорт)</name>
+    <region>Финнмарк</region>
+    <district>Хоннингсвог (аэропорт)</district>
+    <id>1211</id>
+  </point>
+  <point>
+    <name>Древсьё</name>
+    <region>Хедмарк</region>
+    <district>Древсьё</district>
+    <id>1741</id>
+  </point>
+  <point>
+    <name>Конгсвингер</name>
+    <region>Хедмарк</region>
+    <district>Конгсвингер</district>
+    <id>348220</id>
+  </point>
+  <point>
+    <name>Сниппен</name>
+    <region>Хедмарк</region>
+    <district>Сниппен</district>
+    <id>1729</id>
+  </point>
+  <point>
+    <name>Сор-Нессет</name>
+    <region>Хедмарк</region>
+    <district>Сор-Нессет</district>
+    <id>1712</id>
+  </point>
+  <point>
+    <name>Трисиль</name>
+    <region>Хедмарк</region>
+    <district>Трисиль</district>
+    <id>1744</id>
+  </point>
+  <point>
+    <name>Тюнсет</name>
+    <region>Хедмарк</region>
+    <district>Тюнсет</district>
+    <id>1507</id>
+  </point>
+  <point>
+    <name>Флиса</name>
+    <region>Хедмарк</region>
+    <district>Флиса</district>
+    <id>1733</id>
+  </point>
+  <point>
+    <name>Фоллдал-Фредхейм</name>
+    <region>Хедмарк</region>
+    <district>Фоллдал-Фредхейм</district>
+    <id>429833</id>
+  </point>
+  <point>
+    <name>Хамар</name>
+    <region>Хедмарк</region>
+    <district>Хамар</district>
+    <id>170655</id>
+  </point>
+  <point>
+    <name>Эвенстад</name>
+    <region>Хедмарк</region>
+    <district>Эвенстад</district>
+    <id>166628</id>
+  </point>
+  <point>
+    <name>Берген / Флесланн (аэропорт)</name>
+    <region>Хордаланн</region>
+    <district>Берген / Флесланн (аэропорт)</district>
+    <id>1571</id>
+  </point>
+  <point>
+    <name>Берген / Флорида</name>
+    <region>Хордаланн</region>
+    <district>Берген / Флорида</district>
+    <id>1582</id>
+  </point>
+  <point>
+    <name>Квамсоя</name>
+    <region>Хордаланн</region>
+    <district>Квамсоя</district>
+    <id>510062</id>
+  </point>
+  <point>
+    <name>Мидлаегер</name>
+    <region>Хордаланн</region>
+    <district>Мидлаегер</district>
+    <id>1803</id>
+  </point>
+  <point>
+    <name>Мидтстова</name>
+    <region>Хордаланн</region>
+    <district>Мидтстова</district>
+    <id>504491</id>
+  </point>
+  <point>
+    <name>Мьельфель</name>
+    <region>Хордаланн</region>
+    <district>Мьельфель</district>
+    <id>348208</id>
+  </point>
+  <point>
+    <name>Омастранд</name>
+    <region>Хордаланн</region>
+    <district>Омастранд</district>
+    <id>1606</id>
+  </point>
+  <point>
+    <name>Слаттерой</name>
+    <region>Хордаланн</region>
+    <district>Слаттерой</district>
+    <id>1755</id>
+  </point>
+  <point>
+    <name>Стур (аэропорт)</name>
+    <region>Хордаланн</region>
+    <district>Стур (аэропорт)</district>
+    <id>508690</id>
+  </point>
+  <point>
+    <name>Такле</name>
+    <region>Хордаланн</region>
+    <district>Такле</district>
+    <id>348204</id>
+  </point>
+  <point>
+    <name>Улленсванг</name>
+    <region>Хордаланн</region>
+    <district>Улленсванг</district>
+    <id>429808</id>
+  </point>
+  <point>
+    <name>Федье</name>
+    <region>Хордаланн</region>
+    <district>Федье</district>
+    <id>170654</id>
+  </point>
+  <point>
+    <name>Финсеватн (метеостанция)</name>
+    <region>Хордаланн</region>
+    <district>Финсеватн (метеостанция)</district>
+    <id>1644</id>
+  </point>
+  <point>
+    <name>Финсеватн</name>
+    <region>Хордаланн</region>
+    <district>Финсеватн</district>
+    <id>82374</id>
+  </point>
+  <point>
+    <name>Эйдфьорд</name>
+    <region>Хордаланн</region>
+    <district>Эйдфьорд</district>
+    <id>1636</id>
+  </point>
+  <point>
+    <name>Гульхольмен</name>
+    <region>Эстфолл</region>
+    <district>Гульхольмен</district>
+    <id>510182</id>
+  </point>
+  <point>
+    <name>Йелой</name>
+    <region>Эстфолл</region>
+    <district>Йелой</district>
+    <id>170359</id>
+  </point>
+  <point>
+    <name>Мосс</name>
+    <region>Эстфолл</region>
+    <district>Мосс</district>
+    <id>151398</id>
+  </point>
+  <point>
+    <name>Ригге (аэропорт)</name>
+    <region>Эстфолл</region>
+    <district>Ригге (аэропорт)</district>
+    <id>1902</id>
+  </point>
+  <point>
+    <name>Сарпсборг</name>
+    <region>Эстфолл</region>
+    <district>Сарпсборг</district>
+    <id>348223</id>
+  </point>
+  <point>
+    <name>Стромтанген</name>
+    <region>Эстфолл</region>
+    <district>Стромтанген</district>
+    <id>170360</id>
+  </point>
+  <point>
+    <name>Фредрикстад</name>
+    <region>Эстфолл</region>
+    <district>Фредрикстад</district>
+    <id>152129</id>
+  </point>
+  <point>
+    <name>Арендал</name>
+    <region>Эуст-Агдер</region>
+    <district>Арендал</district>
+    <id>13704</id>
+  </point>
+  <point>
+    <name>Бигландсфьорд-Сольбаккен</name>
+    <region>Эуст-Агдер</region>
+    <district>Бигландсфьорд-Сольбаккен</district>
+    <id>1832</id>
+  </point>
+  <point>
+    <name>Бьёркеланген (метеостанция)</name>
+    <region>Эуст-Агдер</region>
+    <district>Бьёркеланген (метеостанция)</district>
+    <id>510030</id>
+  </point>
+  <point>
+    <name>Гримстад</name>
+    <region>Эуст-Агдер</region>
+    <district>Гримстад</district>
+    <id>13703</id>
+  </point>
+  <point>
+    <name>Гьеллеруп (аэропорт)</name>
+    <region>Эуст-Агдер</region>
+    <district>Гьеллеруп (аэропорт)</district>
+    <id>429845</id>
+  </point>
+  <point>
+    <name>Ерстад</name>
+    <region>Эуст-Агдер</region>
+    <district>Ерстад</district>
+    <id>504493</id>
+  </point>
+  <point>
+    <name>Кристиансанн / Хьевик</name>
+    <region>Эуст-Агдер</region>
+    <district>Кристиансанн / Хьевик</district>
+    <id>504494</id>
+  </point>
+  <point>
+    <name>Ландвик</name>
+    <region>Эуст-Агдер</region>
+    <district>Ландвик</district>
+    <id>429844</id>
+  </point>
+  <point>
+    <name>Лиллесунн</name>
+    <region>Эуст-Агдер</region>
+    <district>Лиллесунн</district>
+    <id>13705</id>
+  </point>
+  <point>
+    <name>Лингор</name>
+    <region>Эуст-Агдер</region>
+    <district>Лингор</district>
+    <id>170353</id>
+  </point>
+  <point>
+    <name>Нелауг</name>
+    <region>Эуст-Агдер</region>
+    <district>Нелауг</district>
+    <id>348219</id>
+  </point>
+  <point>
+    <name>Торунген</name>
+    <region>Эуст-Агдер</region>
+    <district>Торунген</district>
+    <id>1864</id>
+  </point>
+  <point>
+    <name>Ховден-Лундан</name>
+    <region>Эуст-Агдер</region>
+    <district>Ховден-Лундан</district>
+    <id>170372</id>
+  </point>
+</country>

@@ -1,0 +1,314 @@
+<country name="Nigeria" count="52">
+  <point>
+    <name>Umuahia</name>
+    <region>Abia</region>
+    <district>Umuahia</district>
+    <id>212599</id>
+  </point>
+  <point>
+    <name>Yola</name>
+    <region>Adamawa</region>
+    <district>Yola</district>
+    <id>10868</id>
+  </point>
+  <point>
+    <name>Uyo</name>
+    <region>Akwa Ibom</region>
+    <district>Uyo</district>
+    <id>152161</id>
+  </point>
+  <point>
+    <name>Awka</name>
+    <region>Anambra</region>
+    <district>Awka</district>
+    <id>212602</id>
+  </point>
+  <point>
+    <name>Bauchi</name>
+    <region>Bauchi</region>
+    <district>Bauchi</district>
+    <id>10858</id>
+  </point>
+  <point>
+    <name>Yenagoa</name>
+    <region>Bayelsa</region>
+    <district>Yenagoa</district>
+    <id>212604</id>
+  </point>
+  <point>
+    <name>Makurdi</name>
+    <region>Benue</region>
+    <district>Makurdi</district>
+    <id>10881</id>
+  </point>
+  <point>
+    <name>Maiduguri</name>
+    <region>Borno</region>
+    <district>Maiduguri</district>
+    <id>10861</id>
+  </point>
+  <point>
+    <name>Calabar</name>
+    <region>Cross River</region>
+    <district>Calabar</district>
+    <id>10880</id>
+  </point>
+  <point>
+    <name>Asaba</name>
+    <region>Delta</region>
+    <district>Asaba</district>
+    <id>212564</id>
+  </point>
+  <point>
+    <name>Abakaliki</name>
+    <region>Ebonyi</region>
+    <district>Abakaliki</district>
+    <id>212588</id>
+  </point>
+  <point>
+    <name>Benin City</name>
+    <region>Edo</region>
+    <district>Benin City</district>
+    <id>10874</id>
+  </point>
+  <point>
+    <name>Ado Ekiti</name>
+    <region>Ekiti</region>
+    <district>Ado Ekiti</district>
+    <id>212598</id>
+  </point>
+  <point>
+    <name>Enugu</name>
+    <region>Enugu</region>
+    <district>Enugu</district>
+    <id>10879</id>
+  </point>
+  <point>
+    <name>Enugu / Akanu Ibiam (airport)</name>
+    <region>Enugu</region>
+    <district>Enugu / Akanu Ibiam (airport)</district>
+    <id>510601</id>
+  </point>
+  <point>
+    <name>Abuja</name>
+    <region>Federal Capital Territory</region>
+    <district>Abuja</district>
+    <id>10865</id>
+  </point>
+  <point>
+    <name>Abuja (airport)</name>
+    <region>Federal Capital Territory</region>
+    <district>Abuja (airport)</district>
+    <id>507945</id>
+  </point>
+  <point>
+    <name>Gombe</name>
+    <region>Gombe</region>
+    <district>Gombe</district>
+    <id>212563</id>
+  </point>
+  <point>
+    <name>Gombe / Lawanti (airport)</name>
+    <region>Gombe</region>
+    <district>Gombe / Lawanti (airport)</district>
+    <id>510607</id>
+  </point>
+  <point>
+    <name>Owerri</name>
+    <region>Imo</region>
+    <district>Owerri</district>
+    <id>212566</id>
+  </point>
+  <point>
+    <name>Sam Mbakwe (airport)</name>
+    <region>Imo</region>
+    <district>Sam Mbakwe (airport)</district>
+    <id>510603</id>
+  </point>
+  <point>
+    <name>Dutse</name>
+    <region>Jigawa</region>
+    <district>Dutse</district>
+    <id>212565</id>
+  </point>
+  <point>
+    <name>Kaduna (airport)</name>
+    <region>Kaduna</region>
+    <district>Kaduna (airport)</district>
+    <id>10854</id>
+  </point>
+  <point>
+    <name>Zaria</name>
+    <region>Kaduna</region>
+    <district>Zaria</district>
+    <id>10856</id>
+  </point>
+  <point>
+    <name>Kano (airport)</name>
+    <region>Kano</region>
+    <district>Kano (airport)</district>
+    <id>10857</id>
+  </point>
+  <point>
+    <name>Katsina</name>
+    <region>Katsina</region>
+    <district>Katsina</district>
+    <id>10855</id>
+  </point>
+  <point>
+    <name>Birnin Kebbi</name>
+    <region>Kebbi</region>
+    <district>Birnin Kebbi</district>
+    <id>212568</id>
+  </point>
+  <point>
+    <name>Yelwa</name>
+    <region>Kebbi</region>
+    <district>Yelwa</district>
+    <id>10851</id>
+  </point>
+  <point>
+    <name>Lokoja</name>
+    <region>Kogi</region>
+    <district>Lokoja</district>
+    <id>10876</id>
+  </point>
+  <point>
+    <name>Ilorin</name>
+    <region>Kwara</region>
+    <district>Ilorin</district>
+    <id>10862</id>
+  </point>
+  <point>
+    <name>Ilorin (airport)</name>
+    <region>Kwara</region>
+    <district>Ilorin (airport)</district>
+    <id>507946</id>
+  </point>
+  <point>
+    <name>Murtala Muhammed (airport)</name>
+    <region>Lagos</region>
+    <district>Murtala Muhammed (airport)</district>
+    <id>10869</id>
+  </point>
+  <point>
+    <name>Ijebu Ode</name>
+    <region>Lagos</region>
+    <district>Ijebu Ode</district>
+    <id>348491</id>
+  </point>
+  <point>
+    <name>Lafia</name>
+    <region>Nasarawa</region>
+    <district>Lafia</district>
+    <id>212569</id>
+  </point>
+  <point>
+    <name>Bida</name>
+    <region>Niger</region>
+    <district>Bida</district>
+    <id>10863</id>
+  </point>
+  <point>
+    <name>Minna</name>
+    <region>Niger</region>
+    <district>Minna</district>
+    <id>10864</id>
+  </point>
+  <point>
+    <name>Minna (airport)</name>
+    <region>Niger</region>
+    <district>Minna (airport)</district>
+    <id>510604</id>
+  </point>
+  <point>
+    <name>Abeokuta</name>
+    <region>Ogun</region>
+    <district>Abeokuta</district>
+    <id>152157</id>
+  </point>
+  <point>
+    <name>Ondo</name>
+    <region>Ondo</region>
+    <district>Ondo</district>
+    <id>10873</id>
+  </point>
+  <point>
+    <name>Akure (airport)</name>
+    <region>Ondo</region>
+    <district>Akure (airport)</district>
+    <id>510718</id>
+  </point>
+  <point>
+    <name>Osogbo</name>
+    <region>Osun</region>
+    <district>Osogbo</district>
+    <id>10872</id>
+  </point>
+  <point>
+    <name>Ibadan</name>
+    <region>Oyo</region>
+    <district>Ibadan</district>
+    <id>10871</id>
+  </point>
+  <point>
+    <name>Ibadan (airport)</name>
+    <region>Oyo</region>
+    <district>Ibadan (airport)</district>
+    <id>510602</id>
+  </point>
+  <point>
+    <name>Jos</name>
+    <region>Plateau</region>
+    <district>Jos</district>
+    <id>10866</id>
+  </point>
+  <point>
+    <name>Port Harcourt</name>
+    <region>Rivers</region>
+    <district>Port Harcourt</district>
+    <id>10878</id>
+  </point>
+  <point>
+    <name>Port Harcourt (airport)</name>
+    <region>Rivers</region>
+    <district>Port Harcourt (airport)</district>
+    <id>508198</id>
+  </point>
+  <point>
+    <name>Sokoto</name>
+    <region>Sokoto</region>
+    <district>Sokoto</district>
+    <id>10852</id>
+  </point>
+  <point>
+    <name>Sokoto (airport)</name>
+    <region>Sokoto</region>
+    <district>Sokoto (airport)</district>
+    <id>508856</id>
+  </point>
+  <point>
+    <name>Ibi</name>
+    <region>Taraba</region>
+    <district>Ibi</district>
+    <id>10867</id>
+  </point>
+  <point>
+    <name>Jalingo</name>
+    <region>Taraba</region>
+    <district>Jalingo</district>
+    <id>331998</id>
+  </point>
+  <point>
+    <name>Damaturu</name>
+    <region>Yobe</region>
+    <district>Damaturu</district>
+    <id>212567</id>
+  </point>
+  <point>
+    <name>Gusau</name>
+    <region>Zamfara</region>
+    <district>Gusau</district>
+    <id>10853</id>
+  </point>
+</country>

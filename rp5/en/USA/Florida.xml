@@ -1,0 +1,5096 @@
+<region name="Florida" count="853">
+  <point>
+    <name>Alachua</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290821</id>
+  </point>
+  <point>
+    <name>Archer</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290823</id>
+  </point>
+  <point>
+    <name>Cross Creek</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290824</id>
+  </point>
+  <point>
+    <name>Earleton</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290825</id>
+  </point>
+  <point>
+    <name>Evinston</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290826</id>
+  </point>
+  <point>
+    <name>Gainesville</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>259116</id>
+  </point>
+  <point>
+    <name>Gainesville (airport)</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>509236</id>
+  </point>
+  <point>
+    <name>Hawthorne</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290829</id>
+  </point>
+  <point>
+    <name>High Springs</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290830</id>
+  </point>
+  <point>
+    <name>Island Grove</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290831</id>
+  </point>
+  <point>
+    <name>Jonesville</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290832</id>
+  </point>
+  <point>
+    <name>La Crosse</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290833</id>
+  </point>
+  <point>
+    <name>Lochloosa</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290834</id>
+  </point>
+  <point>
+    <name>Micanopy</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290835</id>
+  </point>
+  <point>
+    <name>Newberry</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290837</id>
+  </point>
+  <point>
+    <name>Santa Fe</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290838</id>
+  </point>
+  <point>
+    <name>Tioga</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290839</id>
+  </point>
+  <point>
+    <name>Waldo</name>
+    <region>Florida</region>
+    <district>Alachua</district>
+    <id>290840</id>
+  </point>
+  <point>
+    <name>Glen Saint Mary</name>
+    <region>Florida</region>
+    <district>Baker</district>
+    <id>290841</id>
+  </point>
+  <point>
+    <name>Macclenny</name>
+    <region>Florida</region>
+    <district>Baker</district>
+    <id>259117</id>
+  </point>
+  <point>
+    <name>Olustee</name>
+    <region>Florida</region>
+    <district>Baker</district>
+    <id>290842</id>
+  </point>
+  <point>
+    <name>Sanderson</name>
+    <region>Florida</region>
+    <district>Baker</district>
+    <id>290843</id>
+  </point>
+  <point>
+    <name>Callaway</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>290844</id>
+  </point>
+  <point>
+    <name>Fountain</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>290845</id>
+  </point>
+  <point>
+    <name>Inlet Beach</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>290847</id>
+  </point>
+  <point>
+    <name>Lynn Haven</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>290848</id>
+  </point>
+  <point>
+    <name>Mexico Beach</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>290849</id>
+  </point>
+  <point>
+    <name>Northwest Florida Beaches (airport)</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>509396</id>
+  </point>
+  <point>
+    <name>Panama City</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>259118</id>
+  </point>
+  <point>
+    <name>Panama City (airport)</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>508858</id>
+  </point>
+  <point>
+    <name>Panama City Beach</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>290850</id>
+  </point>
+  <point>
+    <name>Seacrest</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>290851</id>
+  </point>
+  <point>
+    <name>Southport</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>290852</id>
+  </point>
+  <point>
+    <name>Tyndall Drone Runway (airbase)</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>509529</id>
+  </point>
+  <point>
+    <name>Youngstown</name>
+    <region>Florida</region>
+    <district>Bay</district>
+    <id>290854</id>
+  </point>
+  <point>
+    <name>Brooker</name>
+    <region>Florida</region>
+    <district>Bradford</district>
+    <id>290855</id>
+  </point>
+  <point>
+    <name>Graham</name>
+    <region>Florida</region>
+    <district>Bradford</district>
+    <id>290856</id>
+  </point>
+  <point>
+    <name>Hampton</name>
+    <region>Florida</region>
+    <district>Bradford</district>
+    <id>290857</id>
+  </point>
+  <point>
+    <name>Kingsley Lake</name>
+    <region>Florida</region>
+    <district>Bradford</district>
+    <id>290858</id>
+  </point>
+  <point>
+    <name>Lawtey</name>
+    <region>Florida</region>
+    <district>Bradford</district>
+    <id>290859</id>
+  </point>
+  <point>
+    <name>Starke</name>
+    <region>Florida</region>
+    <district>Bradford</district>
+    <id>259119</id>
+  </point>
+  <point>
+    <name>Canaveral Air Station</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290860</id>
+  </point>
+  <point>
+    <name>Cape Canaveral</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290861</id>
+  </point>
+  <point>
+    <name>Cape Canaveral (airbase)</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>508311</id>
+  </point>
+  <point>
+    <name>Cocoa</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290862</id>
+  </point>
+  <point>
+    <name>Cocoa Beach</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290864</id>
+  </point>
+  <point>
+    <name>Cocoa Beach / Patrick (airbase)</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>509131</id>
+  </point>
+  <point>
+    <name>Eau Gallie</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290865</id>
+  </point>
+  <point>
+    <name>Grant</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290866</id>
+  </point>
+  <point>
+    <name>Indialantic</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290867</id>
+  </point>
+  <point>
+    <name>Indian Harbour Beach</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290868</id>
+  </point>
+  <point>
+    <name>Malabar</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290870</id>
+  </point>
+  <point>
+    <name>Melbourne</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290872</id>
+  </point>
+  <point>
+    <name>Melbourne (airport)</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>509753</id>
+  </point>
+  <point>
+    <name>Melbourne Beach</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290873</id>
+  </point>
+  <point>
+    <name>Melbourne Village</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290874</id>
+  </point>
+  <point>
+    <name>Merritt Island</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290875</id>
+  </point>
+  <point>
+    <name>Mims</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290876</id>
+  </point>
+  <point>
+    <name>Orlando</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290877</id>
+  </point>
+  <point>
+    <name>Palm Bay</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290879</id>
+  </point>
+  <point>
+    <name>Palm Shores</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290880</id>
+  </point>
+  <point>
+    <name>Port Saint John</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290881</id>
+  </point>
+  <point>
+    <name>Rockledge</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290883</id>
+  </point>
+  <point>
+    <name>Satellite Beach</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290884</id>
+  </point>
+  <point>
+    <name>Scottsmoor</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290885</id>
+  </point>
+  <point>
+    <name>Sharpes</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290887</id>
+  </point>
+  <point>
+    <name>Titusville</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>259120</id>
+  </point>
+  <point>
+    <name>Titusville (airport)</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>508848</id>
+  </point>
+  <point>
+    <name>Titusville / NASA Shuttle Landing Facility (airport)</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>509535</id>
+  </point>
+  <point>
+    <name>Viera</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290889</id>
+  </point>
+  <point>
+    <name>West Melbourne</name>
+    <region>Florida</region>
+    <district>Brevard</district>
+    <id>290890</id>
+  </point>
+  <point>
+    <name>City of Sunrise</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290891</id>
+  </point>
+  <point>
+    <name>Coconut Creek</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290892</id>
+  </point>
+  <point>
+    <name>Cooper City</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290894</id>
+  </point>
+  <point>
+    <name>Coral Springs</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290895</id>
+  </point>
+  <point>
+    <name>Dania</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290898</id>
+  </point>
+  <point>
+    <name>Davie</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290900</id>
+  </point>
+  <point>
+    <name>Deerfield Beach</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290901</id>
+  </point>
+  <point>
+    <name>Fort Lauderdale</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>256241</id>
+  </point>
+  <point>
+    <name>Fort Lauderdale (airport)</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>509146</id>
+  </point>
+  <point>
+    <name>Hallandale</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290906</id>
+  </point>
+  <point>
+    <name>Hillsboro Beach</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290907</id>
+  </point>
+  <point>
+    <name>Hollywood</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290910</id>
+  </point>
+  <point>
+    <name>Hollywood / North Perry (airport)</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>509126</id>
+  </point>
+  <point>
+    <name>Laud Lakes</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290911</id>
+  </point>
+  <point>
+    <name>Lauderdale by the Sea</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290912</id>
+  </point>
+  <point>
+    <name>Lauderdale Lakes</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290913</id>
+  </point>
+  <point>
+    <name>Lauderhill</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290914</id>
+  </point>
+  <point>
+    <name>Lazy Lake</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290915</id>
+  </point>
+  <point>
+    <name>Lighthouse Point</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290916</id>
+  </point>
+  <point>
+    <name>Margate</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290919</id>
+  </point>
+  <point>
+    <name>Miramar</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290920</id>
+  </point>
+  <point>
+    <name>North Lauderdale</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290921</id>
+  </point>
+  <point>
+    <name>North Lauderdale (airport)</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>509751</id>
+  </point>
+  <point>
+    <name>Oakland Park</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290923</id>
+  </point>
+  <point>
+    <name>Parkland</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290925</id>
+  </point>
+  <point>
+    <name>Pembroke Park</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290926</id>
+  </point>
+  <point>
+    <name>Pembroke Pines</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290928</id>
+  </point>
+  <point>
+    <name>Plantation</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290929</id>
+  </point>
+  <point>
+    <name>Pompano Beach (airport)</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290931</id>
+  </point>
+  <point>
+    <name>Sea Ranch Lakes</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290933</id>
+  </point>
+  <point>
+    <name>South Florida</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290934</id>
+  </point>
+  <point>
+    <name>Southwest Ranches</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290935</id>
+  </point>
+  <point>
+    <name>Sunrise</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290937</id>
+  </point>
+  <point>
+    <name>Tamarac</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290938</id>
+  </point>
+  <point>
+    <name>West Hollywood</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290939</id>
+  </point>
+  <point>
+    <name>West Park</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290941</id>
+  </point>
+  <point>
+    <name>Weston</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290942</id>
+  </point>
+  <point>
+    <name>Wilton Manors</name>
+    <region>Florida</region>
+    <district>Broward</district>
+    <id>290943</id>
+  </point>
+  <point>
+    <name>Altha</name>
+    <region>Florida</region>
+    <district>Calhoun</district>
+    <id>290944</id>
+  </point>
+  <point>
+    <name>Blountstown</name>
+    <region>Florida</region>
+    <district>Calhoun</district>
+    <id>259125</id>
+  </point>
+  <point>
+    <name>Clarksville</name>
+    <region>Florida</region>
+    <district>Calhoun</district>
+    <id>290946</id>
+  </point>
+  <point>
+    <name>Kinard</name>
+    <region>Florida</region>
+    <district>Calhoun</district>
+    <id>290947</id>
+  </point>
+  <point>
+    <name>Wewahitchka</name>
+    <region>Florida</region>
+    <district>Calhoun</district>
+    <id>290948</id>
+  </point>
+  <point>
+    <name>Cape Haze</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>290949</id>
+  </point>
+  <point>
+    <name>El Jobean</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>290950</id>
+  </point>
+  <point>
+    <name>Englewood</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>290951</id>
+  </point>
+  <point>
+    <name>Grove City</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>290952</id>
+  </point>
+  <point>
+    <name>Murdock</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>290953</id>
+  </point>
+  <point>
+    <name>Placida</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>290956</id>
+  </point>
+  <point>
+    <name>Port Charlotte</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>290957</id>
+  </point>
+  <point>
+    <name>Punta Gorda</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>259124</id>
+  </point>
+  <point>
+    <name>Punta Gorda (airport)</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>509653</id>
+  </point>
+  <point>
+    <name>Rotonda West</name>
+    <region>Florida</region>
+    <district>Charlotte</district>
+    <id>290959</id>
+  </point>
+  <point>
+    <name>Beverly Hills</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290960</id>
+  </point>
+  <point>
+    <name>Citrus Hills</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290961</id>
+  </point>
+  <point>
+    <name>Citrus Springs</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290963</id>
+  </point>
+  <point>
+    <name>Crystal River</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290964</id>
+  </point>
+  <point>
+    <name>Crystal River (airport)</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>508351</id>
+  </point>
+  <point>
+    <name>Dunnellon</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290965</id>
+  </point>
+  <point>
+    <name>Floral City</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290966</id>
+  </point>
+  <point>
+    <name>Hernando</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290967</id>
+  </point>
+  <point>
+    <name>Holder</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290968</id>
+  </point>
+  <point>
+    <name>Homosassa</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290970</id>
+  </point>
+  <point>
+    <name>Homosassa Springs</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290971</id>
+  </point>
+  <point>
+    <name>Inverness</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>259096</id>
+  </point>
+  <point>
+    <name>Inverness (airport)</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>509445</id>
+  </point>
+  <point>
+    <name>Lecanto</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290972</id>
+  </point>
+  <point>
+    <name>Pine Ridge</name>
+    <region>Florida</region>
+    <district>Citrus</district>
+    <id>290974</id>
+  </point>
+  <point>
+    <name>Doctors Inlet</name>
+    <region>Florida</region>
+    <district>Clay</district>
+    <id>290975</id>
+  </point>
+  <point>
+    <name>Fleming Island</name>
+    <region>Florida</region>
+    <district>Clay</district>
+    <id>290976</id>
+  </point>
+  <point>
+    <name>Green Cove Springs</name>
+    <region>Florida</region>
+    <district>Clay</district>
+    <id>259097</id>
+  </point>
+  <point>
+    <name>Keystone Heights</name>
+    <region>Florida</region>
+    <district>Clay</district>
+    <id>290977</id>
+  </point>
+  <point>
+    <name>Keystone Heights (airport)</name>
+    <region>Florida</region>
+    <district>Clay</district>
+    <id>509053</id>
+  </point>
+  <point>
+    <name>Lake Geneva</name>
+    <region>Florida</region>
+    <district>Clay</district>
+    <id>290978</id>
+  </point>
+  <point>
+    <name>Middleburg</name>
+    <region>Florida</region>
+    <district>Clay</district>
+    <id>290979</id>
+  </point>
+  <point>
+    <name>Orange Park</name>
+    <region>Florida</region>
+    <district>Clay</district>
+    <id>290981</id>
+  </point>
+  <point>
+    <name>Penney Farms</name>
+    <region>Florida</region>
+    <district>Clay</district>
+    <id>290982</id>
+  </point>
+  <point>
+    <name>Ave Maria</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>290983</id>
+  </point>
+  <point>
+    <name>Chokoloskee</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>290984</id>
+  </point>
+  <point>
+    <name>Coco River</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>290985</id>
+  </point>
+  <point>
+    <name>Copeland</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>290986</id>
+  </point>
+  <point>
+    <name>Everglades</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>290988</id>
+  </point>
+  <point>
+    <name>Goodland</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>290989</id>
+  </point>
+  <point>
+    <name>Immokalee</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>290990</id>
+  </point>
+  <point>
+    <name>Immokalee (airport)</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>510372</id>
+  </point>
+  <point>
+    <name>Marco Island</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>290991</id>
+  </point>
+  <point>
+    <name>Marco Island (airport)</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>508528</id>
+  </point>
+  <point>
+    <name>Naples (airport)</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>259098</id>
+  </point>
+  <point>
+    <name>Vanderbilt Beach</name>
+    <region>Florida</region>
+    <district>Collier</district>
+    <id>290993</id>
+  </point>
+  <point>
+    <name>Fort White</name>
+    <region>Florida</region>
+    <district>Columbia</district>
+    <id>290994</id>
+  </point>
+  <point>
+    <name>Lake City</name>
+    <region>Florida</region>
+    <district>Columbia</district>
+    <id>259099</id>
+  </point>
+  <point>
+    <name>Lake City Gateway (airport)</name>
+    <region>Florida</region>
+    <district>Columbia</district>
+    <id>510709</id>
+  </point>
+  <point>
+    <name>Lulu</name>
+    <region>Florida</region>
+    <district>Columbia</district>
+    <id>290995</id>
+  </point>
+  <point>
+    <name>Arcadia</name>
+    <region>Florida</region>
+    <district>De Soto</district>
+    <id>259100</id>
+  </point>
+  <point>
+    <name>Fort Ogden</name>
+    <region>Florida</region>
+    <district>De Soto</district>
+    <id>290996</id>
+  </point>
+  <point>
+    <name>Lake Suzy</name>
+    <region>Florida</region>
+    <district>De Soto</district>
+    <id>290997</id>
+  </point>
+  <point>
+    <name>Nocatee</name>
+    <region>Florida</region>
+    <district>De Soto</district>
+    <id>290998</id>
+  </point>
+  <point>
+    <name>Sidell</name>
+    <region>Florida</region>
+    <district>De Soto</district>
+    <id>290999</id>
+  </point>
+  <point>
+    <name>Cross City</name>
+    <region>Florida</region>
+    <district>Dixie</district>
+    <id>259101</id>
+  </point>
+  <point>
+    <name>Cross City (airport)</name>
+    <region>Florida</region>
+    <district>Dixie</district>
+    <id>291881</id>
+  </point>
+  <point>
+    <name>Horseshoe Beach</name>
+    <region>Florida</region>
+    <district>Dixie</district>
+    <id>291002</id>
+  </point>
+  <point>
+    <name>Old Town</name>
+    <region>Florida</region>
+    <district>Dixie</district>
+    <id>291003</id>
+  </point>
+  <point>
+    <name>Suwannee</name>
+    <region>Florida</region>
+    <district>Dixie</district>
+    <id>291004</id>
+  </point>
+  <point>
+    <name>Atlantic Beach</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>291005</id>
+  </point>
+  <point>
+    <name>Baldwin</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>291006</id>
+  </point>
+  <point>
+    <name>Cecil Field (airport)</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>291007</id>
+  </point>
+  <point>
+    <name>Dinsmore</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>291008</id>
+  </point>
+  <point>
+    <name>Jacksonville</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>259102</id>
+  </point>
+  <point>
+    <name>Jacksonville / Craig (airport)</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>508235</id>
+  </point>
+  <point>
+    <name>Jacksonville / Naval Air Station (airport)</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>508236</id>
+  </point>
+  <point>
+    <name>Jacksonville Beach</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>291014</id>
+  </point>
+  <point>
+    <name>Jax Beach</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>291015</id>
+  </point>
+  <point>
+    <name>Maxville</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>291016</id>
+  </point>
+  <point>
+    <name>Mayport (naval station)</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>291017</id>
+  </point>
+  <point>
+    <name>Neptune Beach</name>
+    <region>Florida</region>
+    <district>Duval</district>
+    <id>291018</id>
+  </point>
+  <point>
+    <name>Bellview</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>291019</id>
+  </point>
+  <point>
+    <name>Cantonment</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>291020</id>
+  </point>
+  <point>
+    <name>Century</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>291022</id>
+  </point>
+  <point>
+    <name>Gonzalez</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>291023</id>
+  </point>
+  <point>
+    <name>McDavid</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>291024</id>
+  </point>
+  <point>
+    <name>Molino</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>291025</id>
+  </point>
+  <point>
+    <name>Pensacola</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>259136</id>
+  </point>
+  <point>
+    <name>Pensacola (airport)</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>508812</id>
+  </point>
+  <point>
+    <name>Pensacola (NAS)</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>508811</id>
+  </point>
+  <point>
+    <name>Walnut Hill</name>
+    <region>Florida</region>
+    <district>Escambia</district>
+    <id>291028</id>
+  </point>
+  <point>
+    <name>Bunnell</name>
+    <region>Florida</region>
+    <district>Flagler</district>
+    <id>259137</id>
+  </point>
+  <point>
+    <name>Flagler Beach</name>
+    <region>Florida</region>
+    <district>Flagler</district>
+    <id>291031</id>
+  </point>
+  <point>
+    <name>Flagler County (airport)</name>
+    <region>Florida</region>
+    <district>Flagler</district>
+    <id>508392</id>
+  </point>
+  <point>
+    <name>Palm Coast</name>
+    <region>Florida</region>
+    <district>Flagler</district>
+    <id>291032</id>
+  </point>
+  <point>
+    <name>Apalachicola (airport)</name>
+    <region>Florida</region>
+    <district>Franklin</district>
+    <id>259128</id>
+  </point>
+  <point>
+    <name>Carrabelle</name>
+    <region>Florida</region>
+    <district>Franklin</district>
+    <id>291033</id>
+  </point>
+  <point>
+    <name>Eastpoint</name>
+    <region>Florida</region>
+    <district>Franklin</district>
+    <id>291034</id>
+  </point>
+  <point>
+    <name>Lanark Village</name>
+    <region>Florida</region>
+    <district>Franklin</district>
+    <id>291035</id>
+  </point>
+  <point>
+    <name>Saint George Island</name>
+    <region>Florida</region>
+    <district>Franklin</district>
+    <id>291036</id>
+  </point>
+  <point>
+    <name>Chattahoochee</name>
+    <region>Florida</region>
+    <district>Gadsden</district>
+    <id>291037</id>
+  </point>
+  <point>
+    <name>Greensboro</name>
+    <region>Florida</region>
+    <district>Gadsden</district>
+    <id>291038</id>
+  </point>
+  <point>
+    <name>Gretna</name>
+    <region>Florida</region>
+    <district>Gadsden</district>
+    <id>291039</id>
+  </point>
+  <point>
+    <name>Havana</name>
+    <region>Florida</region>
+    <district>Gadsden</district>
+    <id>291040</id>
+  </point>
+  <point>
+    <name>Midway</name>
+    <region>Florida</region>
+    <district>Gadsden</district>
+    <id>291041</id>
+  </point>
+  <point>
+    <name>Mount Pleasant</name>
+    <region>Florida</region>
+    <district>Gadsden</district>
+    <id>291042</id>
+  </point>
+  <point>
+    <name>Quincy</name>
+    <region>Florida</region>
+    <district>Gadsden</district>
+    <id>259129</id>
+  </point>
+  <point>
+    <name>Quincy Muni (airport)</name>
+    <region>Florida</region>
+    <district>Gadsden</district>
+    <id>509045</id>
+  </point>
+  <point>
+    <name>Bell</name>
+    <region>Florida</region>
+    <district>Gilchrist</district>
+    <id>291044</id>
+  </point>
+  <point>
+    <name>Fanning Springs</name>
+    <region>Florida</region>
+    <district>Gilchrist</district>
+    <id>291045</id>
+  </point>
+  <point>
+    <name>Trenton</name>
+    <region>Florida</region>
+    <district>Gilchrist</district>
+    <id>259130</id>
+  </point>
+  <point>
+    <name>Moore Haven</name>
+    <region>Florida</region>
+    <district>Glades</district>
+    <id>259131</id>
+  </point>
+  <point>
+    <name>Palmdale</name>
+    <region>Florida</region>
+    <district>Glades</district>
+    <id>291046</id>
+  </point>
+  <point>
+    <name>Cape San Blas</name>
+    <region>Florida</region>
+    <district>Gulf</district>
+    <id>291047</id>
+  </point>
+  <point>
+    <name>Overstreet</name>
+    <region>Florida</region>
+    <district>Gulf</district>
+    <id>291049</id>
+  </point>
+  <point>
+    <name>Port Saint Joe</name>
+    <region>Florida</region>
+    <district>Gulf</district>
+    <id>259132</id>
+  </point>
+  <point>
+    <name>Jasper</name>
+    <region>Florida</region>
+    <district>Hamilton</district>
+    <id>259133</id>
+  </point>
+  <point>
+    <name>Jennings</name>
+    <region>Florida</region>
+    <district>Hamilton</district>
+    <id>291052</id>
+  </point>
+  <point>
+    <name>White Springs</name>
+    <region>Florida</region>
+    <district>Hamilton</district>
+    <id>291053</id>
+  </point>
+  <point>
+    <name>Bowling Green</name>
+    <region>Florida</region>
+    <district>Hardee</district>
+    <id>291054</id>
+  </point>
+  <point>
+    <name>Duette</name>
+    <region>Florida</region>
+    <district>Hardee</district>
+    <id>291055</id>
+  </point>
+  <point>
+    <name>Ona</name>
+    <region>Florida</region>
+    <district>Hardee</district>
+    <id>291056</id>
+  </point>
+  <point>
+    <name>Wauchula</name>
+    <region>Florida</region>
+    <district>Hardee</district>
+    <id>259134</id>
+  </point>
+  <point>
+    <name>Zolfo Springs</name>
+    <region>Florida</region>
+    <district>Hardee</district>
+    <id>291058</id>
+  </point>
+  <point>
+    <name>Clewiston</name>
+    <region>Florida</region>
+    <district>Hendry</district>
+    <id>291059</id>
+  </point>
+  <point>
+    <name>Felda</name>
+    <region>Florida</region>
+    <district>Hendry</district>
+    <id>291060</id>
+  </point>
+  <point>
+    <name>Fort Denaud</name>
+    <region>Florida</region>
+    <district>Hendry</district>
+    <id>291061</id>
+  </point>
+  <point>
+    <name>Labelle</name>
+    <region>Florida</region>
+    <district>Hendry</district>
+    <id>259135</id>
+  </point>
+  <point>
+    <name>Brooksville</name>
+    <region>Florida</region>
+    <district>Hernando</district>
+    <id>259126</id>
+  </point>
+  <point>
+    <name>Brooksville / Hernando (airport)</name>
+    <region>Florida</region>
+    <district>Hernando</district>
+    <id>508887</id>
+  </point>
+  <point>
+    <name>Hernando Beach</name>
+    <region>Florida</region>
+    <district>Hernando</district>
+    <id>291063</id>
+  </point>
+  <point>
+    <name>Istachatta</name>
+    <region>Florida</region>
+    <district>Hernando</district>
+    <id>291064</id>
+  </point>
+  <point>
+    <name>Masaryktown</name>
+    <region>Florida</region>
+    <district>Hernando</district>
+    <id>291066</id>
+  </point>
+  <point>
+    <name>Nobleton</name>
+    <region>Florida</region>
+    <district>Hernando</district>
+    <id>291067</id>
+  </point>
+  <point>
+    <name>Weeki Wachee</name>
+    <region>Florida</region>
+    <district>Hernando</district>
+    <id>291070</id>
+  </point>
+  <point>
+    <name>Avon Park</name>
+    <region>Florida</region>
+    <district>Highlands</district>
+    <id>291071</id>
+  </point>
+  <point>
+    <name>Lake Placid</name>
+    <region>Florida</region>
+    <district>Highlands</district>
+    <id>291072</id>
+  </point>
+  <point>
+    <name>Lorida</name>
+    <region>Florida</region>
+    <district>Highlands</district>
+    <id>291073</id>
+  </point>
+  <point>
+    <name>Sebring</name>
+    <region>Florida</region>
+    <district>Highlands</district>
+    <id>259127</id>
+  </point>
+  <point>
+    <name>Venus</name>
+    <region>Florida</region>
+    <district>Highlands</district>
+    <id>291075</id>
+  </point>
+  <point>
+    <name>Apollo Beach</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291076</id>
+  </point>
+  <point>
+    <name>Balm</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291077</id>
+  </point>
+  <point>
+    <name>Brandon</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291078</id>
+  </point>
+  <point>
+    <name>Dover</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291080</id>
+  </point>
+  <point>
+    <name>Durant</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291081</id>
+  </point>
+  <point>
+    <name>Gibsonton</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291082</id>
+  </point>
+  <point>
+    <name>Lithia</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291083</id>
+  </point>
+  <point>
+    <name>Lutz</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291084</id>
+  </point>
+  <point>
+    <name>Mango</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291085</id>
+  </point>
+  <point>
+    <name>Odessa</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291086</id>
+  </point>
+  <point>
+    <name>Peter O. Knight (airport)</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>508600</id>
+  </point>
+  <point>
+    <name>Plant City</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291088</id>
+  </point>
+  <point>
+    <name>Plant City (airport)</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>508606</id>
+  </point>
+  <point>
+    <name>Riverview</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291089</id>
+  </point>
+  <point>
+    <name>Ruskin</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291091</id>
+  </point>
+  <point>
+    <name>Seffner</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291092</id>
+  </point>
+  <point>
+    <name>Sun City</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291093</id>
+  </point>
+  <point>
+    <name>Sun City Center</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291094</id>
+  </point>
+  <point>
+    <name>Sydney</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291096</id>
+  </point>
+  <point>
+    <name>Tampa</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>259103</id>
+  </point>
+  <point>
+    <name>Tampa (airport)</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291880</id>
+  </point>
+  <point>
+    <name>Tampa / MacDill (airbase)</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>508809</id>
+  </point>
+  <point>
+    <name>Tampa / Vandenberg (airport)</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>508810</id>
+  </point>
+  <point>
+    <name>Thonotosassa</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291099</id>
+  </point>
+  <point>
+    <name>Valrico</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291100</id>
+  </point>
+  <point>
+    <name>Wimauma</name>
+    <region>Florida</region>
+    <district>Hillsborough</district>
+    <id>291101</id>
+  </point>
+  <point>
+    <name>Bonifay</name>
+    <region>Florida</region>
+    <district>Holmes</district>
+    <id>259104</id>
+  </point>
+  <point>
+    <name>Caryville</name>
+    <region>Florida</region>
+    <district>Holmes</district>
+    <id>291102</id>
+  </point>
+  <point>
+    <name>Chipley / Vosika's (airport)</name>
+    <region>Florida</region>
+    <district>Holmes</district>
+    <id>509546</id>
+  </point>
+  <point>
+    <name>Noma</name>
+    <region>Florida</region>
+    <district>Holmes</district>
+    <id>291103</id>
+  </point>
+  <point>
+    <name>Tri-County (airport)</name>
+    <region>Florida</region>
+    <district>Holmes</district>
+    <id>509035</id>
+  </point>
+  <point>
+    <name>Westville</name>
+    <region>Florida</region>
+    <district>Holmes</district>
+    <id>291104</id>
+  </point>
+  <point>
+    <name>Citrus Ridge</name>
+    <region>Florida</region>
+    <district>Indian River</district>
+    <id>291105</id>
+  </point>
+  <point>
+    <name>Fellsmere</name>
+    <region>Florida</region>
+    <district>Indian River</district>
+    <id>291106</id>
+  </point>
+  <point>
+    <name>Indian River Shores</name>
+    <region>Florida</region>
+    <district>Indian River</district>
+    <id>291107</id>
+  </point>
+  <point>
+    <name>Orchid</name>
+    <region>Florida</region>
+    <district>Indian River</district>
+    <id>291108</id>
+  </point>
+  <point>
+    <name>Roseland</name>
+    <region>Florida</region>
+    <district>Indian River</district>
+    <id>291109</id>
+  </point>
+  <point>
+    <name>Sebastian</name>
+    <region>Florida</region>
+    <district>Indian River</district>
+    <id>291110</id>
+  </point>
+  <point>
+    <name>Vero Beach (airport)</name>
+    <region>Florida</region>
+    <district>Indian River</district>
+    <id>259105</id>
+  </point>
+  <point>
+    <name>Wabasso</name>
+    <region>Florida</region>
+    <district>Indian River</district>
+    <id>291113</id>
+  </point>
+  <point>
+    <name>Winter Beach</name>
+    <region>Florida</region>
+    <district>Indian River</district>
+    <id>291114</id>
+  </point>
+  <point>
+    <name>Alford</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291116</id>
+  </point>
+  <point>
+    <name>Bascom</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291117</id>
+  </point>
+  <point>
+    <name>Campbellton</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291118</id>
+  </point>
+  <point>
+    <name>Cottondale</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291119</id>
+  </point>
+  <point>
+    <name>Cypress</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291120</id>
+  </point>
+  <point>
+    <name>Graceville</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291121</id>
+  </point>
+  <point>
+    <name>Grand Ridge</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291122</id>
+  </point>
+  <point>
+    <name>Greenwood</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291123</id>
+  </point>
+  <point>
+    <name>Jacob</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291124</id>
+  </point>
+  <point>
+    <name>Malone</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291125</id>
+  </point>
+  <point>
+    <name>Marianna</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>256242</id>
+  </point>
+  <point>
+    <name>Marianna (airport)</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>509206</id>
+  </point>
+  <point>
+    <name>Sneads</name>
+    <region>Florida</region>
+    <district>Jackson</district>
+    <id>291126</id>
+  </point>
+  <point>
+    <name>Lamont</name>
+    <region>Florida</region>
+    <district>Jefferson</district>
+    <id>291127</id>
+  </point>
+  <point>
+    <name>Lloyd</name>
+    <region>Florida</region>
+    <district>Jefferson</district>
+    <id>291128</id>
+  </point>
+  <point>
+    <name>Monticello</name>
+    <region>Florida</region>
+    <district>Jefferson</district>
+    <id>256243</id>
+  </point>
+  <point>
+    <name>Wacissa</name>
+    <region>Florida</region>
+    <district>Jefferson</district>
+    <id>291129</id>
+  </point>
+  <point>
+    <name>Day</name>
+    <region>Florida</region>
+    <district>Lafayette</district>
+    <id>291130</id>
+  </point>
+  <point>
+    <name>Mayo</name>
+    <region>Florida</region>
+    <district>Lafayette</district>
+    <id>256244</id>
+  </point>
+  <point>
+    <name>Altoona</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291132</id>
+  </point>
+  <point>
+    <name>Astatula</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291133</id>
+  </point>
+  <point>
+    <name>Astor</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291134</id>
+  </point>
+  <point>
+    <name>Clermont</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291135</id>
+  </point>
+  <point>
+    <name>Deer Island</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291136</id>
+  </point>
+  <point>
+    <name>Dona Vista</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291138</id>
+  </point>
+  <point>
+    <name>Eustis</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291139</id>
+  </point>
+  <point>
+    <name>Ferndale</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291140</id>
+  </point>
+  <point>
+    <name>Fruitland Park</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291141</id>
+  </point>
+  <point>
+    <name>Grand Island</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291142</id>
+  </point>
+  <point>
+    <name>Groveland</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291143</id>
+  </point>
+  <point>
+    <name>Haines Creek</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291144</id>
+  </point>
+  <point>
+    <name>Howey In the Hills</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291146</id>
+  </point>
+  <point>
+    <name>Leesburg</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291147</id>
+  </point>
+  <point>
+    <name>Leesburg (airport)</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>509246</id>
+  </point>
+  <point>
+    <name>Mascotte</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291148</id>
+  </point>
+  <point>
+    <name>Minneola</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291149</id>
+  </point>
+  <point>
+    <name>Montverde</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291151</id>
+  </point>
+  <point>
+    <name>Mount Dora</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291152</id>
+  </point>
+  <point>
+    <name>Mount Plymouth</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291153</id>
+  </point>
+  <point>
+    <name>Okahumpka</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291154</id>
+  </point>
+  <point>
+    <name>Paisley</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291155</id>
+  </point>
+  <point>
+    <name>Sorrento</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291156</id>
+  </point>
+  <point>
+    <name>Tavares</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>256245</id>
+  </point>
+  <point>
+    <name>The Villages</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291157</id>
+  </point>
+  <point>
+    <name>Umatilla</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291159</id>
+  </point>
+  <point>
+    <name>Yalaha</name>
+    <region>Florida</region>
+    <district>Lake</district>
+    <id>291160</id>
+  </point>
+  <point>
+    <name>Alva</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291161</id>
+  </point>
+  <point>
+    <name>Barefoot Beach</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291162</id>
+  </point>
+  <point>
+    <name>Boca Grande</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291163</id>
+  </point>
+  <point>
+    <name>Bokeelia</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291164</id>
+  </point>
+  <point>
+    <name>Bonita Springs</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291165</id>
+  </point>
+  <point>
+    <name>Cape Coral</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291167</id>
+  </point>
+  <point>
+    <name>Cape Coral South</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291168</id>
+  </point>
+  <point>
+    <name>Captiva</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291169</id>
+  </point>
+  <point>
+    <name>Estero</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291171</id>
+  </point>
+  <point>
+    <name>Fort Myers</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>256246</id>
+  </point>
+  <point>
+    <name>Fort Myers / Page Field (airport)</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>508770</id>
+  </point>
+  <point>
+    <name>Fort Myers / Southwest Florida (airport)</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>508769</id>
+  </point>
+  <point>
+    <name>Fort Myers Beach</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291174</id>
+  </point>
+  <point>
+    <name>Lehigh Acres</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291176</id>
+  </point>
+  <point>
+    <name>Matlacha</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291177</id>
+  </point>
+  <point>
+    <name>Matlacha Isles</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291178</id>
+  </point>
+  <point>
+    <name>Miromar Lakes</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291179</id>
+  </point>
+  <point>
+    <name>North Fort Myers</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291180</id>
+  </point>
+  <point>
+    <name>Pineland</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291181</id>
+  </point>
+  <point>
+    <name>Saint James City</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291182</id>
+  </point>
+  <point>
+    <name>Sanibel</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291183</id>
+  </point>
+  <point>
+    <name>Tice</name>
+    <region>Florida</region>
+    <district>Lee</district>
+    <id>291185</id>
+  </point>
+  <point>
+    <name>Tallahassee</name>
+    <region>Florida</region>
+    <district>Leon</district>
+    <id>259107</id>
+  </point>
+  <point>
+    <name>Tallahassee (airport)</name>
+    <region>Florida</region>
+    <district>Leon</district>
+    <id>291882</id>
+  </point>
+  <point>
+    <name>Woodville</name>
+    <region>Florida</region>
+    <district>Leon</district>
+    <id>291188</id>
+  </point>
+  <point>
+    <name>Bronson</name>
+    <region>Florida</region>
+    <district>Levy</district>
+    <id>259108</id>
+  </point>
+  <point>
+    <name>Cedar Key</name>
+    <region>Florida</region>
+    <district>Levy</district>
+    <id>291189</id>
+  </point>
+  <point>
+    <name>Chiefland</name>
+    <region>Florida</region>
+    <district>Levy</district>
+    <id>291190</id>
+  </point>
+  <point>
+    <name>Gulf Hammock</name>
+    <region>Florida</region>
+    <district>Levy</district>
+    <id>291191</id>
+  </point>
+  <point>
+    <name>Inglis</name>
+    <region>Florida</region>
+    <district>Levy</district>
+    <id>291192</id>
+  </point>
+  <point>
+    <name>Morriston</name>
+    <region>Florida</region>
+    <district>Levy</district>
+    <id>291193</id>
+  </point>
+  <point>
+    <name>Otter Creek</name>
+    <region>Florida</region>
+    <district>Levy</district>
+    <id>291194</id>
+  </point>
+  <point>
+    <name>Williston</name>
+    <region>Florida</region>
+    <district>Levy</district>
+    <id>291196</id>
+  </point>
+  <point>
+    <name>Yankeetown</name>
+    <region>Florida</region>
+    <district>Levy</district>
+    <id>291197</id>
+  </point>
+  <point>
+    <name>Bristol</name>
+    <region>Florida</region>
+    <district>Liberty</district>
+    <id>259109</id>
+  </point>
+  <point>
+    <name>Hosford</name>
+    <region>Florida</region>
+    <district>Liberty</district>
+    <id>291198</id>
+  </point>
+  <point>
+    <name>Sumatra</name>
+    <region>Florida</region>
+    <district>Liberty</district>
+    <id>291199</id>
+  </point>
+  <point>
+    <name>Telogia</name>
+    <region>Florida</region>
+    <district>Liberty</district>
+    <id>291200</id>
+  </point>
+  <point>
+    <name>Madison</name>
+    <district>Madison</district>
+    <id>259110</id>
+  </point>
+  <point>
+    <name>Greenville</name>
+    <district>Madison</district>
+    <id>291201</id>
+  </point>
+  <point>
+    <name>Lee</name>
+    <district>Madison</district>
+    <id>291202</id>
+  </point>
+  <point>
+    <name>Pinetta</name>
+    <district>Madison</district>
+    <id>291204</id>
+  </point>
+  <point>
+    <name>Anna Maria</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291205</id>
+  </point>
+  <point>
+    <name>Braden River</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291206</id>
+  </point>
+  <point>
+    <name>Bradenton</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>259111</id>
+  </point>
+  <point>
+    <name>Bradenton Beach</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291209</id>
+  </point>
+  <point>
+    <name>Cortez</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291210</id>
+  </point>
+  <point>
+    <name>Ellenton</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291211</id>
+  </point>
+  <point>
+    <name>Holmes Beach</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291212</id>
+  </point>
+  <point>
+    <name>Lakewood Rch</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291213</id>
+  </point>
+  <point>
+    <name>Longboat Key</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291214</id>
+  </point>
+  <point>
+    <name>Manasota</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291217</id>
+  </point>
+  <point>
+    <name>Myakka City</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291218</id>
+  </point>
+  <point>
+    <name>Oneco</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291219</id>
+  </point>
+  <point>
+    <name>Palma Sola</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291220</id>
+  </point>
+  <point>
+    <name>Palmetto</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291221</id>
+  </point>
+  <point>
+    <name>Parrish</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291222</id>
+  </point>
+  <point>
+    <name>Rubonia</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291223</id>
+  </point>
+  <point>
+    <name>Tallevast</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291225</id>
+  </point>
+  <point>
+    <name>Terra Ceia</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291226</id>
+  </point>
+  <point>
+    <name>Trailer Estates</name>
+    <region>Florida</region>
+    <district>Manatee</district>
+    <id>291227</id>
+  </point>
+  <point>
+    <name>Anthony</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291228</id>
+  </point>
+  <point>
+    <name>Belleview</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291229</id>
+  </point>
+  <point>
+    <name>Candler</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291230</id>
+  </point>
+  <point>
+    <name>Citra</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291231</id>
+  </point>
+  <point>
+    <name>Eastlake Weir</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291233</id>
+  </point>
+  <point>
+    <name>Fairfield</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291234</id>
+  </point>
+  <point>
+    <name>Fort McCoy</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291235</id>
+  </point>
+  <point>
+    <name>Lowell</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291236</id>
+  </point>
+  <point>
+    <name>McIntosh</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291237</id>
+  </point>
+  <point>
+    <name>Ocala</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>259112</id>
+  </point>
+  <point>
+    <name>Ocala (airport)</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>509143</id>
+  </point>
+  <point>
+    <name>Ocklawaha</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291240</id>
+  </point>
+  <point>
+    <name>Orange Lake</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291241</id>
+  </point>
+  <point>
+    <name>Orange Springs</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291242</id>
+  </point>
+  <point>
+    <name>Reddick</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291243</id>
+  </point>
+  <point>
+    <name>Salt Springs</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291244</id>
+  </point>
+  <point>
+    <name>Silver Springs</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291245</id>
+  </point>
+  <point>
+    <name>Sparr</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291247</id>
+  </point>
+  <point>
+    <name>Summerfield</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291248</id>
+  </point>
+  <point>
+    <name>Weirsdale</name>
+    <region>Florida</region>
+    <district>Marion</district>
+    <id>291249</id>
+  </point>
+  <point>
+    <name>Hobe Sound</name>
+    <region>Florida</region>
+    <district>Martin</district>
+    <id>291250</id>
+  </point>
+  <point>
+    <name>Indiantown</name>
+    <region>Florida</region>
+    <district>Martin</district>
+    <id>291251</id>
+  </point>
+  <point>
+    <name>Jensen Beach</name>
+    <region>Florida</region>
+    <district>Martin</district>
+    <id>291252</id>
+  </point>
+  <point>
+    <name>Palm City</name>
+    <region>Florida</region>
+    <district>Martin</district>
+    <id>291254</id>
+  </point>
+  <point>
+    <name>Port Salerno</name>
+    <region>Florida</region>
+    <district>Martin</district>
+    <id>291255</id>
+  </point>
+  <point>
+    <name>Sewalls Point</name>
+    <region>Florida</region>
+    <district>Martin</district>
+    <id>291256</id>
+  </point>
+  <point>
+    <name>Stuart (airport)</name>
+    <region>Florida</region>
+    <district>Martin</district>
+    <id>259106</id>
+  </point>
+  <point>
+    <name>Miami</name>
+    <district>Miami-Dade</district>
+    <id>259114</id>
+  </point>
+  <point>
+    <name>Homestead (airbase)</name>
+    <district>Miami-Dade</district>
+    <id>509087</id>
+  </point>
+  <point>
+    <name>Miami (airport)</name>
+    <district>Miami-Dade</district>
+    <id>291322</id>
+  </point>
+  <point>
+    <name>Miami Beach</name>
+    <district>Miami-Dade</district>
+    <id>291291</id>
+  </point>
+  <point>
+    <name>Opa-locka (airport)</name>
+    <district>Miami-Dade</district>
+    <id>291304</id>
+  </point>
+  <point>
+    <name>Aventura</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291257</id>
+  </point>
+  <point>
+    <name>Bal Harbour</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291258</id>
+  </point>
+  <point>
+    <name>Bay Harbor Islands</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291259</id>
+  </point>
+  <point>
+    <name>Biscayne Park</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291260</id>
+  </point>
+  <point>
+    <name>Carl Fisher</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291261</id>
+  </point>
+  <point>
+    <name>Carol City</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291262</id>
+  </point>
+  <point>
+    <name>Coconut Grove</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291263</id>
+  </point>
+  <point>
+    <name>Coral Gables</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291264</id>
+  </point>
+  <point>
+    <name>Cutler Bay</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291265</id>
+  </point>
+  <point>
+    <name>Cutler Ridge</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291266</id>
+  </point>
+  <point>
+    <name>Doral</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291267</id>
+  </point>
+  <point>
+    <name>El Portal</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291268</id>
+  </point>
+  <point>
+    <name>Flamingo Lodge</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291270</id>
+  </point>
+  <point>
+    <name>Florida City</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291271</id>
+  </point>
+  <point>
+    <name>Golden Beach</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291272</id>
+  </point>
+  <point>
+    <name>Goulds</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291273</id>
+  </point>
+  <point>
+    <name>Hialeah</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291274</id>
+  </point>
+  <point>
+    <name>Hialeah Gardens</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291275</id>
+  </point>
+  <point>
+    <name>Homestead</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291276</id>
+  </point>
+  <point>
+    <name>Indian Creek Village</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291277</id>
+  </point>
+  <point>
+    <name>Jerome</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291278</id>
+  </point>
+  <point>
+    <name>Kendall</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291279</id>
+  </point>
+  <point>
+    <name>Kendall (airport)</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>508853</id>
+  </point>
+  <point>
+    <name>Key Biscayne</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291280</id>
+  </point>
+  <point>
+    <name>Ludlam</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291281</id>
+  </point>
+  <point>
+    <name>Medley</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291282</id>
+  </point>
+  <point>
+    <name>Miami Gardens</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291292</id>
+  </point>
+  <point>
+    <name>Miami Lakes</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291293</id>
+  </point>
+  <point>
+    <name>Miami Shores</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291294</id>
+  </point>
+  <point>
+    <name>Miami Springs</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291295</id>
+  </point>
+  <point>
+    <name>Naranja</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291296</id>
+  </point>
+  <point>
+    <name>North Bay Village</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291297</id>
+  </point>
+  <point>
+    <name>North Miami</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291298</id>
+  </point>
+  <point>
+    <name>North Miami Beach</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291299</id>
+  </point>
+  <point>
+    <name>Ochopee</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291300</id>
+  </point>
+  <point>
+    <name>Ojus</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291301</id>
+  </point>
+  <point>
+    <name>Olympia Heights</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291302</id>
+  </point>
+  <point>
+    <name>Palmetto Bay</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291305</id>
+  </point>
+  <point>
+    <name>Perrine</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291306</id>
+  </point>
+  <point>
+    <name>Pinecrest</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291307</id>
+  </point>
+  <point>
+    <name>Princeton</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291310</id>
+  </point>
+  <point>
+    <name>Quail Heights</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291311</id>
+  </point>
+  <point>
+    <name>Redland</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291312</id>
+  </point>
+  <point>
+    <name>South Miami</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291315</id>
+  </point>
+  <point>
+    <name>Sunny Isles Beach</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291316</id>
+  </point>
+  <point>
+    <name>Surfside</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291317</id>
+  </point>
+  <point>
+    <name>Uleta</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291318</id>
+  </point>
+  <point>
+    <name>Village of Palmetto Bay</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291319</id>
+  </point>
+  <point>
+    <name>Virginia Gardens</name>
+    <region>Florida</region>
+    <district>Miami-Dade</district>
+    <id>291321</id>
+  </point>
+  <point>
+    <name>Big Pine Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291323</id>
+  </point>
+  <point>
+    <name>Big Torch Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291324</id>
+  </point>
+  <point>
+    <name>Conch Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291325</id>
+  </point>
+  <point>
+    <name>Cudjoe Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291326</id>
+  </point>
+  <point>
+    <name>Duck Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291327</id>
+  </point>
+  <point>
+    <name>East Rockland Key (airport)</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291328</id>
+  </point>
+  <point>
+    <name>Grassy Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291329</id>
+  </point>
+  <point>
+    <name>Islamorada</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291330</id>
+  </point>
+  <point>
+    <name>Key Colony Beach</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291332</id>
+  </point>
+  <point>
+    <name>Key Largo</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291333</id>
+  </point>
+  <point>
+    <name>Key West</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>256247</id>
+  </point>
+  <point>
+    <name>Key West (airport)</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>508871</id>
+  </point>
+  <point>
+    <name>Little Torch Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291334</id>
+  </point>
+  <point>
+    <name>Long Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291335</id>
+  </point>
+  <point>
+    <name>Lower Sugarloaf Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291336</id>
+  </point>
+  <point>
+    <name>Marathon</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291338</id>
+  </point>
+  <point>
+    <name>Marathon Shores (airport)</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291339</id>
+  </point>
+  <point>
+    <name>Middle Torch Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291340</id>
+  </point>
+  <point>
+    <name>Ramrod Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291341</id>
+  </point>
+  <point>
+    <name>Stock Island</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291342</id>
+  </point>
+  <point>
+    <name>Sugarloaf Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291343</id>
+  </point>
+  <point>
+    <name>Sugarloaf Shores</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291344</id>
+  </point>
+  <point>
+    <name>Summerland Key</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291346</id>
+  </point>
+  <point>
+    <name>Tavernier</name>
+    <region>Florida</region>
+    <district>Monroe</district>
+    <id>291347</id>
+  </point>
+  <point>
+    <name>Amelia Island</name>
+    <region>Florida</region>
+    <district>Nassau</district>
+    <id>291348</id>
+  </point>
+  <point>
+    <name>Bryceville</name>
+    <region>Florida</region>
+    <district>Nassau</district>
+    <id>291349</id>
+  </point>
+  <point>
+    <name>Callahan</name>
+    <region>Florida</region>
+    <district>Nassau</district>
+    <id>291350</id>
+  </point>
+  <point>
+    <name>Fernandina Beach</name>
+    <region>Florida</region>
+    <district>Nassau</district>
+    <id>259142</id>
+  </point>
+  <point>
+    <name>Fernandina Beach (airport)</name>
+    <region>Florida</region>
+    <district>Nassau</district>
+    <id>508390</id>
+  </point>
+  <point>
+    <name>Hilliard</name>
+    <region>Florida</region>
+    <district>Nassau</district>
+    <id>291352</id>
+  </point>
+  <point>
+    <name>Jacksonville (airport)</name>
+    <region>Florida</region>
+    <district>Nassau</district>
+    <id>291879</id>
+  </point>
+  <point>
+    <name>Yulee</name>
+    <region>Florida</region>
+    <district>Nassau</district>
+    <id>291353</id>
+  </point>
+  <point>
+    <name>Baker</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291354</id>
+  </point>
+  <point>
+    <name>Choctaw Beach</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291355</id>
+  </point>
+  <point>
+    <name>Crestview (airport)</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>259143</id>
+  </point>
+  <point>
+    <name>Duke Field (airport)</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>508368</id>
+  </point>
+  <point>
+    <name>Eglin</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291358</id>
+  </point>
+  <point>
+    <name>Fort Walton Beach</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291359</id>
+  </point>
+  <point>
+    <name>Holt</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291360</id>
+  </point>
+  <point>
+    <name>Hurlburt Field (airport)</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291361</id>
+  </point>
+  <point>
+    <name>Laurel Hill</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291362</id>
+  </point>
+  <point>
+    <name>Mary Esther</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291363</id>
+  </point>
+  <point>
+    <name>Milligan</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291364</id>
+  </point>
+  <point>
+    <name>Niceville</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291366</id>
+  </point>
+  <point>
+    <name>Shalimar</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291367</id>
+  </point>
+  <point>
+    <name>Valparaiso (airport)</name>
+    <region>Florida</region>
+    <district>Okaloosa</district>
+    <id>291368</id>
+  </point>
+  <point>
+    <name>Okeechobee</name>
+    <district>Okeechobee</district>
+    <id>259144</id>
+  </point>
+  <point>
+    <name>Basinger</name>
+    <district>Okeechobee</district>
+    <id>291369</id>
+  </point>
+  <point>
+    <name>Okeechobee County (airport)</name>
+    <district>Okeechobee</district>
+    <id>508586</id>
+  </point>
+  <point>
+    <name>Yeehaw</name>
+    <district>Okeechobee</district>
+    <id>291370</id>
+  </point>
+  <point>
+    <name>Yeehaw Junction</name>
+    <district>Okeechobee</district>
+    <id>291371</id>
+  </point>
+  <point>
+    <name>Alafaya</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291372</id>
+  </point>
+  <point>
+    <name>Aloma</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291373</id>
+  </point>
+  <point>
+    <name>Apopka</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291375</id>
+  </point>
+  <point>
+    <name>Azalea Park</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291376</id>
+  </point>
+  <point>
+    <name>Belle Isle</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291377</id>
+  </point>
+  <point>
+    <name>Christmas</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291378</id>
+  </point>
+  <point>
+    <name>Clarcona</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291379</id>
+  </point>
+  <point>
+    <name>Eatonville</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291380</id>
+  </point>
+  <point>
+    <name>Edgewood</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291383</id>
+  </point>
+  <point>
+    <name>Gotha</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291384</id>
+  </point>
+  <point>
+    <name>Herndon / Orlando (airport)</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>509747</id>
+  </point>
+  <point>
+    <name>Hiawassee</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291385</id>
+  </point>
+  <point>
+    <name>Killarney</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291386</id>
+  </point>
+  <point>
+    <name>Lake Buena Vista</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291387</id>
+  </point>
+  <point>
+    <name>Lockhart</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291388</id>
+  </point>
+  <point>
+    <name>Maitland</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291389</id>
+  </point>
+  <point>
+    <name>Oakland</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291391</id>
+  </point>
+  <point>
+    <name>Ocoee</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291392</id>
+  </point>
+  <point>
+    <name>Orlando</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>259085</id>
+  </point>
+  <point>
+    <name>Orlando (airport)</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291878</id>
+  </point>
+  <point>
+    <name>Orlo Vista</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291398</id>
+  </point>
+  <point>
+    <name>Pine Castle</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291400</id>
+  </point>
+  <point>
+    <name>Pine Hills</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291401</id>
+  </point>
+  <point>
+    <name>Plymouth</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291402</id>
+  </point>
+  <point>
+    <name>Sand Lake</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291403</id>
+  </point>
+  <point>
+    <name>Tangerine</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291404</id>
+  </point>
+  <point>
+    <name>Union Park</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291405</id>
+  </point>
+  <point>
+    <name>Windermere</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291406</id>
+  </point>
+  <point>
+    <name>Winter Garden</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291408</id>
+  </point>
+  <point>
+    <name>Winter Park</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291409</id>
+  </point>
+  <point>
+    <name>Zellwood</name>
+    <region>Florida</region>
+    <district>Orange</district>
+    <id>291410</id>
+  </point>
+  <point>
+    <name>Buena Ventura Lakes</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>291411</id>
+  </point>
+  <point>
+    <name>Celebration</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>291412</id>
+  </point>
+  <point>
+    <name>Harmony</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>291414</id>
+  </point>
+  <point>
+    <name>Intercession City</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>291415</id>
+  </point>
+  <point>
+    <name>Kenansville</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>291416</id>
+  </point>
+  <point>
+    <name>Kissimmee (airport)</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>259084</id>
+  </point>
+  <point>
+    <name>Magnolia Square</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>291419</id>
+  </point>
+  <point>
+    <name>Poinciana</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>291420</id>
+  </point>
+  <point>
+    <name>Reunion</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>291421</id>
+  </point>
+  <point>
+    <name>Saint Cloud</name>
+    <region>Florida</region>
+    <district>Osceola</district>
+    <id>291422</id>
+  </point>
+  <point>
+    <name>Atlantis</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291424</id>
+  </point>
+  <point>
+    <name>Belle Glade</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291425</id>
+  </point>
+  <point>
+    <name>Boca Raton</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291427</id>
+  </point>
+  <point>
+    <name>Boca Raton (airport)</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>508295</id>
+  </point>
+  <point>
+    <name>Boynton Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291429</id>
+  </point>
+  <point>
+    <name>Briny Breezes</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291430</id>
+  </point>
+  <point>
+    <name>Bryant</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291431</id>
+  </point>
+  <point>
+    <name>Canal Point</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291433</id>
+  </point>
+  <point>
+    <name>Delray Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291435</id>
+  </point>
+  <point>
+    <name>Glen Ridge</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291436</id>
+  </point>
+  <point>
+    <name>Greenacres</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291437</id>
+  </point>
+  <point>
+    <name>Gulf Stream</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291438</id>
+  </point>
+  <point>
+    <name>Haverhill</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291440</id>
+  </point>
+  <point>
+    <name>Highland Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291441</id>
+  </point>
+  <point>
+    <name>Hypoluxo</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291442</id>
+  </point>
+  <point>
+    <name>Juno Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291443</id>
+  </point>
+  <point>
+    <name>Jupiter</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291444</id>
+  </point>
+  <point>
+    <name>Jupiter Inlet</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291445</id>
+  </point>
+  <point>
+    <name>Jupiter Inlet Colony</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291447</id>
+  </point>
+  <point>
+    <name>Lake Clarke</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291448</id>
+  </point>
+  <point>
+    <name>Lake Clarke Shores</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291449</id>
+  </point>
+  <point>
+    <name>Lake Harbor</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291450</id>
+  </point>
+  <point>
+    <name>Lake Park</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291451</id>
+  </point>
+  <point>
+    <name>Lake Worth</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291453</id>
+  </point>
+  <point>
+    <name>Lantana</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291454</id>
+  </point>
+  <point>
+    <name>Loxahatchee</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291455</id>
+  </point>
+  <point>
+    <name>Loxahatchee Groves</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291456</id>
+  </point>
+  <point>
+    <name>Manalapan</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291458</id>
+  </point>
+  <point>
+    <name>North Palm Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291459</id>
+  </point>
+  <point>
+    <name>Ocean Ridge</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291460</id>
+  </point>
+  <point>
+    <name>Pahokee</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291461</id>
+  </point>
+  <point>
+    <name>Palm Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291462</id>
+  </point>
+  <point>
+    <name>Palm Beach (airport)</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291434</id>
+  </point>
+  <point>
+    <name>Palm Beach Gardens</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291464</id>
+  </point>
+  <point>
+    <name>Palm Beach Shores</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291465</id>
+  </point>
+  <point>
+    <name>Palm Springs</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291466</id>
+  </point>
+  <point>
+    <name>Riviera Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291468</id>
+  </point>
+  <point>
+    <name>Royal Palm Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291469</id>
+  </point>
+  <point>
+    <name>Singer Island</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291470</id>
+  </point>
+  <point>
+    <name>South Bay</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291471</id>
+  </point>
+  <point>
+    <name>South Palm Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291472</id>
+  </point>
+  <point>
+    <name>Tequesta</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291473</id>
+  </point>
+  <point>
+    <name>Village of Golf</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291475</id>
+  </point>
+  <point>
+    <name>Wellington</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291476</id>
+  </point>
+  <point>
+    <name>West Delray Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>291478</id>
+  </point>
+  <point>
+    <name>West Palm Beach</name>
+    <region>Florida</region>
+    <district>Palm Beach</district>
+    <id>259086</id>
+  </point>
+  <point>
+    <name>Aripeka</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291481</id>
+  </point>
+  <point>
+    <name>Bayonet Point</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291482</id>
+  </point>
+  <point>
+    <name>Crystal Springs</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291483</id>
+  </point>
+  <point>
+    <name>Dade City</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>259087</id>
+  </point>
+  <point>
+    <name>Elfers</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291485</id>
+  </point>
+  <point>
+    <name>Holiday</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291486</id>
+  </point>
+  <point>
+    <name>Hudson</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291487</id>
+  </point>
+  <point>
+    <name>Lacoochee</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291488</id>
+  </point>
+  <point>
+    <name>Land O Lakes</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291489</id>
+  </point>
+  <point>
+    <name>New Port Richey</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291490</id>
+  </point>
+  <point>
+    <name>Port Richey</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291491</id>
+  </point>
+  <point>
+    <name>Richland</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291493</id>
+  </point>
+  <point>
+    <name>Ridge Manor</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291494</id>
+  </point>
+  <point>
+    <name>Saint Leo</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291495</id>
+  </point>
+  <point>
+    <name>San Antonio</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291496</id>
+  </point>
+  <point>
+    <name>Shady Hills</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291497</id>
+  </point>
+  <point>
+    <name>Spring Hill</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291498</id>
+  </point>
+  <point>
+    <name>Trilby</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291501</id>
+  </point>
+  <point>
+    <name>Trinity</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291502</id>
+  </point>
+  <point>
+    <name>Wesley Chapel</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291503</id>
+  </point>
+  <point>
+    <name>Zephyrhills</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>291505</id>
+  </point>
+  <point>
+    <name>Zephyrhills (airport)</name>
+    <region>Florida</region>
+    <district>Pasco</district>
+    <id>508754</id>
+  </point>
+  <point>
+    <name>Bay Pines</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291506</id>
+  </point>
+  <point>
+    <name>Belleair Beach</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291507</id>
+  </point>
+  <point>
+    <name>Belleair Bluffs</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291508</id>
+  </point>
+  <point>
+    <name>Belleair Shores</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291509</id>
+  </point>
+  <point>
+    <name>Clearwater</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>256248</id>
+  </point>
+  <point>
+    <name>Clearwater (airport)</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>510799</id>
+  </point>
+  <point>
+    <name>Clearwater Beach</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291512</id>
+  </point>
+  <point>
+    <name>Crystal Beach</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291513</id>
+  </point>
+  <point>
+    <name>Dunedin</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291514</id>
+  </point>
+  <point>
+    <name>Indian Rocks Beach</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291515</id>
+  </point>
+  <point>
+    <name>Indian Shores</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291516</id>
+  </point>
+  <point>
+    <name>Kenneth City</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291517</id>
+  </point>
+  <point>
+    <name>Largo</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291519</id>
+  </point>
+  <point>
+    <name>Madeira Beach</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291520</id>
+  </point>
+  <point>
+    <name>North Redington Beach</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291521</id>
+  </point>
+  <point>
+    <name>Oldsmar</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291522</id>
+  </point>
+  <point>
+    <name>Ozona</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291523</id>
+  </point>
+  <point>
+    <name>Palm Harbor</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291525</id>
+  </point>
+  <point>
+    <name>Pinellas Park</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291526</id>
+  </point>
+  <point>
+    <name>Redington Beach</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291527</id>
+  </point>
+  <point>
+    <name>Redington Shores</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291528</id>
+  </point>
+  <point>
+    <name>Safety Harbor</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291529</id>
+  </point>
+  <point>
+    <name>Saint Petersburg</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291533</id>
+  </point>
+  <point>
+    <name>Saint Petersburg / Albert Whitted (airport)</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>508815</id>
+  </point>
+  <point>
+    <name>Saint Petersburg / Clearwater (airport)</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>508816</id>
+  </point>
+  <point>
+    <name>Seminole</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291534</id>
+  </point>
+  <point>
+    <name>South Pasadena</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291535</id>
+  </point>
+  <point>
+    <name>Tarpon Springs</name>
+    <region>Florida</region>
+    <district>Pinellas</district>
+    <id>291536</id>
+  </point>
+  <point>
+    <name>Alturas</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291537</id>
+  </point>
+  <point>
+    <name>Auburndale</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291539</id>
+  </point>
+  <point>
+    <name>Babson Park</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291540</id>
+  </point>
+  <point>
+    <name>Bartow</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>259090</id>
+  </point>
+  <point>
+    <name>Bartow (airport)</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>509182</id>
+  </point>
+  <point>
+    <name>Bradley</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291541</id>
+  </point>
+  <point>
+    <name>Champions Gate</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291542</id>
+  </point>
+  <point>
+    <name>Cypress Gardens</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291543</id>
+  </point>
+  <point>
+    <name>Davenport</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291546</id>
+  </point>
+  <point>
+    <name>Dundee</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291547</id>
+  </point>
+  <point>
+    <name>Eagle Lake</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291548</id>
+  </point>
+  <point>
+    <name>Eaton Park</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291549</id>
+  </point>
+  <point>
+    <name>Eloise</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291550</id>
+  </point>
+  <point>
+    <name>Fedhaven</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291551</id>
+  </point>
+  <point>
+    <name>Florence Villa</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291552</id>
+  </point>
+  <point>
+    <name>Fort Meade</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291553</id>
+  </point>
+  <point>
+    <name>Frostproof</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291554</id>
+  </point>
+  <point>
+    <name>Haines City</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291555</id>
+  </point>
+  <point>
+    <name>Highland City</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291556</id>
+  </point>
+  <point>
+    <name>Homeland</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291557</id>
+  </point>
+  <point>
+    <name>Indian Lake Estates</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291558</id>
+  </point>
+  <point>
+    <name>Jpv</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291559</id>
+  </point>
+  <point>
+    <name>Kathleen</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291560</id>
+  </point>
+  <point>
+    <name>Lake Alfred</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291562</id>
+  </point>
+  <point>
+    <name>Lake Hamilton</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291563</id>
+  </point>
+  <point>
+    <name>Lake Wales</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291565</id>
+  </point>
+  <point>
+    <name>Lakeland</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291567</id>
+  </point>
+  <point>
+    <name>Lakeland (airport)</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>509722</id>
+  </point>
+  <point>
+    <name>Lakeshore</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291568</id>
+  </point>
+  <point>
+    <name>Loughman</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291570</id>
+  </point>
+  <point>
+    <name>Mulberry</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291571</id>
+  </point>
+  <point>
+    <name>Nalcrest</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291572</id>
+  </point>
+  <point>
+    <name>Nichols</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291573</id>
+  </point>
+  <point>
+    <name>Polk City</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291575</id>
+  </point>
+  <point>
+    <name>River Ranch</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291576</id>
+  </point>
+  <point>
+    <name>Wahneta</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291577</id>
+  </point>
+  <point>
+    <name>Waverly</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291578</id>
+  </point>
+  <point>
+    <name>Winter Haven</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>291580</id>
+  </point>
+  <point>
+    <name>Winter Haven's Gilbert (airport)</name>
+    <region>Florida</region>
+    <district>Polk</district>
+    <id>509846</id>
+  </point>
+  <point>
+    <name>Bostwick</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291581</id>
+  </point>
+  <point>
+    <name>Crescent City</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291582</id>
+  </point>
+  <point>
+    <name>East Palatka</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291583</id>
+  </point>
+  <point>
+    <name>Edgar</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291584</id>
+  </point>
+  <point>
+    <name>Florahome</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291586</id>
+  </point>
+  <point>
+    <name>Georgetown</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291587</id>
+  </point>
+  <point>
+    <name>Grandin</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291588</id>
+  </point>
+  <point>
+    <name>Hollister</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291589</id>
+  </point>
+  <point>
+    <name>Interlachen</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291590</id>
+  </point>
+  <point>
+    <name>Lake Como</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291591</id>
+  </point>
+  <point>
+    <name>Melrose</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291592</id>
+  </point>
+  <point>
+    <name>Palatka</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>259091</id>
+  </point>
+  <point>
+    <name>Palatka / Lt. Kay Larkin (airport)</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>510512</id>
+  </point>
+  <point>
+    <name>Pomona Park</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291593</id>
+  </point>
+  <point>
+    <name>Putnam Hall</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291594</id>
+  </point>
+  <point>
+    <name>San Mateo</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291595</id>
+  </point>
+  <point>
+    <name>Satsuma</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291596</id>
+  </point>
+  <point>
+    <name>Welaka</name>
+    <region>Florida</region>
+    <district>Putnam</district>
+    <id>291597</id>
+  </point>
+  <point>
+    <name>Saint Augustine</name>
+    <district>Saint Johns</district>
+    <id>259088</id>
+  </point>
+  <point>
+    <name>Fruit Cove</name>
+    <district>Saint Johns</district>
+    <id>291599</id>
+  </point>
+  <point>
+    <name>Jacksonville</name>
+    <district>Saint Johns</district>
+    <id>291601</id>
+  </point>
+  <point>
+    <name>Ponte Vedra</name>
+    <district>Saint Johns</district>
+    <id>291604</id>
+  </point>
+  <point>
+    <name>St. Augustine (airport)</name>
+    <district>Saint Johns</district>
+    <id>508682</id>
+  </point>
+  <point>
+    <name>Elkton</name>
+    <region>Florida</region>
+    <district>Saint Johns</district>
+    <id>291598</id>
+  </point>
+  <point>
+    <name>Hastings</name>
+    <region>Florida</region>
+    <district>Saint Johns</district>
+    <id>291600</id>
+  </point>
+  <point>
+    <name>Julington Creek</name>
+    <region>Florida</region>
+    <district>Saint Johns</district>
+    <id>291603</id>
+  </point>
+  <point>
+    <name>Saint Johns</name>
+    <region>Florida</region>
+    <district>Saint Johns</district>
+    <id>291606</id>
+  </point>
+  <point>
+    <name>Switzerland</name>
+    <region>Florida</region>
+    <district>Saint Johns</district>
+    <id>291607</id>
+  </point>
+  <point>
+    <name>Town of Nocatee</name>
+    <region>Florida</region>
+    <district>Saint Johns</district>
+    <id>291608</id>
+  </point>
+  <point>
+    <name>Fort Pierce</name>
+    <region>Florida</region>
+    <district>Saint Lucie</district>
+    <id>259089</id>
+  </point>
+  <point>
+    <name>Fort Pierce / St. Lucie (airport)</name>
+    <region>Florida</region>
+    <district>Saint Lucie</district>
+    <id>509267</id>
+  </point>
+  <point>
+    <name>Hutchinson Island</name>
+    <region>Florida</region>
+    <district>Saint Lucie</district>
+    <id>291610</id>
+  </point>
+  <point>
+    <name>Port Saint Lucie</name>
+    <region>Florida</region>
+    <district>Saint Lucie</district>
+    <id>291611</id>
+  </point>
+  <point>
+    <name>Saint Lucie West</name>
+    <region>Florida</region>
+    <district>Saint Lucie</district>
+    <id>291612</id>
+  </point>
+  <point>
+    <name>Bagdad</name>
+    <region>Florida</region>
+    <district>Santa Rosa</district>
+    <id>291613</id>
+  </point>
+  <point>
+    <name>Gulf Breeze</name>
+    <region>Florida</region>
+    <district>Santa Rosa</district>
+    <id>291614</id>
+  </point>
+  <point>
+    <name>Jay</name>
+    <region>Florida</region>
+    <district>Santa Rosa</district>
+    <id>291615</id>
+  </point>
+  <point>
+    <name>Milton</name>
+    <region>Florida</region>
+    <district>Santa Rosa</district>
+    <id>259045</id>
+  </point>
+  <point>
+    <name>Milton / Whiting Field North (airport)</name>
+    <region>Florida</region>
+    <district>Santa Rosa</district>
+    <id>508806</id>
+  </point>
+  <point>
+    <name>Milton / Whiting Field South (airport)</name>
+    <region>Florida</region>
+    <district>Santa Rosa</district>
+    <id>508805</id>
+  </point>
+  <point>
+    <name>Navarre</name>
+    <region>Florida</region>
+    <district>Santa Rosa</district>
+    <id>291616</id>
+  </point>
+  <point>
+    <name>Pace</name>
+    <region>Florida</region>
+    <district>Santa Rosa</district>
+    <id>291617</id>
+  </point>
+  <point>
+    <name>Pensacola Beach</name>
+    <region>Florida</region>
+    <district>Santa Rosa</district>
+    <id>291618</id>
+  </point>
+  <point>
+    <name>Sarasota</name>
+    <district>Sarasota</district>
+    <id>259046</id>
+  </point>
+  <point>
+    <name>North Port</name>
+    <district>Sarasota</district>
+    <id>291623</id>
+  </point>
+  <point>
+    <name>North Venice</name>
+    <district>Sarasota</district>
+    <id>291624</id>
+  </point>
+  <point>
+    <name>Pinecraft</name>
+    <district>Sarasota</district>
+    <id>291626</id>
+  </point>
+  <point>
+    <name>Sarasota (airport)</name>
+    <district>Sarasota</district>
+    <id>509277</id>
+  </point>
+  <point>
+    <name>Lakewood Rch</name>
+    <region>Florida</region>
+    <district>Sarasota</district>
+    <id>291620</id>
+  </point>
+  <point>
+    <name>Laurel</name>
+    <region>Florida</region>
+    <district>Sarasota</district>
+    <id>291621</id>
+  </point>
+  <point>
+    <name>Nokomis</name>
+    <region>Florida</region>
+    <district>Sarasota</district>
+    <id>291622</id>
+  </point>
+  <point>
+    <name>Osprey</name>
+    <region>Florida</region>
+    <district>Sarasota</district>
+    <id>291625</id>
+  </point>
+  <point>
+    <name>Siesta Key</name>
+    <region>Florida</region>
+    <district>Sarasota</district>
+    <id>291627</id>
+  </point>
+  <point>
+    <name>Venice</name>
+    <region>Florida</region>
+    <district>Sarasota</district>
+    <id>291628</id>
+  </point>
+  <point>
+    <name>Venice (airport)</name>
+    <region>Florida</region>
+    <district>Sarasota</district>
+    <id>508728</id>
+  </point>
+  <point>
+    <name>Altamonte Springs</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291629</id>
+  </point>
+  <point>
+    <name>Casselberry</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291630</id>
+  </point>
+  <point>
+    <name>Chuluota</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291631</id>
+  </point>
+  <point>
+    <name>Fern Park</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291632</id>
+  </point>
+  <point>
+    <name>Forest City</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291633</id>
+  </point>
+  <point>
+    <name>Geneva</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291634</id>
+  </point>
+  <point>
+    <name>Goldenrod</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291635</id>
+  </point>
+  <point>
+    <name>Heathrow</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291636</id>
+  </point>
+  <point>
+    <name>Lake Mary</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291637</id>
+  </point>
+  <point>
+    <name>Lake Monroe</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291638</id>
+  </point>
+  <point>
+    <name>Longwood</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291639</id>
+  </point>
+  <point>
+    <name>Mid Florida</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291640</id>
+  </point>
+  <point>
+    <name>Oviedo</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291641</id>
+  </point>
+  <point>
+    <name>Sanford (airport)</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>259047</id>
+  </point>
+  <point>
+    <name>Wekiva Springs</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291642</id>
+  </point>
+  <point>
+    <name>Winter Springs</name>
+    <region>Florida</region>
+    <district>Seminole</district>
+    <id>291643</id>
+  </point>
+  <point>
+    <name>Bushnell</name>
+    <region>Florida</region>
+    <district>Sumter</district>
+    <id>259048</id>
+  </point>
+  <point>
+    <name>Center Hill</name>
+    <region>Florida</region>
+    <district>Sumter</district>
+    <id>291644</id>
+  </point>
+  <point>
+    <name>Coleman</name>
+    <region>Florida</region>
+    <district>Sumter</district>
+    <id>291645</id>
+  </point>
+  <point>
+    <name>Lady Lake (AWS)</name>
+    <region>Florida</region>
+    <district>Sumter</district>
+    <id>291646</id>
+  </point>
+  <point>
+    <name>Lake Panasoffkee</name>
+    <region>Florida</region>
+    <district>Sumter</district>
+    <id>291647</id>
+  </point>
+  <point>
+    <name>Oxford</name>
+    <region>Florida</region>
+    <district>Sumter</district>
+    <id>291648</id>
+  </point>
+  <point>
+    <name>Sumterville</name>
+    <region>Florida</region>
+    <district>Sumter</district>
+    <id>291649</id>
+  </point>
+  <point>
+    <name>Webster</name>
+    <region>Florida</region>
+    <district>Sumter</district>
+    <id>291651</id>
+  </point>
+  <point>
+    <name>Wildwood</name>
+    <region>Florida</region>
+    <district>Sumter</district>
+    <id>291652</id>
+  </point>
+  <point>
+    <name>Branford</name>
+    <region>Florida</region>
+    <district>Suwannee</district>
+    <id>291653</id>
+  </point>
+  <point>
+    <name>Dowling Park</name>
+    <region>Florida</region>
+    <district>Suwannee</district>
+    <id>291654</id>
+  </point>
+  <point>
+    <name>Live Oak</name>
+    <region>Florida</region>
+    <district>Suwannee</district>
+    <id>259121</id>
+  </point>
+  <point>
+    <name>McAlpin</name>
+    <region>Florida</region>
+    <district>Suwannee</district>
+    <id>291655</id>
+  </point>
+  <point>
+    <name>O Brien</name>
+    <region>Florida</region>
+    <district>Suwannee</district>
+    <id>291656</id>
+  </point>
+  <point>
+    <name>Suwannee (airport)</name>
+    <region>Florida</region>
+    <district>Suwannee</district>
+    <id>510629</id>
+  </point>
+  <point>
+    <name>Wellborn</name>
+    <region>Florida</region>
+    <district>Suwannee</district>
+    <id>291657</id>
+  </point>
+  <point>
+    <name>Perry (airport)</name>
+    <region>Florida</region>
+    <district>Taylor</district>
+    <id>259122</id>
+  </point>
+  <point>
+    <name>Salem</name>
+    <region>Florida</region>
+    <district>Taylor</district>
+    <id>291658</id>
+  </point>
+  <point>
+    <name>Shady Grove</name>
+    <region>Florida</region>
+    <district>Taylor</district>
+    <id>291659</id>
+  </point>
+  <point>
+    <name>Steinhatchee</name>
+    <region>Florida</region>
+    <district>Taylor</district>
+    <id>291660</id>
+  </point>
+  <point>
+    <name>Lake Butler</name>
+    <region>Florida</region>
+    <district>Union</district>
+    <id>259123</id>
+  </point>
+  <point>
+    <name>Raiford</name>
+    <region>Florida</region>
+    <district>Union</district>
+    <id>291661</id>
+  </point>
+  <point>
+    <name>Worthington Springs</name>
+    <region>Florida</region>
+    <district>Union</district>
+    <id>291662</id>
+  </point>
+  <point>
+    <name>Allandale</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291663</id>
+  </point>
+  <point>
+    <name>Barberville</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291664</id>
+  </point>
+  <point>
+    <name>Cassadaga</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291665</id>
+  </point>
+  <point>
+    <name>Daytona Beach (airport)</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291666</id>
+  </point>
+  <point>
+    <name>Daytona Beach Shores</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291667</id>
+  </point>
+  <point>
+    <name>De Leon Springs</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291668</id>
+  </point>
+  <point>
+    <name>Debary</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291669</id>
+  </point>
+  <point>
+    <name>Deland</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>259113</id>
+  </point>
+  <point>
+    <name>DeLand (airport)</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>508363</id>
+  </point>
+  <point>
+    <name>Deltona</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291670</id>
+  </point>
+  <point>
+    <name>Edgewater</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291671</id>
+  </point>
+  <point>
+    <name>Enterprise</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291672</id>
+  </point>
+  <point>
+    <name>Glenwood</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291673</id>
+  </point>
+  <point>
+    <name>Holly Hill</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291674</id>
+  </point>
+  <point>
+    <name>Lake Helen</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291675</id>
+  </point>
+  <point>
+    <name>New Smyrna Beach (airport)</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291676</id>
+  </point>
+  <point>
+    <name>Oak Hill</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291677</id>
+  </point>
+  <point>
+    <name>Orange City</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291678</id>
+  </point>
+  <point>
+    <name>Ormond Beach</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291679</id>
+  </point>
+  <point>
+    <name>Ormond Beach (airport)</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>509263</id>
+  </point>
+  <point>
+    <name>Osteen</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291680</id>
+  </point>
+  <point>
+    <name>Pierson</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291681</id>
+  </point>
+  <point>
+    <name>Ponce Inlet</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291682</id>
+  </point>
+  <point>
+    <name>Port Orange</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291684</id>
+  </point>
+  <point>
+    <name>Seville</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291685</id>
+  </point>
+  <point>
+    <name>South Daytona</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291686</id>
+  </point>
+  <point>
+    <name>South Daytona Beach</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291687</id>
+  </point>
+  <point>
+    <name>Wilbur by the Sea</name>
+    <region>Florida</region>
+    <district>Volusia</district>
+    <id>291688</id>
+  </point>
+  <point>
+    <name>Alligator Point</name>
+    <region>Florida</region>
+    <district>Wakulla</district>
+    <id>291689</id>
+  </point>
+  <point>
+    <name>Crawfordville</name>
+    <region>Florida</region>
+    <district>Wakulla</district>
+    <id>256249</id>
+  </point>
+  <point>
+    <name>Ochlockonee</name>
+    <region>Florida</region>
+    <district>Wakulla</district>
+    <id>291690</id>
+  </point>
+  <point>
+    <name>Ochlockonee Bay</name>
+    <region>Florida</region>
+    <district>Wakulla</district>
+    <id>291691</id>
+  </point>
+  <point>
+    <name>Panacea</name>
+    <region>Florida</region>
+    <district>Wakulla</district>
+    <id>291692</id>
+  </point>
+  <point>
+    <name>Saint Marks</name>
+    <region>Florida</region>
+    <district>Wakulla</district>
+    <id>291693</id>
+  </point>
+  <point>
+    <name>Saint Teresa</name>
+    <region>Florida</region>
+    <district>Wakulla</district>
+    <id>291694</id>
+  </point>
+  <point>
+    <name>Sopchoppy</name>
+    <region>Florida</region>
+    <district>Wakulla</district>
+    <id>291695</id>
+  </point>
+  <point>
+    <name>Wakulla Springs</name>
+    <region>Florida</region>
+    <district>Wakulla</district>
+    <id>291696</id>
+  </point>
+  <point>
+    <name>Alys Beach</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291697</id>
+  </point>
+  <point>
+    <name>Argyle</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291698</id>
+  </point>
+  <point>
+    <name>Bruce</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291699</id>
+  </point>
+  <point>
+    <name>Defuniak Springs</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>256250</id>
+  </point>
+  <point>
+    <name>Defuniak Springs (airport)</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>510101</id>
+  </point>
+  <point>
+    <name>Destin (airport)</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291700</id>
+  </point>
+  <point>
+    <name>Freeport</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291701</id>
+  </point>
+  <point>
+    <name>Miramar Beach</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291702</id>
+  </point>
+  <point>
+    <name>Mossy Head</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291703</id>
+  </point>
+  <point>
+    <name>Paxton</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291705</id>
+  </point>
+  <point>
+    <name>Ponce de Leon</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291706</id>
+  </point>
+  <point>
+    <name>Red Bay</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291707</id>
+  </point>
+  <point>
+    <name>Rosemary Beach</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291708</id>
+  </point>
+  <point>
+    <name>Sandestin</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291709</id>
+  </point>
+  <point>
+    <name>Santa Rosa Beach</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291710</id>
+  </point>
+  <point>
+    <name>Watersound</name>
+    <region>Florida</region>
+    <district>Walton</district>
+    <id>291711</id>
+  </point>
+  <point>
+    <name>Chipley</name>
+    <region>Florida</region>
+    <district>Washington</district>
+    <id>256251</id>
+  </point>
+  <point>
+    <name>Ebro</name>
+    <region>Florida</region>
+    <district>Washington</district>
+    <id>291713</id>
+  </point>
+  <point>
+    <name>Sunny Hills</name>
+    <region>Florida</region>
+    <district>Washington</district>
+    <id>291714</id>
+  </point>
+  <point>
+    <name>Vernon</name>
+    <region>Florida</region>
+    <district>Washington</district>
+    <id>291715</id>
+  </point>
+  <point>
+    <name>Wausau</name>
+    <region>Florida</region>
+    <district>Washington</district>
+    <id>291716</id>
+  </point>
+</region>

@@ -1,0 +1,344 @@
+<country name="Pakistan" count="57">
+  <point>
+    <name>Muzaffarabad</name>
+    <region>Azad Jammu Kashmir</region>
+    <district>Muzaffarabad</district>
+    <id>180967</id>
+  </point>
+  <point>
+    <name>Barkhan</name>
+    <region>Balochistan</region>
+    <district>Barkhan</district>
+    <id>13216</id>
+  </point>
+  <point>
+    <name>Dalbandin</name>
+    <region>Balochistan</region>
+    <district>Dalbandin</district>
+    <id>13220</id>
+  </point>
+  <point>
+    <name>Gawadar</name>
+    <region>Balochistan</region>
+    <district>Gawadar</district>
+    <id>510311</id>
+  </point>
+  <point>
+    <name>Jiwani</name>
+    <region>Balochistan</region>
+    <district>Jiwani</district>
+    <id>13228</id>
+  </point>
+  <point>
+    <name>Kalat</name>
+    <region>Balochistan</region>
+    <district>Kalat</district>
+    <id>170463</id>
+  </point>
+  <point>
+    <name>Khuzdar</name>
+    <region>Balochistan</region>
+    <district>Khuzdar</district>
+    <id>13225</id>
+  </point>
+  <point>
+    <name>Nokkundi</name>
+    <region>Balochistan</region>
+    <district>Nokkundi</district>
+    <id>13219</id>
+  </point>
+  <point>
+    <name>Panjgur</name>
+    <region>Balochistan</region>
+    <district>Panjgur</district>
+    <id>13224</id>
+  </point>
+  <point>
+    <name>Pasni</name>
+    <region>Balochistan</region>
+    <district>Pasni</district>
+    <id>13229</id>
+  </point>
+  <point>
+    <name>Quetta</name>
+    <region>Balochistan</region>
+    <district>Quetta</district>
+    <id>13212</id>
+  </point>
+  <point>
+    <name>Sibi</name>
+    <region>Balochistan</region>
+    <district>Sibi</district>
+    <id>13217</id>
+  </point>
+  <point>
+    <name>Turbat New</name>
+    <region>Balochistan</region>
+    <district>Turbat New</district>
+    <id>510194</id>
+  </point>
+  <point>
+    <name>Zhob</name>
+    <region>Balochistan</region>
+    <district>Zhob</district>
+    <id>13207</id>
+  </point>
+  <point>
+    <name>Gilgit</name>
+    <region>Gilgit-Baltistan</region>
+    <district>Gilgit</district>
+    <id>180968</id>
+  </point>
+  <point>
+    <name>Astore</name>
+    <region>Gilgit-Baltistan</region>
+    <district>Astore</district>
+    <id>429785</id>
+  </point>
+  <point>
+    <name>Chillas</name>
+    <region>Gilgit-Baltistan</region>
+    <district>Chillas</district>
+    <id>429784</id>
+  </point>
+  <point>
+    <name>Skardu</name>
+    <region>Gilgit-Baltistan</region>
+    <district>Skardu</district>
+    <id>429782</id>
+  </point>
+  <point>
+    <name>Bunji</name>
+    <region>Gilgit-Baltistan</region>
+    <district>Bunji</district>
+    <id>429783</id>
+  </point>
+  <point>
+    <name>Gupis</name>
+    <region>Gilgit-Baltistan</region>
+    <district>Gupis</district>
+    <id>510310</id>
+  </point>
+  <point>
+    <name>Islamabad</name>
+    <region>Islamabad</region>
+    <district>Islamabad</district>
+    <id>429815</id>
+  </point>
+  <point>
+    <name>Islamabad (airport)</name>
+    <region>Islamabad</region>
+    <district>Islamabad (airport)</district>
+    <id>13201</id>
+  </point>
+  <point>
+    <name>Amangarh</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Amangarh</district>
+    <id>348498</id>
+  </point>
+  <point>
+    <name>Balakot</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Balakot</district>
+    <id>13197</id>
+  </point>
+  <point>
+    <name>Cherat</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Cherat</district>
+    <id>13200</id>
+  </point>
+  <point>
+    <name>Chitral</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Chitral</district>
+    <id>13189</id>
+  </point>
+  <point>
+    <name>Dera Ismail Khan</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Dera Ismail Khan</district>
+    <id>13208</id>
+  </point>
+  <point>
+    <name>Dir</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Dir</district>
+    <id>13190</id>
+  </point>
+  <point>
+    <name>Drosh</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Drosh</district>
+    <id>13191</id>
+  </point>
+  <point>
+    <name>Kakul</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Kakul</district>
+    <id>13196</id>
+  </point>
+  <point>
+    <name>Kohat</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Kohat</district>
+    <id>13199</id>
+  </point>
+  <point>
+    <name>Peshawar</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Peshawar</district>
+    <id>13193</id>
+  </point>
+  <point>
+    <name>Peshawar (airport)</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Peshawar (airport)</district>
+    <id>509289</id>
+  </point>
+  <point>
+    <name>Saidu Sharif</name>
+    <region>Khyber Pakhtunkhwa</region>
+    <district>Saidu Sharif</district>
+    <id>13192</id>
+  </point>
+  <point>
+    <name>Bahawalnagar</name>
+    <region>Punjab</region>
+    <district>Bahawalnagar</district>
+    <id>13215</id>
+  </point>
+  <point>
+    <name>Bahawalpur</name>
+    <region>Punjab</region>
+    <district>Bahawalpur</district>
+    <id>13218</id>
+  </point>
+  <point>
+    <name>Faisalabad</name>
+    <region>Punjab</region>
+    <district>Faisalabad</district>
+    <id>152112</id>
+  </point>
+  <point>
+    <name>Jhelum</name>
+    <region>Punjab</region>
+    <district>Jhelum</district>
+    <id>13205</id>
+  </point>
+  <point>
+    <name>Khanpur</name>
+    <region>Punjab</region>
+    <district>Khanpur</district>
+    <id>13222</id>
+  </point>
+  <point>
+    <name>Lahore</name>
+    <region>Punjab</region>
+    <district>Lahore</district>
+    <id>13209</id>
+  </point>
+  <point>
+    <name>Lahore (airport)</name>
+    <region>Punjab</region>
+    <district>Lahore (airport)</district>
+    <id>429786</id>
+  </point>
+  <point>
+    <name>Multan (airport)</name>
+    <region>Punjab</region>
+    <district>Multan (airport)</district>
+    <id>13214</id>
+  </point>
+  <point>
+    <name>Murree</name>
+    <region>Punjab</region>
+    <district>Murree</district>
+    <id>13202</id>
+  </point>
+  <point>
+    <name>Rafiqui (airport)</name>
+    <region>Punjab</region>
+    <district>Rafiqui (airport)</district>
+    <id>510193</id>
+  </point>
+  <point>
+    <name>Sargodha</name>
+    <region>Punjab</region>
+    <district>Sargodha</district>
+    <id>13204</id>
+  </point>
+  <point>
+    <name>Sialkot</name>
+    <region>Punjab</region>
+    <district>Sialkot</district>
+    <id>13206</id>
+  </point>
+  <point>
+    <name>Sialkot (airport)</name>
+    <region>Punjab</region>
+    <district>Sialkot (airport)</district>
+    <id>508218</id>
+  </point>
+  <point>
+    <name>Badin</name>
+    <region>Sindh</region>
+    <district>Badin</district>
+    <id>13235</id>
+  </point>
+  <point>
+    <name>Chor</name>
+    <region>Sindh</region>
+    <district>Chor</district>
+    <id>13231</id>
+  </point>
+  <point>
+    <name>Hyderabad</name>
+    <region>Sindh</region>
+    <district>Hyderabad</district>
+    <id>13230</id>
+  </point>
+  <point>
+    <name>Jacobabad</name>
+    <region>Sindh</region>
+    <district>Jacobabad</district>
+    <id>13221</id>
+  </point>
+  <point>
+    <name>Karachi (airport)</name>
+    <region>Sindh</region>
+    <district>Karachi (airport)</district>
+    <id>13232</id>
+  </point>
+  <point>
+    <name>Nawabshah (airport)</name>
+    <region>Sindh</region>
+    <district>Nawabshah (airport)</district>
+    <id>13227</id>
+  </point>
+  <point>
+    <name>Pad Idan</name>
+    <region>Sindh</region>
+    <district>Pad Idan</district>
+    <id>170464</id>
+  </point>
+  <point>
+    <name>Rohri</name>
+    <region>Sindh</region>
+    <district>Rohri</district>
+    <id>13223</id>
+  </point>
+  <point>
+    <name>Sukkur (airport)</name>
+    <region>Sindh</region>
+    <district>Sukkur (airport)</district>
+    <id>508694</id>
+  </point>
+  <point>
+    <name>Parachinar</name>
+    <region>Tribal Areas</region>
+    <district>Parachinar</district>
+    <id>13198</id>
+  </point>
+</country>

@@ -1,0 +1,182 @@
+<country name="Hong Kong" count="30">
+  <point>
+    <name>Central and Western</name>
+    <region>Central and Western District</region>
+    <district>Central and Western</district>
+    <id>196628</id>
+  </point>
+  <point>
+    <name>Green Island</name>
+    <region>Central and Western District</region>
+    <district>Green Island</district>
+    <id>510199</id>
+  </point>
+  <point>
+    <name>Victoria</name>
+    <region>Central and Western District</region>
+    <district>Victoria</district>
+    <id>196250</id>
+  </point>
+  <point>
+    <name>Chai Wan</name>
+    <region>Eastern District</region>
+    <district>Chai Wan</district>
+    <id>196251</id>
+  </point>
+  <point>
+    <name>Eastern</name>
+    <region>Eastern District</region>
+    <district>Eastern</district>
+    <id>200611</id>
+  </point>
+  <point>
+    <name>Cheung Chau</name>
+    <region>Islands District</region>
+    <district>Cheung Chau</district>
+    <id>170540</id>
+  </point>
+  <point>
+    <name>Cheung Chau (weather station)</name>
+    <region>Islands District</region>
+    <district>Cheung Chau (weather station)</district>
+    <id>12415</id>
+  </point>
+  <point>
+    <name>Hong Kong (airport)</name>
+    <region>Islands District</region>
+    <district>Hong Kong (airport)</district>
+    <id>12418</id>
+  </point>
+  <point>
+    <name>Islands</name>
+    <region>Islands District</region>
+    <district>Islands</district>
+    <id>200618</id>
+  </point>
+  <point>
+    <name>Tai-O</name>
+    <region>Islands District</region>
+    <district>Tai-O</district>
+    <id>510198</id>
+  </point>
+  <point>
+    <name>Kowloon City</name>
+    <region>Kowloon City District</region>
+    <district>Kowloon City</district>
+    <id>196254</id>
+  </point>
+  <point>
+    <name>Royal Observatory</name>
+    <region>Kowloon City District</region>
+    <district>Royal Observatory</district>
+    <id>12417</id>
+  </point>
+  <point>
+    <name>Kwai Tsing</name>
+    <region>Kwai Tsing</region>
+    <district>Kwai Tsing</district>
+    <id>196259</id>
+  </point>
+  <point>
+    <name>Kwun Tong</name>
+    <region>Kwun Tong District</region>
+    <district>Kwun Tong</district>
+    <id>196258</id>
+  </point>
+  <point>
+    <name>Kat O</name>
+    <region>North District</region>
+    <district>Kat O</district>
+    <id>12425</id>
+  </point>
+  <point>
+    <name>Ta Kwu Ling</name>
+    <region>North District</region>
+    <district>Ta Kwu Ling</district>
+    <id>12424</id>
+  </point>
+  <point>
+    <name>Sai Kung</name>
+    <region>Sai Kung District</region>
+    <district>Sai Kung</district>
+    <id>12432</id>
+  </point>
+  <point>
+    <name>Sha Tin</name>
+    <region>Sha Tin District</region>
+    <district>Sha Tin</district>
+    <id>12431</id>
+  </point>
+  <point>
+    <name>Sham Shui Po</name>
+    <region>Sham Shui Po District</region>
+    <district>Sham Shui Po</district>
+    <id>196255</id>
+  </point>
+  <point>
+    <name>Aberdeen</name>
+    <region>Southern District</region>
+    <district>Aberdeen</district>
+    <id>196252</id>
+  </point>
+  <point>
+    <name>Southern</name>
+    <region>Southern District</region>
+    <district>Southern</district>
+    <id>200612</id>
+  </point>
+  <point>
+    <name>Tai Po</name>
+    <region>Tai Po District</region>
+    <district>Tai Po</district>
+    <id>12429</id>
+  </point>
+  <point>
+    <name>North</name>
+    <region>Tai Po District</region>
+    <district>North</district>
+    <id>200620</id>
+  </point>
+  <point>
+    <name>Tsuen Wan</name>
+    <region>Tsuen Wan</region>
+    <district>Tsuen Wan</district>
+    <id>196260</id>
+  </point>
+  <point>
+    <name>Tuen Mun</name>
+    <region>Tuen Mun</region>
+    <district>Tuen Mun</district>
+    <id>12430</id>
+  </point>
+  <point>
+    <name>Wan Chai</name>
+    <region>Wan Chai District</region>
+    <district>Wan Chai</district>
+    <id>196253</id>
+  </point>
+  <point>
+    <name>Wong Tai Sin</name>
+    <region>Wong Tai Sin District</region>
+    <district>Wong Tai Sin</district>
+    <id>196257</id>
+  </point>
+  <point>
+    <name>Yau Tsim Mong</name>
+    <region>Yau Tsim Mong District</region>
+    <district>Yau Tsim Mong</district>
+    <id>196256</id>
+  </point>
+  <point>
+    <name>Yuen Long</name>
+    <region>Yuen Long</region>
+    <district>Yuen Long</district>
+    <id>196261</id>
+  </point>
+  <point>
+    <name>Lau Fau Shan</name>
+    <region>Yuen Long</region>
+    <district>Lau Fau Shan</district>
+    <id>12427</id>
+  </point>
+</country>

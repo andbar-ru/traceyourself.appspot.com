@@ -1,0 +1,33 @@
+#!/bin/bash
+
+APPCFG="$HOME/Programs/google_appengine/appcfg.py"
+APP="$HOME/GAE/traceyourself-hrd/src/"
+EMAIL="wind29121982@gmail.com"
+
+# Обновить время обновления, чтобы было удобнее искать, где хранится последняя версия исходников.
+echo $(date) > $APP/update_timestamp
+
+if [ ! $1 ]	# Запуск без аргумента
+then
+	$APPCFG -e $EMAIL update $APP
+	exit 0
+else
+	if [ $1 = "backends" ]	# загрузить на сервер бэкенды
+	then
+		$APPCFG -e $EMAIL backends update $APP
+		exit 0
+	elif [ $1 = "cron" ]	# загрузить на сервер только задания cron
+	then
+		$APPCFG -e $EMAIL update_cron $APP
+	elif [ $1 = "indexes" ]	# загрузить на сервер только индексы
+	then
+		$APPCFG -e $EMAIL update_indexes $APP
+	elif [ $1 = "vacuum_indexes" ] # удалить неиспользуемые индексы
+	then
+		$APPCFG -e $EMAIL vacuum_indexes $APP
+	elif [[ $1 == *.yaml ]]
+	then
+	  $APPCFG -e $EMAIL update $APP$1
+	fi
+fi
+

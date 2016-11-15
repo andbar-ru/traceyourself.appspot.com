@@ -1,0 +1,338 @@
+<country name="Chile" count="56">
+  <point>
+    <name>Balmaceda (AWS)</name>
+    <region>Aisen</region>
+    <district>Balmaceda (AWS)</district>
+    <id>337972</id>
+  </point>
+  <point>
+    <name>Cabo Raper (fl)</name>
+    <region>Aisen</region>
+    <district>Cabo Raper (fl)</district>
+    <id>337970</id>
+  </point>
+  <point>
+    <name>Chile Chico (airport)</name>
+    <region>Aisen</region>
+    <district>Chile Chico (airport)</district>
+    <id>337971</id>
+  </point>
+  <point>
+    <name>Cochrane</name>
+    <region>Aisen</region>
+    <district>Cochrane</district>
+    <id>337969</id>
+  </point>
+  <point>
+    <name>Coihaique (airport)</name>
+    <region>Aisen</region>
+    <district>Coihaique (airport)</district>
+    <id>337973</id>
+  </point>
+  <point>
+    <name>Isla San Pedro (fl)</name>
+    <region>Aisen</region>
+    <district>Isla San Pedro (fl)</district>
+    <id>337968</id>
+  </point>
+  <point>
+    <name>Puerto Aisen (airport)</name>
+    <region>Aisen</region>
+    <district>Puerto Aisen (airport)</district>
+    <id>337974</id>
+  </point>
+  <point>
+    <name>Antofagasta (airport)</name>
+    <region>Antofagasta</region>
+    <district>Antofagasta (airport)</district>
+    <id>337997</id>
+  </point>
+  <point>
+    <name>Calama</name>
+    <region>Antofagasta</region>
+    <district>Calama</district>
+    <id>337998</id>
+  </point>
+  <point>
+    <name>Calama (airport)</name>
+    <region>Antofagasta</region>
+    <district>Calama (airport)</district>
+    <id>508116</id>
+  </point>
+  <point>
+    <name>Temuco</name>
+    <region>Araucania</region>
+    <district>Temuco</district>
+    <id>337981</id>
+  </point>
+  <point>
+    <name>Temuco (airport)</name>
+    <region>Araucania</region>
+    <district>Temuco (airport)</district>
+    <id>510795</id>
+  </point>
+  <point>
+    <name>Arica (airport)</name>
+    <region>Arica and Parinacota</region>
+    <district>Arica (airport)</district>
+    <id>338000</id>
+  </point>
+  <point>
+    <name>Copiapo</name>
+    <region>Atacama</region>
+    <district>Copiapo</district>
+    <id>347960</id>
+  </point>
+  <point>
+    <name>Desierto de Atacama (airport)</name>
+    <region>Atacama</region>
+    <district>Desierto de Atacama (airport)</district>
+    <id>337995</id>
+  </point>
+  <point>
+    <name>Chillan (AWS)</name>
+    <region>Biobio</region>
+    <district>Chillan (AWS)</district>
+    <id>337985</id>
+  </point>
+  <point>
+    <name>Concepcion (airport)</name>
+    <region>Biobio</region>
+    <district>Concepcion (airport)</district>
+    <id>337983</id>
+  </point>
+  <point>
+    <name>Isla Mocha</name>
+    <region>Biobio</region>
+    <district>Isla Mocha</district>
+    <id>510286</id>
+  </point>
+  <point>
+    <name>Los Angeles / Maria Dolores (airport)</name>
+    <region>Biobio</region>
+    <district>Los Angeles / Maria Dolores (airport)</district>
+    <id>337982</id>
+  </point>
+  <point>
+    <name>Coquimbo / Pt Tortuga</name>
+    <region>Coquimbo</region>
+    <district>Coquimbo / Pt Tortuga</district>
+    <id>337992</id>
+  </point>
+  <point>
+    <name>La Serena (airport)</name>
+    <region>Coquimbo</region>
+    <district>La Serena (airport)</district>
+    <id>337993</id>
+  </point>
+  <point>
+    <name>Alto Palena (AWS)</name>
+    <region>Los Lagos</region>
+    <district>Alto Palena (AWS)</district>
+    <id>337975</id>
+  </point>
+  <point>
+    <name>Futaleufu (airport)</name>
+    <region>Los Lagos</region>
+    <district>Futaleufu (airport)</district>
+    <id>337977</id>
+  </point>
+  <point>
+    <name>Isla Huafo</name>
+    <region>Los Lagos</region>
+    <district>Isla Huafo</district>
+    <id>337976</id>
+  </point>
+  <point>
+    <name>Melinka (airport)</name>
+    <region>Los Lagos</region>
+    <district>Melinka (airport)</district>
+    <id>509611</id>
+  </point>
+  <point>
+    <name>Mocopulli (Airport)</name>
+    <region>Los Lagos</region>
+    <district>Mocopulli (Airport)</district>
+    <id>510164</id>
+  </point>
+  <point>
+    <name>Osorno (airport)</name>
+    <region>Los Lagos</region>
+    <district>Osorno (airport)</district>
+    <id>337979</id>
+  </point>
+  <point>
+    <name>Puerto Montt (airport)</name>
+    <region>Los Lagos</region>
+    <district>Puerto Montt (airport)</district>
+    <id>337978</id>
+  </point>
+  <point>
+    <name>Quellon (airport)</name>
+    <region>Los Lagos</region>
+    <district>Quellon (airport)</district>
+    <id>509793</id>
+  </point>
+  <point>
+    <name>Valdivia (airport)</name>
+    <region>Los Rios</region>
+    <district>Valdivia (airport)</district>
+    <id>337980</id>
+  </point>
+  <point>
+    <name>Isla Diego Ramirez</name>
+    <region>Magallanes and Antartica Chilena Region</region>
+    <district>Isla Diego Ramirez</district>
+    <id>337964</id>
+  </point>
+  <point>
+    <name>Islotes Evangelista</name>
+    <region>Magallanes and Antartica Chilena Region</region>
+    <district>Islotes Evangelista</district>
+    <id>337967</id>
+  </point>
+  <point>
+    <name>Puerto Williams</name>
+    <region>Magallanes and Antartica Chilena Region</region>
+    <district>Puerto Williams</district>
+    <id>510312</id>
+  </point>
+  <point>
+    <name>Punta Arenas (airport)</name>
+    <region>Magallanes and Antartica Chilena Region</region>
+    <district>Punta Arenas (airport)</district>
+    <id>337965</id>
+  </point>
+  <point>
+    <name>Punta Dungeness</name>
+    <region>Magallanes and Antartica Chilena Region</region>
+    <district>Punta Dungeness</district>
+    <id>337966</id>
+  </point>
+  <point>
+    <name>Bogus Chilean</name>
+    <region>Maule</region>
+    <district>Bogus Chilean</district>
+    <id>337984</id>
+  </point>
+  <point>
+    <name>Curico (airport)</name>
+    <region>Maule</region>
+    <district>Curico (airport)</district>
+    <id>337986</id>
+  </point>
+  <point>
+    <name>Punta Carraza</name>
+    <region>Maule</region>
+    <district>Punta Carraza</district>
+    <id>510471</id>
+  </point>
+  <point>
+    <name>Talca</name>
+    <region>Maule</region>
+    <district>Talca</district>
+    <id>347963</id>
+  </point>
+  <point>
+    <name>De La Independencia (airport)</name>
+    <region>O'Higgins</region>
+    <district>De La Independencia (airport)</district>
+    <id>509613</id>
+  </point>
+  <point>
+    <name>Rancagua</name>
+    <region>O'Higgins</region>
+    <district>Rancagua</district>
+    <id>347962</id>
+  </point>
+  <point>
+    <name>San Antonio</name>
+    <region>O'Higgins</region>
+    <district>San Antonio</district>
+    <id>510287</id>
+  </point>
+  <point>
+    <name>Santo Domingo (airport)</name>
+    <region>O'Higgins</region>
+    <district>Santo Domingo (airport)</district>
+    <id>337987</id>
+  </point>
+  <point>
+    <name>Santiago</name>
+    <region>Santiago</region>
+    <district>Santiago</district>
+    <id>337460</id>
+  </point>
+  <point>
+    <name>Eulogio Sanchez (airport)</name>
+    <region>Santiago</region>
+    <district>Eulogio Sanchez (airport)</district>
+    <id>508385</id>
+  </point>
+  <point>
+    <name>Pudahuel (airport)</name>
+    <region>Santiago</region>
+    <district>Pudahuel (airport)</district>
+    <id>337990</id>
+  </point>
+  <point>
+    <name>Santiago / Quinta Normal</name>
+    <region>Santiago</region>
+    <district>Santiago / Quinta Normal</district>
+    <id>337989</id>
+  </point>
+  <point>
+    <name>Iquique (airport)</name>
+    <region>Tarapaca</region>
+    <district>Iquique (airport)</district>
+    <id>337999</id>
+  </point>
+  <point>
+    <name>Valparaiso</name>
+    <region>Valparaiso</region>
+    <district>Valparaiso</district>
+    <id>347961</id>
+  </point>
+  <point>
+    <name>Easter Island / Mataveri (airport)</name>
+    <region>Valparaiso</region>
+    <district>Easter Island / Mataveri (airport)</district>
+    <id>337994</id>
+  </point>
+  <point>
+    <name>Punta Angeles</name>
+    <region>Valparaiso</region>
+    <district>Punta Angeles</district>
+    <id>337991</id>
+  </point>
+  <point>
+    <name>Valparaiso (airport)</name>
+    <region>Valparaiso</region>
+    <district>Valparaiso (airport)</district>
+    <id>509612</id>
+  </point>
+  <point>
+    <name>Isla San Felix</name>
+    <region>Valparaiso</region>
+    <district>Isla San Felix</district>
+    <id>337996</id>
+  </point>
+  <point>
+    <name>Juan Fernandez / Robinson Crusoe (airport)</name>
+    <region>Valparaiso</region>
+    <district>Juan Fernandez / Robinson Crusoe (airport)</district>
+    <id>337988</id>
+  </point>
+  <point>
+    <name>Robinson Crusoe (airport)</name>
+    <region>Valparaiso</region>
+    <district>Robinson Crusoe (airport)</district>
+    <id>509610</id>
+  </point>
+  <point>
+    <name>Viña del Mar (airport)</name>
+    <region>Valparaiso</region>
+    <district>Viña del Mar (airport)</district>
+    <id>508732</id>
+  </point>
+</country>

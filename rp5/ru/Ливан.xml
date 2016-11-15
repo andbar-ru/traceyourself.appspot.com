@@ -1,0 +1,92 @@
+<country name="Ливан" count="15">
+  <point>
+    <name>Бейрут</name>
+    <region>Бейрут</region>
+    <district>Бейрут</district>
+    <id>10006</id>
+  </point>
+  <point>
+    <name>Бейрут (аэропорт)</name>
+    <region>Бейрут</region>
+    <district>Бейрут (аэропорт)</district>
+    <id>504598</id>
+  </point>
+  <point>
+    <name>Баальбек</name>
+    <region>Бекаа</region>
+    <district>Баальбек</district>
+    <id>152317</id>
+  </point>
+  <point>
+    <name>Захле</name>
+    <region>Бекаа</region>
+    <district>Захле</district>
+    <id>152315</id>
+  </point>
+  <point>
+    <name>Райак</name>
+    <region>Бекаа</region>
+    <district>Райак</district>
+    <id>10008</id>
+  </point>
+  <point>
+    <name>Хуч-Эль-Омара</name>
+    <region>Бекаа</region>
+    <district>Хуч-Эль-Омара</district>
+    <id>10007</id>
+  </point>
+  <point>
+    <name>Баабда</name>
+    <region>Горный Ливан</region>
+    <district>Баабда</district>
+    <id>292046</id>
+  </point>
+  <point>
+    <name>Дар-Байдар</name>
+    <region>Горный Ливан</region>
+    <district>Дар-Байдар</district>
+    <id>10012</id>
+  </point>
+  <point>
+    <name>Набатия</name>
+    <region>Набатия</region>
+    <district>Набатия</district>
+    <id>292047</id>
+  </point>
+  <point>
+    <name>Мерджаюн</name>
+    <region>Набатия</region>
+    <district>Мерджаюн</district>
+    <id>10010</id>
+  </point>
+  <point>
+    <name>Аль-Арз</name>
+    <region>Северный Ливан</region>
+    <district>Аль-Арз</district>
+    <id>10011</id>
+  </point>
+  <point>
+    <name>Бишари</name>
+    <region>Северный Ливан</region>
+    <district>Бишари</district>
+    <id>152316</id>
+  </point>
+  <point>
+    <name>Триполи</name>
+    <region>Северный Ливан</region>
+    <district>Триполи</district>
+    <id>10009</id>
+  </point>
+  <point>
+    <name>Сидон</name>
+    <region>Южный Ливан</region>
+    <district>Сидон</district>
+    <id>152314</id>
+  </point>
+  <point>
+    <name>Тир</name>
+    <region>Южный Ливан</region>
+    <district>Тир</district>
+    <id>152313</id>
+  </point>
+</country>

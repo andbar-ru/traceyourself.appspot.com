@@ -1,0 +1,344 @@
+<country name="Netherlands" count="57">
+  <point>
+    <name>Assen</name>
+    <region>Drenthe</region>
+    <district>Assen</district>
+    <id>152151</id>
+  </point>
+  <point>
+    <name>Hoogeveen</name>
+    <region>Drenthe</region>
+    <district>Hoogeveen</district>
+    <id>4373</id>
+  </point>
+  <point>
+    <name>Lelystad</name>
+    <region>Flevoland</region>
+    <district>Lelystad</district>
+    <id>4342</id>
+  </point>
+  <point>
+    <name>Markenesse</name>
+    <region>Flevoland</region>
+    <district>Markenesse</district>
+    <id>4351</id>
+  </point>
+  <point>
+    <name>F16 (weather station 06206)</name>
+    <region>Friesland</region>
+    <district>F16 (weather station 06206)</district>
+    <id>4302</id>
+  </point>
+  <point>
+    <name>L9-ff-1 (oil platform)</name>
+    <region>Friesland</region>
+    <district>L9-ff-1 (oil platform)</district>
+    <id>4322</id>
+  </point>
+  <point>
+    <name>Leeuwarden (airport)</name>
+    <region>Friesland</region>
+    <district>Leeuwarden (airport)</district>
+    <id>4348</id>
+  </point>
+  <point>
+    <name>Stavoren</name>
+    <region>Friesland</region>
+    <district>Stavoren</district>
+    <id>4336</id>
+  </point>
+  <point>
+    <name>Terschelling Hoorn</name>
+    <region>Friesland</region>
+    <district>Terschelling Hoorn</district>
+    <id>4327</id>
+  </point>
+  <point>
+    <name>Vlieland (weather station)</name>
+    <region>Friesland</region>
+    <district>Vlieland (weather station)</district>
+    <id>170452</id>
+  </point>
+  <point>
+    <name>Arnhem</name>
+    <region>Gelderland</region>
+    <district>Arnhem</district>
+    <id>152152</id>
+  </point>
+  <point>
+    <name>Deelen (airport)</name>
+    <region>Gelderland</region>
+    <district>Deelen (airport)</district>
+    <id>4352</id>
+  </point>
+  <point>
+    <name>Herwijnen</name>
+    <region>Gelderland</region>
+    <district>Herwijnen</district>
+    <id>4490</id>
+  </point>
+  <point>
+    <name>Groningen / Eelde (airport)</name>
+    <region>Groningen</region>
+    <district>Groningen / Eelde (airport)</district>
+    <id>4375</id>
+  </point>
+  <point>
+    <name>Lauwersoog</name>
+    <region>Groningen</region>
+    <district>Lauwersoog</district>
+    <id>348347</id>
+  </point>
+  <point>
+    <name>Lauwersoog / Awg-1 (oil platform)</name>
+    <region>Groningen</region>
+    <district>Lauwersoog / Awg-1 (oil platform)</district>
+    <id>4359</id>
+  </point>
+  <point>
+    <name>Nieuw Beerta</name>
+    <region>Groningen</region>
+    <district>Nieuw Beerta</district>
+    <id>4386</id>
+  </point>
+  <point>
+    <name>Arcen</name>
+    <region>Limburg</region>
+    <district>Arcen</district>
+    <id>4524</id>
+  </point>
+  <point>
+    <name>Ell</name>
+    <region>Limburg</region>
+    <district>Ell</district>
+    <id>348349</id>
+  </point>
+  <point>
+    <name>Maastricht (airport)</name>
+    <region>Limburg</region>
+    <district>Maastricht (airport)</district>
+    <id>4511</id>
+  </point>
+  <point>
+    <name>'s-Hertogenbosch</name>
+    <region>North Brabant</region>
+    <district>`s-Hertogenbosch</district>
+    <id>152156</id>
+  </point>
+  <point>
+    <name>Eindhoven (airport)</name>
+    <region>North Brabant</region>
+    <district>Eindhoven (airport)</district>
+    <id>4499</id>
+  </point>
+  <point>
+    <name>Gilze-Rijen (airport)</name>
+    <region>North Brabant</region>
+    <district>Gilze-Rijen (airport)</district>
+    <id>4489</id>
+  </point>
+  <point>
+    <name>Volkel (airport)</name>
+    <region>North Brabant</region>
+    <district>Volkel (airport)</district>
+    <id>4505</id>
+  </point>
+  <point>
+    <name>Woensdrecht (airport)</name>
+    <region>North Brabant</region>
+    <district>Woensdrecht (airport)</district>
+    <id>4438</id>
+  </point>
+  <point>
+    <name>Amsterdam (airport)</name>
+    <region>North Holland</region>
+    <district>Amsterdam (airport)</district>
+    <id>4299</id>
+  </point>
+  <point>
+    <name>Berkhout</name>
+    <region>North Holland</region>
+    <district>Berkhout</district>
+    <id>348345</id>
+  </point>
+  <point>
+    <name>Bloemendaal (oil platform)</name>
+    <region>North Holland</region>
+    <district>Bloemendaal (oil platform)</district>
+    <id>4312</id>
+  </point>
+  <point>
+    <name>De Kooy (airport)</name>
+    <region>North Holland</region>
+    <district>De Kooy (airport)</district>
+    <id>4294</id>
+  </point>
+  <point>
+    <name>Haarlem</name>
+    <region>North Holland</region>
+    <district>Haarlem</district>
+    <id>152154</id>
+  </point>
+  <point>
+    <name>Hoorn-A (oil platform)</name>
+    <region>North Holland</region>
+    <district>Hoorn-A (oil platform)</district>
+    <id>510071</id>
+  </point>
+  <point>
+    <name>Wijk aan zee</name>
+    <region>North Holland</region>
+    <district>Wijk aan zee</district>
+    <id>348346</id>
+  </point>
+  <point>
+    <name>Ĳmuiden</name>
+    <region>North Holland</region>
+    <district>Ĳmuiden</district>
+    <id>4290</id>
+  </point>
+  <point>
+    <name>A12-cpp Helipad Oil (oil platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>A12-cpp Helipad Oil (oil platform)</district>
+    <id>152587</id>
+  </point>
+  <point>
+    <name>D15-fa-1 Helipad Oil (oil platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>D15-fa-1 Helipad Oil (oil platform)</district>
+    <id>152588</id>
+  </point>
+  <point>
+    <name>Europlatform (oil platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>Europlatform (oil platform)</district>
+    <id>170462</id>
+  </point>
+  <point>
+    <name>F-3 (oil platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>F-3 (oil platform)</district>
+    <id>170461</id>
+  </point>
+  <point>
+    <name>Goeree Le Sea (oil platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>Goeree Le Sea (oil platform)</district>
+    <id>170430</id>
+  </point>
+  <point>
+    <name>J6-a Helipad (oil platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>J6-a Helipad (oil platform)</district>
+    <id>152589</id>
+  </point>
+  <point>
+    <name>K13-a (oil platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>K13-a (oil platform)</district>
+    <id>152590</id>
+  </point>
+  <point>
+    <name>P11-B (oil platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>P11-B (oil platform)</district>
+    <id>170702</id>
+  </point>
+  <point>
+    <name>Heino</name>
+    <region>Overijssel</region>
+    <district>Heino</district>
+    <id>4360</id>
+  </point>
+  <point>
+    <name>Hupsel</name>
+    <region>Overijssel</region>
+    <district>Hupsel</district>
+    <id>348348</id>
+  </point>
+  <point>
+    <name>Twente</name>
+    <region>Overijssel</region>
+    <district>Twente</district>
+    <id>4388</id>
+  </point>
+  <point>
+    <name>Zwolle</name>
+    <region>Overijssel</region>
+    <district>Zwolle</district>
+    <id>152146</id>
+  </point>
+  <point>
+    <name>Hoek Van Holland</name>
+    <region>South Holland</region>
+    <district>Hoek Van Holland</district>
+    <id>4436</id>
+  </point>
+  <point>
+    <name>Rotterdam / Zestienhoven (airport)</name>
+    <region>South Holland</region>
+    <district>Rotterdam / Zestienhoven (airport)</district>
+    <id>4469</id>
+  </point>
+  <point>
+    <name>The Hague</name>
+    <region>South Holland</region>
+    <district>The Hague</district>
+    <id>13858</id>
+  </point>
+  <point>
+    <name>Valkenburg</name>
+    <region>South Holland</region>
+    <district>Valkenburg</district>
+    <id>4289</id>
+  </point>
+  <point>
+    <name>Voorschoten (AWS)</name>
+    <region>South Holland</region>
+    <district>Voorschoten (AWS)</district>
+    <id>510785</id>
+  </point>
+  <point>
+    <name>Utrecht</name>
+    <region>Utrecht</region>
+    <district>Utrecht</district>
+    <id>152153</id>
+  </point>
+  <point>
+    <name>Cabauw</name>
+    <region>Utrecht</region>
+    <district>Cabauw</district>
+    <id>170432</id>
+  </point>
+  <point>
+    <name>De Bilt</name>
+    <region>Utrecht</region>
+    <district>De Bilt</district>
+    <id>4330</id>
+  </point>
+  <point>
+    <name>Middelburg</name>
+    <region>Zeeland</region>
+    <district>Middelburg</district>
+    <id>152141</id>
+  </point>
+  <point>
+    <name>Vlissingen (weather station)</name>
+    <region>Zeeland</region>
+    <district>Vlissingen (weather station)</district>
+    <id>4394</id>
+  </point>
+  <point>
+    <name>Westdorpe (weather station 06319)</name>
+    <region>Zeeland</region>
+    <district>Westdorpe (weather station 06319)</district>
+    <id>4409</id>
+  </point>
+  <point>
+    <name>Westdorpe (weather station 06323)</name>
+    <region>Zeeland</region>
+    <district>Westdorpe (weather station 06323)</district>
+    <id>170455</id>
+  </point>
+</country>

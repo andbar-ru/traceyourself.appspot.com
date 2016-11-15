@@ -1,0 +1,242 @@
+<country name="Belgium" count="40">
+  <point>
+    <name>Antwerpen</name>
+    <region>Antwerpen</region>
+    <district>Antwerpen</district>
+    <id>11108</id>
+  </point>
+  <point>
+    <name>Antwerpen / Deurne (airport)</name>
+    <region>Antwerpen</region>
+    <district>Antwerpen / Deurne (airport)</district>
+    <id>4547</id>
+  </point>
+  <point>
+    <name>Sint Katelijne-waver</name>
+    <region>Antwerpen</region>
+    <district>Sint Katelijne-waver</district>
+    <id>510347</id>
+  </point>
+  <point>
+    <name>Stabroek</name>
+    <region>Antwerpen</region>
+    <district>Stabroek</district>
+    <id>510661</id>
+  </point>
+  <point>
+    <name>Retie</name>
+    <region>Antwerpen</region>
+    <district>Retie</district>
+    <id>510349</id>
+  </point>
+  <point>
+    <name>Brussels</name>
+    <region>Brussels Capital Region</region>
+    <district>Brussels</district>
+    <id>151417</id>
+  </point>
+  <point>
+    <name>Brussels (airport)</name>
+    <region>Brussels Capital Region</region>
+    <district>Brussels (airport)</district>
+    <id>4549</id>
+  </point>
+  <point>
+    <name>Uccle</name>
+    <region>Brussels Capital Region</region>
+    <district>Uccle</district>
+    <id>4541</id>
+  </point>
+  <point>
+    <name>Ghent</name>
+    <region>East Flanders</region>
+    <district>Ghent</district>
+    <id>11109</id>
+  </point>
+  <point>
+    <name>Melle</name>
+    <region>East Flanders</region>
+    <district>Melle</district>
+    <id>510346</id>
+  </point>
+  <point>
+    <name>Munte</name>
+    <region>East Flanders</region>
+    <district>Munte</district>
+    <id>4538</id>
+  </point>
+  <point>
+    <name>Semmerzake</name>
+    <region>East Flanders</region>
+    <district>Semmerzake</district>
+    <id>510072</id>
+  </point>
+  <point>
+    <name>Leuven</name>
+    <region>Flemish Brabant</region>
+    <district>Leuven</district>
+    <id>11116</id>
+  </point>
+  <point>
+    <name>Schaffen (airport)</name>
+    <region>Flemish Brabant</region>
+    <district>Schaffen (airport)</district>
+    <id>4563</id>
+  </point>
+  <point>
+    <name>Charleroi / Gosselies (airport)</name>
+    <region>Hainaut</region>
+    <district>Charleroi / Gosselies (airport)</district>
+    <id>4545</id>
+  </point>
+  <point>
+    <name>Chievres (airport)</name>
+    <region>Hainaut</region>
+    <district>Chievres (airport)</district>
+    <id>4540</id>
+  </point>
+  <point>
+    <name>Mons</name>
+    <region>Hainaut</region>
+    <district>Mons</district>
+    <id>12213</id>
+  </point>
+  <point>
+    <name>Liege</name>
+    <region>Liege</region>
+    <district>Liege</district>
+    <id>11114</id>
+  </point>
+  <point>
+    <name>Liege (airport)</name>
+    <region>Liege</region>
+    <district>Liege (airport)</district>
+    <id>4577</id>
+  </point>
+  <point>
+    <name>Mont Rigi</name>
+    <region>Liege</region>
+    <district>Mont Rigi</district>
+    <id>170705</id>
+  </point>
+  <point>
+    <name>Spa (airport)</name>
+    <region>Liege</region>
+    <district>Spa (airport)</district>
+    <id>4582</id>
+  </point>
+  <point>
+    <name>Elsenborn (airport)</name>
+    <region>Liege</region>
+    <district>Elsenborn (airport)</district>
+    <id>4587</id>
+  </point>
+  <point>
+    <name>Diepenbeek</name>
+    <region>Limburg</region>
+    <district>Diepenbeek</district>
+    <id>510351</id>
+  </point>
+  <point>
+    <name>Gent / Industrie-Zone</name>
+    <region>Limburg</region>
+    <district>Gent / Industrie-Zone</district>
+    <id>4539</id>
+  </point>
+  <point>
+    <name>Hasselt</name>
+    <region>Limburg</region>
+    <district>Hasselt</district>
+    <id>13387</id>
+  </point>
+  <point>
+    <name>Kleine Brogel (airport)</name>
+    <region>Limburg</region>
+    <district>Kleine Brogel (airport)</district>
+    <id>4578</id>
+  </point>
+  <point>
+    <name>Arlon</name>
+    <region>Luxembourg</region>
+    <district>Arlon</district>
+    <id>13750</id>
+  </point>
+  <point>
+    <name>Buzenol</name>
+    <region>Luxembourg</region>
+    <district>Buzenol</district>
+    <id>510352</id>
+  </point>
+  <point>
+    <name>St-Hubert</name>
+    <region>Luxembourg</region>
+    <district>St-Hubert</district>
+    <id>4576</id>
+  </point>
+  <point>
+    <name>Namur</name>
+    <region>Namur</region>
+    <district>Namur</district>
+    <id>11118</id>
+  </point>
+  <point>
+    <name>Ernage</name>
+    <region>Namur</region>
+    <district>Ernage</district>
+    <id>170704</id>
+  </point>
+  <point>
+    <name>Florennes (airport)</name>
+    <region>Namur</region>
+    <district>Florennes (airport)</district>
+    <id>4556</id>
+  </point>
+  <point>
+    <name>Humain</name>
+    <region>Namur</region>
+    <district>Humain</district>
+    <id>510350</id>
+  </point>
+  <point>
+    <name>Beauvechain (airport)</name>
+    <region>Walloon Brabant</region>
+    <district>Beauvechain (airport)</district>
+    <id>4557</id>
+  </point>
+  <point>
+    <name>Wavre</name>
+    <region>Walloon Brabant</region>
+    <district>Wavre</district>
+    <id>13748</id>
+  </point>
+  <point>
+    <name>Beitem</name>
+    <region>West Flanders</region>
+    <district>Beitem</district>
+    <id>170703</id>
+  </point>
+  <point>
+    <name>Bruges</name>
+    <region>West Flanders</region>
+    <district>Bruges</district>
+    <id>11107</id>
+  </point>
+  <point>
+    <name>Coxyde (airport)</name>
+    <region>West Flanders</region>
+    <district>Coxyde (airport)</district>
+    <id>4525</id>
+  </point>
+  <point>
+    <name>Ostend (airport)</name>
+    <region>West Flanders</region>
+    <district>Ostend (airport)</district>
+    <id>4528</id>
+  </point>
+  <point>
+    <name>Zeebrugge</name>
+    <region>West Flanders</region>
+    <district>Zeebrugge</district>
+    <id>510345</id>
+  </point>
+</country>

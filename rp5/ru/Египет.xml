@@ -1,0 +1,500 @@
+<country name="Египет" count="83">
+  <point>
+    <name>Александрия / Нужа (аэропорт)</name>
+    <region>Александрия</region>
+    <district>Александрия / Нужа (аэропорт)</district>
+    <id>10520</id>
+  </point>
+  <point>
+    <name>Борг-эль-Араб (аэропорт)</name>
+    <region>Александрия</region>
+    <district>Борг-эль-Араб (аэропорт)</district>
+    <id>508297</id>
+  </point>
+  <point>
+    <name>Порт-Александрия</name>
+    <region>Александрия</region>
+    <district>Порт-Александрия</district>
+    <id>10519</id>
+  </point>
+  <point>
+    <name>Асуан (аэропорт)</name>
+    <region>Асуан</region>
+    <district>Асуан (аэропорт)</district>
+    <id>10548</id>
+  </point>
+  <point>
+    <name>Абу-Симбел (аэропорт)</name>
+    <region>Асуан</region>
+    <district>Абу-Симбел (аэропорт)</district>
+    <id>10550</id>
+  </point>
+  <point>
+    <name>Ком-Омбо</name>
+    <region>Асуан</region>
+    <district>Ком-Омбо</district>
+    <id>10547</id>
+  </point>
+  <point>
+    <name>Эдфу</name>
+    <region>Асуан</region>
+    <district>Эдфу</district>
+    <id>10546</id>
+  </point>
+  <point>
+    <name>Асьют (аэропорт)</name>
+    <region>Асьют</region>
+    <district>Асьют (аэропорт)</district>
+    <id>10542</id>
+  </point>
+  <point>
+    <name>Бени-Суэйф</name>
+    <region>Бени-Суэйф</region>
+    <district>Бени-Суэйф</district>
+    <id>152470</id>
+  </point>
+  <point>
+    <name>Вади-Эль-Натрун</name>
+    <region>Бухейра</region>
+    <district>Вади-Эль-Натрун</district>
+    <id>10531</id>
+  </point>
+  <point>
+    <name>Даманхур</name>
+    <region>Бухейра</region>
+    <district>Даманхур</district>
+    <id>10528</id>
+  </point>
+  <point>
+    <name>Кафр-эд-Даввар</name>
+    <region>Бухейра</region>
+    <district>Кафр-эд-Даввар</district>
+    <id>152460</id>
+  </point>
+  <point>
+    <name>Розетта</name>
+    <region>Бухейра</region>
+    <district>Розетта</district>
+    <id>10521</id>
+  </point>
+  <point>
+    <name>Тахрир</name>
+    <region>Бухейра</region>
+    <district>Тахрир</district>
+    <id>10529</id>
+  </point>
+  <point>
+    <name>Танта</name>
+    <region>Гарбия</region>
+    <district>Танта</district>
+    <id>152471</id>
+  </point>
+  <point>
+    <name>Эль-Махалла-эль-Кубра</name>
+    <region>Гарбия</region>
+    <district>Эль-Махалла-эль-Кубра</district>
+    <id>152472</id>
+  </point>
+  <point>
+    <name>Гиза</name>
+    <region>Эль-Гиза</region>
+    <district>Гиза</district>
+    <id>10537</id>
+  </point>
+  <point>
+    <name>Бахария</name>
+    <region>Эль-Гиза</region>
+    <district>Бахария</district>
+    <id>10551</id>
+  </point>
+  <point>
+    <name>Эль-Хавамедия</name>
+    <region>Эль-Гиза</region>
+    <district>Эль-Хавамедия</district>
+    <id>152464</id>
+  </point>
+  <point>
+    <name>Город им. 6 Октября</name>
+    <region>Шестое октября</region>
+    <district>Город им. 6 Октября</district>
+    <id>212410</id>
+  </point>
+  <point>
+    <name>Мит-Гамр</name>
+    <region>Дакахлия</region>
+    <district>Мит-Гамр</district>
+    <id>152465</id>
+  </point>
+  <point>
+    <name>Эль-Мансура</name>
+    <region>Дакахлия</region>
+    <district>Эль-Мансура</district>
+    <id>152473</id>
+  </point>
+  <point>
+    <name>Эль-Матарийя</name>
+    <region>Дакахлия</region>
+    <district>Эль-Матарийя</district>
+    <id>152457</id>
+  </point>
+  <point>
+    <name>Думьят</name>
+    <region>Думьят</region>
+    <district>Думьят</district>
+    <id>10523</id>
+  </point>
+  <point>
+    <name>Исмаилия</name>
+    <region>Исмаилия</region>
+    <district>Исмаилия</district>
+    <id>10555</id>
+  </point>
+  <point>
+    <name>Каир</name>
+    <region>Каир</region>
+    <district>Каир</district>
+    <id>10535</id>
+  </point>
+  <point>
+    <name>Каир (Египетский музей)</name>
+    <region>Каир</region>
+    <district>Каир (Египетский музей)</district>
+    <id>151424</id>
+  </point>
+  <point>
+    <name>Каир (аэропорт)</name>
+    <region>Каир</region>
+    <district>Каир (аэропорт)</district>
+    <id>10533</id>
+  </point>
+  <point>
+    <name>Эмбаба</name>
+    <region>Каир</region>
+    <district>Эмбаба</district>
+    <id>10536</id>
+  </point>
+  <point>
+    <name>Бахтим</name>
+    <region>Каир</region>
+    <district>Бахтим</district>
+    <id>10534</id>
+  </point>
+  <point>
+    <name>Банха</name>
+    <region>Кальюбия</region>
+    <district>Банха</district>
+    <id>152469</id>
+  </point>
+  <point>
+    <name>Кальюб</name>
+    <region>Кальюбия</region>
+    <district>Кальюб</district>
+    <id>152462</id>
+  </point>
+  <point>
+    <name>Шубра-Эль-Хейма</name>
+    <region>Кальюбия</region>
+    <district>Шубра-Эль-Хейма</district>
+    <id>152475</id>
+  </point>
+  <point>
+    <name>Кафр-эш-Шейх</name>
+    <region>Кафр-эш-Шейх</region>
+    <district>Кафр-эш-Шейх</district>
+    <id>152468</id>
+  </point>
+  <point>
+    <name>Бальтим</name>
+    <region>Кафр-эш-Шейх</region>
+    <district>Бальтим</district>
+    <id>10522</id>
+  </point>
+  <point>
+    <name>Дисук</name>
+    <region>Кафр-эш-Шейх</region>
+    <district>Дисук</district>
+    <id>152463</id>
+  </point>
+  <point>
+    <name>Кена (метеостанция 62402)</name>
+    <region>Кена</region>
+    <district>Кена (метеостанция 62402)</district>
+    <id>10544</id>
+  </point>
+  <point>
+    <name>Кена (метеостанция 62403)</name>
+    <region>Кена</region>
+    <district>Кена (метеостанция 62403)</district>
+    <id>170847</id>
+  </point>
+  <point>
+    <name>Заафарана</name>
+    <region>Красное Море</region>
+    <district>Заафарана</district>
+    <id>13721</id>
+  </point>
+  <point>
+    <name>Макади бэй</name>
+    <region>Красное Море</region>
+    <district>Макади бэй</district>
+    <id>13717</id>
+  </point>
+  <point>
+    <name>Марса-Алам (аэропорт)</name>
+    <region>Красное Море</region>
+    <district>Марса-Алам (аэропорт)</district>
+    <id>508530</id>
+  </point>
+  <point>
+    <name>Марса-Алам</name>
+    <region>Красное Море</region>
+    <district>Марса-Алам</district>
+    <id>13718</id>
+  </point>
+  <point>
+    <name>Сафага</name>
+    <region>Красное Море</region>
+    <district>Сафага</district>
+    <id>13719</id>
+  </point>
+  <point>
+    <name>Сома Бэй</name>
+    <region>Красное Море</region>
+    <district>Сома Бэй</district>
+    <id>13720</id>
+  </point>
+  <point>
+    <name>Хургада (аэропорт)</name>
+    <region>Красное Море</region>
+    <district>Хургада (аэропорт)</district>
+    <id>10561</id>
+  </point>
+  <point>
+    <name>Шалатейн</name>
+    <region>Красное Море</region>
+    <district>Шалатейн</district>
+    <id>152583</id>
+  </point>
+  <point>
+    <name>Эль-Гуна</name>
+    <region>Красное Море</region>
+    <district>Эль-Гуна</district>
+    <id>13716</id>
+  </point>
+  <point>
+    <name>Эль-Кусейр</name>
+    <region>Красное Море</region>
+    <district>Эль-Кусейр</district>
+    <id>10562</id>
+  </point>
+  <point>
+    <name>Луксор (аэропорт)</name>
+    <region>Луксор</region>
+    <district>Луксор (аэропорт)</district>
+    <id>10545</id>
+  </point>
+  <point>
+    <name>Дабаа</name>
+    <region>Матрух</region>
+    <district>Дабаа</district>
+    <id>10518</id>
+  </point>
+  <point>
+    <name>Мальвы</name>
+    <region>Матрух</region>
+    <district>Мальвы</district>
+    <id>10541</id>
+  </point>
+  <point>
+    <name>Мерса-Матрух (аэропорт)</name>
+    <region>Матрух</region>
+    <district>Мерса-Матрух (аэропорт)</district>
+    <id>10517</id>
+  </point>
+  <point>
+    <name>Саллум</name>
+    <region>Матрух</region>
+    <district>Саллум</district>
+    <id>10514</id>
+  </point>
+  <point>
+    <name>Сива</name>
+    <region>Матрух</region>
+    <district>Сива</district>
+    <id>10549</id>
+  </point>
+  <point>
+    <name>Сиди-Баррани</name>
+    <region>Матрух</region>
+    <district>Сиди-Баррани</district>
+    <id>10515</id>
+  </point>
+  <point>
+    <name>Шибин-Эль-Ком</name>
+    <region>Минуфия</region>
+    <district>Шибин-Эль-Ком</district>
+    <id>10532</id>
+  </point>
+  <point>
+    <name>Минья</name>
+    <region>Эль-Минья</region>
+    <district>Минья</district>
+    <id>10540</id>
+  </point>
+  <point>
+    <name>Маллави</name>
+    <region>Эль-Минья</region>
+    <district>Маллави</district>
+    <id>152467</id>
+  </point>
+  <point>
+    <name>Дакела</name>
+    <region>Новая Долина</region>
+    <district>Дакела</district>
+    <id>10553</id>
+  </point>
+  <point>
+    <name>Фарафра</name>
+    <region>Новая Долина</region>
+    <district>Фарафра</district>
+    <id>170357</id>
+  </point>
+  <point>
+    <name>Харга</name>
+    <region>Новая Долина</region>
+    <district>Харга</district>
+    <id>10554</id>
+  </point>
+  <point>
+    <name>Порт-Саид</name>
+    <region>Порт-Саид</region>
+    <district>Порт-Саид</district>
+    <id>10525</id>
+  </point>
+  <point>
+    <name>Порт-Саид / Эль-Гамил (аэропорт)</name>
+    <region>Порт-Саид</region>
+    <district>Порт-Саид / Эль-Гамил (аэропорт)</district>
+    <id>10524</id>
+  </point>
+  <point>
+    <name>Нахаль</name>
+    <region>Северный Синай</region>
+    <district>Нахаль</district>
+    <id>151376</id>
+  </point>
+  <point>
+    <name>Эль-Ариш (аэропорт)</name>
+    <region>Северный Синай</region>
+    <district>Эль-Ариш (аэропорт)</district>
+    <id>10526</id>
+  </point>
+  <point>
+    <name>Сохаг</name>
+    <region>Сохаг</region>
+    <district>Сохаг</district>
+    <id>10543</id>
+  </point>
+  <point>
+    <name>Ахмим</name>
+    <region>Сохаг</region>
+    <district>Ахмим</district>
+    <id>152458</id>
+  </point>
+  <point>
+    <name>Гирга</name>
+    <region>Сохаг</region>
+    <district>Гирга</district>
+    <id>152459</id>
+  </point>
+  <point>
+    <name>Файюм</name>
+    <region>Эль-Файюм</region>
+    <district>Файюм</district>
+    <id>10539</id>
+  </point>
+  <point>
+    <name>Хелуан</name>
+    <region>Хелуан</region>
+    <district>Хелуан</district>
+    <id>10538</id>
+  </point>
+  <point>
+    <name>Абу-Кебир</name>
+    <region>Шаркия</region>
+    <district>Абу-Кебир</district>
+    <id>152461</id>
+  </point>
+  <point>
+    <name>Бильбейс</name>
+    <region>Шаркия</region>
+    <district>Бильбейс</district>
+    <id>152466</id>
+  </point>
+  <point>
+    <name>Загазиг</name>
+    <region>Шаркия</region>
+    <district>Загазиг</district>
+    <id>10530</id>
+  </point>
+  <point>
+    <name>Эль-Суэц</name>
+    <region>Суэц</region>
+    <district>Эль-Суэц</district>
+    <id>10556</id>
+  </point>
+  <point>
+    <name>Суэц</name>
+    <region>Суэц</region>
+    <district>Суэц</district>
+    <id>152474</id>
+  </point>
+  <point>
+    <name>Дахаб</name>
+    <region>Южный Синай</region>
+    <district>Дахаб</district>
+    <id>13715</id>
+  </point>
+  <point>
+    <name>Нувейба</name>
+    <region>Южный Синай</region>
+    <district>Нувейба</district>
+    <id>13722</id>
+  </point>
+  <point>
+    <name>Рас-Абу-Рудеис (аэропорт)</name>
+    <region>Южный Синай</region>
+    <district>Рас-Абу-Рудеис (аэропорт)</district>
+    <id>151377</id>
+  </point>
+  <point>
+    <name>Рас-Судар</name>
+    <region>Южный Синай</region>
+    <district>Рас-Судар</district>
+    <id>10558</id>
+  </point>
+  <point>
+    <name>Таба (аэропорт)</name>
+    <region>Южный Синай</region>
+    <district>Таба (аэропорт)</district>
+    <id>508700</id>
+  </point>
+  <point>
+    <name>Таба</name>
+    <region>Южный Синай</region>
+    <district>Таба</district>
+    <id>10559</id>
+  </point>
+  <point>
+    <name>Шарм-эль-Шейх (аэропорт)</name>
+    <region>Южный Синай</region>
+    <district>Шарм-эль-Шейх (аэропорт)</district>
+    <id>10560</id>
+  </point>
+  <point>
+    <name>Эль-Тор</name>
+    <region>Южный Синай</region>
+    <district>Эль-Тор</district>
+    <id>152456</id>
+  </point>
+</country>

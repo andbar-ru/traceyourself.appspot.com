@@ -1,0 +1,637 @@
+# Translations template for PROJECT.
+# Copyright (C) 2015 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-07-09 15:01+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: js/analysis_datatable.js:5
+msgid "Включить"
+msgstr ""
+
+#: js/analysis_datatable.js:5
+msgid "Отключить"
+msgstr ""
+
+#: js/analysis_datatable.js:5
+msgid " разбиение на страницы"
+msgstr ""
+
+#: js/analysis_datatable.js:19 js/analysis_functions.js:67
+msgid "Отключить разбиение на страницы"
+msgstr ""
+
+#: js/analysis_datatable.js:22
+msgid "показаны строки с {startRow} по {endRow} из {totalRows}"
+msgstr ""
+
+#: js/analysis_functions.js:5
+msgid "Индексы"
+msgstr ""
+
+#: js/analysis_functions.js:6
+msgid "Товары"
+msgstr ""
+
+#: js/analysis_functions.js:7
+msgid "Валютные пары"
+msgstr ""
+
+#: js/analysis_functions.js:8
+msgid "Астрономические данные"
+msgstr ""
+
+#: js/analysis_functions.js:9
+msgid "Геомагнитные данные"
+msgstr ""
+
+#: js/analysis_functions.js:10
+msgid "Данные погоды"
+msgstr ""
+
+#: js/analysis_functions.js:13
+msgid "слабая"
+msgstr ""
+
+#: js/analysis_functions.js:13
+msgid "средняя"
+msgstr ""
+
+#: js/analysis_functions.js:13
+msgid "сильная"
+msgstr ""
+
+#: js/analysis_functions.js:13
+msgid "очень сильная"
+msgstr ""
+
+#: js/analysis_functions.js:65
+msgid "Таблица"
+msgstr ""
+
+#: js/analysis_functions.js:123 js/analysis_functions.js:182
+#: js/analysis_functions.js:1529 js/analysis_functions.js:1552
+#: js/analysis_functions.js:1808 js/analysis_functions.js:1892
+#: js/analysis_functions.js:2067 js/analysis_functions.js:2092
+#: js/analysis_functions.js:2138 js/analysis_functions.js:2151
+#: js/stat_functions.js:414 js/stat_functions.js:418
+msgid "Истина"
+msgstr ""
+
+#: js/analysis_functions.js:123 js/analysis_functions.js:179
+#: js/analysis_functions.js:1529 js/analysis_functions.js:1552
+#: js/analysis_functions.js:1808 js/analysis_functions.js:1892
+#: js/analysis_functions.js:2067 js/analysis_functions.js:2092
+#: js/analysis_functions.js:2138 js/analysis_functions.js:2151
+#: js/stat_functions.js:415 js/stat_functions.js:419
+msgid "Ложь"
+msgstr ""
+
+#: js/analysis_functions.js:149 js/analysis_functions.js:205
+#: js/analysis_functions.js:1482 js/analysis_functions.js:1889
+#: js/analysis_functions.js:2135 js/analysis_functions.js:2148
+msgid "ч "
+msgstr ""
+
+#: js/analysis_functions.js:149 js/analysis_functions.js:205
+#: js/analysis_functions.js:1482 js/analysis_functions.js:1889
+#: js/analysis_functions.js:2135 js/analysis_functions.js:2148
+msgid "мин"
+msgstr ""
+
+#: js/analysis_functions.js:266
+msgid "сильных связей с другими показателями нет"
+msgstr ""
+
+#: js/analysis_functions.js:267
+msgid "самая сильная связь с показателем \""
+msgstr ""
+
+#: js/analysis_functions.js:267 js/analysis_functions.js:274
+msgid ", связь "
+msgstr ""
+
+#: js/analysis_functions.js:270
+msgid "есть сильные связи с параметрами:"
+msgstr ""
+
+#: js/analysis_functions.js:439 js/analysis_functions.js:750
+#: js/analysis_functions.js:905 js/analysis_functions.js:1054
+msgid "Общие параметры"
+msgstr ""
+
+#: js/analysis_functions.js:440 js/analysis_functions.js:756
+#: js/analysis_functions.js:911 js/analysis_functions.js:1060
+msgid "Пользовательские параметры"
+msgstr ""
+
+#: js/analysis_functions.js:444 js/analysis_functions.js:746
+#: js/analysis_functions.js:1497 js/analysis_test.js:317
+#: js/analysis_test.js:404
+msgid "Дата"
+msgstr ""
+
+#: js/analysis_functions.js:444
+msgid "Тип графика:"
+msgstr ""
+
+#: js/analysis_functions.js:444
+msgid "точки"
+msgstr ""
+
+#: js/analysis_functions.js:444
+msgid "линия"
+msgstr ""
+
+#: js/analysis_functions.js:462 js/analysis_functions.js:485
+msgid " (нет данных)"
+msgstr ""
+
+#: js/analysis_functions.js:469 js/analysis_functions.js:491
+msgid "Отметить все"
+msgstr ""
+
+#: js/analysis_functions.js:469 js/analysis_functions.js:491
+msgid "Снять отметку со всех"
+msgstr ""
+
+#: js/analysis_functions.js:502
+msgid "<form><p>В форме, представленной ниже, можно отметить параметры и построить по ним график.<br/>Отметить можно не более двух параметров.<br/>Если отмечен 1 параметр, то будет показана гистограмма распределения.<br/>Если отмечены 1 параметр и \"Дата\", то будет показан график динамики показателя.<br/>Если отмечены 2 параметра, то будет показан график рассеяния, где по оси X откладываются значения одного показателя, а по оси Y &mdash; другого.</p>"
+msgstr ""
+
+#: js/analysis_functions.js:504
+msgid "Построить график"
+msgstr ""
+
+#: js/analysis_functions.js:508 js/analysis_functions.js:514
+msgid "<form><p>В форме можно выбрать параметры, данные по которым будут отображаться в таблице.</p>"
+msgstr ""
+
+#: js/analysis_functions.js:510 js/analysis_functions.js:516
+#: js/analysis_functions.js:524
+msgid "Обновить таблицу"
+msgstr ""
+
+#: js/analysis_functions.js:520
+msgid "<form><p>В форме можно выбрать параметры и даты, данные по которым будут отображаться в таблице.</p>"
+msgstr ""
+
+#: js/analysis_functions.js:524
+msgid "Даты:"
+msgstr ""
+
+#: js/analysis_functions.js:524
+msgid "С"
+msgstr ""
+
+#: js/analysis_functions.js:524
+msgid "по"
+msgstr ""
+
+#: js/analysis_functions.js:708
+msgid "ОШИБКА! Дата \"с\" не может быть позднее даты \"по\"."
+msgstr ""
+
+#: js/analysis_functions.js:721
+msgid "Первая страница"
+msgstr ""
+
+#: js/analysis_functions.js:722
+msgid "Предыдущая страница"
+msgstr ""
+
+#: js/analysis_functions.js:724
+msgid "Следующая страница"
+msgstr ""
+
+#: js/analysis_functions.js:725
+msgid "Последняя страница"
+msgstr ""
+
+#: js/analysis_functions.js:726
+msgid "Количество строк на странице"
+msgstr ""
+
+#: js/analysis_functions.js:733
+msgid "Выберите номер страницы"
+msgstr ""
+
+#: js/analysis_functions.js:901
+msgid "Показатель"
+msgstr ""
+
+#: js/analysis_functions.js:983 js/analysis_functions.js:1239
+#: js/analysis_functions.js:1371
+msgid "Количество значений"
+msgstr ""
+
+#: js/analysis_functions.js:984
+msgid "Минимальное значение"
+msgstr ""
+
+#: js/analysis_functions.js:985
+msgid "Максимальное значение"
+msgstr ""
+
+#: js/analysis_functions.js:986
+msgid "Среднее значение"
+msgstr ""
+
+#: js/analysis_functions.js:987
+msgid "Стандартное отклонение"
+msgstr ""
+
+#: js/analysis_functions.js:1190
+msgid "Вы не выбрали ни одного параметра для построения графика!"
+msgstr ""
+
+#: js/analysis_functions.js:1203
+msgid "Гистограмму распределения можно построить только по параметрам, но не по дате!"
+msgstr ""
+
+#: js/analysis_functions.js:1248
+msgid "Интервал: <b>"
+msgstr ""
+
+#: js/analysis_functions.js:1248 js/analysis_functions.js:1375
+msgid "Количество: <b>"
+msgstr ""
+
+#: js/analysis_functions.js:1259 js/analysis_functions.js:1378
+msgid "Количество"
+msgstr ""
+
+#: js/analysis_functions.js:1313 js/analysis_functions.js:1346
+msgid "Частота"
+msgstr ""
+
+#: js/analysis_functions.js:1375
+msgid "Значение: <b>"
+msgstr ""
+
+#: js/analysis_functions.js:1635
+msgid "Коэффициент корреляции Пирсона r = "
+msgstr ""
+
+#: js/analysis_functions.js:1636
+msgid "Коэффициент ранговой корреляции Спирмена r = "
+msgstr ""
+
+#: js/analysis_functions.js:1637
+msgid "Коэффициент круговой корреляции r = "
+msgstr ""
+
+#: js/analysis_functions.js:1638
+msgid "Коэффициент контингенции ϕ = "
+msgstr ""
+
+#: js/analysis_functions.js:1639
+msgid "Коэффициент линейно-круговой корреляции r = "
+msgstr ""
+
+#: js/analysis_functions.js:1640
+msgid "Коэффициент линейно-круговой ранговой корреляции r = "
+msgstr ""
+
+#: js/analysis_functions.js:1641
+msgid "Для подсчёта коэффициента корреляции недостаточно данных"
+msgstr ""
+
+#: js/analysis_functions.js:1679
+msgid "Ошибка! У массивов не совпадает размер."
+msgstr ""
+
+#: js/analysis_functions.js:1687
+msgid "Недостаточно данных (< 10) для подсчёта коэффициента корреляции и линии регрессии"
+msgstr ""
+
+#: js/analysis_functions.js:1695
+msgid "Тренд"
+msgstr ""
+
+#: js/analysis_functions.js:2229
+msgid "недостаточно данных"
+msgstr ""
+
+#: js/analysis_functions.js:2233 js/analysis_functions.js:2237
+#: js/analysis_functions.js:2255 js/analysis_functions.js:2279
+msgid "значимых связей не выявлено"
+msgstr ""
+
+#: js/analysis_functions.js:2290
+msgid "<h2>Краткая сводка по показателям:</h2>"
+msgstr ""
+
+#: js/analysis_functions.js:2305
+msgid "Показать таблицу с данными"
+msgstr ""
+
+#: js/analysis_functions.js:2310
+msgid "Скрыть таблицу с данными"
+msgstr ""
+
+#: js/analysis_functions.js:2319
+msgid "Показать статистические показатели"
+msgstr ""
+
+#: js/analysis_functions.js:2324
+msgid "Скрыть статистические показатели"
+msgstr ""
+
+#: js/analysis_functions.js:2333
+msgid "Показать корреляционную таблицу"
+msgstr ""
+
+#: js/analysis_functions.js:2338
+msgid "Скрыть корреляционную таблицу"
+msgstr ""
+
+#: js/analysis_functions.js:2347
+msgid "Показать график"
+msgstr ""
+
+#: js/analysis_functions.js:2352
+msgid "Скрыть график"
+msgstr ""
+
+#: js/analysis_functions.js:2363
+msgid "Нажмите, чтобы появилась форма, в которой можно выбрать параметры, которые будут отображаться в таблице (на графике)"
+msgstr ""
+
+#: js/analysis_functions.js:2368 js/fill_data.js:52 js/profile.js:43
+#: js/profile.js:73 js/show_common_data.js:11
+msgid "Скрыть форму"
+msgstr ""
+
+#: js/analysis_functions.js:2369
+msgid "Скрыть форму выбора параметров"
+msgstr ""
+
+#: js/analysis_test.js:56
+msgid "Скрыть"
+msgstr ""
+
+#: js/analysis_test.js:67
+msgid "Дата должна быть представлена в формате <b>дд.мм.гггг</b>"
+msgstr ""
+
+#: js/analysis_test.js:75
+msgid "Некорректная дата, такой даты скорее всего не существует"
+msgstr ""
+
+#: js/analysis_test.js:91 js/analysis_test.js:136
+msgid " не является целым числом"
+msgstr ""
+
+#: js/analysis_test.js:103
+msgid " не является числом с плавающей точкой"
+msgstr ""
+
+#: js/analysis_test.js:119
+msgid "В качестве булевых значений поддерживаются только: "
+msgstr ""
+
+#: js/analysis_test.js:129
+msgid " не входит в число допустимых значений: ["
+msgstr ""
+
+#: js/analysis_test.js:146
+msgid "Время должно быть представлено в формате ЧЧ:ММ и быть допустимым"
+msgstr ""
+
+#: js/analysis_test.js:165 js/analysis_test.js:253
+msgid "Диапазон шкалы задаётся в формате [<число>,<число>[,<шаг>]], например [0,10] или [-10,10,2]"
+msgstr ""
+
+#: js/analysis_test.js:181
+msgid "При положительном шаге число \"от\" должно быть меньше числа \"до\""
+msgstr ""
+
+#: js/analysis_test.js:184
+msgid "При отрицательном шаге число \"от\" должно быть больше числа \"до\""
+msgstr ""
+
+#: js/analysis_test.js:187
+msgid "Числа \"от\" и \"до\" не должны быть равны"
+msgstr ""
+
+#: js/analysis_test.js:190
+msgid "Шаг не должен равняться 0"
+msgstr ""
+
+#: js/analysis_test.js:194
+msgid "Количество градаций в шкале не должно превышать "
+msgstr ""
+
+#: js/analysis_test.js:194
+msgid " у вас "
+msgstr ""
+
+#: js/analysis_test.js:198
+msgid "Шаг должен помещаться в диапазон от "
+msgstr ""
+
+#: js/analysis_test.js:198
+msgid " до "
+msgstr ""
+
+#: js/analysis_test.js:198
+msgid " целое количество раз, у вас "
+msgstr ""
+
+#: js/analysis_test.js:246
+msgid "Неправильный диапазон "
+msgstr ""
+
+#: js/analysis_test.js:253
+msgid "не указан диапазон при типе scale"
+msgstr ""
+
+#: js/analysis_test.js:262
+msgid "Одинаковые названия параметров: "
+msgstr ""
+
+#: js/analysis_test.js:262
+msgid "Названия параметров не должны повторяться"
+msgstr ""
+
+#: js/analysis_test.js:265
+msgid "Неизвестный тип "
+msgstr ""
+
+#: js/analysis_test.js:265
+msgid "Поддерживаются только типы: int, float, bool, scale, time"
+msgstr ""
+
+#: js/analysis_test.js:289
+msgid "Ошибка в заголовке csv-файла!<br/>"
+msgstr ""
+
+#: js/analysis_test.js:290
+msgid "Показатель с ошибкой"
+msgstr ""
+
+#: js/analysis_test.js:290
+msgid "Пояснение"
+msgstr ""
+
+#: js/analysis_test.js:323
+msgid "Целое число"
+msgstr ""
+
+#: js/analysis_test.js:327
+msgid "Число с плавающей точкой"
+msgstr ""
+
+#: js/analysis_test.js:331
+msgid "Булево"
+msgstr ""
+
+#: js/analysis_test.js:335
+msgid "Шкала"
+msgstr ""
+
+#: js/analysis_test.js:339
+msgid "Время"
+msgstr ""
+
+#: js/analysis_test.js:342
+msgid "Неизвестный тип"
+msgstr ""
+
+#: js/analysis_test.js:379
+msgid "Ошибка формата csv - количество столбцов неодинаково!<br/>"
+msgstr ""
+
+#: js/analysis_test.js:380
+msgid "Количество столбцов в строках должно быть <b>"
+msgstr ""
+
+#: js/analysis_test.js:380
+msgid "</b> (количество столбцов в заголовке)."
+msgstr ""
+
+#: js/analysis_test.js:381
+msgid "Иное количество столбцов в следующих строках:"
+msgstr ""
+
+#: js/analysis_test.js:382 js/analysis_test.js:393 js/analysis_test.js:404
+msgid "Номер строки"
+msgstr ""
+
+#: js/analysis_test.js:382
+msgid "Количество столбцов"
+msgstr ""
+
+#: js/analysis_test.js:391
+msgid "Ошибка в формате данных!<br/>"
+msgstr ""
+
+#: js/analysis_test.js:392
+msgid "Значения не соответствуют заявленному типу в следующих строках:"
+msgstr ""
+
+#: js/analysis_test.js:393
+msgid "Значение"
+msgstr ""
+
+#: js/analysis_test.js:393
+msgid "Тип"
+msgstr ""
+
+#: js/analysis_test.js:393
+msgid "Ошибка"
+msgstr ""
+
+#: js/analysis_test.js:402
+msgid "Встречаются повторы в датах!<br/>"
+msgstr ""
+
+#: js/analysis_test.js:403
+msgid "Дублируются даты в следующих строках:"
+msgstr ""
+
+#: js/analysis_test.js:404
+msgid "Номер строки, с которой совпадает"
+msgstr ""
+
+#: js/analysis_test.js:468
+msgid "Принимаются только файлы в формате csv."
+msgstr ""
+
+#: js/analysis_test.js:471
+msgid "Размер файла превышает 100 кб."
+msgstr ""
+
+#: js/analysis_test.js:476
+msgid "Подождите, идёт загрузка и обработка данных."
+msgstr ""
+
+#: js/analysis_test.js:481
+msgid "файл не выбран"
+msgstr ""
+
+#: js/analysis_test.js:493
+msgid "Скрыть инструкции"
+msgstr ""
+
+#: js/analysis_test.js:497
+msgid "Показать инструкции"
+msgstr ""
+
+#: js/fill_data.js:54
+msgid "Изменить"
+msgstr ""
+
+#: js/location.js:4
+msgid "Вы не выбрали страну!"
+msgstr ""
+
+#: js/location.js:5
+msgid "Вы не выбрали регион!"
+msgstr ""
+
+#: js/location.js:6
+msgid "Вы не выбрали район!"
+msgstr ""
+
+#: js/profile.js:35 js/profile.js:51
+msgid "Утаить"
+msgstr ""
+
+#: js/profile.js:38 js/profile.js:54
+msgid "Явить"
+msgstr ""
+
+#: js/profile.js:45
+msgid "Редактировать личные данные"
+msgstr ""
+
+#: js/profile.js:61
+msgid "Свернуть"
+msgstr ""
+
+#: js/profile.js:64
+msgid "Развернуть"
+msgstr ""
+
+#: js/profile.js:75
+msgid "Добавить параметр"
+msgstr ""
+
+#: js/show_common_data.js:5
+msgid "Показать форму"
+msgstr ""
+

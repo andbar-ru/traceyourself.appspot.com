@@ -1,0 +1,50 @@
+<country name="Togo" count="8">
+  <point>
+    <name>Sokode</name>
+    <region>Centrale</region>
+    <district>Sokode</district>
+    <id>10894</id>
+  </point>
+  <point>
+    <name>Kara</name>
+    <region>Kara</region>
+    <district>Kara</district>
+    <id>10893</id>
+  </point>
+  <point>
+    <name>Niamtougou (airport)</name>
+    <region>Kara</region>
+    <district>Niamtougou (airport)</district>
+    <id>10892</id>
+  </point>
+  <point>
+    <name>Lome (airport)</name>
+    <region>Maritime</region>
+    <district>Lome (airport)</district>
+    <id>10898</id>
+  </point>
+  <point>
+    <name>Tabligbo</name>
+    <region>Maritime</region>
+    <district>Tabligbo</district>
+    <id>10897</id>
+  </point>
+  <point>
+    <name>Atakpame</name>
+    <region>Plateaux</region>
+    <district>Atakpame</district>
+    <id>10895</id>
+  </point>
+  <point>
+    <name>Dapaong</name>
+    <region>Savanes</region>
+    <district>Dapaong</district>
+    <id>10890</id>
+  </point>
+  <point>
+    <name>Sansanne-Mango</name>
+    <region>Savanes</region>
+    <district>Sansanne-Mango</district>
+    <id>10891</id>
+  </point>
+</country>

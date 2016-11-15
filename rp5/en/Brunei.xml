@@ -1,0 +1,32 @@
+<country name="Brunei" count="5">
+  <point>
+    <name>Kuala Belait</name>
+    <region>Belait</region>
+    <district>Kuala Belait</district>
+    <id>351053</id>
+  </point>
+  <point>
+    <name>Bandar Seri Begawan</name>
+    <region>Brunei-Muara</region>
+    <district>Bandar Seri Begawan</district>
+    <id>337402</id>
+  </point>
+  <point>
+    <name>Bangar</name>
+    <region>Temburong</region>
+    <district>Bangar</district>
+    <id>351054</id>
+  </point>
+  <point>
+    <name>Tutong</name>
+    <region>Tutong</region>
+    <district>Tutong</district>
+    <id>351055</id>
+  </point>
+  <point>
+    <name>Bandar Seri Begawan / Brunei (airport)</name>
+    <region>Tutong</region>
+    <district>Bandar Seri Begawan / Brunei (airport)</district>
+    <id>337575</id>
+  </point>
+</country>

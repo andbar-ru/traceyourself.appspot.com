@@ -1,0 +1,143 @@
+/* Стили, относящиеся к страницам с анализом */
+li ul {
+  margin-left: 20px;
+}
+
+#analysis {
+  margin-top: 10px;
+}
+
+#summary li {
+  margin-bottom: 10px;
+}
+
+#datatableWrapper, #stattableWrapper, #corrtableWrapper, #chartWrapper {
+  margin-bottom: 10px;
+}
+
+div.tableWrapper {
+  margin-top: 10px;
+}
+
+div.tableContainer {
+	max-height: 960px;
+	overflow: auto;
+}
+
+div.propsDiv {
+  background-color: #e6e6e6;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.propsTable td, .propsTable th {
+  border: 1px solid #666;
+  padding: 1px;
+}
+
+#buttons button.active {
+  background: linear-gradient(to bottom, #ffcc00, #ffaa00);
+  font-weight: bold;
+}
+
+table tr.header td {
+	text-align: center;
+	font-weight: bold;
+	/* -webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto; */
+}
+
+table.tablesorter td, table.tablesorter th {
+	border: 1px solid #666;
+	padding: 1px;
+}
+
+table.tablesorter tr.header td {
+	background-color: white;
+}
+
+table.tablesorter td {
+	text-align: right;
+}
+
+table.tablesorter thead tr th {
+	background-color: #ddeeee;
+	padding-right: 10px;
+}
+
+table.tablesorter thead tr th.tablesorter-header {
+	background-image: url("/img/bg.gif");
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+
+table.tablesorter thead tr th.tablesorter-headerAsc {
+	background-image: url("/img/asc.gif");
+}
+
+table.tablesorter thead tr th.tablesorter-headerDesc {
+	background-image: url("/img/desc.gif");
+}
+
+table.tablesorter thead tr th.tablesorter-headerAsc, table.tablesorter thead tr .tablesorter-headerDesc {
+	background-color: #8dbdd8;
+}
+
+table.tablesorter tbody tr:nth-child(odd) td {
+	background-color: #eeeeee;
+}
+
+div.pager {
+  margin: 10px 0px;
+  padding: 5px;
+}
+div.pager img {
+  vertical-align: middle;
+  cursor: pointer;
+}
+div.pager img.disabled {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  cursor: default;
+}
+div.pager span {
+  padding: 0px 5px;
+}
+
+#statTable td, #statTable th {
+	border: 1px solid #666;
+	padding: 1px;
+}
+#statTable tbody th {
+	text-align: left;
+}
+#corrTable td, #corrTable th {
+	border: 1px solid #666;
+	padding: 1px;
+}
+#corrTable tbody td {
+	text-align: center;
+	vertical-align: middle;
+	color: gray;
+}
+td.diagonal {
+	background-color: #808080;
+}
+#corrTable tbody td.significant {
+	color: black;
+}
+#corrTable tbody td.medium {
+	color: black;
+	text-decoration: underline;
+}
+#corrTable tbody td.high {
+	color: black;
+	font-weight: bold;
+}
+#corrTable tbody td.very_high {
+	color: red;
+	font-weight: bold;
+}

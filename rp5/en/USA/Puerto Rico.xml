@@ -1,0 +1,616 @@
+<region name="Puerto Rico" count="120">
+  <point>
+    <name>Adjuntas</name>
+    <district>Adjuntas</district>
+    <id>257461</id>
+  </point>
+  <point>
+    <name>Aguada</name>
+    <district>Aguada</district>
+    <id>257462</id>
+  </point>
+  <point>
+    <name>Aguadilla</name>
+    <district>Aguadilla</district>
+    <id>257463</id>
+  </point>
+  <point>
+    <name>Rafael Hernandez (airport)</name>
+    <district>Aguadilla</district>
+    <id>508622</id>
+  </point>
+  <point>
+    <name>Ramey</name>
+    <district>Aguadilla</district>
+    <id>281852</id>
+  </point>
+  <point>
+    <name>San Antonio</name>
+    <district>Aguadilla</district>
+    <id>281853</id>
+  </point>
+  <point>
+    <name>Aguas Buenas</name>
+    <district>Aguas Buenas</district>
+    <id>257464</id>
+  </point>
+  <point>
+    <name>Aibonito</name>
+    <district>Aibonito</district>
+    <id>257465</id>
+  </point>
+  <point>
+    <name>La Plata</name>
+    <district>Aibonito</district>
+    <id>281854</id>
+  </point>
+  <point>
+    <name>Anasco</name>
+    <district>Anasco</district>
+    <id>257466</id>
+  </point>
+  <point>
+    <name>Arecibo</name>
+    <district>Arecibo</district>
+    <id>257467</id>
+  </point>
+  <point>
+    <name>Bajadero</name>
+    <district>Arecibo</district>
+    <id>281856</id>
+  </point>
+  <point>
+    <name>Garrochales</name>
+    <district>Arecibo</district>
+    <id>281857</id>
+  </point>
+  <point>
+    <name>Sabana Hoyos</name>
+    <district>Arecibo</district>
+    <id>281858</id>
+  </point>
+  <point>
+    <name>Arroyo</name>
+    <district>Arroyo</district>
+    <id>257468</id>
+  </point>
+  <point>
+    <name>Barceloneta</name>
+    <district>Barceloneta</district>
+    <id>257469</id>
+  </point>
+  <point>
+    <name>Barranquitas</name>
+    <district>Barranquitas</district>
+    <id>257470</id>
+  </point>
+  <point>
+    <name>Bayamon</name>
+    <district>Bayamon</district>
+    <id>257471</id>
+  </point>
+  <point>
+    <name>Cabo Rojo</name>
+    <district>Cabo Rojo</district>
+    <id>257472</id>
+  </point>
+  <point>
+    <name>Boqueron</name>
+    <district>Cabo Rojo</district>
+    <id>281859</id>
+  </point>
+  <point>
+    <name>Caguas</name>
+    <district>Caguas</district>
+    <id>257473</id>
+  </point>
+  <point>
+    <name>Camuy</name>
+    <district>Camuy</district>
+    <id>257474</id>
+  </point>
+  <point>
+    <name>Canovanas</name>
+    <district>Canovanas</district>
+    <id>257475</id>
+  </point>
+  <point>
+    <name>Carolina</name>
+    <district>Carolina</district>
+    <id>257476</id>
+  </point>
+  <point>
+    <name>Catano</name>
+    <district>Catano</district>
+    <id>257477</id>
+  </point>
+  <point>
+    <name>Cayey</name>
+    <district>Cayey</district>
+    <id>257478</id>
+  </point>
+  <point>
+    <name>Ceiba</name>
+    <district>Ceiba</district>
+    <id>257479</id>
+  </point>
+  <point>
+    <name>Roosevelt Roads (airport)</name>
+    <district>Ceiba</district>
+    <id>281862</id>
+  </point>
+  <point>
+    <name>Ciales</name>
+    <district>Ciales</district>
+    <id>257481</id>
+  </point>
+  <point>
+    <name>Cidra</name>
+    <district>Cidra</district>
+    <id>257482</id>
+  </point>
+  <point>
+    <name>Coamo</name>
+    <district>Coamo</district>
+    <id>257483</id>
+  </point>
+  <point>
+    <name>Comerio</name>
+    <district>Comerio</district>
+    <id>257484</id>
+  </point>
+  <point>
+    <name>Corozal</name>
+    <district>Corozal</district>
+    <id>257485</id>
+  </point>
+  <point>
+    <name>Culebra</name>
+    <district>Culebra</district>
+    <id>257486</id>
+  </point>
+  <point>
+    <name>Dorado</name>
+    <district>Dorado</district>
+    <id>257487</id>
+  </point>
+  <point>
+    <name>Fajardo</name>
+    <district>Fajardo</district>
+    <id>257488</id>
+  </point>
+  <point>
+    <name>Puerto Real</name>
+    <district>Fajardo</district>
+    <id>281863</id>
+  </point>
+  <point>
+    <name>Florida</name>
+    <district>Florida</district>
+    <id>257489</id>
+  </point>
+  <point>
+    <name>Guanica</name>
+    <district>Guanica</district>
+    <id>257490</id>
+  </point>
+  <point>
+    <name>Ensenada</name>
+    <district>Guanica</district>
+    <id>281864</id>
+  </point>
+  <point>
+    <name>Guayama</name>
+    <district>Guayama</district>
+    <id>257491</id>
+  </point>
+  <point>
+    <name>Guayanilla</name>
+    <district>Guayanilla</district>
+    <id>257492</id>
+  </point>
+  <point>
+    <name>Guaynabo</name>
+    <district>Guaynabo</district>
+    <id>257493</id>
+  </point>
+  <point>
+    <name>Gurabo</name>
+    <district>Gurabo</district>
+    <id>257494</id>
+  </point>
+  <point>
+    <name>Hatillo</name>
+    <district>Hatillo</district>
+    <id>257495</id>
+  </point>
+  <point>
+    <name>Hormigueros</name>
+    <district>Hormigueros</district>
+    <id>257496</id>
+  </point>
+  <point>
+    <name>Humacao</name>
+    <district>Humacao</district>
+    <id>257497</id>
+  </point>
+  <point>
+    <name>Punta Santiago</name>
+    <district>Humacao</district>
+    <id>281866</id>
+  </point>
+  <point>
+    <name>Isabela</name>
+    <district>Isabela</district>
+    <id>257498</id>
+  </point>
+  <point>
+    <name>Jayuya</name>
+    <district>Jayuya</district>
+    <id>257499</id>
+  </point>
+  <point>
+    <name>Juana Diaz</name>
+    <district>Juana Diaz</district>
+    <id>257500</id>
+  </point>
+  <point>
+    <name>Juncos</name>
+    <district>Juncos</district>
+    <id>257501</id>
+  </point>
+  <point>
+    <name>Lajas</name>
+    <district>Lajas</district>
+    <id>257502</id>
+  </point>
+  <point>
+    <name>Lares</name>
+    <district>Lares</district>
+    <id>257503</id>
+  </point>
+  <point>
+    <name>Castaner</name>
+    <district>Lares</district>
+    <id>281869</id>
+  </point>
+  <point>
+    <name>Las Marias</name>
+    <district>Las Marias</district>
+    <id>257504</id>
+  </point>
+  <point>
+    <name>Las Piedras</name>
+    <district>Las Piedras</district>
+    <id>257505</id>
+  </point>
+  <point>
+    <name>Loiza</name>
+    <district>Loiza</district>
+    <id>257506</id>
+  </point>
+  <point>
+    <name>Luquillo</name>
+    <district>Luquillo</district>
+    <id>257507</id>
+  </point>
+  <point>
+    <name>Manati</name>
+    <district>Manati</district>
+    <id>257508</id>
+  </point>
+  <point>
+    <name>Maricao</name>
+    <district>Maricao</district>
+    <id>257509</id>
+  </point>
+  <point>
+    <name>Maunabo</name>
+    <district>Maunabo</district>
+    <id>257510</id>
+  </point>
+  <point>
+    <name>Mayaguez</name>
+    <district>Mayaguez</district>
+    <id>257511</id>
+  </point>
+  <point>
+    <name>Mayaguez (airport)</name>
+    <district>Mayaguez</district>
+    <id>509060</id>
+  </point>
+  <point>
+    <name>Moca</name>
+    <district>Moca</district>
+    <id>257512</id>
+  </point>
+  <point>
+    <name>Morovis</name>
+    <district>Morovis</district>
+    <id>257513</id>
+  </point>
+  <point>
+    <name>Naguabo</name>
+    <district>Naguabo</district>
+    <id>257514</id>
+  </point>
+  <point>
+    <name>Rio Blanco</name>
+    <district>Naguabo</district>
+    <id>281870</id>
+  </point>
+  <point>
+    <name>Naranjito</name>
+    <district>Naranjito</district>
+    <id>257515</id>
+  </point>
+  <point>
+    <name>Orocovis</name>
+    <district>Orocovis</district>
+    <id>257516</id>
+  </point>
+  <point>
+    <name>Patillas</name>
+    <district>Patillas</district>
+    <id>257517</id>
+  </point>
+  <point>
+    <name>Penuelas</name>
+    <district>Penuelas</district>
+    <id>257518</id>
+  </point>
+  <point>
+    <name>Ponce</name>
+    <district>Ponce</district>
+    <id>257519</id>
+  </point>
+  <point>
+    <name>Coto Laurel</name>
+    <district>Ponce</district>
+    <id>281871</id>
+  </point>
+  <point>
+    <name>Mercedita (airport)</name>
+    <district>Ponce</district>
+    <id>281872</id>
+  </point>
+  <point>
+    <name>Quebradillas</name>
+    <district>Quebradillas</district>
+    <id>257520</id>
+  </point>
+  <point>
+    <name>Rincon</name>
+    <district>Rincon</district>
+    <id>257521</id>
+  </point>
+  <point>
+    <name>Rio Grande</name>
+    <district>Rio Grande</district>
+    <id>257522</id>
+  </point>
+  <point>
+    <name>Palmer</name>
+    <district>Rio Grande</district>
+    <id>281875</id>
+  </point>
+  <point>
+    <name>Sabana Grande</name>
+    <district>Sabana Grande</district>
+    <id>257523</id>
+  </point>
+  <point>
+    <name>Salinas</name>
+    <district>Salinas</district>
+    <id>257524</id>
+  </point>
+  <point>
+    <name>Aguirre</name>
+    <district>Salinas</district>
+    <id>281876</id>
+  </point>
+  <point>
+    <name>San German</name>
+    <district>San German</district>
+    <id>257525</id>
+  </point>
+  <point>
+    <name>Rosario</name>
+    <district>San German</district>
+    <id>281878</id>
+  </point>
+  <point>
+    <name>San Juan</name>
+    <district>San Juan</district>
+    <id>256639</id>
+  </point>
+  <point>
+    <name>Fernando L. Ribas-Dominicci (airport)</name>
+    <district>San Juan</district>
+    <id>508391</id>
+  </point>
+  <point>
+    <name>Isla Verde</name>
+    <district>San Juan</district>
+    <id>281890</id>
+  </point>
+  <point>
+    <name>Rio Piedras</name>
+    <district>San Juan</district>
+    <id>281896</id>
+  </point>
+  <point>
+    <name>San Jose</name>
+    <district>San Juan</district>
+    <id>281897</id>
+  </point>
+  <point>
+    <name>Bo Obrero</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281879</id>
+  </point>
+  <point>
+    <name>Caparra Hills</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281881</id>
+  </point>
+  <point>
+    <name>Caparra Terrace</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281882</id>
+  </point>
+  <point>
+    <name>College Park</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281883</id>
+  </point>
+  <point>
+    <name>Condado</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281884</id>
+  </point>
+  <point>
+    <name>Cupey</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281886</id>
+  </point>
+  <point>
+    <name>Fernandez Juncos</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281887</id>
+  </point>
+  <point>
+    <name>Fort Buchanan</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281888</id>
+  </point>
+  <point>
+    <name>Hato Rey</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281889</id>
+  </point>
+  <point>
+    <name>Minillas</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281892</id>
+  </point>
+  <point>
+    <name>Miramar</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281893</id>
+  </point>
+  <point>
+    <name>Puerto Nuevo</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281895</id>
+  </point>
+  <point>
+    <name>Santurce</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281898</id>
+  </point>
+  <point>
+    <name>Viejo San Juan</name>
+    <region>Puerto Rico</region>
+    <district>San Juan</district>
+    <id>281899</id>
+  </point>
+  <point>
+    <name>San Lorenzo</name>
+    <district>San Lorenzo</district>
+    <id>256640</id>
+  </point>
+  <point>
+    <name>San Sebastian</name>
+    <district>San Sebastian</district>
+    <id>256641</id>
+  </point>
+  <point>
+    <name>Santa Isabel</name>
+    <district>Santa Isabel</district>
+    <id>256642</id>
+  </point>
+  <point>
+    <name>Toa Alta</name>
+    <district>Toa Alta</district>
+    <id>256643</id>
+  </point>
+  <point>
+    <name>Toa Baja</name>
+    <district>Toa Baja</district>
+    <id>256644</id>
+  </point>
+  <point>
+    <name>Levittown</name>
+    <district>Toa Baja</district>
+    <id>281900</id>
+  </point>
+  <point>
+    <name>Sabana Seca</name>
+    <district>Toa Baja</district>
+    <id>281901</id>
+  </point>
+  <point>
+    <name>Trujillo Alto</name>
+    <district>Trujillo Alto</district>
+    <id>256645</id>
+  </point>
+  <point>
+    <name>Saint Just</name>
+    <district>Trujillo Alto</district>
+    <id>281902</id>
+  </point>
+  <point>
+    <name>Utuado</name>
+    <district>Utuado</district>
+    <id>256646</id>
+  </point>
+  <point>
+    <name>Angeles</name>
+    <district>Utuado</district>
+    <id>281903</id>
+  </point>
+  <point>
+    <name>Vega Alta</name>
+    <district>Vega Alta</district>
+    <id>256647</id>
+  </point>
+  <point>
+    <name>Vega Baja</name>
+    <district>Vega Baja</district>
+    <id>256648</id>
+  </point>
+  <point>
+    <name>Vieques</name>
+    <district>Vieques</district>
+    <id>256649</id>
+  </point>
+  <point>
+    <name>Villalba</name>
+    <district>Villalba</district>
+    <id>256650</id>
+  </point>
+  <point>
+    <name>Yabucoa</name>
+    <district>Yabucoa</district>
+    <id>256651</id>
+  </point>
+  <point>
+    <name>Yauco</name>
+    <district>Yauco</district>
+    <id>256652</id>
+  </point>
+</region>

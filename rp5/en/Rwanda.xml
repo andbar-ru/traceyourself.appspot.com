@@ -1,0 +1,50 @@
+<country name="Rwanda" count="8">
+  <point>
+    <name>Rwamagana</name>
+    <region>Eastern Province</region>
+    <district>Rwamagana</district>
+    <id>152020</id>
+  </point>
+  <point>
+    <name>Kigali (airport)</name>
+    <region>Kigali</region>
+    <district>Kigali (airport)</district>
+    <id>10768</id>
+  </point>
+  <point>
+    <name>Byumba</name>
+    <region>Northern Province</region>
+    <district>Byumba</district>
+    <id>152026</id>
+  </point>
+  <point>
+    <name>Ruhengeri</name>
+    <region>Northern Province</region>
+    <district>Ruhengeri</district>
+    <id>10766</id>
+  </point>
+  <point>
+    <name>Nyanza</name>
+    <region>Southern Province</region>
+    <district>Nyanza</district>
+    <id>292055</id>
+  </point>
+  <point>
+    <name>Cyangugu Kamembe</name>
+    <region>Western Province</region>
+    <district>Cyangugu Kamembe</district>
+    <id>10764</id>
+  </point>
+  <point>
+    <name>Gisenyi</name>
+    <region>Western Province</region>
+    <district>Gisenyi</district>
+    <id>10765</id>
+  </point>
+  <point>
+    <name>Kibuye</name>
+    <region>Western Province</region>
+    <district>Kibuye</district>
+    <id>152022</id>
+  </point>
+</country>

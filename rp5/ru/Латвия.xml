@@ -1,0 +1,3704 @@
+<country name="Латвия" count="617">
+  <point>
+    <name>Аглона</name>
+    <region>Аглонский край</region>
+    <district>Аглона</district>
+    <id>180633</id>
+  </point>
+  <point>
+    <name>Граверы</name>
+    <region>Аглонский край</region>
+    <district>Граверы</district>
+    <id>180497</id>
+  </point>
+  <point>
+    <name>Приежмале</name>
+    <region>Аглонский край</region>
+    <district>Приежмале</district>
+    <id>180508</id>
+  </point>
+  <point>
+    <name>Скелтова</name>
+    <region>Аглонский край</region>
+    <district>Скелтова</district>
+    <id>180512</id>
+  </point>
+  <point>
+    <name>Адажи</name>
+    <region>Адажский край</region>
+    <district>Адажи</district>
+    <id>180677</id>
+  </point>
+  <point>
+    <name>Кадага</name>
+    <region>Адажский край</region>
+    <district>Кадага</district>
+    <id>180698</id>
+  </point>
+  <point>
+    <name>Айзкраукле</name>
+    <region>Айзкраукльский край</region>
+    <district>Айзкраукле</district>
+    <id>152342</id>
+  </point>
+  <point>
+    <name>Айзпуте</name>
+    <region>Айзпутский край</region>
+    <district>Айзпуте</district>
+    <id>152341</id>
+  </point>
+  <point>
+    <name>Казданга</name>
+    <region>Айзпутский край</region>
+    <district>Казданга</district>
+    <id>180545</id>
+  </point>
+  <point>
+    <name>Калвене</name>
+    <region>Айзпутский край</region>
+    <district>Калвене</district>
+    <id>180543</id>
+  </point>
+  <point>
+    <name>Цирава</name>
+    <region>Айзпутский край</region>
+    <district>Цирава</district>
+    <id>180535</id>
+  </point>
+  <point>
+    <name>Рокасбирзе</name>
+    <region>Айзпутский край</region>
+    <district>Рокасбирзе</district>
+    <id>180550</id>
+  </point>
+  <point>
+    <name>Акнисте</name>
+    <region>Акнистский край</region>
+    <district>Акнисте</district>
+    <id>180469</id>
+  </point>
+  <point>
+    <name>Асаре</name>
+    <region>Акнистский край</region>
+    <district>Асаре</district>
+    <id>180470</id>
+  </point>
+  <point>
+    <name>Гарсене</name>
+    <region>Акнистский край</region>
+    <district>Гарсене</district>
+    <id>180477</id>
+  </point>
+  <point>
+    <name>Алоя</name>
+    <region>Алойский край</region>
+    <district>Алоя</district>
+    <id>180559</id>
+  </point>
+  <point>
+    <name>Вилзени</name>
+    <region>Алойский край</region>
+    <district>Вилзени</district>
+    <id>180572</id>
+  </point>
+  <point>
+    <name>Кламани</name>
+    <region>Алойский край</region>
+    <district>Кламани</district>
+    <id>180561</id>
+  </point>
+  <point>
+    <name>Стайцеле</name>
+    <region>Алойский край</region>
+    <district>Стайцеле</district>
+    <id>180569</id>
+  </point>
+  <point>
+    <name>Алсунга</name>
+    <region>Алсунгский край</region>
+    <district>Алсунга</district>
+    <id>180514</id>
+  </point>
+  <point>
+    <name>Алуксне</name>
+    <region>Алуксненский край</region>
+    <district>Алуксне</district>
+    <id>9818</id>
+  </point>
+  <point>
+    <name>Алсвики</name>
+    <region>Алуксненский край</region>
+    <district>Алсвики</district>
+    <id>180307</id>
+  </point>
+  <point>
+    <name>Лиепна</name>
+    <region>Алуксненский край</region>
+    <district>Лиепна</district>
+    <id>180318</id>
+  </point>
+  <point>
+    <name>Педедзе</name>
+    <region>Алуксненский край</region>
+    <district>Педедзе</district>
+    <id>180322</id>
+  </point>
+  <point>
+    <name>Бренци</name>
+    <region>Алуксненский край</region>
+    <district>Бренци</district>
+    <id>180310</id>
+  </point>
+  <point>
+    <name>Вецанна</name>
+    <region>Алуксненский край</region>
+    <district>Вецанна</district>
+    <id>180308</id>
+  </point>
+  <point>
+    <name>Зелтини</name>
+    <region>Алуксненский край</region>
+    <district>Зелтини</district>
+    <id>180325</id>
+  </point>
+  <point>
+    <name>Калнцемпю</name>
+    <region>Алуксненский край</region>
+    <district>Калнцемпю</district>
+    <id>180315</id>
+  </point>
+  <point>
+    <name>Колбергис</name>
+    <region>Алуксненский край</region>
+    <district>Колбергис</district>
+    <id>180316</id>
+  </point>
+  <point>
+    <name>Корнети</name>
+    <region>Алуксненский край</region>
+    <district>Корнети</district>
+    <id>180317</id>
+  </point>
+  <point>
+    <name>Малупе</name>
+    <region>Алуксненский край</region>
+    <district>Малупе</district>
+    <id>180319</id>
+  </point>
+  <point>
+    <name>Маринькалнс</name>
+    <region>Алуксненский край</region>
+    <district>Маринькалнс</district>
+    <id>180320</id>
+  </point>
+  <point>
+    <name>Маркалне</name>
+    <region>Алуксненский край</region>
+    <district>Маркалне</district>
+    <id>180321</id>
+  </point>
+  <point>
+    <name>Яунанна</name>
+    <region>Алуксненский край</region>
+    <district>Яунанна</district>
+    <id>180312</id>
+  </point>
+  <point>
+    <name>Яунземи</name>
+    <region>Алуксненский край</region>
+    <district>Яунземи</district>
+    <id>180314</id>
+  </point>
+  <point>
+    <name>Яунлайцене</name>
+    <region>Алуксненский край</region>
+    <district>Яунлайцене</district>
+    <id>180313</id>
+  </point>
+  <point>
+    <name>Амата</name>
+    <region>Аматский край</region>
+    <district>Амата</district>
+    <id>504622</id>
+  </point>
+  <point>
+    <name>Заубе</name>
+    <region>Аматский край</region>
+    <district>Заубе</district>
+    <id>180385</id>
+  </point>
+  <point>
+    <name>Нитауре</name>
+    <region>Аматский край</region>
+    <district>Нитауре</district>
+    <id>180374</id>
+  </point>
+  <point>
+    <name>Скуене</name>
+    <region>Аматский край</region>
+    <district>Скуене</district>
+    <id>180378</id>
+  </point>
+  <point>
+    <name>Апе</name>
+    <region>Апский край</region>
+    <district>Апе</district>
+    <id>180309</id>
+  </point>
+  <point>
+    <name>Виреши</name>
+    <region>Апский край</region>
+    <district>Виреши</district>
+    <id>180324</id>
+  </point>
+  <point>
+    <name>Гауцена</name>
+    <region>Апский край</region>
+    <district>Гауцена</district>
+    <id>180311</id>
+  </point>
+  <point>
+    <name>Трапене</name>
+    <region>Апский край</region>
+    <district>Трапене</district>
+    <id>180323</id>
+  </point>
+  <point>
+    <name>Ауце</name>
+    <region>Ауцский край</region>
+    <district>Ауце</district>
+    <id>180416</id>
+  </point>
+  <point>
+    <name>Бене</name>
+    <region>Ауцский край</region>
+    <district>Бене</district>
+    <id>180419</id>
+  </point>
+  <point>
+    <name>Витини</name>
+    <region>Ауцский край</region>
+    <district>Витини</district>
+    <id>180434</id>
+  </point>
+  <point>
+    <name>Лиелауце</name>
+    <region>Ауцский край</region>
+    <district>Лиелауце</district>
+    <id>180428</id>
+  </point>
+  <point>
+    <name>Иле</name>
+    <region>Ауцский край</region>
+    <district>Иле</district>
+    <id>180423</id>
+  </point>
+  <point>
+    <name>Укри</name>
+    <region>Ауцский край</region>
+    <district>Укри</district>
+    <id>180433</id>
+  </point>
+  <point>
+    <name>Бабите</name>
+    <region>Бабитский край</region>
+    <district>Бабите</district>
+    <id>180681</id>
+  </point>
+  <point>
+    <name>Майори</name>
+    <region>Бабитский край</region>
+    <district>Майори</district>
+    <id>13829</id>
+  </point>
+  <point>
+    <name>Спилве</name>
+    <region>Бабитский край</region>
+    <district>Спилве</district>
+    <id>180720</id>
+  </point>
+  <point>
+    <name>Спун</name>
+    <region>Бабитский край</region>
+    <district>Спун</district>
+    <id>180721</id>
+  </point>
+  <point>
+    <name>Пинки</name>
+    <region>Бабитский край</region>
+    <district>Пинки</district>
+    <id>180713</id>
+  </point>
+  <point>
+    <name>Балви</name>
+    <region>Балвский край</region>
+    <district>Балви</district>
+    <id>151278</id>
+  </point>
+  <point>
+    <name>Бриежу / Бриежуциемс</name>
+    <region>Балвский край</region>
+    <district>Бриежу / Бриежуциемс</district>
+    <id>180331</id>
+  </point>
+  <point>
+    <name>Кришяни</name>
+    <region>Балвский край</region>
+    <district>Кришяни</district>
+    <id>180332</id>
+  </point>
+  <point>
+    <name>Тылжа</name>
+    <region>Балвский край</region>
+    <district>Тылжа</district>
+    <id>180338</id>
+  </point>
+  <point>
+    <name>Берзкалне</name>
+    <region>Балвский край</region>
+    <district>Берзкалне</district>
+    <id>180328</id>
+  </point>
+  <point>
+    <name>Берзпилс / Биерзпилс</name>
+    <region>Балвский край</region>
+    <district>Берзпилс / Биерзпилс</district>
+    <id>180329</id>
+  </point>
+  <point>
+    <name>Вецтилжа / Вацтилжа</name>
+    <region>Балвский край</region>
+    <district>Вецтилжа / Вацтилжа</district>
+    <id>180339</id>
+  </point>
+  <point>
+    <name>Виксна</name>
+    <region>Балвский край</region>
+    <district>Виксна</district>
+    <id>180340</id>
+  </point>
+  <point>
+    <name>Еглу / Еглуциемс</name>
+    <region>Балвский край</region>
+    <district>Еглу / Еглуциемс</district>
+    <id>180342</id>
+  </point>
+  <point>
+    <name>Курна</name>
+    <region>Балвский край</region>
+    <district>Курна</district>
+    <id>180334</id>
+  </point>
+  <point>
+    <name>Наудаскалнс / Наудасколнс</name>
+    <region>Балвский край</region>
+    <district>Наудаскалнс / Наудасколнс</district>
+    <id>180335</id>
+  </point>
+  <point>
+    <name>Балдоне</name>
+    <region>Балдонский край</region>
+    <district>Балдоне</district>
+    <id>152340</id>
+  </point>
+  <point>
+    <name>Авоти</name>
+    <region>Балдонский край</region>
+    <district>Авоти</district>
+    <id>180680</id>
+  </point>
+  <point>
+    <name>Балтинава</name>
+    <region>Балтинавский край</region>
+    <district>Балтинава</district>
+    <id>180326</id>
+  </point>
+  <point>
+    <name>Бауска</name>
+    <region>Бауский край</region>
+    <district>Бауска</district>
+    <id>9826</id>
+  </point>
+  <point>
+    <name>Берзкални</name>
+    <region>Бауский край</region>
+    <district>Берзкални</district>
+    <id>180345</id>
+  </point>
+  <point>
+    <name>Узвара</name>
+    <region>Бауский край</region>
+    <district>Узвара</district>
+    <id>180360</id>
+  </point>
+  <point>
+    <name>Церауксте</name>
+    <region>Бауский край</region>
+    <district>Церауксте</district>
+    <id>180346</id>
+  </point>
+  <point>
+    <name>Вецсауле</name>
+    <region>Бауский край</region>
+    <district>Вецсауле</district>
+    <id>180361</id>
+  </point>
+  <point>
+    <name>Давини</name>
+    <region>Бауский край</region>
+    <district>Давини</district>
+    <id>180348</id>
+  </point>
+  <point>
+    <name>Межотне</name>
+    <region>Бауский край</region>
+    <district>Межотне</district>
+    <id>180352</id>
+  </point>
+  <point>
+    <name>Муса</name>
+    <region>Бауский край</region>
+    <district>Муса</district>
+    <id>180354</id>
+  </point>
+  <point>
+    <name>Ритаусмас</name>
+    <region>Бауский край</region>
+    <district>Ритаусмас</district>
+    <id>180356</id>
+  </point>
+  <point>
+    <name>Цоде</name>
+    <region>Бауский край</region>
+    <district>Цоде</district>
+    <id>180347</id>
+  </point>
+  <point>
+    <name>Эргли</name>
+    <region>Бауский край</region>
+    <district>Эргли</district>
+    <id>180349</id>
+  </point>
+  <point>
+    <name>Яунцоде</name>
+    <region>Бауский край</region>
+    <district>Яунцоде</district>
+    <id>180351</id>
+  </point>
+  <point>
+    <name>Мурмуйжа</name>
+    <region>Беверинский край</region>
+    <district>Мурмуйжа</district>
+    <id>180821</id>
+  </point>
+  <point>
+    <name>Триката</name>
+    <region>Беверинский край</region>
+    <district>Триката</district>
+    <id>180807</id>
+  </point>
+  <point>
+    <name>Броцены</name>
+    <region>Салдусский край</region>
+    <district>Броцены</district>
+    <id>180734</id>
+  </point>
+  <point>
+    <name>Блидене</name>
+    <region>Броценский край</region>
+    <district>Блидене</district>
+    <id>180733</id>
+  </point>
+  <point>
+    <name>Ремте</name>
+    <region>Броценский край</region>
+    <district>Ремте</district>
+    <id>180746</id>
+  </point>
+  <point>
+    <name>Сатики</name>
+    <region>Броценский край</region>
+    <district>Сатики</district>
+    <id>180748</id>
+  </point>
+  <point>
+    <name>Буртниеки</name>
+    <region>Буртниекский край</region>
+    <district>Буртниеки</district>
+    <id>180813</id>
+  </point>
+  <point>
+    <name>Бренгули</name>
+    <region>Буртниекский край</region>
+    <district>Бренгули</district>
+    <id>180812</id>
+  </point>
+  <point>
+    <name>Валмиермуйжа</name>
+    <region>Буртниекский край</region>
+    <district>Валмиермуйжа</district>
+    <id>180828</id>
+  </point>
+  <point>
+    <name>Ренцены</name>
+    <region>Буртниекский край</region>
+    <district>Ренцены</district>
+    <id>180824</id>
+  </point>
+  <point>
+    <name>Ванаги</name>
+    <region>Буртниекский край</region>
+    <district>Ванаги</district>
+    <id>180829</id>
+  </point>
+  <point>
+    <name>Вецате</name>
+    <region>Буртниекский край</region>
+    <district>Вецате</district>
+    <id>180830</id>
+  </point>
+  <point>
+    <name>Матиши</name>
+    <region>Буртниекский край</region>
+    <district>Матиши</district>
+    <id>180819</id>
+  </point>
+  <point>
+    <name>Эвеле</name>
+    <region>Буртниекский край</region>
+    <district>Эвеле</district>
+    <id>180796</id>
+  </point>
+  <point>
+    <name>Вайноде</name>
+    <region>Вайнёдский край</region>
+    <district>Вайноде</district>
+    <id>180555</id>
+  </point>
+  <point>
+    <name>Вибини</name>
+    <region>Вайнёдский край</region>
+    <district>Вибини</district>
+    <id>180558</id>
+  </point>
+  <point>
+    <name>Валка</name>
+    <region>Валкский край</region>
+    <district>Валка</district>
+    <id>152339</id>
+  </point>
+  <point>
+    <name>Вийциемс</name>
+    <region>Валкский край</region>
+    <district>Вийциемс</district>
+    <id>180810</id>
+  </point>
+  <point>
+    <name>Карки</name>
+    <region>Валкский край</region>
+    <district>Карки</district>
+    <id>180800</id>
+  </point>
+  <point>
+    <name>Эргеме</name>
+    <region>Валкский край</region>
+    <district>Эргеме</district>
+    <id>180795</id>
+  </point>
+  <point>
+    <name>Степи / Калнаине</name>
+    <region>Валкский край</region>
+    <district>Степи / Калнаине</district>
+    <id>180805</id>
+  </point>
+  <point>
+    <name>Валмиера</name>
+    <region>Валмиерский край</region>
+    <district>Валмиера</district>
+    <id>152338</id>
+  </point>
+  <point>
+    <name>Виестура лаукумс</name>
+    <region>Валмиерский край</region>
+    <district>Виестура лаукумс</district>
+    <id>180831</id>
+  </point>
+  <point>
+    <name>Варакляны</name>
+    <region>Вараклянский край</region>
+    <district>Варакляны</district>
+    <id>180616</id>
+  </point>
+  <point>
+    <name>Кокари</name>
+    <region>Вараклянский край</region>
+    <district>Кокари</district>
+    <id>180604</id>
+  </point>
+  <point>
+    <name>Мурмастиени</name>
+    <region>Вараклянский край</region>
+    <district>Мурмастиени</district>
+    <id>180612</id>
+  </point>
+  <point>
+    <name>Варкава</name>
+    <region>Варкавский край</region>
+    <district>Варкава</district>
+    <id>180648</id>
+  </point>
+  <point>
+    <name>Римицани</name>
+    <region>Варкавский край</region>
+    <district>Римицани</district>
+    <id>180639</id>
+  </point>
+  <point>
+    <name>Упмала</name>
+    <region>Варкавский край</region>
+    <district>Упмала</district>
+    <id>180647</id>
+  </point>
+  <point>
+    <name>Вентспилс</name>
+    <region>Вентспилсский край</region>
+    <district>Вентспилс</district>
+    <id>9812</id>
+  </point>
+  <point>
+    <name>Вентспилс (аэропорт)</name>
+    <region>Вентспилсский край</region>
+    <district>Вентспилс (аэропорт)</district>
+    <id>508729</id>
+  </point>
+  <point>
+    <name>Угале</name>
+    <region>Вентспилсский край</region>
+    <district>Угале</district>
+    <id>180840</id>
+  </point>
+  <point>
+    <name>Усма</name>
+    <region>Вентспилсский край</region>
+    <district>Усма</district>
+    <id>180841</id>
+  </point>
+  <point>
+    <name>Анце</name>
+    <region>Вентспилсский край</region>
+    <district>Анце</district>
+    <id>180834</id>
+  </point>
+  <point>
+    <name>Блазма</name>
+    <region>Вентспилсский край</region>
+    <district>Блазма</district>
+    <id>180835</id>
+  </point>
+  <point>
+    <name>Вентава</name>
+    <region>Вентспилсский край</region>
+    <district>Вентава</district>
+    <id>180843</id>
+  </point>
+  <point>
+    <name>Зирас</name>
+    <region>Вентспилсский край</region>
+    <district>Зирас</district>
+    <id>180844</id>
+  </point>
+  <point>
+    <name>Злекас</name>
+    <region>Вентспилсский край</region>
+    <district>Злекас</district>
+    <id>180845</id>
+  </point>
+  <point>
+    <name>Пилтене</name>
+    <region>Вентспилсский край</region>
+    <district>Пилтене</district>
+    <id>180837</id>
+  </point>
+  <point>
+    <name>Попе</name>
+    <region>Вентспилсский край</region>
+    <district>Попе</district>
+    <id>180838</id>
+  </point>
+  <point>
+    <name>Таргале</name>
+    <region>Вентспилсский край</region>
+    <district>Таргале</district>
+    <id>180839</id>
+  </point>
+  <point>
+    <name>Ужава</name>
+    <region>Вентспилсский край</region>
+    <district>Ужава</district>
+    <id>180842</id>
+  </point>
+  <point>
+    <name>Юркалне</name>
+    <region>Вентспилсский край</region>
+    <district>Юркалне</district>
+    <id>180836</id>
+  </point>
+  <point>
+    <name>Вецпиебалга</name>
+    <region>Вецпиебалгский край</region>
+    <district>Вецпиебалга</district>
+    <id>180383</id>
+  </point>
+  <point>
+    <name>Дзербене</name>
+    <region>Вецпиебалгский край</region>
+    <district>Дзербене</district>
+    <id>180366</id>
+  </point>
+  <point>
+    <name>Каиве</name>
+    <region>Вецпиебалгский край</region>
+    <district>Каиве</district>
+    <id>180370</id>
+  </point>
+  <point>
+    <name>Таурене</name>
+    <region>Вецпиебалгский край</region>
+    <district>Таурене</district>
+    <id>180381</id>
+  </point>
+  <point>
+    <name>Инеши</name>
+    <region>Вецпиебалгский край</region>
+    <district>Инеши</district>
+    <id>180367</id>
+  </point>
+  <point>
+    <name>Вецумниеки</name>
+    <region>Вецумниекский край</region>
+    <district>Вецумниеки</district>
+    <id>180363</id>
+  </point>
+  <point>
+    <name>Барбеле</name>
+    <region>Вецумниекский край</region>
+    <district>Барбеле</district>
+    <id>180343</id>
+  </point>
+  <point>
+    <name>Валле</name>
+    <region>Вецумниекский край</region>
+    <district>Валле</district>
+    <id>180303</id>
+  </point>
+  <point>
+    <name>Скайсткалне</name>
+    <region>Вецумниекский край</region>
+    <district>Скайсткалне</district>
+    <id>180358</id>
+  </point>
+  <point>
+    <name>Вецстелпе</name>
+    <region>Вецумниекский край</region>
+    <district>Вецстелпе</district>
+    <id>180362</id>
+  </point>
+  <point>
+    <name>Курмене</name>
+    <region>Вецумниекский край</region>
+    <district>Курмене</district>
+    <id>180294</id>
+  </point>
+  <point>
+    <name>Миса</name>
+    <region>Вецумниекский край</region>
+    <district>Миса</district>
+    <id>180353</id>
+  </point>
+  <point>
+    <name>Виесите</name>
+    <region>Виеситский край</region>
+    <district>Виесите</district>
+    <id>141570</id>
+  </point>
+  <point>
+    <name>Лоне</name>
+    <region>Виеситский край</region>
+    <district>Лоне</district>
+    <id>180478</id>
+  </point>
+  <point>
+    <name>Цирули</name>
+    <region>Виеситский край</region>
+    <district>Цирули</district>
+    <id>180474</id>
+  </point>
+  <point>
+    <name>Элкшни</name>
+    <region>Виеситский край</region>
+    <district>Элкшни</district>
+    <id>180476</id>
+  </point>
+  <point>
+    <name>Виляка</name>
+    <region>Вилякский край</region>
+    <district>Виляка</district>
+    <id>180341</id>
+  </point>
+  <point>
+    <name>Куправа</name>
+    <region>Вилякский край</region>
+    <district>Куправа</district>
+    <id>180333</id>
+  </point>
+  <point>
+    <name>Рекава</name>
+    <region>Вилякский край</region>
+    <district>Рекава</district>
+    <id>180336</id>
+  </point>
+  <point>
+    <name>Семенова / Семанова</name>
+    <region>Вилякский край</region>
+    <district>Семенова / Семанова</district>
+    <id>180337</id>
+  </point>
+  <point>
+    <name>Борисова / Барисова</name>
+    <region>Вилякский край</region>
+    <district>Борисова / Барисова</district>
+    <id>180330</id>
+  </point>
+  <point>
+    <name>Виляны</name>
+    <region>Вилянский край</region>
+    <district>Виляны</district>
+    <id>180675</id>
+  </point>
+  <point>
+    <name>Дексарес / Дексорес</name>
+    <region>Вилянский край</region>
+    <district>Дексарес / Дексорес</district>
+    <id>180653</id>
+  </point>
+  <point>
+    <name>Струпли</name>
+    <region>Вилянский край</region>
+    <district>Струпли</district>
+    <id>180673</id>
+  </point>
+  <point>
+    <name>Гаркалне</name>
+    <region>Гаркалнский край</region>
+    <district>Гаркалне</district>
+    <id>180690</id>
+  </point>
+  <point>
+    <name>Балтезерс</name>
+    <region>Гаркалнский край</region>
+    <district>Балтезерс</district>
+    <id>180683</id>
+  </point>
+  <point>
+    <name>Берги</name>
+    <region>Гаркалнский край</region>
+    <district>Берги</district>
+    <id>180684</id>
+  </point>
+  <point>
+    <name>Лангстини</name>
+    <region>Гаркалнский край</region>
+    <district>Лангстини</district>
+    <id>180703</id>
+  </point>
+  <point>
+    <name>Упес</name>
+    <region>Гаркалнский край</region>
+    <district>Упес</district>
+    <id>180725</id>
+  </point>
+  <point>
+    <name>Гробиня</name>
+    <region>Гробиньский край</region>
+    <district>Гробиня</district>
+    <id>180541</id>
+  </point>
+  <point>
+    <name>Барта</name>
+    <region>Гробиньский край</region>
+    <district>Барта</district>
+    <id>180533</id>
+  </point>
+  <point>
+    <name>Гавиезе</name>
+    <region>Гробиньский край</region>
+    <district>Гавиезе</district>
+    <id>180539</id>
+  </point>
+  <point>
+    <name>Дубени</name>
+    <region>Гробиньский край</region>
+    <district>Дубени</district>
+    <id>180536</id>
+  </point>
+  <point>
+    <name>Капседе</name>
+    <region>Гробиньский край</region>
+    <district>Капседе</district>
+    <id>180544</id>
+  </point>
+  <point>
+    <name>Гулбене</name>
+    <region>Гулбенский край</region>
+    <district>Гулбене</district>
+    <id>9819</id>
+  </point>
+  <point>
+    <name>Леясциемс</name>
+    <region>Гулбенский край</region>
+    <district>Леясциемс</district>
+    <id>180441</id>
+  </point>
+  <point>
+    <name>Тирза</name>
+    <region>Гулбенский край</region>
+    <district>Тирза</district>
+    <id>180448</id>
+  </point>
+  <point>
+    <name>Яунгулбене</name>
+    <region>Гулбенский край</region>
+    <district>Яунгулбене</district>
+    <id>180440</id>
+  </point>
+  <point>
+    <name>Белява</name>
+    <region>Гулбенский край</region>
+    <district>Белява</district>
+    <id>180437</id>
+  </point>
+  <point>
+    <name>Галгауска / Веиси</name>
+    <region>Гулбенский край</region>
+    <district>Галгауска / Веиси</district>
+    <id>180439</id>
+  </point>
+  <point>
+    <name>Друвиена</name>
+    <region>Гулбенский край</region>
+    <district>Друвиена</district>
+    <id>180438</id>
+  </point>
+  <point>
+    <name>Лиго</name>
+    <region>Гулбенский край</region>
+    <district>Лиго</district>
+    <id>180442</id>
+  </point>
+  <point>
+    <name>Лизумс</name>
+    <region>Гулбенский край</region>
+    <district>Лизумс</district>
+    <id>180444</id>
+  </point>
+  <point>
+    <name>Литене</name>
+    <region>Гулбенский край</region>
+    <district>Литене</district>
+    <id>180443</id>
+  </point>
+  <point>
+    <name>Ранка</name>
+    <region>Гулбенский край</region>
+    <district>Ранка</district>
+    <id>180445</id>
+  </point>
+  <point>
+    <name>Стаки</name>
+    <region>Гулбенский край</region>
+    <district>Стаки</district>
+    <id>180446</id>
+  </point>
+  <point>
+    <name>Стамериена</name>
+    <region>Гулбенский край</region>
+    <district>Стамериена</district>
+    <id>180449</id>
+  </point>
+  <point>
+    <name>Стари</name>
+    <region>Гулбенский край</region>
+    <district>Стари</district>
+    <id>180447</id>
+  </point>
+  <point>
+    <name>Дагда</name>
+    <region>Дагдский край</region>
+    <district>Дагда</district>
+    <id>9840</id>
+  </point>
+  <point>
+    <name>Андрупене</name>
+    <region>Дагдский край</region>
+    <district>Андрупене</district>
+    <id>180490</id>
+  </point>
+  <point>
+    <name>Шкяуне</name>
+    <region>Дагдский край</region>
+    <district>Шкяуне</district>
+    <id>180511</id>
+  </point>
+  <point>
+    <name>Эзерниеки</name>
+    <region>Дагдский край</region>
+    <district>Эзерниеки</district>
+    <id>180496</id>
+  </point>
+  <point>
+    <name>Анджели</name>
+    <region>Дагдский край</region>
+    <district>Анджели</district>
+    <id>180491</id>
+  </point>
+  <point>
+    <name>Асуне</name>
+    <region>Дагдский край</region>
+    <district>Асуне</district>
+    <id>180492</id>
+  </point>
+  <point>
+    <name>Неиксани</name>
+    <region>Дагдский край</region>
+    <district>Неиксани</district>
+    <id>180504</id>
+  </point>
+  <point>
+    <name>Озолини</name>
+    <region>Дагдский край</region>
+    <district>Озолини</district>
+    <id>180505</id>
+  </point>
+  <point>
+    <name>Поречье</name>
+    <region>Дагдский край</region>
+    <district>Поречье</district>
+    <id>180507</id>
+  </point>
+  <point>
+    <name>Сваринцы</name>
+    <region>Дагдский край</region>
+    <district>Сваринцы</district>
+    <id>180513</id>
+  </point>
+  <point>
+    <name>Даугавпилс</name>
+    <region>Даугавпилсский край</region>
+    <district>Даугавпилс</district>
+    <id>9838</id>
+  </point>
+  <point>
+    <name>Ликсна / Леиксна</name>
+    <region>Даугавпилсский край</region>
+    <district>Ликсна / Леиксна</district>
+    <id>180398</id>
+  </point>
+  <point>
+    <name>Силене</name>
+    <region>Даугавпилсский край</region>
+    <district>Силене</district>
+    <id>180409</id>
+  </point>
+  <point>
+    <name>Споги</name>
+    <region>Даугавпилсский край</region>
+    <district>Споги</district>
+    <id>180410</id>
+  </point>
+  <point>
+    <name>Амбели</name>
+    <region>Даугавпилсский край</region>
+    <district>Амбели</district>
+    <id>180386</id>
+  </point>
+  <point>
+    <name>Бикерниеки</name>
+    <region>Даугавпилсский край</region>
+    <district>Бикерниеки</district>
+    <id>180388</id>
+  </point>
+  <point>
+    <name>Ваболе</name>
+    <region>Даугавпилсский край</region>
+    <district>Ваболе</district>
+    <id>180414</id>
+  </point>
+  <point>
+    <name>Вецстропи</name>
+    <region>Даугавпилсский край</region>
+    <district>Вецстропи</district>
+    <id>180415</id>
+  </point>
+  <point>
+    <name>Демене</name>
+    <region>Даугавпилсский край</region>
+    <district>Демене</district>
+    <id>180390</id>
+  </point>
+  <point>
+    <name>Дубна</name>
+    <region>Даугавпилсский край</region>
+    <district>Дубна</district>
+    <id>180391</id>
+  </point>
+  <point>
+    <name>Калкуны</name>
+    <region>Даугавпилсский край</region>
+    <district>Калкуны</district>
+    <id>180395</id>
+  </point>
+  <point>
+    <name>Калупе</name>
+    <region>Даугавпилсский край</region>
+    <district>Калупе</district>
+    <id>180396</id>
+  </point>
+  <point>
+    <name>Крауя</name>
+    <region>Даугавпилсский край</region>
+    <district>Крауя</district>
+    <id>180397</id>
+  </point>
+  <point>
+    <name>Лоцики</name>
+    <region>Даугавпилсский край</region>
+    <district>Лоцики</district>
+    <id>180399</id>
+  </point>
+  <point>
+    <name>Малиновка</name>
+    <region>Даугавпилсский край</region>
+    <district>Малиновка</district>
+    <id>180400</id>
+  </point>
+  <point>
+    <name>Медуми</name>
+    <region>Даугавпилсский край</region>
+    <district>Медуми</district>
+    <id>180401</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <region>Даугавпилсский край</region>
+    <district>Мирный</district>
+    <id>180402</id>
+  </point>
+  <point>
+    <name>Науйене / Науйине</name>
+    <region>Даугавпилсский край</region>
+    <district>Науйене / Науйине</district>
+    <id>180403</id>
+  </point>
+  <point>
+    <name>Ницгале</name>
+    <region>Даугавпилсский край</region>
+    <district>Ницгале</district>
+    <id>180404</id>
+  </point>
+  <point>
+    <name>Салиена</name>
+    <region>Даугавпилсский край</region>
+    <district>Салиена</district>
+    <id>180407</id>
+  </point>
+  <point>
+    <name>Свенте</name>
+    <region>Даугавпилсский край</region>
+    <district>Свенте</district>
+    <id>180412</id>
+  </point>
+  <point>
+    <name>Таборе</name>
+    <region>Даугавпилсский край</region>
+    <district>Таборе</district>
+    <id>180413</id>
+  </point>
+  <point>
+    <name>Червонка</name>
+    <region>Даугавпилсский край</region>
+    <district>Червонка</district>
+    <id>180389</id>
+  </point>
+  <point>
+    <name>Добеле</name>
+    <region>Добельский край</region>
+    <district>Добеле</district>
+    <id>9824</id>
+  </point>
+  <point>
+    <name>Зебрене</name>
+    <region>Добельский край</region>
+    <district>Зебрене</district>
+    <id>180435</id>
+  </point>
+  <point>
+    <name>Милтини</name>
+    <region>Добельский край</region>
+    <district>Милтини</district>
+    <id>180429</id>
+  </point>
+  <point>
+    <name>Пенкуле</name>
+    <region>Добельский край</region>
+    <district>Пенкуле</district>
+    <id>180431</id>
+  </point>
+  <point>
+    <name>Аури</name>
+    <region>Добельский край</region>
+    <district>Аури</district>
+    <id>180418</id>
+  </point>
+  <point>
+    <name>Биксти</name>
+    <region>Добельский край</region>
+    <district>Биксти</district>
+    <id>180420</id>
+  </point>
+  <point>
+    <name>Гардене</name>
+    <region>Добельский край</region>
+    <district>Гардене</district>
+    <id>180422</id>
+  </point>
+  <point>
+    <name>Какениеки</name>
+    <region>Добельский край</region>
+    <district>Какениеки</district>
+    <id>180425</id>
+  </point>
+  <point>
+    <name>Кримунас</name>
+    <region>Добельский край</region>
+    <district>Кримунас</district>
+    <id>180426</id>
+  </point>
+  <point>
+    <name>Наудите</name>
+    <region>Добельский край</region>
+    <district>Наудите</district>
+    <id>180430</id>
+  </point>
+  <point>
+    <name>Шкибе</name>
+    <region>Добельский край</region>
+    <district>Шкибе</district>
+    <id>180432</id>
+  </point>
+  <point>
+    <name>Яунберзе</name>
+    <region>Добельский край</region>
+    <district>Яунберзе</district>
+    <id>180424</id>
+  </point>
+  <point>
+    <name>Дундага</name>
+    <region>Дундагский край</region>
+    <district>Дундага</district>
+    <id>180755</id>
+  </point>
+  <point>
+    <name>Колка</name>
+    <region>Дундагский край</region>
+    <district>Колка</district>
+    <id>9811</id>
+  </point>
+  <point>
+    <name>Дурбе</name>
+    <region>Дурбский край</region>
+    <district>Дурбе</district>
+    <id>180538</id>
+  </point>
+  <point>
+    <name>Вецпилс</name>
+    <region>Дурбский край</region>
+    <district>Вецпилс</district>
+    <id>180556</id>
+  </point>
+  <point>
+    <name>Дуналка</name>
+    <region>Дурбский край</region>
+    <district>Дуналка</district>
+    <id>180537</id>
+  </point>
+  <point>
+    <name>Лиеги</name>
+    <region>Дурбский край</region>
+    <district>Лиеги</district>
+    <id>180546</id>
+  </point>
+  <point>
+    <name>Екабпилс</name>
+    <region>Екабпилсский край</region>
+    <district>Екабпилс</district>
+    <id>152337</id>
+  </point>
+  <point>
+    <name>Броди</name>
+    <region>Екабпилсский край</region>
+    <district>Броди</district>
+    <id>180473</id>
+  </point>
+  <point>
+    <name>Видсала</name>
+    <region>Екабпилсский край</region>
+    <district>Видсала</district>
+    <id>180487</id>
+  </point>
+  <point>
+    <name>Дунава</name>
+    <region>Екабпилсский край</region>
+    <district>Дунава</district>
+    <id>180475</id>
+  </point>
+  <point>
+    <name>Вандани</name>
+    <region>Екабпилсский край</region>
+    <district>Вандани</district>
+    <id>180485</id>
+  </point>
+  <point>
+    <name>Заса</name>
+    <region>Екабпилсский край</region>
+    <district>Заса</district>
+    <id>180489</id>
+  </point>
+  <point>
+    <name>Мезгале</name>
+    <region>Екабпилсский край</region>
+    <district>Мезгале</district>
+    <id>180480</id>
+  </point>
+  <point>
+    <name>Рубене</name>
+    <region>Екабпилсский край</region>
+    <district>Рубене</district>
+    <id>180481</id>
+  </point>
+  <point>
+    <name>Елгава</name>
+    <region>Елгавский край</region>
+    <district>Елгава</district>
+    <id>9825</id>
+  </point>
+  <point>
+    <name>Залениеки</name>
+    <region>Елгавский край</region>
+    <district>Залениеки</district>
+    <id>180468</id>
+  </point>
+  <point>
+    <name>Калн</name>
+    <region>Елгавский край</region>
+    <district>Калн</district>
+    <id>180455</id>
+  </point>
+  <point>
+    <name>Платоне</name>
+    <region>Елгавский край</region>
+    <district>Платоне</district>
+    <id>180460</id>
+  </point>
+  <point>
+    <name>Бервирцава</name>
+    <region>Елгавский край</region>
+    <district>Бервирцава</district>
+    <id>180451</id>
+  </point>
+  <point>
+    <name>Валгунде</name>
+    <region>Елгавский край</region>
+    <district>Валгунде</district>
+    <id>180465</id>
+  </point>
+  <point>
+    <name>Вилце</name>
+    <region>Елгавский край</region>
+    <district>Вилце</district>
+    <id>180466</id>
+  </point>
+  <point>
+    <name>Вирцава</name>
+    <region>Елгавский край</region>
+    <district>Вирцава</district>
+    <id>180467</id>
+  </point>
+  <point>
+    <name>Ливберзе</name>
+    <region>Елгавский край</region>
+    <district>Ливберзе</district>
+    <id>180456</id>
+  </point>
+  <point>
+    <name>Мез</name>
+    <region>Елгавский край</region>
+    <district>Мез</district>
+    <id>180457</id>
+  </point>
+  <point>
+    <name>Накотне</name>
+    <region>Елгавский край</region>
+    <district>Накотне</district>
+    <id>180458</id>
+  </point>
+  <point>
+    <name>Свете</name>
+    <region>Елгавский край</region>
+    <district>Свете</district>
+    <id>180464</id>
+  </point>
+  <point>
+    <name>Сесава</name>
+    <region>Елгавский край</region>
+    <district>Сесава</district>
+    <id>180461</id>
+  </point>
+  <point>
+    <name>Сидрабе / Мазплатоне</name>
+    <region>Елгавский край</region>
+    <district>Сидрабе / Мазплатоне</district>
+    <id>180462</id>
+  </point>
+  <point>
+    <name>Сталгене</name>
+    <region>Елгавский край</region>
+    <district>Сталгене</district>
+    <id>180463</id>
+  </point>
+  <point>
+    <name>Элея</name>
+    <region>Елгавский край</region>
+    <district>Элея</district>
+    <id>180453</id>
+  </point>
+  <point>
+    <name>Зилупе</name>
+    <region>Лудзенский край</region>
+    <district>Зилупе</district>
+    <id>151282</id>
+  </point>
+  <point>
+    <name>Залесье</name>
+    <region>Зилупский край</region>
+    <district>Залесье</district>
+    <id>180594</id>
+  </point>
+  <point>
+    <name>Лаудери</name>
+    <region>Зилупский край</region>
+    <district>Лаудери</district>
+    <id>180579</id>
+  </point>
+  <point>
+    <name>Иецава</name>
+    <region>Иецавский край</region>
+    <district>Иецава</district>
+    <id>180350</id>
+  </point>
+  <point>
+    <name>Икшкиле</name>
+    <region>Икшкильский край</region>
+    <district>Икшкиле</district>
+    <id>152336</id>
+  </point>
+  <point>
+    <name>Илуксте</name>
+    <region>Илукстский край</region>
+    <district>Илуксте</district>
+    <id>180394</id>
+  </point>
+  <point>
+    <name>Бебрене</name>
+    <region>Илукстский край</region>
+    <district>Бебрене</district>
+    <id>180387</id>
+  </point>
+  <point>
+    <name>Субате</name>
+    <region>Илукстский край</region>
+    <district>Субате</district>
+    <id>180411</id>
+  </point>
+  <point>
+    <name>Эглайне</name>
+    <region>Илукстский край</region>
+    <district>Эглайне</district>
+    <id>180393</id>
+  </point>
+  <point>
+    <name>Двиете</name>
+    <region>Илукстский край</region>
+    <district>Двиете</district>
+    <id>180392</id>
+  </point>
+  <point>
+    <name>Пашулиене</name>
+    <region>Илукстский край</region>
+    <district>Пашулиене</district>
+    <id>180405</id>
+  </point>
+  <point>
+    <name>Пилскалне</name>
+    <region>Илукстский край</region>
+    <district>Пилскалне</district>
+    <id>180406</id>
+  </point>
+  <point>
+    <name>Седере</name>
+    <region>Илукстский край</region>
+    <district>Седере</district>
+    <id>180408</id>
+  </point>
+  <point>
+    <name>Инчукалнс</name>
+    <region>Инчукалнсский край</region>
+    <district>Инчукалнс</district>
+    <id>180694</id>
+  </point>
+  <point>
+    <name>Вангажи</name>
+    <region>Инчукалнсский край</region>
+    <district>Вангажи</district>
+    <id>180729</id>
+  </point>
+  <point>
+    <name>Гауя</name>
+    <region>Инчукалнсский край</region>
+    <district>Гауя</district>
+    <id>180692</id>
+  </point>
+  <point>
+    <name>Кандава</name>
+    <region>Кандавский край</region>
+    <district>Кандава</district>
+    <id>180776</id>
+  </point>
+  <point>
+    <name>Занте</name>
+    <region>Кандавский край</region>
+    <district>Занте</district>
+    <id>180789</id>
+  </point>
+  <point>
+    <name>Земите</name>
+    <region>Кандавский край</region>
+    <district>Земите</district>
+    <id>180790</id>
+  </point>
+  <point>
+    <name>Маткуле</name>
+    <region>Кандавский край</region>
+    <district>Маткуле</district>
+    <id>180779</id>
+  </point>
+  <point>
+    <name>Ване</name>
+    <region>Кандавский край</region>
+    <district>Ване</district>
+    <id>180786</id>
+  </point>
+  <point>
+    <name>Цере</name>
+    <region>Кандавский край</region>
+    <district>Цере</district>
+    <id>180771</id>
+  </point>
+  <point>
+    <name>Карсава</name>
+    <region>Карсавский край</region>
+    <district>Карсава</district>
+    <id>180577</id>
+  </point>
+  <point>
+    <name>Голышево</name>
+    <region>Карсавский край</region>
+    <district>Голышево</district>
+    <id>180576</id>
+  </point>
+  <point>
+    <name>Мердзене</name>
+    <region>Карсавский край</region>
+    <district>Мердзене</district>
+    <id>180583</id>
+  </point>
+  <point>
+    <name>Салнава / Салнова</name>
+    <region>Карсавский край</region>
+    <district>Салнава / Салнова</district>
+    <id>180591</id>
+  </point>
+  <point>
+    <name>Малнава / Малнова</name>
+    <region>Карсавский край</region>
+    <district>Малнава / Малнова</district>
+    <id>180581</id>
+  </point>
+  <point>
+    <name>Кегумс</name>
+    <region>Кегумсский край</region>
+    <district>Кегумс</district>
+    <id>180620</id>
+  </point>
+  <point>
+    <name>Бирзгале</name>
+    <region>Кегумсский край</region>
+    <district>Бирзгале</district>
+    <id>180618</id>
+  </point>
+  <point>
+    <name>Рембате</name>
+    <region>Кегумсский край</region>
+    <district>Рембате</district>
+    <id>180630</id>
+  </point>
+  <point>
+    <name>Кекава</name>
+    <region>Кекавский край</region>
+    <district>Кекава</district>
+    <id>180702</id>
+  </point>
+  <point>
+    <name>Баложи</name>
+    <region>Кекавский край</region>
+    <district>Баложи</district>
+    <id>180682</id>
+  </point>
+  <point>
+    <name>Дзеруми</name>
+    <region>Кекавский край</region>
+    <district>Дзеруми</district>
+    <id>180688</id>
+  </point>
+  <point>
+    <name>Катлакалнс</name>
+    <region>Кекавский край</region>
+    <district>Катлакалнс</district>
+    <id>180701</id>
+  </point>
+  <point>
+    <name>Алеяс</name>
+    <region>Кекавский край</region>
+    <district>Алеяс</district>
+    <id>180678</id>
+  </point>
+  <point>
+    <name>Валдлаучи</name>
+    <region>Кекавский край</region>
+    <district>Валдлаучи</district>
+    <id>180727</id>
+  </point>
+  <point>
+    <name>Вимбукрогс</name>
+    <region>Кекавский край</region>
+    <district>Вимбукрогс</district>
+    <id>180730</id>
+  </point>
+  <point>
+    <name>Даугмале</name>
+    <region>Кекавский край</region>
+    <district>Даугмале</district>
+    <id>180686</id>
+  </point>
+  <point>
+    <name>Зиедонис</name>
+    <region>Кекавский край</region>
+    <district>Зиедонис</district>
+    <id>180732</id>
+  </point>
+  <point>
+    <name>Одукалнс</name>
+    <region>Кекавский край</region>
+    <district>Одукалнс</district>
+    <id>180711</id>
+  </point>
+  <point>
+    <name>Янупе</name>
+    <region>Кекавский край</region>
+    <district>Янупе</district>
+    <id>180695</id>
+  </point>
+  <point>
+    <name>Кокнесе</name>
+    <region>Кокнесский край</region>
+    <district>Кокнесе</district>
+    <id>180292</id>
+  </point>
+  <point>
+    <name>Вецбебри</name>
+    <region>Кокнесский край</region>
+    <district>Вецбебри</district>
+    <id>180304</id>
+  </point>
+  <point>
+    <name>Ирши</name>
+    <region>Кокнесский край</region>
+    <district>Ирши</district>
+    <id>180290</id>
+  </point>
+  <point>
+    <name>Коцены</name>
+    <region>Коценский край</region>
+    <district>Коцены</district>
+    <id>180817</id>
+  </point>
+  <point>
+    <name>Берзаине</name>
+    <region>Коценский край</region>
+    <district>Берзаине</district>
+    <id>180811</id>
+  </point>
+  <point>
+    <name>Дикли</name>
+    <region>Коценский край</region>
+    <district>Дикли</district>
+    <id>180814</id>
+  </point>
+  <point>
+    <name>Зилайскалнс</name>
+    <region>Коценский край</region>
+    <district>Зилайскалнс</district>
+    <id>180833</id>
+  </point>
+  <point>
+    <name>Вайдава</name>
+    <region>Коценский край</region>
+    <district>Вайдава</district>
+    <id>180827</id>
+  </point>
+  <point>
+    <name>Краслава</name>
+    <region>Краславский край</region>
+    <district>Краслава</district>
+    <id>152335</id>
+  </point>
+  <point>
+    <name>Индра</name>
+    <region>Краславский край</region>
+    <district>Индра</district>
+    <id>180498</id>
+  </point>
+  <point>
+    <name>Пиедруя</name>
+    <region>Краславский край</region>
+    <district>Пиедруя</district>
+    <id>180506</id>
+  </point>
+  <point>
+    <name>Скаиста</name>
+    <region>Краславский край</region>
+    <district>Скаиста</district>
+    <id>180510</id>
+  </point>
+  <point>
+    <name>Аугсткалне</name>
+    <region>Краславский край</region>
+    <district>Аугсткалне</district>
+    <id>180493</id>
+  </point>
+  <point>
+    <name>Аулея</name>
+    <region>Краславский край</region>
+    <district>Аулея</district>
+    <id>180494</id>
+  </point>
+  <point>
+    <name>Извалда</name>
+    <region>Краславский край</region>
+    <district>Извалда</district>
+    <id>180499</id>
+  </point>
+  <point>
+    <name>Калниеши</name>
+    <region>Краславский край</region>
+    <district>Калниеши</district>
+    <id>180500</id>
+  </point>
+  <point>
+    <name>Каплава</name>
+    <region>Краславский край</region>
+    <district>Каплава</district>
+    <id>180501</id>
+  </point>
+  <point>
+    <name>Комбули / Кумбулс</name>
+    <region>Краславский край</region>
+    <district>Комбули / Кумбулс</district>
+    <id>180502</id>
+  </point>
+  <point>
+    <name>Константинова</name>
+    <region>Краславский край</region>
+    <district>Константинова</district>
+    <id>180503</id>
+  </point>
+  <point>
+    <name>Пустыня</name>
+    <region>Краславский край</region>
+    <district>Пустыня</district>
+    <id>180509</id>
+  </point>
+  <point>
+    <name>Эзеркалнс</name>
+    <region>Краславский край</region>
+    <district>Эзеркалнс</district>
+    <id>180495</id>
+  </point>
+  <point>
+    <name>Инциемс</name>
+    <region>Кримулдский край</region>
+    <district>Инциемс</district>
+    <id>180693</id>
+  </point>
+  <point>
+    <name>Ледурга</name>
+    <region>Кримулдский край</region>
+    <district>Ледурга</district>
+    <id>180562</id>
+  </point>
+  <point>
+    <name>Рагана</name>
+    <region>Кримулдский край</region>
+    <district>Рагана</district>
+    <id>180714</id>
+  </point>
+  <point>
+    <name>Аташена</name>
+    <region>Крустпилсский край</region>
+    <district>Аташена</district>
+    <id>180471</id>
+  </point>
+  <point>
+    <name>Вариеши</name>
+    <region>Крустпилсский край</region>
+    <district>Вариеши</district>
+    <id>180486</id>
+  </point>
+  <point>
+    <name>Випе</name>
+    <region>Крустпилсский край</region>
+    <district>Випе</district>
+    <id>180488</id>
+  </point>
+  <point>
+    <name>Зилани</name>
+    <region>Крустпилсский край</region>
+    <district>Зилани</district>
+    <id>9828</id>
+  </point>
+  <point>
+    <name>Межаре</name>
+    <region>Крустпилсский край</region>
+    <district>Межаре</district>
+    <id>180479</id>
+  </point>
+  <point>
+    <name>Спунгени</name>
+    <region>Крустпилсский край</region>
+    <district>Спунгени</district>
+    <id>180484</id>
+  </point>
+  <point>
+    <name>Кулдига</name>
+    <region>Кулдигский край</region>
+    <district>Кулдига</district>
+    <id>152334</id>
+  </point>
+  <point>
+    <name>Варме</name>
+    <region>Кулдигский край</region>
+    <district>Варме</district>
+    <id>180531</id>
+  </point>
+  <point>
+    <name>Кабиле</name>
+    <region>Кулдигский край</region>
+    <district>Кабиле</district>
+    <id>180520</id>
+  </point>
+  <point>
+    <name>Ренда</name>
+    <region>Кулдигский край</region>
+    <district>Ренда</district>
+    <id>180526</id>
+  </point>
+  <point>
+    <name>Вилгале</name>
+    <region>Кулдигский край</region>
+    <district>Вилгале</district>
+    <id>180532</id>
+  </point>
+  <point>
+    <name>Гудениеки</name>
+    <region>Кулдигский край</region>
+    <district>Гудениеки</district>
+    <id>180518</id>
+  </point>
+  <point>
+    <name>Дексне</name>
+    <region>Кулдигский край</region>
+    <district>Дексне</district>
+    <id>180515</id>
+  </point>
+  <point>
+    <name>Иванде</name>
+    <region>Кулдигский край</region>
+    <district>Иванде</district>
+    <id>180519</id>
+  </point>
+  <point>
+    <name>Лаиди</name>
+    <region>Кулдигский край</region>
+    <district>Лаиди</district>
+    <id>180521</id>
+  </point>
+  <point>
+    <name>Межвалде</name>
+    <region>Кулдигский край</region>
+    <district>Межвалде</district>
+    <id>180522</id>
+  </point>
+  <point>
+    <name>Пелчи</name>
+    <region>Кулдигский край</region>
+    <district>Пелчи</district>
+    <id>180523</id>
+  </point>
+  <point>
+    <name>Приедаине</name>
+    <region>Кулдигский край</region>
+    <district>Приедаине</district>
+    <id>180524</id>
+  </point>
+  <point>
+    <name>Снепеле</name>
+    <region>Кулдигский край</region>
+    <district>Снепеле</district>
+    <id>180529</id>
+  </point>
+  <point>
+    <name>Турлава</name>
+    <region>Кулдигский край</region>
+    <district>Турлава</district>
+    <id>180530</id>
+  </point>
+  <point>
+    <name>Эдоле</name>
+    <region>Кулдигский край</region>
+    <district>Эдоле</district>
+    <id>180517</id>
+  </point>
+  <point>
+    <name>Ливаны</name>
+    <region>Ливанский край</region>
+    <district>Ливаны</district>
+    <id>152333</id>
+  </point>
+  <point>
+    <name>Рожупе</name>
+    <region>Ливанский край</region>
+    <district>Рожупе</district>
+    <id>180640</id>
+  </point>
+  <point>
+    <name>Рудзаты</name>
+    <region>Ливанский край</region>
+    <district>Рудзаты</district>
+    <id>180641</id>
+  </point>
+  <point>
+    <name>Упениеки / Упиники</name>
+    <region>Ливанский край</region>
+    <district>Упениеки / Упиники</district>
+    <id>180646</id>
+  </point>
+  <point>
+    <name>Лигатне</name>
+    <region>Лигатненский край</region>
+    <district>Лигатне</district>
+    <id>180371</id>
+  </point>
+  <point>
+    <name>Аугслигатне</name>
+    <region>Лигатненский край</region>
+    <district>Аугслигатне</district>
+    <id>180364</id>
+  </point>
+  <point>
+    <name>Лиелварде</name>
+    <region>Лиелвардский край</region>
+    <district>Лиелварде</district>
+    <id>180626</id>
+  </point>
+  <point>
+    <name>Крапе</name>
+    <region>Лиелвардский край</region>
+    <district>Крапе</district>
+    <id>180622</id>
+  </point>
+  <point>
+    <name>Юмправа</name>
+    <region>Лиелвардский край</region>
+    <district>Юмправа</district>
+    <id>180619</id>
+  </point>
+  <point>
+    <name>Лиепая (аэропорт)</name>
+    <region>Лиепайский край</region>
+    <district>Лиепая (аэропорт)</district>
+    <id>9821</id>
+  </point>
+  <point>
+    <name>Лимбажи</name>
+    <region>Лимбажский край</region>
+    <district>Лимбажи</district>
+    <id>151296</id>
+  </point>
+  <point>
+    <name>Мусткални</name>
+    <region>Лимбажский край</region>
+    <district>Мусткални</district>
+    <id>180564</id>
+  </point>
+  <point>
+    <name>Пале</name>
+    <region>Лимбажский край</region>
+    <district>Пале</district>
+    <id>180566</id>
+  </point>
+  <point>
+    <name>Умурга</name>
+    <region>Лимбажский край</region>
+    <district>Умурга</district>
+    <id>180570</id>
+  </point>
+  <point>
+    <name>Вилкене</name>
+    <region>Лимбажский край</region>
+    <district>Вилкене</district>
+    <id>180571</id>
+  </point>
+  <point>
+    <name>Озолайне</name>
+    <region>Лимбажский край</region>
+    <district>Озолайне</district>
+    <id>180565</id>
+  </point>
+  <point>
+    <name>Поциемс</name>
+    <region>Лимбажский край</region>
+    <district>Поциемс</district>
+    <id>180567</id>
+  </point>
+  <point>
+    <name>Пуйкуле</name>
+    <region>Лимбажский край</region>
+    <district>Пуйкуле</district>
+    <id>180568</id>
+  </point>
+  <point>
+    <name>Лубана</name>
+    <region>Лубанский край</region>
+    <district>Лубана</district>
+    <id>180609</id>
+  </point>
+  <point>
+    <name>Лудза</name>
+    <region>Лудзенский край</region>
+    <district>Лудза</district>
+    <id>151285</id>
+  </point>
+  <point>
+    <name>Вецслобода</name>
+    <region>Лудзенский край</region>
+    <district>Вецслобода</district>
+    <id>180593</id>
+  </point>
+  <point>
+    <name>Пасиене</name>
+    <region>Лудзенский край</region>
+    <district>Пасиене</district>
+    <id>180587</id>
+  </point>
+  <point>
+    <name>Бриги</name>
+    <region>Лудзенский край</region>
+    <district>Бриги</district>
+    <id>180574</id>
+  </point>
+  <point>
+    <name>Дзеркали</name>
+    <region>Лудзенский край</region>
+    <district>Дзеркали</district>
+    <id>141673</id>
+  </point>
+  <point>
+    <name>Кивдолова / Киудолова</name>
+    <region>Лудзенский край</region>
+    <district>Кивдолова / Киудолова</district>
+    <id>180578</id>
+  </point>
+  <point>
+    <name>Мартиси</name>
+    <region>Лудзенский край</region>
+    <district>Мартиси</district>
+    <id>180582</id>
+  </point>
+  <point>
+    <name>Нирза</name>
+    <region>Лудзенский край</region>
+    <district>Нирза</district>
+    <id>180585</id>
+  </point>
+  <point>
+    <name>Нукши</name>
+    <region>Лудзенский край</region>
+    <district>Нукши</district>
+    <id>180586</id>
+  </point>
+  <point>
+    <name>Пилда</name>
+    <region>Лудзенский край</region>
+    <district>Пилда</district>
+    <id>180588</id>
+  </point>
+  <point>
+    <name>Рундани</name>
+    <region>Лудзенский край</region>
+    <district>Рундани</district>
+    <id>180590</id>
+  </point>
+  <point>
+    <name>Тутани / Тутини</name>
+    <region>Лудзенский край</region>
+    <district>Тутани / Тутини</district>
+    <id>180592</id>
+  </point>
+  <point>
+    <name>Мадона</name>
+    <region>Мадонский край</region>
+    <district>Мадона</district>
+    <id>152332</id>
+  </point>
+  <point>
+    <name>Баркава</name>
+    <region>Мадонский край</region>
+    <district>Баркава</district>
+    <id>180596</id>
+  </point>
+  <point>
+    <name>Биксире</name>
+    <region>Мадонский край</region>
+    <district>Биксире</district>
+    <id>180598</id>
+  </point>
+  <point>
+    <name>Дегумниеки</name>
+    <region>Мадонский край</region>
+    <district>Дегумниеки</district>
+    <id>180599</id>
+  </point>
+  <point>
+    <name>Берзауне</name>
+    <region>Мадонский край</region>
+    <district>Берзауне</district>
+    <id>180597</id>
+  </point>
+  <point>
+    <name>Вестиена</name>
+    <region>Мадонский край</region>
+    <district>Вестиена</district>
+    <id>180617</id>
+  </point>
+  <point>
+    <name>Дзелзава</name>
+    <region>Мадонский край</region>
+    <district>Дзелзава</district>
+    <id>180600</id>
+  </point>
+  <point>
+    <name>Куса</name>
+    <region>Мадонский край</region>
+    <district>Куса</district>
+    <id>180605</id>
+  </point>
+  <point>
+    <name>Лаздона</name>
+    <region>Мадонский край</region>
+    <district>Лаздона</district>
+    <id>180607</id>
+  </point>
+  <point>
+    <name>Лиезере</name>
+    <region>Мадонский край</region>
+    <district>Лиезере</district>
+    <id>180608</id>
+  </point>
+  <point>
+    <name>Ляудона</name>
+    <region>Мадонский край</region>
+    <district>Ляудона</district>
+    <id>180606</id>
+  </point>
+  <point>
+    <name>Марциена</name>
+    <region>Мадонский край</region>
+    <district>Марциена</district>
+    <id>180610</id>
+  </point>
+  <point>
+    <name>Метриена</name>
+    <region>Мадонский край</region>
+    <district>Метриена</district>
+    <id>180611</id>
+  </point>
+  <point>
+    <name>Праулиена</name>
+    <region>Мадонский край</region>
+    <district>Праулиена</district>
+    <id>180613</id>
+  </point>
+  <point>
+    <name>Саулескалнс</name>
+    <region>Мадонский край</region>
+    <district>Саулескалнс</district>
+    <id>180614</id>
+  </point>
+  <point>
+    <name>Яункалснава</name>
+    <region>Мадонский край</region>
+    <district>Яункалснава</district>
+    <id>180602</id>
+  </point>
+  <point>
+    <name>Мазсалаца</name>
+    <region>Мазсалацский край</region>
+    <district>Мазсалаца</district>
+    <id>180820</id>
+  </point>
+  <point>
+    <name>Рамата</name>
+    <region>Мазсалацский край</region>
+    <district>Рамата</district>
+    <id>180823</id>
+  </point>
+  <point>
+    <name>Селю</name>
+    <region>Мазсалацский край</region>
+    <district>Селю</district>
+    <id>180825</id>
+  </point>
+  <point>
+    <name>Сканькалне</name>
+    <region>Мазсалацский край</region>
+    <district>Сканькалне</district>
+    <id>180826</id>
+  </point>
+  <point>
+    <name>Малпилс</name>
+    <region>Малпилсский край</region>
+    <district>Малпилс</district>
+    <id>180707</id>
+  </point>
+  <point>
+    <name>Марупе</name>
+    <region>Марупский край</region>
+    <district>Марупе</district>
+    <id>180708</id>
+  </point>
+  <point>
+    <name>Скулте (аэропорт)</name>
+    <region>Марупский край</region>
+    <district>Скулте (аэропорт)</district>
+    <id>180719</id>
+  </point>
+  <point>
+    <name>Тираине</name>
+    <region>Марупский край</region>
+    <district>Тираине</district>
+    <id>180723</id>
+  </point>
+  <point>
+    <name>Яунмарупе</name>
+    <region>Марупский край</region>
+    <district>Яунмарупе</district>
+    <id>180696</id>
+  </point>
+  <point>
+    <name>Наукшени</name>
+    <region>Наукшенский край</region>
+    <district>Наукшени</district>
+    <id>180822</id>
+  </point>
+  <point>
+    <name>Руйиена</name>
+    <region>Наукшенский край</region>
+    <district>Руйиена</district>
+    <id>9807</id>
+  </point>
+  <point>
+    <name>Нерета</name>
+    <region>Неретский край</region>
+    <district>Нерета</district>
+    <id>180295</id>
+  </point>
+  <point>
+    <name>Залве</name>
+    <region>Неретский край</region>
+    <district>Залве</district>
+    <id>180306</id>
+  </point>
+  <point>
+    <name>Пилскалне</name>
+    <region>Неретский край</region>
+    <district>Пилскалне</district>
+    <id>180296</id>
+  </point>
+  <point>
+    <name>Эрберге</name>
+    <region>Неретский край</region>
+    <district>Эрберге</district>
+    <id>180289</id>
+  </point>
+  <point>
+    <name>Ница</name>
+    <region>Ницский край</region>
+    <district>Ница</district>
+    <id>180547</id>
+  </point>
+  <point>
+    <name>Руде</name>
+    <region>Ницский край</region>
+    <district>Руде</district>
+    <id>180552</id>
+  </point>
+  <point>
+    <name>Огре</name>
+    <region>Огрский край</region>
+    <district>Огре</district>
+    <id>151238</id>
+  </point>
+  <point>
+    <name>Мадлиена</name>
+    <region>Огрский край</region>
+    <district>Мадлиена</district>
+    <id>180627</id>
+  </point>
+  <point>
+    <name>Огресгалс / Карли</name>
+    <region>Огрский край</region>
+    <district>Огресгалс / Карли</district>
+    <id>180629</id>
+  </point>
+  <point>
+    <name>Сунтажи</name>
+    <region>Огрский край</region>
+    <district>Сунтажи</district>
+    <id>180631</id>
+  </point>
+  <point>
+    <name>Кейпене</name>
+    <region>Огрский край</region>
+    <district>Кейпене</district>
+    <id>180621</id>
+  </point>
+  <point>
+    <name>Лаубере</name>
+    <region>Огрский край</region>
+    <district>Лаубере</district>
+    <id>180623</id>
+  </point>
+  <point>
+    <name>Ледмане</name>
+    <region>Огрский край</region>
+    <district>Ледмане</district>
+    <id>180624</id>
+  </point>
+  <point>
+    <name>Личупе</name>
+    <region>Огрский край</region>
+    <district>Личупе</district>
+    <id>180625</id>
+  </point>
+  <point>
+    <name>Меньгеле</name>
+    <region>Огрский край</region>
+    <district>Меньгеле</district>
+    <id>180628</id>
+  </point>
+  <point>
+    <name>Таурупе</name>
+    <region>Огрский край</region>
+    <district>Таурупе</district>
+    <id>180632</id>
+  </point>
+  <point>
+    <name>Озолниеки</name>
+    <region>Озолниекский край</region>
+    <district>Озолниеки</district>
+    <id>180459</id>
+  </point>
+  <point>
+    <name>Ане</name>
+    <region>Озолниекский край</region>
+    <district>Ане</district>
+    <id>180450</id>
+  </point>
+  <point>
+    <name>Бранкас</name>
+    <region>Озолниекский край</region>
+    <district>Бранкас</district>
+    <id>180452</id>
+  </point>
+  <point>
+    <name>Ембурга</name>
+    <region>Озолниекский край</region>
+    <district>Ембурга</district>
+    <id>180454</id>
+  </point>
+  <point>
+    <name>Олайне</name>
+    <region>Олайнский край</region>
+    <district>Олайне</district>
+    <id>152331</id>
+  </point>
+  <point>
+    <name>Стуниси</name>
+    <region>Олайнский край</region>
+    <district>Стуниси</district>
+    <id>180722</id>
+  </point>
+  <point>
+    <name>Яунолайне</name>
+    <region>Олайнский край</region>
+    <district>Яунолайне</district>
+    <id>180697</id>
+  </point>
+  <point>
+    <name>Павилоста</name>
+    <region>Павилостский край</region>
+    <district>Павилоста</district>
+    <id>9820</id>
+  </point>
+  <point>
+    <name>Вергале</name>
+    <region>Павилостский край</region>
+    <district>Вергале</district>
+    <id>180557</id>
+  </point>
+  <point>
+    <name>Сака</name>
+    <region>Павилостский край</region>
+    <district>Сака</district>
+    <id>180553</id>
+  </point>
+  <point>
+    <name>Плацис</name>
+    <region>Паргауйский край</region>
+    <district>Плацис</district>
+    <id>180375</id>
+  </point>
+  <point>
+    <name>Райскумо</name>
+    <region>Паргауйский край</region>
+    <district>Райскумо</district>
+    <id>180376</id>
+  </point>
+  <point>
+    <name>Сталбе</name>
+    <region>Паргауйский край</region>
+    <district>Сталбе</district>
+    <id>180379</id>
+  </point>
+  <point>
+    <name>Страупе</name>
+    <region>Паргауйский край</region>
+    <district>Страупе</district>
+    <id>180380</id>
+  </point>
+  <point>
+    <name>Пилсрундале</name>
+    <region>Рундальский край</region>
+    <district>Пилсрундале</district>
+    <id>180355</id>
+  </point>
+  <point>
+    <name>Берстеле</name>
+    <region>Рундальский край</region>
+    <district>Берстеле</district>
+    <id>180344</id>
+  </point>
+  <point>
+    <name>Саулаине</name>
+    <region>Рундальский край</region>
+    <district>Саулаине</district>
+    <id>180357</id>
+  </point>
+  <point>
+    <name>Свитене</name>
+    <region>Рундальский край</region>
+    <district>Свитене</district>
+    <id>180359</id>
+  </point>
+  <point>
+    <name>Плявиняс</name>
+    <region>Плявиньский край</region>
+    <district>Плявиняс</district>
+    <id>180297</id>
+  </point>
+  <point>
+    <name>Виеталва</name>
+    <region>Плявиньский край</region>
+    <district>Виеталва</district>
+    <id>180305</id>
+  </point>
+  <point>
+    <name>Крискални</name>
+    <region>Плявиньский край</region>
+    <district>Крискални</district>
+    <id>180293</id>
+  </point>
+  <point>
+    <name>Стукмани</name>
+    <region>Плявиньский край</region>
+    <district>Стукмани</district>
+    <id>180301</id>
+  </point>
+  <point>
+    <name>Прейли</name>
+    <region>Прейльский край</region>
+    <district>Прейли</district>
+    <id>152330</id>
+  </point>
+  <point>
+    <name>Айзкалне</name>
+    <region>Прейльский край</region>
+    <district>Айзкалне</district>
+    <id>180635</id>
+  </point>
+  <point>
+    <name>Пелечи / Пелечис</name>
+    <region>Прейльский край</region>
+    <district>Пелечи / Пелечис</district>
+    <id>180637</id>
+  </point>
+  <point>
+    <name>Сутри</name>
+    <region>Прейльский край</region>
+    <district>Сутри</district>
+    <id>180645</id>
+  </point>
+  <point>
+    <name>Стабулниеки</name>
+    <region>Прейльский край</region>
+    <district>Стабулниеки</district>
+    <id>180644</id>
+  </point>
+  <point>
+    <name>Приекуле</name>
+    <region>Приекульский край (Курземе)</region>
+    <district>Приекуле</district>
+    <id>180549</id>
+  </point>
+  <point>
+    <name>Бунка</name>
+    <region>Приекульский край (Курземе)</region>
+    <district>Бунка</district>
+    <id>180534</id>
+  </point>
+  <point>
+    <name>Грамзда</name>
+    <region>Приекульский край (Курземе)</region>
+    <district>Грамзда</district>
+    <id>180540</id>
+  </point>
+  <point>
+    <name>Паплака</name>
+    <region>Приекульский край (Курземе)</region>
+    <district>Паплака</district>
+    <id>180548</id>
+  </point>
+  <point>
+    <name>Калети</name>
+    <region>Приекульский край (Курземе)</region>
+    <district>Калети</district>
+    <id>180542</id>
+  </point>
+  <point>
+    <name>Приекули</name>
+    <region>Приекульский край (Видземе)</region>
+    <district>Приекули</district>
+    <id>9816</id>
+  </point>
+  <point>
+    <name>Лиепа</name>
+    <region>Приекульский край (Видземе)</region>
+    <district>Лиепа</district>
+    <id>151236</id>
+  </point>
+  <point>
+    <name>Марснени</name>
+    <region>Приекульский край (Видземе)</region>
+    <district>Марснени</district>
+    <id>180372</id>
+  </point>
+  <point>
+    <name>Янмуижа</name>
+    <region>Приекульский край (Видземе)</region>
+    <district>Янмуижа</district>
+    <id>180368</id>
+  </point>
+  <point>
+    <name>Веселава</name>
+    <region>Приекульский край (Видземе)</region>
+    <district>Веселава</district>
+    <id>180384</id>
+  </point>
+  <point>
+    <name>Рауна</name>
+    <region>Раунский край</region>
+    <district>Рауна</district>
+    <id>180377</id>
+  </point>
+  <point>
+    <name>Друсти</name>
+    <region>Раунский край</region>
+    <district>Друсти</district>
+    <id>180365</id>
+  </point>
+  <point>
+    <name>Резекне</name>
+    <region>Резекненский край</region>
+    <district>Резекне</district>
+    <id>9829</id>
+  </point>
+  <point>
+    <name>Кауната</name>
+    <region>Резекненский край</region>
+    <district>Кауната</district>
+    <id>180659</id>
+  </point>
+  <point>
+    <name>Лузнава</name>
+    <region>Резекненский край</region>
+    <district>Лузнава</district>
+    <id>180663</id>
+  </point>
+  <point>
+    <name>Малта</name>
+    <region>Резекненский край</region>
+    <district>Малта</district>
+    <id>141689</id>
+  </point>
+  <point>
+    <name>Аудрини</name>
+    <region>Резекненский край</region>
+    <district>Аудрини</district>
+    <id>180649</id>
+  </point>
+  <point>
+    <name>Бекси</name>
+    <region>Резекненский край</region>
+    <district>Бекси</district>
+    <id>180650</id>
+  </point>
+  <point>
+    <name>Берзгале</name>
+    <region>Резекненский край</region>
+    <district>Берзгале</district>
+    <id>180651</id>
+  </point>
+  <point>
+    <name>Гайгалава</name>
+    <region>Резекненский край</region>
+    <district>Гайгалава</district>
+    <id>180656</id>
+  </point>
+  <point>
+    <name>Горница</name>
+    <region>Резекненский край</region>
+    <district>Горница</district>
+    <id>180657</id>
+  </point>
+  <point>
+    <name>Дрицены</name>
+    <region>Резекненский край</region>
+    <district>Дрицены</district>
+    <id>180654</id>
+  </point>
+  <point>
+    <name>Илзескалнс / Илзуколнс</name>
+    <region>Резекненский край</region>
+    <district>Илзескалнс / Илзуколнс</district>
+    <id>180658</id>
+  </point>
+  <point>
+    <name>Ленджи</name>
+    <region>Резекненский край</region>
+    <district>Ленджи</district>
+    <id>180660</id>
+  </point>
+  <point>
+    <name>Липушки</name>
+    <region>Резекненский край</region>
+    <district>Липушки</district>
+    <id>180661</id>
+  </point>
+  <point>
+    <name>Лиуза</name>
+    <region>Резекненский край</region>
+    <district>Лиуза</district>
+    <id>180662</id>
+  </point>
+  <point>
+    <name>Межвиди / Межавиди</name>
+    <region>Резекненский край</region>
+    <district>Межвиди / Межавиди</district>
+    <id>180584</id>
+  </point>
+  <point>
+    <name>Нагли</name>
+    <region>Резекненский край</region>
+    <district>Нагли</district>
+    <id>180664</id>
+  </point>
+  <point>
+    <name>Озолмуйжа / Озулмуйжа</name>
+    <region>Резекненский край</region>
+    <district>Озолмуйжа / Озулмуйжа</district>
+    <id>180665</id>
+  </point>
+  <point>
+    <name>Пуша</name>
+    <region>Резекненский край</region>
+    <district>Пуша</district>
+    <id>180666</id>
+  </point>
+  <point>
+    <name>Рикава</name>
+    <region>Резекненский край</region>
+    <district>Рикава</district>
+    <id>180667</id>
+  </point>
+  <point>
+    <name>Роговка</name>
+    <region>Резекненский край</region>
+    <district>Роговка</district>
+    <id>180668</id>
+  </point>
+  <point>
+    <name>Сакстагалс / Сакстаголс</name>
+    <region>Резекненский край</region>
+    <district>Сакстагалс / Сакстаголс</district>
+    <id>180669</id>
+  </point>
+  <point>
+    <name>Сондори</name>
+    <region>Резекненский край</region>
+    <district>Сондори</district>
+    <id>180670</id>
+  </point>
+  <point>
+    <name>Спружева / Спружова</name>
+    <region>Резекненский край</region>
+    <district>Спружева / Спружова</district>
+    <id>180671</id>
+  </point>
+  <point>
+    <name>Столерово</name>
+    <region>Резекненский край</region>
+    <district>Столерово</district>
+    <id>180672</id>
+  </point>
+  <point>
+    <name>Стружани / Яунстружани</name>
+    <region>Резекненский край</region>
+    <district>Стружани / Яунстружани</district>
+    <id>180674</id>
+  </point>
+  <point>
+    <name>Фейманы</name>
+    <region>Резекненский край</region>
+    <district>Фейманы</district>
+    <id>180655</id>
+  </point>
+  <point>
+    <name>Чорная / Чорна</name>
+    <region>Резекненский край</region>
+    <district>Чорная / Чорна</district>
+    <id>180652</id>
+  </point>
+  <point>
+    <name>Рига</name>
+    <region>Рига</region>
+    <district>Рига</district>
+    <id>9823</id>
+  </point>
+  <point>
+    <name>Рига (аэропорт)</name>
+    <region>Рига</region>
+    <district>Рига (аэропорт)</district>
+    <id>508145</id>
+  </point>
+  <point>
+    <name>Риебини / Рибиниски</name>
+    <region>Риебиньский край</region>
+    <district>Риебини / Рибиниски</district>
+    <id>180638</id>
+  </point>
+  <point>
+    <name>Аглонас</name>
+    <region>Риебиньский край</region>
+    <district>Аглонас</district>
+    <id>180634</id>
+  </point>
+  <point>
+    <name>Силаяни</name>
+    <region>Риебиньский край</region>
+    <district>Силаяни</district>
+    <id>180642</id>
+  </point>
+  <point>
+    <name>Силюкалнс</name>
+    <region>Риебиньский край</region>
+    <district>Силюкалнс</district>
+    <id>180643</id>
+  </point>
+  <point>
+    <name>Галени</name>
+    <region>Риебиньский край</region>
+    <district>Галени</district>
+    <id>180636</id>
+  </point>
+  <point>
+    <name>Ропажи</name>
+    <region>Ропажский край</region>
+    <district>Ропажи</district>
+    <id>180715</id>
+  </point>
+  <point>
+    <name>Закумуиза</name>
+    <region>Ропажский край</region>
+    <district>Закумуиза</district>
+    <id>180731</id>
+  </point>
+  <point>
+    <name>Муцениеки</name>
+    <region>Ропажский край</region>
+    <district>Муцениеки</district>
+    <id>180710</id>
+  </point>
+  <point>
+    <name>Силакрогс</name>
+    <region>Ропажский край</region>
+    <district>Силакрогс</district>
+    <id>180718</id>
+  </point>
+  <point>
+    <name>Как</name>
+    <region>Ропажский край</region>
+    <district>Как</district>
+    <id>180699</id>
+  </point>
+  <point>
+    <name>Роя</name>
+    <region>Ройский край</region>
+    <district>Роя</district>
+    <id>180764</id>
+  </point>
+  <point>
+    <name>Мерсрагс</name>
+    <region>Ройский край</region>
+    <district>Мерсрагс</district>
+    <id>9814</id>
+  </point>
+  <point>
+    <name>Ругаи</name>
+    <region>Ругайский край</region>
+    <district>Ругаи</district>
+    <id>151276</id>
+  </point>
+  <point>
+    <name>Бенислава / Бенислова</name>
+    <region>Ругайский край</region>
+    <district>Бенислава / Бенислова</district>
+    <id>180327</id>
+  </point>
+  <point>
+    <name>Вилпулка</name>
+    <region>Руйиенский край</region>
+    <district>Вилпулка</district>
+    <id>180832</id>
+  </point>
+  <point>
+    <name>Жери</name>
+    <region>Руйиенский край</region>
+    <district>Жери</district>
+    <id>180816</id>
+  </point>
+  <point>
+    <name>Лоде</name>
+    <region>Руйиенский край</region>
+    <district>Лоде</district>
+    <id>180818</id>
+  </point>
+  <point>
+    <name>Ипики</name>
+    <region>Руйиенский край</region>
+    <district>Ипики</district>
+    <id>180815</id>
+  </point>
+  <point>
+    <name>Руцава</name>
+    <region>Руцавский край</region>
+    <district>Руцава</district>
+    <id>180551</id>
+  </point>
+  <point>
+    <name>Сиксни</name>
+    <region>Руцавский край</region>
+    <district>Сиксни</district>
+    <id>180554</id>
+  </point>
+  <point>
+    <name>Саласпилс</name>
+    <region>Саласпилсский край</region>
+    <district>Саласпилс</district>
+    <id>152328</id>
+  </point>
+  <point>
+    <name>Ацоне</name>
+    <region>Саласпилсский край</region>
+    <district>Ацоне</district>
+    <id>180676</id>
+  </point>
+  <point>
+    <name>Саулналне</name>
+    <region>Саласпилсский край</region>
+    <district>Саулналне</district>
+    <id>180716</id>
+  </point>
+  <point>
+    <name>Салацгрива</name>
+    <region>Салацгривский край</region>
+    <district>Салацгрива</district>
+    <id>152329</id>
+  </point>
+  <point>
+    <name>Айнажи</name>
+    <region>Салацгривский край</region>
+    <district>Айнажи</district>
+    <id>9804</id>
+  </point>
+  <point>
+    <name>Сала</name>
+    <region>Салский край</region>
+    <district>Сала</district>
+    <id>180482</id>
+  </point>
+  <point>
+    <name>Биржи</name>
+    <region>Салский край</region>
+    <district>Биржи</district>
+    <id>180472</id>
+  </point>
+  <point>
+    <name>Селия</name>
+    <region>Салский край</region>
+    <district>Селия</district>
+    <id>180483</id>
+  </point>
+  <point>
+    <name>Салдус</name>
+    <region>Салдусский край</region>
+    <district>Салдус</district>
+    <id>9822</id>
+  </point>
+  <point>
+    <name>Карели</name>
+    <region>Салдусский край</region>
+    <district>Карели</district>
+    <id>180740</id>
+  </point>
+  <point>
+    <name>Руба</name>
+    <region>Салдусский край</region>
+    <district>Руба</district>
+    <id>180747</id>
+  </point>
+  <point>
+    <name>Эзере</name>
+    <region>Салдусский край</region>
+    <district>Эзере</district>
+    <id>180736</id>
+  </point>
+  <point>
+    <name>Вадаксте</name>
+    <region>Салдусский край</region>
+    <district>Вадаксте</district>
+    <id>180751</id>
+  </point>
+  <point>
+    <name>Друва</name>
+    <region>Салдусский край</region>
+    <district>Друва</district>
+    <id>180735</id>
+  </point>
+  <point>
+    <name>Зирни</name>
+    <region>Салдусский край</region>
+    <district>Зирни</district>
+    <id>180752</id>
+  </point>
+  <point>
+    <name>Кални</name>
+    <region>Салдусский край</region>
+    <district>Кални</district>
+    <id>180739</id>
+  </point>
+  <point>
+    <name>Курсиси</name>
+    <region>Салдусский край</region>
+    <district>Курсиси</district>
+    <id>180741</id>
+  </point>
+  <point>
+    <name>Лутрини</name>
+    <region>Салдусский край</region>
+    <district>Лутрини</district>
+    <id>180742</id>
+  </point>
+  <point>
+    <name>Межвиди</name>
+    <region>Салдусский край</region>
+    <district>Межвиди</district>
+    <id>180743</id>
+  </point>
+  <point>
+    <name>Нигранде</name>
+    <region>Салдусский край</region>
+    <district>Нигранде</district>
+    <id>180744</id>
+  </point>
+  <point>
+    <name>Пампали</name>
+    <region>Салдусский край</region>
+    <district>Пампали</district>
+    <id>180745</id>
+  </point>
+  <point>
+    <name>Скеде</name>
+    <region>Салдусский край</region>
+    <district>Скеде</district>
+    <id>180749</id>
+  </point>
+  <point>
+    <name>Стрики</name>
+    <region>Салдусский край</region>
+    <district>Стрики</district>
+    <id>180750</id>
+  </point>
+  <point>
+    <name>Яунауце</name>
+    <region>Салдусский край</region>
+    <district>Яунауце</district>
+    <id>180737</id>
+  </point>
+  <point>
+    <name>Яунлутрини</name>
+    <region>Салдусский край</region>
+    <district>Яунлутрини</district>
+    <id>180738</id>
+  </point>
+  <point>
+    <name>Саулкрасты</name>
+    <region>Саулкрастский край</region>
+    <district>Саулкрасты</district>
+    <id>13550</id>
+  </point>
+  <point>
+    <name>Гравас</name>
+    <region>Саулкрастский край</region>
+    <district>Гравас</district>
+    <id>180560</id>
+  </point>
+  <point>
+    <name>Скулте</name>
+    <region>Саулкрастский край</region>
+    <district>Скулте</district>
+    <id>9815</id>
+  </point>
+  <point>
+    <name>Лоя</name>
+    <region>Сейский край</region>
+    <district>Лоя</district>
+    <id>180706</id>
+  </point>
+  <point>
+    <name>Сигулда</name>
+    <region>Сигулдский край</region>
+    <district>Сигулда</district>
+    <id>152327</id>
+  </point>
+  <point>
+    <name>Аллажи</name>
+    <region>Сигулдский край</region>
+    <district>Аллажи</district>
+    <id>180679</id>
+  </point>
+  <point>
+    <name>Море</name>
+    <region>Сигулдский край</region>
+    <district>Море</district>
+    <id>180709</id>
+  </point>
+  <point>
+    <name>Пелтес</name>
+    <region>Сигулдский край</region>
+    <district>Пелтес</district>
+    <id>180712</id>
+  </point>
+  <point>
+    <name>Скривери</name>
+    <region>Скриверском край</region>
+    <district>Скривери</district>
+    <id>9827</id>
+  </point>
+  <point>
+    <name>Скрунда</name>
+    <region>Скрундский край</region>
+    <district>Скрунда</district>
+    <id>180528</id>
+  </point>
+  <point>
+    <name>Дзелда</name>
+    <region>Скрундский край</region>
+    <district>Дзелда</district>
+    <id>180516</id>
+  </point>
+  <point>
+    <name>Ранки</name>
+    <region>Скрундский край</region>
+    <district>Ранки</district>
+    <id>180525</id>
+  </point>
+  <point>
+    <name>Рудбаржи</name>
+    <region>Скрундский край</region>
+    <district>Рудбаржи</district>
+    <id>180527</id>
+  </point>
+  <point>
+    <name>Смилтене</name>
+    <region>Смилтенский край</region>
+    <district>Смилтене</district>
+    <id>152326</id>
+  </point>
+  <point>
+    <name>Варини</name>
+    <region>Смилтенский край</region>
+    <district>Варини</district>
+    <id>180808</id>
+  </point>
+  <point>
+    <name>Калнамуйжа</name>
+    <region>Смилтенский край</region>
+    <district>Калнамуйжа</district>
+    <id>180799</id>
+  </point>
+  <point>
+    <name>Палсмане</name>
+    <region>Смилтенский край</region>
+    <district>Палсмане</district>
+    <id>180802</id>
+  </point>
+  <point>
+    <name>Билска</name>
+    <region>Смилтенский край</region>
+    <district>Билска</district>
+    <id>180793</id>
+  </point>
+  <point>
+    <name>Бломе</name>
+    <region>Смилтенский край</region>
+    <district>Бломе</district>
+    <id>180794</id>
+  </point>
+  <point>
+    <name>Виземе</name>
+    <region>Смилтенский край</region>
+    <district>Виземе</district>
+    <id>180809</id>
+  </point>
+  <point>
+    <name>Грундзале</name>
+    <region>Смилтенский край</region>
+    <district>Грундзале</district>
+    <id>180797</id>
+  </point>
+  <point>
+    <name>Лаункалне</name>
+    <region>Смилтенский край</region>
+    <district>Лаункалне</district>
+    <id>180801</id>
+  </point>
+  <point>
+    <name>Валодзес</name>
+    <region>Стопиньский край</region>
+    <district>Валодзес</district>
+    <id>180728</id>
+  </point>
+  <point>
+    <name>Дрейлини</name>
+    <region>Стопиньский край</region>
+    <district>Дрейлини</district>
+    <id>180687</id>
+  </point>
+  <point>
+    <name>Личи</name>
+    <region>Стопиньский край</region>
+    <district>Личи</district>
+    <id>180704</id>
+  </point>
+  <point>
+    <name>Сауриеши</name>
+    <region>Стопиньский край</region>
+    <district>Сауриеши</district>
+    <id>180717</id>
+  </point>
+  <point>
+    <name>Улброка</name>
+    <region>Стопиньский край</region>
+    <district>Улброка</district>
+    <id>180724</id>
+  </point>
+  <point>
+    <name>Упеслеяс</name>
+    <region>Стопиньский край</region>
+    <district>Упеслеяс</district>
+    <id>180726</id>
+  </point>
+  <point>
+    <name>Стренчи</name>
+    <region>Стренчский край</region>
+    <district>Стренчи</district>
+    <id>180806</id>
+  </point>
+  <point>
+    <name>Плани</name>
+    <region>Стренчский край</region>
+    <district>Плани</district>
+    <id>180803</id>
+  </point>
+  <point>
+    <name>Седа</name>
+    <region>Стренчский край</region>
+    <district>Седа</district>
+    <id>180804</id>
+  </point>
+  <point>
+    <name>Яунерцены</name>
+    <region>Стренчский край</region>
+    <district>Яунерцены</district>
+    <id>180798</id>
+  </point>
+  <point>
+    <name>Талси</name>
+    <region>Талсинский край</region>
+    <district>Талси</district>
+    <id>152325</id>
+  </point>
+  <point>
+    <name>Лауциене</name>
+    <region>Талсинский край</region>
+    <district>Лауциене</district>
+    <id>180760</id>
+  </point>
+  <point>
+    <name>Сабиле</name>
+    <region>Талсинский край</region>
+    <district>Сабиле</district>
+    <id>180765</id>
+  </point>
+  <point>
+    <name>Стенде</name>
+    <region>Талсинский край</region>
+    <district>Стенде</district>
+    <id>9813</id>
+  </point>
+  <point>
+    <name>Анужи</name>
+    <region>Талсинский край</region>
+    <district>Анужи</district>
+    <id>180753</id>
+  </point>
+  <point>
+    <name>Валгале</name>
+    <region>Талсинский край</region>
+    <district>Валгале</district>
+    <id>180769</id>
+  </point>
+  <point>
+    <name>Валдемарпилс</name>
+    <region>Талсинский край</region>
+    <district>Валдемарпилс</district>
+    <id>180768</id>
+  </point>
+  <point>
+    <name>Вандзене</name>
+    <region>Талсинский край</region>
+    <district>Вандзене</district>
+    <id>180770</id>
+  </point>
+  <point>
+    <name>Дижстенде</name>
+    <region>Талсинский край</region>
+    <district>Дижстенде</district>
+    <id>180754</id>
+  </point>
+  <point>
+    <name>Дурсупе</name>
+    <region>Талсинский край</region>
+    <district>Дурсупе</district>
+    <id>180756</id>
+  </point>
+  <point>
+    <name>Кулциемс</name>
+    <region>Талсинский край</region>
+    <district>Кулциемс</district>
+    <id>180758</id>
+  </point>
+  <point>
+    <name>Лаидзе</name>
+    <region>Талсинский край</region>
+    <district>Лаидзе</district>
+    <id>180759</id>
+  </point>
+  <point>
+    <name>Мундиг</name>
+    <region>Талсинский край</region>
+    <district>Мундиг</district>
+    <id>180761</id>
+  </point>
+  <point>
+    <name>Пастенде</name>
+    <region>Талсинский край</region>
+    <district>Пастенде</district>
+    <id>180762</id>
+  </point>
+  <point>
+    <name>Пунас</name>
+    <region>Талсинский край</region>
+    <district>Пунас</district>
+    <id>180763</id>
+  </point>
+  <point>
+    <name>Стразде</name>
+    <region>Талсинский край</region>
+    <district>Стразде</district>
+    <id>180766</id>
+  </point>
+  <point>
+    <name>Тингере</name>
+    <region>Талсинский край</region>
+    <district>Тингере</district>
+    <id>180767</id>
+  </point>
+  <point>
+    <name>Яунпагастс</name>
+    <region>Талсинский край</region>
+    <district>Яунпагастс</district>
+    <id>180757</id>
+  </point>
+  <point>
+    <name>Аугсткалне</name>
+    <region>Терветский край</region>
+    <district>Аугсткалне</district>
+    <id>180417</id>
+  </point>
+  <point>
+    <name>Букайши</name>
+    <region>Терветский край</region>
+    <district>Букайши</district>
+    <id>180421</id>
+  </point>
+  <point>
+    <name>Зелмени</name>
+    <region>Терветский край</region>
+    <district>Зелмени</district>
+    <id>180436</id>
+  </point>
+  <point>
+    <name>Кронауце</name>
+    <region>Терветский край</region>
+    <district>Кронауце</district>
+    <id>180427</id>
+  </point>
+  <point>
+    <name>Тукумс</name>
+    <region>Тукумсский край</region>
+    <district>Тукумс</district>
+    <id>152324</id>
+  </point>
+  <point>
+    <name>Виениба</name>
+    <region>Тукумсский край</region>
+    <district>Виениба</district>
+    <id>180787</id>
+  </point>
+  <point>
+    <name>Слампе</name>
+    <region>Тукумсский край</region>
+    <district>Слампе</district>
+    <id>180783</id>
+  </point>
+  <point>
+    <name>Туме</name>
+    <region>Тукумсский край</region>
+    <district>Туме</district>
+    <id>180785</id>
+  </point>
+  <point>
+    <name>Абавниеки</name>
+    <region>Тукумсский край</region>
+    <district>Абавниеки</district>
+    <id>180792</id>
+  </point>
+  <point>
+    <name>Джуксте</name>
+    <region>Тукумсский край</region>
+    <district>Джуксте</district>
+    <id>180772</id>
+  </point>
+  <point>
+    <name>Зентене</name>
+    <region>Тукумсский край</region>
+    <district>Зентене</district>
+    <id>180791</id>
+  </point>
+  <point>
+    <name>Ирлава</name>
+    <region>Тукумсский край</region>
+    <district>Ирлава</district>
+    <id>180774</id>
+  </point>
+  <point>
+    <name>Лестене</name>
+    <region>Тукумсский край</region>
+    <district>Лестене</district>
+    <id>180778</id>
+  </point>
+  <point>
+    <name>Пуре</name>
+    <region>Тукумсский край</region>
+    <district>Пуре</district>
+    <id>180780</id>
+  </point>
+  <point>
+    <name>Семе</name>
+    <region>Тукумсский край</region>
+    <district>Семе</district>
+    <id>180782</id>
+  </point>
+  <point>
+    <name>Царникава</name>
+    <region>Царникавский край</region>
+    <district>Царникава</district>
+    <id>180685</id>
+  </point>
+  <point>
+    <name>Гарупе</name>
+    <region>Царникавский край</region>
+    <district>Гарупе</district>
+    <id>180691</id>
+  </point>
+  <point>
+    <name>Калнгале</name>
+    <region>Царникавский край</region>
+    <district>Калнгале</district>
+    <id>180700</id>
+  </point>
+  <point>
+    <name>Лиласте</name>
+    <region>Царникавский край</region>
+    <district>Лиласте</district>
+    <id>180705</id>
+  </point>
+  <point>
+    <name>Гар</name>
+    <region>Царникавский край</region>
+    <district>Гар</district>
+    <id>180689</id>
+  </point>
+  <point>
+    <name>Цесвайне</name>
+    <region>Цесвайнский край</region>
+    <district>Цесвайне</district>
+    <id>141368</id>
+  </point>
+  <point>
+    <name>Цесис</name>
+    <region>Цесисский край</region>
+    <district>Цесис</district>
+    <id>151298</id>
+  </point>
+  <point>
+    <name>Ваиве</name>
+    <region>Цесисский край</region>
+    <district>Ваиве</district>
+    <id>180382</id>
+  </point>
+  <point>
+    <name>Цибла</name>
+    <region>Циблский край</region>
+    <district>Цибла</district>
+    <id>180575</id>
+  </point>
+  <point>
+    <name>Блонти</name>
+    <region>Циблский край</region>
+    <district>Блонти</district>
+    <id>180573</id>
+  </point>
+  <point>
+    <name>Звиргздене / Звиергздине</name>
+    <region>Циблский край</region>
+    <district>Звиргздене / Звиергздине</district>
+    <id>180595</id>
+  </point>
+  <point>
+    <name>Пушмуцова</name>
+    <region>Циблский край</region>
+    <district>Пушмуцова</district>
+    <id>180589</id>
+  </point>
+  <point>
+    <name>Лидумниеки</name>
+    <region>Циблский край</region>
+    <district>Лидумниеки</district>
+    <id>180580</id>
+  </point>
+  <point>
+    <name>Энгуре</name>
+    <region>Энгурский край</region>
+    <district>Энгуре</district>
+    <id>180773</id>
+  </point>
+  <point>
+    <name>Лапмез</name>
+    <region>Энгурский край</region>
+    <district>Лапмез</district>
+    <id>180777</id>
+  </point>
+  <point>
+    <name>Рага</name>
+    <region>Энгурский край</region>
+    <district>Рага</district>
+    <id>180781</id>
+  </point>
+  <point>
+    <name>Смарде</name>
+    <region>Энгурский край</region>
+    <district>Смарде</district>
+    <id>180784</id>
+  </point>
+  <point>
+    <name>Эргли</name>
+    <region>Эргльский край</region>
+    <district>Эргли</district>
+    <id>180601</id>
+  </point>
+  <point>
+    <name>Сидрабини</name>
+    <region>Эргльский край</region>
+    <district>Сидрабини</district>
+    <id>180615</id>
+  </point>
+  <point>
+    <name>Юмурда</name>
+    <region>Эргльский край</region>
+    <district>Юмурда</district>
+    <id>180603</id>
+  </point>
+  <point>
+    <name>Юрмала</name>
+    <region>Юрмала</region>
+    <district>Юрмала</district>
+    <id>152323</id>
+  </point>
+  <point>
+    <name>Яунелгава</name>
+    <region>Яунелгавский край</region>
+    <district>Яунелгава</district>
+    <id>180291</id>
+  </point>
+  <point>
+    <name>Серене</name>
+    <region>Яунелгавский край</region>
+    <district>Серене</district>
+    <id>180299</id>
+  </point>
+  <point>
+    <name>Сеце</name>
+    <region>Яунелгавский край</region>
+    <district>Сеце</district>
+    <id>180298</id>
+  </point>
+  <point>
+    <name>Сунаксте</name>
+    <region>Яунелгавский край</region>
+    <district>Сунаксте</district>
+    <id>180302</id>
+  </point>
+  <point>
+    <name>Даудзева</name>
+    <region>Яунелгавский край</region>
+    <district>Даудзева</district>
+    <id>180288</id>
+  </point>
+  <point>
+    <name>Стабурагс / Виганте</name>
+    <region>Яунелгавский край</region>
+    <district>Стабурагс / Виганте</district>
+    <id>180300</id>
+  </point>
+  <point>
+    <name>Яунпиебалга</name>
+    <region>Яунпиебалгский край</region>
+    <district>Яунпиебалга</district>
+    <id>180369</id>
+  </point>
+  <point>
+    <name>Зосени</name>
+    <region>Яунпиебалгский край</region>
+    <district>Зосени</district>
+    <id>9817</id>
+  </point>
+  <point>
+    <name>Мелнбаржи / Мелбаржи</name>
+    <region>Яунпиебалгский край</region>
+    <district>Мелнбаржи / Мелбаржи</district>
+    <id>180373</id>
+  </point>
+  <point>
+    <name>Яунпилс</name>
+    <region>Яунпилсский край</region>
+    <district>Яунпилс</district>
+    <id>180775</id>
+  </point>
+  <point>
+    <name>Виестас</name>
+    <region>Яунпилсский край</region>
+    <district>Виестас</district>
+    <id>180788</id>
+  </point>
+</country>

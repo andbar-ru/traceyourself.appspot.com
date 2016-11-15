@@ -1,0 +1,74 @@
+<country name="Cameroon" count="12">
+  <point>
+    <name>Ngaoundere</name>
+    <region>Adamawa</region>
+    <district>Ngaoundere</district>
+    <id>10834</id>
+  </point>
+  <point>
+    <name>Yaounde</name>
+    <region>Centre Region</region>
+    <district>Yaounde</district>
+    <id>10847</id>
+  </point>
+  <point>
+    <name>Yaounde / Nsimalen (airport)</name>
+    <region>Centre Region</region>
+    <district>Yaounde / Nsimalen (airport)</district>
+    <id>508834</id>
+  </point>
+  <point>
+    <name>Bertoua</name>
+    <region>East Region</region>
+    <district>Bertoua</district>
+    <id>152381</id>
+  </point>
+  <point>
+    <name>Maroua</name>
+    <region>Far North Region</region>
+    <district>Maroua</district>
+    <id>10832</id>
+  </point>
+  <point>
+    <name>Douala (airport)</name>
+    <region>Littoral Region</region>
+    <district>Douala (airport)</district>
+    <id>10842</id>
+  </point>
+  <point>
+    <name>Garoua</name>
+    <region>North Region</region>
+    <district>Garoua</district>
+    <id>10833</id>
+  </point>
+  <point>
+    <name>Bamenda</name>
+    <region>Northwest Region</region>
+    <district>Bamenda</district>
+    <id>10838</id>
+  </point>
+  <point>
+    <name>Ebolowa</name>
+    <region>South Region</region>
+    <district>Ebolowa</district>
+    <id>152378</id>
+  </point>
+  <point>
+    <name>Buea</name>
+    <region>Southwest Region</region>
+    <district>Buea</district>
+    <id>256172</id>
+  </point>
+  <point>
+    <name>Mamfe</name>
+    <region>Southwest Region</region>
+    <district>Mamfe</district>
+    <id>10837</id>
+  </point>
+  <point>
+    <name>Bafoussam</name>
+    <region>West Region</region>
+    <district>Bafoussam</district>
+    <id>152380</id>
+  </point>
+</country>

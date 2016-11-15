@@ -1,0 +1,1459 @@
+# English translations for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+# search:
+# msgstr ""
+# fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-07-09 14:36+0400\n"
+"PO-Revision-Date: 2014-03-17 17:56+0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: ajax.py:39
+msgid "север"
+msgstr "north"
+
+#: ajax.py:40
+msgid "северо-северо-восток"
+msgstr "north-north-east"
+
+#: ajax.py:41
+msgid "северо-восток"
+msgstr "north-east"
+
+#: ajax.py:42
+msgid "востоко-северо-восток"
+msgstr "east-north-east"
+
+#: ajax.py:43
+msgid "восток"
+msgstr "east"
+
+#: ajax.py:44
+msgid "востоко-юго-восток"
+msgstr "east-south-east"
+
+#: ajax.py:45
+msgid "юго-восток"
+msgstr "south-east"
+
+#: ajax.py:46
+msgid "юго-юго-восток"
+msgstr "south-south-east"
+
+#: ajax.py:47
+msgid "юг"
+msgstr "south"
+
+#: ajax.py:48
+msgid "юго-юго-запад"
+msgstr "south-south-west"
+
+#: ajax.py:49
+msgid "юго-запад"
+msgstr "south-west"
+
+#: ajax.py:50
+msgid "западо-юго-запад"
+msgstr "west-south-west"
+
+#: ajax.py:51
+msgid "запад"
+msgstr "west"
+
+#: ajax.py:52
+msgid "западо-северо-запад"
+msgstr "west-north-west"
+
+#: ajax.py:53
+msgid "северо-запад"
+msgstr "north-west"
+
+#: ajax.py:54
+msgid "северо-северо-запад"
+msgstr "north-north-west"
+
+#: ajax.py:55
+msgid "штиль"
+msgstr "calm"
+
+#: ajax.py:58 ajax.py:62 ajax.py:80
+msgid "С"
+msgstr "N"
+
+#: ajax.py:58 ajax.py:63 ajax.py:81
+msgid "ССВ"
+msgstr "NNE"
+
+#: ajax.py:58 ajax.py:64 ajax.py:82
+msgid "СВ"
+msgstr "NE"
+
+#: ajax.py:58 ajax.py:65 ajax.py:83
+msgid "ВСВ"
+msgstr "ENE"
+
+#: ajax.py:58 ajax.py:66 ajax.py:84
+msgid "В"
+msgstr "E"
+
+#: ajax.py:58 ajax.py:67 ajax.py:85
+msgid "ВЮВ"
+msgstr "ESE"
+
+#: ajax.py:59 ajax.py:68 ajax.py:86
+msgid "ЮВ"
+msgstr "SE"
+
+#: ajax.py:59 ajax.py:69 ajax.py:87
+msgid "ЮЮВ"
+msgstr "SSE"
+
+#: ajax.py:59 ajax.py:70 ajax.py:88
+msgid "Ю"
+msgstr "S"
+
+#: ajax.py:59 ajax.py:71 ajax.py:89
+msgid "ЮЮЗ"
+msgstr "SSW"
+
+#: ajax.py:59 ajax.py:72 ajax.py:90
+msgid "ЮЗ"
+msgstr "SW"
+
+#: ajax.py:59 ajax.py:73 ajax.py:91
+msgid "ЗЮЗ"
+msgstr "WSW"
+
+#: ajax.py:59 ajax.py:74 ajax.py:92
+msgid "З"
+msgstr "W"
+
+#: ajax.py:60 ajax.py:75 ajax.py:93
+msgid "ЗСЗ"
+msgstr "WNW"
+
+#: ajax.py:60 ajax.py:76 ajax.py:94
+msgid "СЗ"
+msgstr "NW"
+
+#: ajax.py:60 ajax.py:77 ajax.py:95
+msgid "ССЗ"
+msgstr "NNW"
+
+#: ajax.py:80
+msgid "северный"
+msgstr "north"
+
+#: ajax.py:81
+msgid "северо-северо-восточный"
+msgstr "north-north-east"
+
+#: ajax.py:82
+msgid "северо-восточный"
+msgstr "north-east"
+
+#: ajax.py:83
+msgid "востоко-северо-восточный"
+msgstr "east-north-east"
+
+#: ajax.py:84
+msgid "восточный"
+msgstr "east"
+
+#: ajax.py:85
+msgid "востоко-юго-восточный"
+msgstr "east-south-east"
+
+#: ajax.py:86
+msgid "юго-восточный"
+msgstr "south-east"
+
+#: ajax.py:87
+msgid "юго-юго-восточный"
+msgstr "south-south-east"
+
+#: ajax.py:88
+msgid "южный"
+msgstr "south"
+
+#: ajax.py:89
+msgid "юго-юго-западный"
+msgstr "south-south-west"
+
+#: ajax.py:90
+msgid "юго-западный"
+msgstr "south-west"
+
+#: ajax.py:91
+msgid "западо-юго-западный"
+msgstr "west-south-west"
+
+#: ajax.py:92
+msgid "западный"
+msgstr "west"
+
+#: ajax.py:93
+msgid "западо-северо-западный"
+msgstr "west-north-west"
+
+#: ajax.py:94
+msgid "северо-западный"
+msgstr "north-west"
+
+#: ajax.py:95
+msgid "северо-северо-западный"
+msgstr "north-north-west"
+
+#: ajax.py:114 ajax.py:138
+msgid "новолуние"
+msgstr "New Moon"
+
+#: ajax.py:115 ajax.py:139
+msgid "растущий серп"
+msgstr "Waxing Crescent"
+
+#: ajax.py:116 ajax.py:140
+msgid "первая четверть"
+msgstr "First Quarter"
+
+#: ajax.py:117 ajax.py:141
+msgid "растущая луна"
+msgstr "Waxing Gibbous"
+
+#: ajax.py:118 ajax.py:142
+msgid "полнолуние"
+msgstr "Full Moon"
+
+#: ajax.py:119 ajax.py:143
+msgid "убывающая луна"
+msgstr "Waning Gibbous"
+
+#: ajax.py:120 ajax.py:144
+msgid "последняя четверть"
+msgstr "Last Quarter"
+
+#: ajax.py:121 ajax.py:145
+msgid "убывающий серп"
+msgstr "Waning Crescent"
+
+#: ajax.py:124 ajax.py:128 ajax.py:138
+msgid "Новолуние"
+msgstr "New Moon"
+
+#: ajax.py:124 ajax.py:129 ajax.py:139
+msgid "Растущий серп"
+msgstr "Waxing Crescent"
+
+#: ajax.py:124 ajax.py:130 ajax.py:140
+msgid "Первая четверть"
+msgstr "First Quarter"
+
+#: ajax.py:125 ajax.py:131 ajax.py:141
+msgid "Растущая луна"
+msgstr "Waxing Gibbous"
+
+#: ajax.py:125 ajax.py:132 ajax.py:142
+msgid "Полнолуние"
+msgstr "Full Moon"
+
+#: ajax.py:125 ajax.py:133 ajax.py:143
+msgid "Убывающая луна"
+msgstr "Waning Gibbous"
+
+#: ajax.py:126 ajax.py:134 ajax.py:144
+msgid "Последняя четверть"
+msgstr "Last Quarter"
+
+#: ajax.py:126 ajax.py:135 ajax.py:145
+msgid "Убывающий серп"
+msgstr "Waning Crescent"
+
+#: ajax.py:161 forms.py:52
+msgid "ММВБ"
+msgstr "MICEX"
+
+#: ajax.py:162 forms.py:53
+msgid "РТС"
+msgstr "RTS"
+
+#: ajax.py:163 forms.py:54
+msgid "Доу Джонс"
+msgstr "Dow Jones"
+
+#: ajax.py:164 forms.py:55
+msgid "S&P 500"
+msgstr "S&P 500"
+
+#: ajax.py:165 forms.py:56
+msgid "FTSE 100"
+msgstr "FTSE 100"
+
+#: ajax.py:166 forms.py:57
+msgid "SSE Composite"
+msgstr "SSE Composite"
+
+#: ajax.py:167 forms.py:62
+msgid "Нефть Brent"
+msgstr "Oil Brent"
+
+#: ajax.py:168 forms.py:63
+msgid "Золото"
+msgstr "Gold"
+
+#: ajax.py:169 forms.py:64
+msgid "Серебро"
+msgstr "Silver"
+
+#: ajax.py:170 forms.py:65
+msgid "Алюминий"
+msgstr "Aluminium"
+
+#: ajax.py:178
+msgid "Солнце, прямое восхождение"
+msgstr "Sun, right ascension"
+
+#: ajax.py:179
+msgid "Солнце, склонение"
+msgstr "Sun, declination"
+
+#: ajax.py:180
+msgid "Солнце, расстояние от Земли"
+msgstr "Sun, distance from Earth"
+
+#: ajax.py:180 ajax.py:183 ajax.py:186 ajax.py:189 ajax.py:192 ajax.py:195
+#: ajax.py:198 ajax.py:201 ajax.py:204 ajax.py:207
+msgid "а.е."
+msgstr "A.U."
+
+#: ajax.py:181
+msgid "Луна, прямое восхождение"
+msgstr "Moon, right ascension"
+
+#: ajax.py:182
+msgid "Луна, склонение"
+msgstr "Moon, declination"
+
+#: ajax.py:183
+msgid "Луна, расстояние от Земли"
+msgstr "Moon, distance from Earth"
+
+#: ajax.py:184
+msgid "Меркурий, прямое восхождение"
+msgstr "Mercury, right ascension"
+
+#: ajax.py:185
+msgid "Меркурий, склонение"
+msgstr "Mercury, declination"
+
+#: ajax.py:186
+msgid "Меркурий, расстояние от Земли"
+msgstr "Mercury, distance from Earth"
+
+#: ajax.py:187
+msgid "Венера, прямое восхождение"
+msgstr "Venus, right ascension"
+
+#: ajax.py:188
+msgid "Венера, склонение"
+msgstr "Venus, declination"
+
+#: ajax.py:189
+msgid "Венера, расстояние от Земли"
+msgstr "Venus, distance from Earth"
+
+#: ajax.py:190
+msgid "Марс, прямое восхождение"
+msgstr "Mars, right ascension"
+
+#: ajax.py:191
+msgid "Марс, склонение"
+msgstr "Mars, declination"
+
+#: ajax.py:192
+msgid "Марс, расстояние от Земли"
+msgstr "Mars, distance from Earth"
+
+#: ajax.py:193
+msgid "Юпитер, прямое восхождение"
+msgstr "Jupiter, right ascension"
+
+#: ajax.py:194
+msgid "Юпитер, склонение"
+msgstr "Jupiter, declination"
+
+#: ajax.py:195
+msgid "Юпитер, расстояние от Земли"
+msgstr "Jupiter, distance from Earth"
+
+#: ajax.py:196
+msgid "Сатурн, прямое восхождение"
+msgstr "Saturn, right ascension"
+
+#: ajax.py:197
+msgid "Сатурн, склонение"
+msgstr "Saturn, declination"
+
+#: ajax.py:198
+msgid "Сатурн, расстояние от Земли"
+msgstr "Saturn, distance from Earth"
+
+#: ajax.py:199
+msgid "Уран, прямое восхождение"
+msgstr "Uranus, right ascension"
+
+#: ajax.py:200
+msgid "Уран, склонение"
+msgstr "Uranus, declination"
+
+#: ajax.py:201
+msgid "Уран, расстояние от Земли"
+msgstr "Uranus, distance from Earth"
+
+#: ajax.py:202
+msgid "Нептун, прямое восхождение"
+msgstr "Neptune, right ascension"
+
+#: ajax.py:203
+msgid "Нептун, склонение"
+msgstr "Neptune, declination"
+
+#: ajax.py:204
+msgid "Нептун, расстояние от Земли"
+msgstr "Neptune, distance from Earth"
+
+#: ajax.py:205
+msgid "Плутон, прямое восхождение"
+msgstr "Pluto, right ascension"
+
+#: ajax.py:206
+msgid "Плутон, склонение"
+msgstr "Pluto, declination"
+
+#: ajax.py:207
+msgid "Плутон, расстояние от Земли"
+msgstr "Pluto, distance from Earth"
+
+#: ajax.py:208 forms.py:94
+msgid "Поток радиоизлучения (λ=10.7см)"
+msgstr "Solar radio flux (λ=10.7cm)"
+
+#: ajax.py:208
+msgid "Ян"
+msgstr "jansky"
+
+#: ajax.py:209 forms.py:95
+msgid "Усреднённый планетарный A-индекс"
+msgstr "Mean planetary A-index"
+
+#: ajax.py:210 forms.py:96
+msgid "Усреднённый планетарный Kp-индекс"
+msgstr "Mean planetary Kp-index"
+
+#: ajax.py:211 forms.py:100
+msgid "Температура воздуха"
+msgstr "Air temperature"
+
+#: ajax.py:212 forms.py:101
+msgid "Облачность"
+msgstr "Cloud cover"
+
+#: ajax.py:213 forms.py:102
+msgid "Осадки"
+msgstr "Precipitation"
+
+#: ajax.py:214 forms.py:103
+msgid "Атмосферное давление"
+msgstr "Atmospheric pressure"
+
+#: ajax.py:214
+msgid "мм рт.ст."
+msgstr "mm Hg"
+
+#: ajax.py:215 forms.py:104
+msgid "Относительная влажность воздуха"
+msgstr "Relative humidity"
+
+#: ajax.py:216 forms.py:105
+msgid "Скорость ветра"
+msgstr "Wind velocity"
+
+#: ajax.py:216
+msgid "м/с"
+msgstr "m/s"
+
+#: ajax.py:217 forms.py:106
+msgid "Направление ветра"
+msgstr "Wind direction"
+
+#: ajax.py:218 forms.py:107
+msgid "Продолжительность светового дня"
+msgstr "Day duration"
+
+#: ajax.py:219 forms.py:108
+msgid "Фаза Луны"
+msgstr "Moon phase"
+
+#: ajax.py:220 forms.py:109
+msgid "Освещённость Луны"
+msgstr "Moon illuminated"
+
+#: ajax.py:456
+msgid "Тренда нет, заполнять его нужно <a href=\"/prof/fill_data\">здесь</a>"
+msgstr "You have no trend, fill it <a href=\"/prof/fill_data\">here</a>"
+
+#: extend_wtforms.py:118
+msgid "Invalid Choice: could not coerce"
+msgstr "Invalid Choice: could not coerce"
+
+#: forms.py:42
+msgid "Шкала"
+msgstr "Scale"
+
+#: forms.py:43
+msgid "Целочисленный"
+msgstr "Integer"
+
+#: forms.py:44
+msgid "Число с плавающей запятой"
+msgstr "Float"
+
+#: forms.py:45
+msgid "Булево"
+msgstr "Boolean"
+
+#: forms.py:46
+msgid "Время"
+msgstr "Time"
+
+#: forms.py:81
+msgid "Солнце"
+msgstr "Sun"
+
+#: forms.py:82
+msgid "Луна"
+msgstr "Moon"
+
+#: forms.py:83
+msgid "Меркурий"
+msgstr "Mercury"
+
+#: forms.py:84
+msgid "Венера"
+msgstr "Venus"
+
+#: forms.py:85
+msgid "Марс"
+msgstr "Mars"
+
+#: forms.py:86
+msgid "Юпитер"
+msgstr "Jupiter"
+
+#: forms.py:87
+msgid "Сатурн"
+msgstr "Saturn"
+
+#: forms.py:88
+msgid "Уран"
+msgstr "Uranus"
+
+#: forms.py:89
+msgid "Нептун"
+msgstr "Neptune"
+
+#: forms.py:90
+msgid "Плутон"
+msgstr "Pluto"
+
+#: forms.py:210
+#, python-format
+msgid "У вас уже есть параметр с названием \"%s\""
+msgstr "You already have parameters with name \"%s\""
+
+#: forms.py:220
+msgid "Название параметра может состоять только из букв, цифр, пробелов, символов тире и подчёркивания и должно начинаться с буквы"
+msgstr "The name of parameter can consist only of letters, digits, spaces, dash and underscore characters and must start with a letter"
+
+#: forms.py:222
+msgid "Название"
+msgstr "Name"
+
+#: forms.py:223
+msgid "Вы не указали название параметра"
+msgstr "You didn't specify the name of parameter"
+
+#: forms.py:232
+msgid "Единица измерения"
+msgstr "Unit of measure"
+
+#: forms.py:233
+msgid "Используется только с числовыми типами"
+msgstr "Used only with numeric types"
+
+#: forms.py:251
+msgid "День"
+msgstr "Day"
+
+#: forms.py:252
+msgid "Месяц"
+msgstr "Month"
+
+#: forms.py:252
+msgid "января"
+msgstr "January"
+
+#: forms.py:253
+msgid "февраля"
+msgstr "February"
+
+#: forms.py:253
+msgid "марта"
+msgstr "March"
+
+#: forms.py:253
+msgid "апреля"
+msgstr "April"
+
+#: forms.py:253
+msgid "мая"
+msgstr "May"
+
+#: forms.py:253
+msgid "июня"
+msgstr "June"
+
+#: forms.py:253
+msgid "июля"
+msgstr "July"
+
+#: forms.py:253
+msgid "августа"
+msgstr "August"
+
+#: forms.py:254
+msgid "сентября"
+msgstr "September"
+
+#: forms.py:254
+msgid "октября"
+msgstr "October"
+
+#: forms.py:254
+msgid "ноября"
+msgstr "November"
+
+#: forms.py:254
+msgid "декабря"
+msgstr "December"
+
+#: forms.py:255
+msgid "Год"
+msgstr "Year"
+
+#: forms.py:271
+#, python-format
+msgid "Вы не указали %s"
+msgstr "You didn't specify `%s`"
+
+#: forms.py:280
+msgid "Неверная дата"
+msgstr "Wrong date"
+
+#: forms.py:284
+msgid "Дата находится в будущем"
+msgstr "Date is in the future"
+
+#: forms.py:301
+msgid "Язык"
+msgstr "Language"
+
+#: forms.py:301
+msgid "Язык должен быть ru или en"
+msgstr "Language must be 'ru' or 'en'"
+
+#: forms.py:302
+msgid "Страна"
+msgstr "Country"
+
+#: forms.py:303
+msgid "Регион"
+msgstr "Region"
+
+#: forms.py:304
+msgid "Район"
+msgstr "District"
+
+#: forms.py:305 forms.py:763
+msgid "Населённый пункт"
+msgstr "Locality"
+
+#: forms.py:340
+msgid "Все регионы"
+msgstr "All regions"
+
+#: forms.py:345
+msgid "Все районы"
+msgstr "All districts"
+
+#: forms.py:356
+msgid "Необходимо указать населённый пункт"
+msgstr "You have not selected location"
+
+#: forms.py:380
+msgid "Выбрать другой населённый пункт:"
+msgstr "Select another locality:"
+
+#: forms.py:397 forms.py:543 forms.py:563 forms.py:606
+msgid "Сохранить"
+msgstr "Save"
+
+#: forms.py:398
+msgid "Отмена"
+msgstr "Cancel"
+
+#: forms.py:406
+msgid "Показать регионы"
+msgstr "Show regions"
+
+#: forms.py:412
+msgid "Показать районы"
+msgstr "Show districts"
+
+#: forms.py:417
+msgid "Показать населённые пункты"
+msgstr "Show localities"
+
+#: forms.py:429
+msgid "от"
+msgstr "from"
+
+#: forms.py:430
+msgid "до"
+msgstr "to"
+
+#: forms.py:431
+msgid "шаг"
+msgstr "spacing"
+
+#: forms.py:456
+#, python-format
+msgid "Вы не указали `%s`"
+msgstr "You didn't specify `%s`"
+
+#: forms.py:464
+msgid "При положительном шаге \"от\" должен быть меньше \"до\""
+msgstr "Having a positive spacing the field \"from\" must be less than the field \"to\""
+
+#: forms.py:467
+msgid "При отрицательном шаге \"от\" должен быть больше \"до\""
+msgstr "Having a negative spacing the field \"from\" must be greater than the field \"to\""
+
+#: forms.py:470
+msgid "\"от\" и \"до\" не должны быть равны"
+msgstr "Fields \"from\" and \"to\" cannot be equal"
+
+#: forms.py:473
+msgid "Шаг не должен равняться 0"
+msgstr "Spacing cannot be equal 0"
+
+#: forms.py:477
+#, python-format
+msgid "Количество градаций в шкале не должно превышать %d, у вас %d: (%d-%d)/%d"
+msgstr "Number of gradation can't be greater than %d, you have %d: (%d-%d)/%d"
+
+#: forms.py:485
+#, python-format
+msgid "Шаг должен помещаться в диапазон от %d до %d целое количество раз; предлагаемые значения \"до\": %d, %d"
+msgstr "In the range between %d and %d there must be integer number of spacing; suggested values of the field \"to\" are %d and %d"
+
+#: forms.py:502 templates/profile.mako:180
+msgid "Имя"
+msgstr "Name"
+
+#: forms.py:502
+msgid "Слишком длинное имя"
+msgstr "The name is too long"
+
+#: forms.py:503
+msgid "Фамилия"
+msgstr "Last name"
+
+#: forms.py:503
+msgid "Слишком длинная фамилия"
+msgstr "The last name is too long"
+
+#: forms.py:504
+msgid "Отчество"
+msgstr "Patronymic"
+
+#: forms.py:504
+msgid "Слишком длинное отчество"
+msgstr "The patronymic is too long"
+
+#: forms.py:505 templates/profile.mako:181
+msgid "Пол"
+msgstr "Sex"
+
+#: forms.py:505
+msgid "М"
+msgstr "M"
+
+#: forms.py:505
+msgid "Ж"
+msgstr "F"
+
+#: forms.py:506 templates/profile.mako:182
+msgid "Дата рождения"
+msgstr "Date of birth"
+
+#: forms.py:525
+msgid "Заполнение личных данных"
+msgstr "Filling of personal data"
+
+#: forms.py:527
+msgid "Редактирование личных данных"
+msgstr "Edit profile"
+
+#: forms.py:535 templates/profile.mako:183
+msgid "Место пребывания"
+msgstr "Location"
+
+#: forms.py:545
+msgid "Удалить аккаунт"
+msgstr "Delete account"
+
+#: forms.py:545
+msgid "return confirm('Вы уверены? Все ваши данные и тренд будут удалены.')"
+msgstr "return confirm('Are you sure? All your data and trend will be purged.')"
+
+#: forms.py:548 templates/contacts.mako:30 templates/profile.mako:51
+#: templates/profile.mako:81
+msgid "Звёздочкой (<span class=\"required\">*</span>) отмечены поля, обязательные для заполнения"
+msgstr "Required fields are marked by asterisk (<span class=\"required\">*</span>)"
+
+#: forms.py:557
+msgid "Индексы"
+msgstr "Indices"
+
+#: forms.py:558
+msgid "Товары"
+msgstr "Commodities"
+
+#: forms.py:559
+msgid "Валютные пары"
+msgstr "Currency pairs"
+
+#: forms.py:560
+msgid "Астрономические данные"
+msgstr "Astro data"
+
+#: forms.py:561
+msgid "Геомагнитные данные"
+msgstr "Geomagnetic data"
+
+#: forms.py:562
+msgid "Данные погоды"
+msgstr "Weather data"
+
+#: forms.py:570 forms.py:595
+msgid "Краткое описание"
+msgstr "Short description"
+
+#: forms.py:571 forms.py:596
+msgid "Слишком длинное описание (максимум 500 символов)"
+msgstr "Description is too long (maximum is 500 characters)"
+
+#: forms.py:573 forms.py:598
+msgid "Тип"
+msgstr "Type"
+
+#: forms.py:577 forms.py:603
+msgid "Свойства шкалы"
+msgstr "Properties of the scale"
+
+#: forms.py:578 forms.py:604
+msgid "Используется только с типом \"Шкала\""
+msgstr "Used only with type of \"Scale\""
+
+#: forms.py:580
+msgid "Добавить"
+msgstr "Add"
+
+#: forms.py:589
+msgid "Число, определяющее порядок следования параметров на страницах &#34;Настройки&#34;, &#34;Заполнение параметров&#34; и &#34;Анализ&#34;. Порядок начинается с 1. Все параметры переупорядочиваются каждый раз при изменении порядка у любого из параметров, поэтому в поле можно вводить дробное число (5.5), чтобы поместить параметр между двумя другими, а также отрицательные (-1) или заведомо большие числа (1000), чтобы сделать параметр первым или последним."
+msgstr "The number that specify the sequence order of parameters on pages &#34;Settings&#34;, &#34;Filling of parameters&#34; and &#34;Analysis&#34;. Order starts from 1. When one change the order of any parameter, all parameters reorder. So if you want to place parameter between two another you can specify the order by a broken number (e.g. 5.5). You can specify negative number (-1) to make the parameter first or a large positive number (1000) to make the parameter last."
+
+#: forms.py:599
+msgid "Порядок"
+msgstr "Order"
+
+#: forms.py:607
+msgid "Удалить параметр"
+msgstr "Delete parameter"
+
+#: forms.py:640
+msgid "Дата"
+msgstr "Date"
+
+#: forms.py:652
+msgid "Дата не может быть раньше 01.01.2012."
+msgstr "Date cannot be earlier than 2012-01-01."
+
+#: forms.py:654
+msgid "Дата не может быть позже сегодняшней."
+msgstr "Date cannot be later than today."
+
+#: forms.py:669
+msgid "Дата вводится в формате \"дд.мм.гггг\" или \"гггг-мм-дд\"."
+msgstr "Date needs to be input in the format \"dd.mm.yyyy\" or \"yyyy-mm-dd\"."
+
+#: forms.py:676
+msgid "Обновить значения параметров"
+msgstr "Update values of parameters"
+
+#: forms.py:679
+msgid "Параметры:"
+msgstr "Parameters:"
+
+#: forms.py:690
+msgid "Занести значения"
+msgstr "Submit values"
+
+#: forms.py:721
+msgid "Истина"
+msgstr "True"
+
+#: forms.py:721
+msgid "Ложь"
+msgstr "False"
+
+#: forms.py:730
+msgid "Время вводится в формате `ЧЧ:ММ`"
+msgstr "Time is specified in the format `HH:MM`"
+
+#: forms.py:741
+msgid "Тема"
+msgstr "Subject"
+
+#: forms.py:742
+msgid "Вы не указали тему письма"
+msgstr "You didn't specify subject"
+
+#: forms.py:746
+msgid "Сообщение"
+msgstr "Message"
+
+#: forms.py:747
+msgid "Сообщение не может быть пустым"
+msgstr "The message must not be empty."
+
+#: forms.py:751
+msgid "Email для ответа"
+msgstr "Email to answer"
+
+#: forms.py:752
+msgid "Неправильный email адрес"
+msgstr "Wrong email"
+
+#: forms.py:753
+msgid "Куда отправлять возможный ответ."
+msgstr "Where to send possible answer."
+
+#: forms.py:756
+msgid "Копия (cc)"
+msgstr "Carbon copy (cc)"
+
+#: forms.py:757
+msgid "Отправить копию письма на ваш email. Игнорируется, если вы не залогинены."
+msgstr "To send the carbon copy on your email. To be ignored if you are not logined."
+
+#: forms.py:765
+msgid "Выберите населённый пункт"
+msgstr "Select locality"
+
+#: forms.py:768
+msgid "с"
+msgstr "from"
+
+#: forms.py:768
+msgid "Вы не указали дату \"с\""
+msgstr "You didn't specify the date \"from\""
+
+#: forms.py:769
+msgid "по"
+msgstr "to"
+
+#: forms.py:769
+msgid "Вы не указали дату \"по\""
+msgstr "You didn't specify the date \"to\""
+
+#: forms.py:770
+msgid "Показать"
+msgstr "Show"
+
+#: forms.py:774 templates/show_common_data.mako:61
+msgid "Выберите показатели, по которым нужно провести анализ, и диапазон дат, за которые выбирать данные. Если выбираете погодные показатели, то не забудьте выбрать населённый пункт."
+msgstr "Select properties to analyze and date range to pick data out. If you select weather data, don't forget to select locality."
+
+#: forms.py:776 templates/show_common_data.mako:63
+msgid "Поле \"Населённый пункт\" становится обязательным, если выбирается хотя бы один показатель из группы \"Данные погоды\"."
+msgstr "The field \"Locality\" is required if you select some properties of \"Weather data\"."
+
+#: forms.py:777
+msgid "Даты: "
+msgstr "Dates: "
+
+#: forms.py:780
+msgid "Показатели:"
+msgstr "Properties:"
+
+#: forms.py:797 templates/show_common_data.mako:88
+msgid "Звёздочкой (<span class=\"required\">*</span>) отмечены поля, обязательные для заполнения."
+msgstr "Required fields are marked by asterisk (<span class=\"required\">*</span>)."
+
+#: profile.py:190
+msgid "Настройки профиля"
+msgstr "Profile settings"
+
+#: profile.py:211
+msgid "Создание профиля"
+msgstr "Profile creation"
+
+#: templates/about.mako:4 templates/about.mako:7 templates/functions.py:18
+msgid "О проекте"
+msgstr "About this project"
+
+#: templates/about.mako:8
+msgid "Если бы меня попросили описать данное веб-приложение в двух словах, я бы привел старую русскую пословицу: &laquo;Кабы знал, где упасть, соломки бы подостлал&raquo;."
+msgstr "If I was asked to describe this web application in a few words I say the good proverb &ldquo;A danger foreseen is half avoided&rdquo;."
+
+#: templates/about.mako:9
+msgid "Почему происходят те или иные вещи в вашей жизни? Насколько сильно вы подвержены влиянию погоды? С чем связаны периоды бессонницы? Почему в некоторые дни вы счастливы, а в другие полны грусти? Когда в следующий раз можно ожидать увеличение прибылей?  Правда ли, что вспышки на солнце влияют на вас? Звёзды действительно влияют на все человечество или на вас в частности?"
+msgstr "Why do different things happen in your life? How much are you exposed to weather influence? Why are there insomnia periods? Why do you feel happy or upset? When should you expect profit? Is it true that solar flares influence you? Do stars actually effect all human beings or is it just for you?"
+
+#: templates/about.mako:10
+msgid "Данное приложение, возможно, ответит на часть этих и многие другие вопросы."
+msgstr "This application will answer probably to part of these and many other questions."
+
+#: templates/about.mako:11
+msgid "Если коротко, программа в автоматическом режиме собирает ежедневно десятки параметров. Вы так же регулярно (лучше ежедневно) вносите несколько своих параметров, которые вы бы хотели отслеживать. Через какое-то время можно анализировать эти данные. В данный момент мы проводим простейший попарный корреляционный анализ всех собранных данных."
+msgstr "Briefly this program automatically collects values of dozens parameters every day. You regularly (better every day) enter your parameters' values you want to trace. After some time you may analyze this data. At the moment we carry out pairwize correlation analysis for all data collected."
+
+#: templates/about.mako:12
+msgid "Более подробно:"
+msgstr "In more detail:"
+
+#: templates/about.mako:13
+msgid "При регистрации вы должны заполнить свое местоположение &mdash; это обязательное поле для заполнения &mdash; и еще некоторые данные. Для данного местоположения будет собираться различная информация."
+msgstr "During registration you have to fill in your location (this field is required) and some other data. For your location different sorts of information will be collected."
+
+#: templates/about.mako:14
+msgid "Пока доступно только 4 блока: астрономический, геомагнитный, метеорологический и экономический."
+msgstr "For now we have four blocks: astronomic, geomagnetic, meteorological and economic."
+
+#: templates/about.mako:15
+msgid "Каждый из этих блоков содержит несколько параметров. Все эти параметры будут ежедневно автоматически собираться в базу данных."
+msgstr "Each of these blocks has multiple parameters. Values on all these parameters will be collected to datastore every day."
+
+#: templates/about.mako:16
+msgid "Кроме этого, после регистрации, вы можете сами назначить несколько параметров, по которым и будут отслеживаться зависимости. Для своих параметров вы явно задаете тип значений и другие характеристики, связанные с типом. В конце каждого дня вам придется потратить минутку для внесения этих значений."
+msgstr "In addition after registration you have to add some parameters which dependencies will be traced. You have to explicitly set the type of data and other attributes, related to the given type. By the end of a day you need to spend just a minute to fill in your numbers."
+
+#: templates/about.mako:17
+msgid "Вы абсолютно вольны в выборе того, что вы хотите отслеживать. Главное, вы должны чётко представлять, какая шкала наиболее подходит именно вам."
+msgstr "You are free to choose what you want to trace. The most important thing is to understand what kind of scale you need."
+
+#: templates/about.mako:18
+msgid "Пример:"
+msgstr "Example:"
+
+#: templates/about.mako:19
+msgid "Вы бы хотели выяснить:"
+msgstr "You wish to find out:"
+
+#: templates/about.mako:21
+msgid "От чего зависит мое настроение"
+msgstr "What does your mood depends on?"
+
+#: templates/about.mako:22
+msgid "С какой регулярностью и почему у жены болит голова. :)"
+msgstr "How often and why your wife has a headache? :)"
+
+#: templates/about.mako:23
+msgid "Связаны ли с чем-то регулярные вспышки аварийности в нашем городе."
+msgstr "Is there a reason for accidents increase in your city?"
+
+#: templates/about.mako:24
+msgid "Шахматы. Связаны ли мои выигрыши, ничьи и проигрыши еще с чем-то кроме моей игры."
+msgstr "Is there a reason for your win, loss, draw in chess except for your play?"
+
+#: templates/about.mako:26
+msgid "В настройках в качестве пользовательских параметров вы создаёте следующие параметры:"
+msgstr "In settings you create following parameters as user parameters:"
+
+#: templates/about.mako:28
+msgid "Настроение (задаете шкалу от 1 до 5)."
+msgstr "Mood (set the scale from 1 to 5)."
+
+#: templates/about.mako:29
+msgid "Головная боль (задаете булеву шкалу, где false &mdash; это не болит и true &mdash; болит)."
+msgstr "Headache (set boolean type, where 'false', when no headache, and 'true' when it is)."
+
+#: templates/about.mako:30
+msgid "Аварийность (целые числа, где значения отражают количество виденных вами аварий за день)."
+msgstr "Accident rate (integer. Values indicate number of accidents you have seen during one day.)"
+
+#: templates/about.mako:31
+msgid "Шахматы (вводите шкалу от -1 до 1, где -1 &mdash; это проигрыш, 0 &mdash; ничья, а 1 &mdash; выигрыш)."
+msgstr "Chess (set the scale from -1 to 1, where -1 is loss, 0 is draw and 1 is win)."
+
+#: templates/about.mako:33
+msgid "После создания и сохранения интересующих вас параметров, вам останется лишь регулярно их заполнять. По мере роста базы начнут (или не начнут) вырисовываться некоторые зависимости ваших параметров, от параметров собирающихся в автоматическом режиме. Найденные зависимости, а также графики и таблицы вы можете посмотреть на странице &laquo;Анализ&raquo;."
+msgstr "After you created parameters of interest the only thing you have to do is to make check-ins. As database grows you may see some dependencies of your parameters from parameters collected automatically. All found dependencies, charts and tables you may see on &laquo;Analysis&raquo; page."
+
+#: templates/about.mako:34
+msgid "Данный проект не предназначен для сколь-нибудь серьёзных научных исследований, по крайней мере пока. Однако буду рад, если он поможет кому-нибудь из вас лучше понять себя и окружающий мир."
+msgstr "This project doen't aim to be any kind of scientific research, not yet anyway. However I would be very glad if it helps you to better understand yourself and environment you are in."
+
+#: templates/about.mako:35
+msgid "Заполнить информацию о себе и начать пользоваться сайтом можно в разделе"
+msgstr "You can fill in information about yourself and start using the site in the section"
+
+#: templates/about.mako:35 templates/functions.py:19
+msgid "Настройки"
+msgstr "Settings"
+
+#: templates/analysis.mako:5 templates/analysis_saved.mako:5
+msgid "Анализ данных"
+msgstr "Data analysis"
+
+#: templates/analysis.mako:59 templates/analysis_saved.mako:59
+#: templates/analysis_test.mako:77 templates/profile.mako:171
+msgid "Внимание! Эта страница для своей работы требует включённый javascript."
+msgstr "Warning! Javascript must be enabled to use this page."
+
+#: templates/analysis.mako:61
+msgid "Анализировать сохранённые данные"
+msgstr "Analyse saved data"
+
+#: templates/analysis.mako:62
+msgid "Анализировать тестовые данные"
+msgstr "Analyse test data"
+
+#: templates/analysis_saved.mako:62
+msgid "Подождите, загружаются данные..."
+msgstr "Data is being loaded. Please wait..."
+
+#: templates/analysis_saved.mako:72 templates/analysis_test.mako:123
+msgid "Показать график"
+msgstr "Show chart"
+
+#: templates/analysis_saved.mako:73 templates/analysis_test.mako:124
+msgid "Показать статистические показатели"
+msgstr "Show statistical values"
+
+#: templates/analysis_saved.mako:74 templates/analysis_test.mako:125
+msgid "Показать корреляционную таблицу"
+msgstr "Show correlation matrix"
+
+#: templates/analysis_saved.mako:75 templates/analysis_test.mako:126
+msgid "Показать таблицу с данными"
+msgstr "Show data table"
+
+#: templates/analysis_saved.mako:81 templates/analysis_test.mako:132
+msgid "Выбрать параметры для построения графика"
+msgstr "Select parameters to build chart"
+
+#: templates/analysis_saved.mako:91 templates/analysis_saved.mako:103
+#: templates/analysis_test.mako:142 templates/analysis_test.mako:154
+msgid "Выбрать параметры для отображения в таблице"
+msgstr "Select parameters to show in the table"
+
+#: templates/analysis_saved.mako:92 templates/analysis_saved.mako:104
+#: templates/analysis_saved.mako:116 templates/analysis_test.mako:143
+#: templates/analysis_test.mako:155 templates/analysis_test.mako:167
+msgid "Показать таблицу в отдельном окне"
+msgstr "Open table in a new window (tab)"
+
+#: templates/analysis_saved.mako:93 templates/analysis_saved.mako:105
+#: templates/analysis_saved.mako:118 templates/analysis_test.mako:144
+#: templates/analysis_test.mako:156 templates/analysis_test.mako:169
+msgid "Скачать таблицу в формате CSV"
+msgstr "Download table in the CSV format"
+
+#: templates/analysis_saved.mako:94 templates/analysis_saved.mako:106
+#: templates/analysis_saved.mako:119 templates/analysis_test.mako:145
+#: templates/analysis_test.mako:157 templates/analysis_test.mako:170
+msgid "Скачать таблицу в формате XLSX"
+msgstr "Download table in the XLSX format"
+
+#: templates/analysis_saved.mako:115 templates/analysis_test.mako:166
+msgid "Выбрать параметры и даты для отображения в таблице"
+msgstr "Select parameters and dates to show in the table"
+
+#: templates/analysis_saved.mako:117 templates/analysis_test.mako:168
+msgid "Отключить разбиение на страницы"
+msgstr "Disable pagination"
+
+#: templates/analysis_test.mako:5
+msgid "Анализ тестовых данных"
+msgstr "Test data analysis"
+
+#: templates/analysis_test.mako:80
+msgid "Скрыть инструкции"
+msgstr "Hide instruction"
+
+#: templates/analysis_test.mako:82
+msgid "На этой странице вы можете загрузить и проанализировать ваши данные. В настоящий момент загрузка данных может осуществляться только с помощью файлов в формате <a href=\"http://ru.wikipedia.org/wiki/CSV\" target=\"_blank\">csv</a>. Максимальный размер файла &mdash; 100 кб. Чтобы выбрать файл, нажмите на кнопку \"Загрузить файл с данными\"."
+msgstr "On this page you can download and analyze your data. Currently data uploading can be implemented only with files in the <a href=\"http://ru.wikipedia.org/wiki/CSV\" target=\"_blank\">csv</a> format. Maximum allowed file size is 100&nbsp;kb. Click the button \"Upload file with data\" to select file."
+
+#: templates/analysis_test.mako:83
+msgid "Требования к формату файла:"
+msgstr "Requirements for the file format:"
+
+#: templates/analysis_test.mako:85
+msgid "Значения отдельных колонок разделяются точкой с запятой (;)."
+msgstr "Columns must be separated by a semicolon (;)."
+
+#: templates/analysis_test.mako:86
+msgid "Первая строка - заголовок;"
+msgstr "First row is the header;"
+
+#: templates/analysis_test.mako:87
+msgid "Значения первой колонки - даты в формате дд.мм.гггг (22.06.2013);"
+msgstr "Values of first column are dates in the format of dd.mm.yyyy (22.06.2013);"
+
+#: templates/analysis_test.mako:90
+msgid "Требования к формату заголовка:"
+msgstr "Requirements for the format of the header:"
+
+#: templates/analysis_test.mako:91
+msgid "Поля заголовка должны быть представлены в формате \"&lt;название параметра&gt;,&lt;тип данных&gt;\", например \"age,int\" или в случае шкалового показателя в формате \"&lt;название параметра&gt;,scale,[&lt;минимальное значение&gt;, &lt;максимальное значение&gt;, &lt;шаг шкалы&gt;]\", например \"grade,scale,[2,5,1]\". Первое поле &mdash; это дата, поэтому игнорируется. В данное время поддерживаются только числовые (целые числа (int) и числа с плавающей точкой (float)), булевы (bool), шкаловые (scale) и временные (time) данные. Тип соответствующих данных указывается в заголовке после названия показателя через запятую. Если тип не указан, то по-умолчанию он является числом с плавающей точкой (float)."
+msgstr "Fields of the header must be provided in the format \"&lt;parameter name&gt;,&lt;type of data&gt;\", for example \"age,int\". In case of scale parameter, it must be formatted as \"&lt;parameter name&gt;,scale,[&lt;min value&gt;, &lt;max value&gt;, &lt;scale spacing&gt;]\", for example, \"grade,scale,[2,5,1]\". The first field is a date and it is ignored. At present only following types of data are supported: numeric data (integer (int) and floating point (float) numbers), boolean data (bool), scale data (scale) and time data (time). Type of a data is specified in the header after parameter name separated by comma. If type is not specified, default type is \"float\"."
+
+#: templates/analysis_test.mako:92
+msgid "Требования к формату значений:"
+msgstr "Requirements for the format of values:"
+
+#: templates/analysis_test.mako:93
+msgid "Все значения в конкретном столбце должны соответствовать типу, указанному в заголовке. Значение может отсутствовать, быть пустым. Для ввода пустого значения надо либо место между разделителями (;) оставить пустым, либо ввести туда значение \"--\"."
+msgstr "All values of appropriate column must match the type declared in the header. Value can be empty or missed. In order to specify empty value you must leave the space between separators (;) empty or input the string \"--\" there."
+
+#: templates/analysis_test.mako:94
+msgid "Типы данных:"
+msgstr "Types of data:"
+
+#: templates/analysis_test.mako:96
+msgid "Целые числа (int): поддерживаются целые числа."
+msgstr "Integer numbers (int): only integer values are supported."
+
+#: templates/analysis_test.mako:97
+msgid "Числа с плавающей точкой (float): поддерживаются целые числа и числа с десятичной дробью. В качестве разделителя может использоваться  только точка (.)."
+msgstr "Floating point numbers (float): integer and decimal numbers are supported. Fractional part of a number must be separated by a point (.)."
+
+#: templates/analysis_test.mako:98
+msgid "Булевы значения: поддерживаются значения \"true\", \"false\", 0, 1, \"+\", \"-\", \"да\", \"нет\"."
+msgstr "Boolean values: the following values are supported: \"true\", \"false\", 0, 1, \"+\", \"-\", \"да\", \"нет\"."
+
+#: templates/analysis_test.mako:99
+msgid "Шкаловые значения: целые числа. Нижняя и верхняя границы диапазона значений указываются в заголовке после типа через запятую в формате [минимум, максимум, шаг] ([0,10,1])."
+msgstr "Scale values: integers. minimum and maximum values of the scale range are specified in the header after the type separated by a comma and formatted as [min, max, spacing], for example [0,10,1]."
+
+#: templates/analysis_test.mako:100
+msgid "Временные значения записываются в формате ЧЧ:ММ (05:09)."
+msgstr "Time values are written in the format HH:MM (05:09)."
+
+#: templates/analysis_test.mako:101
+msgid "Чтобы обозначить пропуск в значениях, можно оставить пустое место между точками с запятой(;;), либо ввести строку \"--\" (;--;)."
+msgstr "In order to skip value, you can leave a blank space between semicolons (;;) or input the string \"--\" (;--;)."
+
+#: templates/analysis_test.mako:104
+msgid "Файл CSV можно создать вручную или сохранить лист Excel как файл csv и выбрать в качестве разделителя точку с запятой (;)."
+msgstr "You can create a csv-formatted file by hands or by saving Excel document as CSV and select semicolon as separating symbol during saving."
+
+#: templates/analysis_test.mako:104
+msgid "Пример файла"
+msgstr "Sample file"
+
+#: templates/analysis_test.mako:110
+msgid "Загрузить файл с данными"
+msgstr "Upload file with data"
+
+#: templates/analysis_test.mako:111
+msgid "файл не выбран"
+msgstr "file is not choosed"
+
+#: templates/contacts.mako:5 templates/contacts.mako:18
+#: templates/functions.py:22
+msgid "Контакты"
+msgstr "Contacts"
+
+#: templates/contacts.mako:19
+msgid "По всем вопросам, пожеланиям и предложениям, касающихся работы сайта, можно написать на почтовый адрес"
+msgstr "For all questions, wishes and proposals, regarding the site, you may contact to the email:"
+
+#: templates/contacts.mako:19
+msgid "или заполнив следующую форму:"
+msgstr "or fill the following form:"
+
+#: templates/contacts.mako:22
+msgid "Сообщение успешно отправлено."
+msgstr "Message has been sent."
+
+#: templates/contacts.mako:29
+msgid "Отправить"
+msgstr "Send"
+
+#: templates/contacts.mako:29
+msgid "Это нужно нажать, чтобы письмо отправилось."
+msgstr "Click this to send your message."
+
+#: templates/fill_data.mako:6 templates/functions.py:20
+msgid "Заполнение параметров"
+msgstr "Parameters fill-in"
+
+#: templates/fill_data.mako:42
+msgid "Текущее место пребывания:"
+msgstr "Current location:"
+
+#: templates/fill_data.mako:50
+msgid "У вас нет параметров, создать их можно"
+msgstr "You have no parameters, you can create them"
+
+#: templates/fill_data.mako:50
+msgid "здесь"
+msgstr "here"
+
+#: templates/functions.py:21
+msgid "Анализ"
+msgstr "Analysis"
+
+#: templates/header.mako:20
+msgid "Анимация"
+msgstr "Animation"
+
+#: templates/header.mako:22
+msgid "Вкл"
+msgstr "On"
+
+#: templates/header.mako:23
+msgid "Выкл"
+msgstr "Off"
+
+#: templates/header.mako:27
+msgid "/img/eng.png"
+msgstr "/img/eng_active.png"
+
+#: templates/header.mako:28
+msgid "/img/rus_active.png"
+msgstr "/img/rus.png"
+
+#: templates/login.mako:4
+msgid "Выход"
+msgstr "Logout"
+
+#: templates/login.mako:4
+msgid "Вход"
+msgstr "Login"
+
+#: templates/profile.mako:6
+msgid "Отметьте те из них, которые должны учитываться при анализе"
+msgstr "Mark parameters which to be considered in the analysis."
+
+#: templates/profile.mako:7
+msgid "Экономические индикаторы"
+msgstr "Economic indicators"
+
+#: templates/profile.mako:16
+msgid "Прямое восхождение, склонение и расстояние от Земли по каждому объекту"
+msgstr "Right ascension, declination and distance from Earth on each object"
+
+#: templates/profile.mako:33
+msgid "Добавление параметра"
+msgstr "Parameter addition"
+
+#: templates/profile.mako:42 templates/profile.mako:71
+msgid "Используется только с типом `Шкала`"
+msgstr "Used only with type of `Scale`"
+
+#: templates/profile.mako:80
+msgid "return confirm(\"Вы действительно хотите удалить параметр?\")"
+msgstr "return confirm(\"Are you really wish to delete this parameter?\")"
+
+#: templates/profile.mako:177
+msgid "Данные вашего профиля:"
+msgstr "Your profile data:"
+
+#: templates/profile.mako:177 templates/profile.mako:195
+msgid "Явить"
+msgstr "Show"
+
+#: templates/profile.mako:184
+msgid "Редактировать личные данные"
+msgstr "Edit profile"
+
+#: templates/profile.mako:195
+msgid "Общие параметры"
+msgstr "Common parameters"
+
+#: templates/profile.mako:201
+msgid "Параметры пользователя"
+msgstr "User parameters"
+
+#: templates/profile.mako:201
+msgid "из"
+msgstr "of"
+
+#: templates/profile.mako:205
+msgid "Необходимо добавить пользовательские параметры"
+msgstr "It is necessary to add user parameters"
+
+#: templates/profile.mako:211
+msgid "Развернуть"
+msgstr "Unfold"
+
+#: templates/profile.mako:228
+#, python-format
+msgid "Вы не можете создать больше %d параметров. Для увеличения количества свяжитесь с разработчиком сайта."
+msgstr "You cannot create more than %d parameters. Contact the developer to add some."
+
+#: templates/profile.mako:229 templates/profile.mako:231
+msgid "Добавить параметр"
+msgstr "Add parameter"
+
+#: templates/profile.mako:236
+msgid "return confirm('Вы уверены? Все ваши данные будут удалены.')"
+msgstr "return confirm('Are you sure? All your data will be purged.')"
+
+#: templates/profile.mako:236
+msgid "Удалить все параметры"
+msgstr "Delete all parameters"
+
+#: templates/profile.mako:252
+msgid "Чтобы начать пользоваться сайтом, нужно заполнить данные о себе и создать профиль."
+msgstr "To start using this site, you should fill out personal data and create profile."
+
+#: templates/show_common_data.mako:58
+msgid "Скрыть форму"
+msgstr "Hide form"
+
+#: templates/show_common_data.mako:64
+msgid "Даты:"
+msgstr "Dates:"
+
+#: templates/show_common_data.mako:65
+msgid "Показатели"
+msgstr "Properties"
+

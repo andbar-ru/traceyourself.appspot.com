@@ -1,0 +1,742 @@
+<region name="Карачаево-Черкесская Республика" count="148">
+  <point>
+    <name>Инжич-Чукун</name>
+    <district>Абазинский район</district>
+    <id>152631</id>
+  </point>
+  <point>
+    <name>Кара-Паго</name>
+    <district>Абазинский район</district>
+    <id>90759</id>
+  </point>
+  <point>
+    <name>Кубина</name>
+    <district>Абазинский район</district>
+    <id>48660</id>
+  </point>
+  <point>
+    <name>Псыж</name>
+    <district>Абазинский район</district>
+    <id>90834</id>
+  </point>
+  <point>
+    <name>Эльбурган</name>
+    <district>Абазинский район</district>
+    <id>90761</id>
+  </point>
+  <point>
+    <name>Адыге-Хабль</name>
+    <district>Адыге-Хабльский район</district>
+    <id>908</id>
+  </point>
+  <point>
+    <name>Абаза-Хабль</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90776</id>
+  </point>
+  <point>
+    <name>Вако-Жиле</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90765</id>
+  </point>
+  <point>
+    <name>Старо-Кувинск</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90768</id>
+  </point>
+  <point>
+    <name>Эрсакон</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90771</id>
+  </point>
+  <point>
+    <name>Апсуа</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90772</id>
+  </point>
+  <point>
+    <name>Баралки</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90767</id>
+  </point>
+  <point>
+    <name>Грушка</name>
+    <district>Адыге-Хабльский район</district>
+    <id>48684</id>
+  </point>
+  <point>
+    <name>Дубянский</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90748</id>
+  </point>
+  <point>
+    <name>Садовое</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90825</id>
+  </point>
+  <point>
+    <name>Спарта</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90770</id>
+  </point>
+  <point>
+    <name>Тапанта</name>
+    <district>Адыге-Хабльский район</district>
+    <id>90774</id>
+  </point>
+  <point>
+    <name>Зеленчукская</name>
+    <district>Зеленчукский район</district>
+    <id>3335</id>
+  </point>
+  <point>
+    <name>Архыз</name>
+    <district>Зеленчукский район</district>
+    <id>90730</id>
+  </point>
+  <point>
+    <name>Кардоникская</name>
+    <district>Зеленчукский район</district>
+    <id>48688</id>
+  </point>
+  <point>
+    <name>Нижний Архыз (обсерватория)</name>
+    <district>Зеленчукский район</district>
+    <id>13590</id>
+  </point>
+  <point>
+    <name>Сторожевая</name>
+    <district>Зеленчукский район</district>
+    <id>7817</id>
+  </point>
+  <point>
+    <name>Даусуз</name>
+    <district>Зеленчукский район</district>
+    <id>90807</id>
+  </point>
+  <point>
+    <name>Зеленчукская (обсерватория)</name>
+    <district>Зеленчукский район</district>
+    <id>510466</id>
+  </point>
+  <point>
+    <name>Ильич</name>
+    <district>Зеленчукский район</district>
+    <id>90805</id>
+  </point>
+  <point>
+    <name>Исправная</name>
+    <district>Зеленчукский район</district>
+    <id>90763</id>
+  </point>
+  <point>
+    <name>Кобу-Баши</name>
+    <district>Зеленчукский район</district>
+    <id>90803</id>
+  </point>
+  <point>
+    <name>Кызыл-Октябрь</name>
+    <district>Зеленчукский район</district>
+    <id>90816</id>
+  </point>
+  <point>
+    <name>Лесо-Кефарь</name>
+    <district>Зеленчукский район</district>
+    <id>90802</id>
+  </point>
+  <point>
+    <name>Лунная Поляна</name>
+    <district>Зеленчукский район</district>
+    <id>90801</id>
+  </point>
+  <point>
+    <name>Маруха</name>
+    <district>Зеленчукский район</district>
+    <id>90809</id>
+  </point>
+  <point>
+    <name>Нижняя Ермоловка</name>
+    <district>Зеленчукский район</district>
+    <id>90808</id>
+  </point>
+  <point>
+    <name>Ново-Исправненский</name>
+    <district>Зеленчукский район</district>
+    <id>90804</id>
+  </point>
+  <point>
+    <name>Сторожевая-2</name>
+    <district>Зеленчукский район</district>
+    <id>13936</id>
+  </point>
+  <point>
+    <name>Фроловский</name>
+    <district>Зеленчукский район</district>
+    <id>90764</id>
+  </point>
+  <point>
+    <name>Хасаут-Греческое</name>
+    <district>Зеленчукский район</district>
+    <id>90810</id>
+  </point>
+  <point>
+    <name>Актюбе</name>
+    <district>Карачаевский район</district>
+    <id>90790</id>
+  </point>
+  <point>
+    <name>Белая Гора</name>
+    <district>Карачаевский район</district>
+    <id>90820</id>
+  </point>
+  <point>
+    <name>Верхний Учкулан</name>
+    <district>Карачаевский район</district>
+    <id>167646</id>
+  </point>
+  <point>
+    <name>Верхняя Мара</name>
+    <district>Карачаевский район</district>
+    <id>90792</id>
+  </point>
+  <point>
+    <name>Верхняя Теберда</name>
+    <district>Карачаевский район</district>
+    <id>90811</id>
+  </point>
+  <point>
+    <name>Восток</name>
+    <district>Карачаевский район</district>
+    <id>90817</id>
+  </point>
+  <point>
+    <name>Джингирик</name>
+    <district>Карачаевский район</district>
+    <id>90815</id>
+  </point>
+  <point>
+    <name>им. Коста Хетагурова</name>
+    <district>Карачаевский район</district>
+    <id>48697</id>
+  </point>
+  <point>
+    <name>Каменномостский</name>
+    <district>Карачаевский район</district>
+    <id>90814</id>
+  </point>
+  <point>
+    <name>Карт-Джурт</name>
+    <district>Карачаевский район</district>
+    <id>90795</id>
+  </point>
+  <point>
+    <name>Кубрань</name>
+    <district>Карачаевский район</district>
+    <id>167647</id>
+  </point>
+  <point>
+    <name>Кумыш</name>
+    <district>Карачаевский район</district>
+    <id>90822</id>
+  </point>
+  <point>
+    <name>Нижняя Мара</name>
+    <district>Карачаевский район</district>
+    <id>90796</id>
+  </point>
+  <point>
+    <name>Нижняя Теберда</name>
+    <district>Карачаевский район</district>
+    <id>90812</id>
+  </point>
+  <point>
+    <name>Новая Теберда</name>
+    <district>Карачаевский район</district>
+    <id>90813</id>
+  </point>
+  <point>
+    <name>Новый Карачай</name>
+    <district>Карачаевский район</district>
+    <id>6081</id>
+  </point>
+  <point>
+    <name>Правокубанский</name>
+    <district>Карачаевский район</district>
+    <id>90729</id>
+  </point>
+  <point>
+    <name>Учкулан</name>
+    <district>Карачаевский район</district>
+    <id>90794</id>
+  </point>
+  <point>
+    <name>Хумара</name>
+    <district>Карачаевский район</district>
+    <id>90819</id>
+  </point>
+  <point>
+    <name>Хурзук</name>
+    <district>Карачаевский район</district>
+    <id>90793</id>
+  </point>
+  <point>
+    <name>Карачаевск</name>
+    <district>Карачаевск</district>
+    <id>3821</id>
+  </point>
+  <point>
+    <name>Домбай</name>
+    <district>Карачаевск</district>
+    <id>2919</id>
+  </point>
+  <point>
+    <name>Домбай (метеостанция)</name>
+    <district>Карачаевск</district>
+    <id>510465</id>
+  </point>
+  <point>
+    <name>Клухорский Перевал</name>
+    <district>Карачаевск</district>
+    <id>141333</id>
+  </point>
+  <point>
+    <name>Теберда</name>
+    <district>Карачаевск</district>
+    <id>8080</id>
+  </point>
+  <point>
+    <name>Орджоникидзевский</name>
+    <district>Карачаевск</district>
+    <id>6314</id>
+  </point>
+  <point>
+    <name>Эльбрусский</name>
+    <district>Карачаевск</district>
+    <id>9325</id>
+  </point>
+  <point>
+    <name>Аксу</name>
+    <district>Малокарачаевский район</district>
+    <id>90848</id>
+  </point>
+  <point>
+    <name>Водовод</name>
+    <district>Малокарачаевский район</district>
+    <id>90787</id>
+  </point>
+  <point>
+    <name>Джага</name>
+    <district>Малокарачаевский район</district>
+    <id>90784</id>
+  </point>
+  <point>
+    <name>Кавказская обсерватория МГУ</name>
+    <district>Малокарачаевский район</district>
+    <id>141593</id>
+  </point>
+  <point>
+    <name>Кичи-Балык</name>
+    <district>Малокарачаевский район</district>
+    <id>90779</id>
+  </point>
+  <point>
+    <name>Коммунстрой</name>
+    <district>Малокарачаевский район</district>
+    <id>90780</id>
+  </point>
+  <point>
+    <name>Красный Восток</name>
+    <district>Малокарачаевский район</district>
+    <id>90789</id>
+  </point>
+  <point>
+    <name>Красный Курган</name>
+    <district>Малокарачаевский район</district>
+    <id>90782</id>
+  </point>
+  <point>
+    <name>Кызыл-Покун</name>
+    <district>Малокарачаевский район</district>
+    <id>90788</id>
+  </point>
+  <point>
+    <name>Первомайское</name>
+    <district>Малокарачаевский район</district>
+    <id>90785</id>
+  </point>
+  <point>
+    <name>Терезе</name>
+    <district>Малокарачаевский район</district>
+    <id>90786</id>
+  </point>
+  <point>
+    <name>Учкекен</name>
+    <district>Малокарачаевский район</district>
+    <id>90742</id>
+  </point>
+  <point>
+    <name>Хасаут</name>
+    <district>Малокарачаевский район</district>
+    <id>90783</id>
+  </point>
+  <point>
+    <name>Шаджатмаз</name>
+    <district>Малокарачаевский район</district>
+    <id>151449</id>
+  </point>
+  <point>
+    <name>Элькуш</name>
+    <district>Малокарачаевский район</district>
+    <id>90778</id>
+  </point>
+  <point>
+    <name>Адиль-Халк</name>
+    <district>Ногайский район</district>
+    <id>48731</id>
+  </point>
+  <point>
+    <name>Евсеевский</name>
+    <district>Ногайский район</district>
+    <id>90749</id>
+  </point>
+  <point>
+    <name>Икон-Халк</name>
+    <district>Ногайский район</district>
+    <id>3474</id>
+  </point>
+  <point>
+    <name>Кубан-Халк</name>
+    <district>Ногайский район</district>
+    <id>167648</id>
+  </point>
+  <point>
+    <name>Кызыл-Тогай</name>
+    <district>Ногайский район</district>
+    <id>90766</id>
+  </point>
+  <point>
+    <name>Эркен-Халк</name>
+    <district>Ногайский район</district>
+    <id>90750</id>
+  </point>
+  <point>
+    <name>Эркен-Шахар</name>
+    <district>Ногайский район</district>
+    <id>90731</id>
+  </point>
+  <point>
+    <name>Эркен-Юрт</name>
+    <district>Ногайский район</district>
+    <id>9342</id>
+  </point>
+  <point>
+    <name>Водораздельный</name>
+    <district>Прикубанский район</district>
+    <id>90833</id>
+  </point>
+  <point>
+    <name>Дружба</name>
+    <district>Прикубанский район</district>
+    <id>90836</id>
+  </point>
+  <point>
+    <name>Заречный</name>
+    <district>Прикубанский район</district>
+    <id>90835</id>
+  </point>
+  <point>
+    <name>Знаменка</name>
+    <district>Прикубанский район</district>
+    <id>90840</id>
+  </point>
+  <point>
+    <name>Ильичевское</name>
+    <district>Прикубанский район</district>
+    <id>90837</id>
+  </point>
+  <point>
+    <name>Кавказский</name>
+    <district>Прикубанский район</district>
+    <id>90743</id>
+  </point>
+  <point>
+    <name>Красивый</name>
+    <district>Прикубанский район</district>
+    <id>90826</id>
+  </point>
+  <point>
+    <name>Майский</name>
+    <district>Прикубанский район</district>
+    <id>90828</id>
+  </point>
+  <point>
+    <name>Мичуринский</name>
+    <district>Прикубанский район</district>
+    <id>90829</id>
+  </point>
+  <point>
+    <name>Николаевское</name>
+    <district>Прикубанский район</district>
+    <id>90847</id>
+  </point>
+  <point>
+    <name>Новый</name>
+    <district>Прикубанский район</district>
+    <id>90831</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Прикубанский район</district>
+    <id>90832</id>
+  </point>
+  <point>
+    <name>Пригородное</name>
+    <district>Прикубанский район</district>
+    <id>167649</id>
+  </point>
+  <point>
+    <name>Пристань</name>
+    <district>Прикубанский район</district>
+    <id>90845</id>
+  </point>
+  <point>
+    <name>Родниковский</name>
+    <district>Прикубанский район</district>
+    <id>90830</id>
+  </point>
+  <point>
+    <name>Светлое</name>
+    <district>Прикубанский район</district>
+    <id>90842</id>
+  </point>
+  <point>
+    <name>Солнечный</name>
+    <district>Прикубанский район</district>
+    <id>90838</id>
+  </point>
+  <point>
+    <name>Счастливое</name>
+    <district>Прикубанский район</district>
+    <id>90744</id>
+  </point>
+  <point>
+    <name>Таллык</name>
+    <district>Прикубанский район</district>
+    <id>90844</id>
+  </point>
+  <point>
+    <name>Ударный</name>
+    <district>Прикубанский район</district>
+    <id>90728</id>
+  </point>
+  <point>
+    <name>Холоднородниковское</name>
+    <district>Прикубанский район</district>
+    <id>90843</id>
+  </point>
+  <point>
+    <name>Чапаевское</name>
+    <district>Прикубанский район</district>
+    <id>90827</id>
+  </point>
+  <point>
+    <name>Азиатский</name>
+    <district>Урупский район</district>
+    <id>90733</id>
+  </point>
+  <point>
+    <name>Большевик</name>
+    <district>Урупский район</district>
+    <id>167650</id>
+  </point>
+  <point>
+    <name>Дамхурц</name>
+    <district>Урупский район</district>
+    <id>90738</id>
+  </point>
+  <point>
+    <name>Ершов</name>
+    <district>Урупский район</district>
+    <id>90854</id>
+  </point>
+  <point>
+    <name>Загедан</name>
+    <district>Урупский район</district>
+    <id>90739</id>
+  </point>
+  <point>
+    <name>Закан</name>
+    <district>Урупский район</district>
+    <id>90741</id>
+  </point>
+  <point>
+    <name>Курджиново</name>
+    <district>Урупский район</district>
+    <id>90727</id>
+  </point>
+  <point>
+    <name>Кызыл-Уруп</name>
+    <district>Урупский район</district>
+    <id>90747</id>
+  </point>
+  <point>
+    <name>Медногорский</name>
+    <district>Урупский район</district>
+    <id>90726</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Урупский район</district>
+    <id>90777</id>
+  </point>
+  <point>
+    <name>Подскальное</name>
+    <district>Урупский район</district>
+    <id>90852</id>
+  </point>
+  <point>
+    <name>Преградная</name>
+    <district>Урупский район</district>
+    <id>6859</id>
+  </point>
+  <point>
+    <name>Предгорное</name>
+    <district>Урупский район</district>
+    <id>90853</id>
+  </point>
+  <point>
+    <name>Псемен</name>
+    <district>Урупский район</district>
+    <id>90849</id>
+  </point>
+  <point>
+    <name>Пхия</name>
+    <district>Урупский район</district>
+    <id>90740</id>
+  </point>
+  <point>
+    <name>Рожкао</name>
+    <district>Урупский район</district>
+    <id>90736</id>
+  </point>
+  <point>
+    <name>Уруп</name>
+    <district>Урупский район</district>
+    <id>8506</id>
+  </point>
+  <point>
+    <name>Усть-Джегута</name>
+    <district>Усть-Джегутинский район</district>
+    <id>8552</id>
+  </point>
+  <point>
+    <name>Койдан</name>
+    <district>Усть-Джегутинский район</district>
+    <id>90846</id>
+  </point>
+  <point>
+    <name>Красногорская</name>
+    <district>Усть-Джегутинский район</district>
+    <id>90823</id>
+  </point>
+  <point>
+    <name>Сары-Тюз</name>
+    <district>Усть-Джегутинский район</district>
+    <id>90821</id>
+  </point>
+  <point>
+    <name>Эльтаркач</name>
+    <district>Усть-Джегутинский район</district>
+    <id>90791</id>
+  </point>
+  <point>
+    <name>Важное</name>
+    <district>Усть-Джегутинский район</district>
+    <id>90824</id>
+  </point>
+  <point>
+    <name>Гюрюльдеук</name>
+    <district>Усть-Джегутинский район</district>
+    <id>90797</id>
+  </point>
+  <point>
+    <name>Джегута</name>
+    <district>Усть-Джегутинский район</district>
+    <id>90798</id>
+  </point>
+  <point>
+    <name>Кызыл-Кала</name>
+    <district>Усть-Джегутинский район</district>
+    <id>90799</id>
+  </point>
+  <point>
+    <name>Новая Джегута</name>
+    <district>Усть-Джегутинский район</district>
+    <id>90745</id>
+  </point>
+  <point>
+    <name>Хабез</name>
+    <district>Хабезский район</district>
+    <id>8725</id>
+  </point>
+  <point>
+    <name>Али-Бердуковский</name>
+    <district>Хабезский район</district>
+    <id>90746</id>
+  </point>
+  <point>
+    <name>Бесленей</name>
+    <district>Хабезский район</district>
+    <id>1541</id>
+  </point>
+  <point>
+    <name>Жако</name>
+    <district>Хабезский район</district>
+    <id>90806</id>
+  </point>
+  <point>
+    <name>Псаучье-Дахе</name>
+    <district>Хабезский район</district>
+    <id>90754</id>
+  </point>
+  <point>
+    <name>Абазакт</name>
+    <district>Хабезский район</district>
+    <id>90751</id>
+  </point>
+  <point>
+    <name>Бавуко</name>
+    <district>Хабезский район</district>
+    <id>90753</id>
+  </point>
+  <point>
+    <name>Зеюко</name>
+    <district>Хабезский район</district>
+    <id>90758</id>
+  </point>
+  <point>
+    <name>Кош-Хабль</name>
+    <district>Хабезский район</district>
+    <id>90757</id>
+  </point>
+  <point>
+    <name>Кызыл-Юрт</name>
+    <district>Хабезский район</district>
+    <id>90755</id>
+  </point>
+  <point>
+    <name>Малый Зеленчук</name>
+    <district>Хабезский район</district>
+    <id>90756</id>
+  </point>
+  <point>
+    <name>Новохумаринский</name>
+    <district>Хабезский район</district>
+    <id>90752</id>
+  </point>
+  <point>
+    <name>Черкесск</name>
+    <district>Черкесск</district>
+    <id>8990</id>
+  </point>
+</region>

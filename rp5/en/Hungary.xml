@@ -1,0 +1,266 @@
+<country name="Hungary" count="44">
+  <point>
+    <name>Baja</name>
+    <region>Bacs-Kiskun</region>
+    <district>Baja</district>
+    <id>8091</id>
+  </point>
+  <point>
+    <name>Kecskemet (airport)</name>
+    <region>Bacs-Kiskun</region>
+    <district>Kecskemet (airport)</district>
+    <id>8098</id>
+  </point>
+  <point>
+    <name>Pecs</name>
+    <region>Baranya</region>
+    <district>Pecs</district>
+    <id>1728</id>
+  </point>
+  <point>
+    <name>Pecs / Pogany (airport)</name>
+    <region>Baranya</region>
+    <district>Pecs / Pogany (airport)</district>
+    <id>8087</id>
+  </point>
+  <point>
+    <name>Bekescsaba (airport)</name>
+    <region>Bekes</region>
+    <district>Bekescsaba (airport)</district>
+    <id>8105</id>
+  </point>
+  <point>
+    <name>Josvafo</name>
+    <region>Borsod-Abauj-Zemplen</region>
+    <district>Josvafo</district>
+    <id>7998</id>
+  </point>
+  <point>
+    <name>Miskolc</name>
+    <region>Borsod-Abauj-Zemplen</region>
+    <district>Miskolc</district>
+    <id>8001</id>
+  </point>
+  <point>
+    <name>Budapest</name>
+    <region>Budapest</region>
+    <district>Budapest</district>
+    <id>8029</id>
+  </point>
+  <point>
+    <name>Budapest / Ferenc Liszt (airport)</name>
+    <region>Budapest</region>
+    <district>Budapest / Ferenc Liszt (airport)</district>
+    <id>8025</id>
+  </point>
+  <point>
+    <name>Budapest / Lorinc (airport)</name>
+    <region>Budapest</region>
+    <district>Budapest / Lorinc (airport)</district>
+    <id>8030</id>
+  </point>
+  <point>
+    <name>Szeged (airport)</name>
+    <region>Csongrad</region>
+    <district>Szeged (airport)</district>
+    <id>8101</id>
+  </point>
+  <point>
+    <name>Gardony / Agard</name>
+    <region>Fejer</region>
+    <district>Gardony / Agard</district>
+    <id>8039</id>
+  </point>
+  <point>
+    <name>Szekesfehervar</name>
+    <region>Fejer</region>
+    <district>Szekesfehervar</district>
+    <id>1765</id>
+  </point>
+  <point>
+    <name>Gyor</name>
+    <region>Gyor-Moson-Sopron</region>
+    <district>Gyor</district>
+    <id>8016</id>
+  </point>
+  <point>
+    <name>Gyor (airport)</name>
+    <region>Gyor-Moson-Sopron</region>
+    <district>Gyor (airport)</district>
+    <id>508774</id>
+  </point>
+  <point>
+    <name>Mosonmagyarovar</name>
+    <region>Gyor-Moson-Sopron</region>
+    <district>Mosonmagyarovar</district>
+    <id>8011</id>
+  </point>
+  <point>
+    <name>Sopron</name>
+    <region>Gyor-Moson-Sopron</region>
+    <district>Sopron</district>
+    <id>8006</id>
+  </point>
+  <point>
+    <name>Debrecen (airport)</name>
+    <region>Hajdu-Bihar</region>
+    <district>Debrecen (airport)</district>
+    <id>8051</id>
+  </point>
+  <point>
+    <name>Eger</name>
+    <region>Heves</region>
+    <district>Eger</district>
+    <id>8048</id>
+  </point>
+  <point>
+    <name>Kekesteto</name>
+    <region>Heves</region>
+    <district>Kekesteto</district>
+    <id>8044</id>
+  </point>
+  <point>
+    <name>Poroszlo</name>
+    <region>Heves</region>
+    <district>Poroszlo</district>
+    <id>8047</id>
+  </point>
+  <point>
+    <name>Szolnok (airport)</name>
+    <region>Jasz-Nagykun-Szolnok</region>
+    <district>Szolnok (airport)</district>
+    <id>8045</id>
+  </point>
+  <point>
+    <name>Tat (weather station)</name>
+    <region>Komarom-Esztergom</region>
+    <district>Tat (weather station)</district>
+    <id>170729</id>
+  </point>
+  <point>
+    <name>Tata</name>
+    <region>Komarom-Esztergom</region>
+    <district>Tata</district>
+    <id>8022</id>
+  </point>
+  <point>
+    <name>Tatabanya</name>
+    <region>Komarom-Esztergom</region>
+    <district>Tatabanya</district>
+    <id>1773</id>
+  </point>
+  <point>
+    <name>Salgotarjan</name>
+    <region>Nograd</region>
+    <district>Salgotarjan</district>
+    <id>1652</id>
+  </point>
+  <point>
+    <name>Szecseny</name>
+    <region>Nograd</region>
+    <district>Szecseny</district>
+    <id>7997</id>
+  </point>
+  <point>
+    <name>Monor</name>
+    <region>Pest</region>
+    <district>Monor</district>
+    <id>1903</id>
+  </point>
+  <point>
+    <name>Kaposvar</name>
+    <region>Somogy</region>
+    <district>Kaposvar</district>
+    <id>8066</id>
+  </point>
+  <point>
+    <name>Siofok</name>
+    <region>Somogy</region>
+    <district>Siofok</district>
+    <id>8079</id>
+  </point>
+  <point>
+    <name>Nyiregyhaza</name>
+    <region>Szabolcs-Szatmar-Bereg</region>
+    <district>Nyiregyhaza</district>
+    <id>1720</id>
+  </point>
+  <point>
+    <name>Nyiregyhaza / Napkor</name>
+    <region>Szabolcs-Szatmar-Bereg</region>
+    <district>Nyiregyhaza / Napkor</district>
+    <id>8055</id>
+  </point>
+  <point>
+    <name>Zahony</name>
+    <region>Szabolcs-Szatmar-Bereg</region>
+    <district>Zahony</district>
+    <id>8003</id>
+  </point>
+  <point>
+    <name>Paks</name>
+    <region>Tolna</region>
+    <district>Paks</district>
+    <id>8089</id>
+  </point>
+  <point>
+    <name>Szekszard</name>
+    <region>Tolna</region>
+    <district>Szekszard</district>
+    <id>1547</id>
+  </point>
+  <point>
+    <name>Szentgotthard / Farkasfa</name>
+    <region>Vas</region>
+    <district>Szentgotthard / Farkasfa</district>
+    <id>8056</id>
+  </point>
+  <point>
+    <name>Szombathely</name>
+    <region>Vas</region>
+    <district>Szombathely</district>
+    <id>8007</id>
+  </point>
+  <point>
+    <name>Veszprem</name>
+    <region>Veszprem</region>
+    <district>Veszprem</district>
+    <id>1800</id>
+  </point>
+  <point>
+    <name>Papa (airport)</name>
+    <region>Veszprem</region>
+    <district>Papa (airport)</district>
+    <id>8017</id>
+  </point>
+  <point>
+    <name>Veszprem / Szentkiralyszabadja</name>
+    <region>Veszprem</region>
+    <district>Veszprem / Szentkiralyszabadja</district>
+    <id>8019</id>
+  </point>
+  <point>
+    <name>Zalaegerszeg</name>
+    <region>Zala</region>
+    <district>Zalaegerszeg</district>
+    <id>1818</id>
+  </point>
+  <point>
+    <name>Nagykanizsa</name>
+    <region>Zala</region>
+    <district>Nagykanizsa</district>
+    <id>8061</id>
+  </point>
+  <point>
+    <name>Sarmellek (airport)</name>
+    <region>Zala</region>
+    <district>Sarmellek (airport)</district>
+    <id>170730</id>
+  </point>
+  <point>
+    <name>Zalaegerszeg / Andrashida</name>
+    <region>Zala</region>
+    <district>Zalaegerszeg / Andrashida</district>
+    <id>8057</id>
+  </point>
+</country>

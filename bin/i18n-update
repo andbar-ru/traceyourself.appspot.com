@@ -1,0 +1,7 @@
+#!/bin/bash
+cd ~/GAE/traceyourself-hrd/src
+for lang in "en" "ru"
+do
+  pybabel update -l $lang --no-wrap -d ./locale -i ./locale/messages.pot
+done
+

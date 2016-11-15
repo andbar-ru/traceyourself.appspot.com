@@ -1,0 +1,194 @@
+<country name="Tanzania" count="32">
+  <point>
+    <name>Arusha (airport)</name>
+    <region>Arusha</region>
+    <district>Arusha (airport)</district>
+    <id>10682</id>
+  </point>
+  <point>
+    <name>Dar es Salaam (airport)</name>
+    <region>Dar es Salaam</region>
+    <district>Dar es Salaam (airport)</district>
+    <id>10698</id>
+  </point>
+  <point>
+    <name>Dodoma (airport)</name>
+    <region>Dodoma</region>
+    <district>Dodoma (airport)</district>
+    <id>10694</id>
+  </point>
+  <point>
+    <name>Iringa (airport)</name>
+    <region>Iringa</region>
+    <district>Iringa (airport)</district>
+    <id>10697</id>
+  </point>
+  <point>
+    <name>Bukoba (airport)</name>
+    <region>Kagera</region>
+    <district>Bukoba (airport)</district>
+    <id>10673</id>
+  </point>
+  <point>
+    <name>Kigoma</name>
+    <region>Kigoma</region>
+    <district>Kigoma</district>
+    <id>10687</id>
+  </point>
+  <point>
+    <name>Kigoma (airport)</name>
+    <region>Kigoma</region>
+    <district>Kigoma (airport)</district>
+    <id>509071</id>
+  </point>
+  <point>
+    <name>Kilimanjaro (airport)</name>
+    <region>Kilimanjaro</region>
+    <district>Kilimanjaro (airport)</district>
+    <id>10684</id>
+  </point>
+  <point>
+    <name>Moshi</name>
+    <region>Kilimanjaro</region>
+    <district>Moshi</district>
+    <id>10683</id>
+  </point>
+  <point>
+    <name>Lindi</name>
+    <region>Lindi</region>
+    <district>Lindi</district>
+    <id>292045</id>
+  </point>
+  <point>
+    <name>Babati</name>
+    <region>Manyara</region>
+    <district>Babati</district>
+    <id>292039</id>
+  </point>
+  <point>
+    <name>Musoma (airport)</name>
+    <region>Mara</region>
+    <district>Musoma (airport)</district>
+    <id>10674</id>
+  </point>
+  <point>
+    <name>Mbeya (airport)</name>
+    <region>Mbeya</region>
+    <district>Mbeya (airport)</district>
+    <id>10700</id>
+  </point>
+  <point>
+    <name>Morogoro</name>
+    <region>Morogoro</region>
+    <district>Morogoro</district>
+    <id>10695</id>
+  </point>
+  <point>
+    <name>Morogoro (airport)</name>
+    <region>Morogoro</region>
+    <district>Morogoro (airport)</district>
+    <id>509073</id>
+  </point>
+  <point>
+    <name>Mtwara</name>
+    <region>Mtwara</region>
+    <district>Mtwara</district>
+    <id>10703</id>
+  </point>
+  <point>
+    <name>Mtwara (airport)</name>
+    <region>Mtwara</region>
+    <district>Mtwara (airport)</district>
+    <id>509074</id>
+  </point>
+  <point>
+    <name>Mwanza</name>
+    <region>Mwanza</region>
+    <district>Mwanza</district>
+    <id>10679</id>
+  </point>
+  <point>
+    <name>Mwanza (airport)</name>
+    <region>Mwanza</region>
+    <district>Mwanza (airport)</district>
+    <id>509072</id>
+  </point>
+  <point>
+    <name>Wete</name>
+    <region>Pemba North</region>
+    <district>Wete</district>
+    <id>292040</id>
+  </point>
+  <point>
+    <name>Mkoani</name>
+    <region>Pemba South</region>
+    <district>Mkoani</district>
+    <id>292041</id>
+  </point>
+  <point>
+    <name>Kibaha</name>
+    <region>Pwani</region>
+    <district>Kibaha</district>
+    <id>292042</id>
+  </point>
+  <point>
+    <name>Sumbawanga (airport)</name>
+    <region>Rukwa</region>
+    <district>Sumbawanga (airport)</district>
+    <id>170848</id>
+  </point>
+  <point>
+    <name>Songea (airport)</name>
+    <region>Ruvuma</region>
+    <district>Songea (airport)</district>
+    <id>10701</id>
+  </point>
+  <point>
+    <name>Shinyanga</name>
+    <region>Shinyanga</region>
+    <district>Shinyanga</district>
+    <id>292044</id>
+  </point>
+  <point>
+    <name>Shinyanga / Ibadakuli (Airport)</name>
+    <region>Shinyanga</region>
+    <district>Shinyanga / Ibadakuli (Airport)</district>
+    <id>510113</id>
+  </point>
+  <point>
+    <name>Singida</name>
+    <region>Singida</region>
+    <district>Singida</district>
+    <id>292043</id>
+  </point>
+  <point>
+    <name>Tabora (airport)</name>
+    <region>Tabora</region>
+    <district>Tabora (airport)</district>
+    <id>10691</id>
+  </point>
+  <point>
+    <name>Tanga</name>
+    <region>Tanga</region>
+    <district>Tanga</district>
+    <id>10692</id>
+  </point>
+  <point>
+    <name>Koani</name>
+    <region>Zanzibar Central / South</region>
+    <district>Koani</district>
+    <id>292038</id>
+  </point>
+  <point>
+    <name>Mkokotoni</name>
+    <region>Zanzibar North</region>
+    <district>Mkokotoni</district>
+    <id>292037</id>
+  </point>
+  <point>
+    <name>Zanzibar / Kisauni (airport)</name>
+    <region>Zanzibar Urban/West</region>
+    <district>Zanzibar / Kisauni (airport)</district>
+    <id>10696</id>
+  </point>
+</country>

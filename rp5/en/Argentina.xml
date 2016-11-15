@@ -1,0 +1,548 @@
+<country name="Argentina" count="91">
+  <point>
+    <name>Buenos Aires</name>
+    <region>Buenos Aires</region>
+    <district>Buenos Aires</district>
+    <id>337399</id>
+  </point>
+  <point>
+    <name>Buenos Aires (airport)</name>
+    <region>Buenos Aires</region>
+    <district>Buenos Aires (airport)</district>
+    <id>337878</id>
+  </point>
+  <point>
+    <name>Ezeiza (airport)</name>
+    <region>Buenos Aires</region>
+    <district>Ezeiza (airport)</district>
+    <id>337879</id>
+  </point>
+  <point>
+    <name>San Fernando (airport)</name>
+    <region>Buenos Aires</region>
+    <district>San Fernando (airport)</district>
+    <id>508646</id>
+  </point>
+  <point>
+    <name>Azul (airport)</name>
+    <region>Buenos Aires (Province)</region>
+    <district>Azul (airport)</district>
+    <id>337874</id>
+  </point>
+  <point>
+    <name>Bahia Blanca (airport)</name>
+    <region>Buenos Aires (Province)</region>
+    <district>Bahia Blanca (airport)</district>
+    <id>337868</id>
+  </point>
+  <point>
+    <name>Bolivar (airport)</name>
+    <region>Buenos Aires (Province)</region>
+    <district>Bolivar (airport)</district>
+    <id>337875</id>
+  </point>
+  <point>
+    <name>Dolores (airport)</name>
+    <region>Buenos Aires (Province)</region>
+    <district>Dolores (airport)</district>
+    <id>337872</id>
+  </point>
+  <point>
+    <name>Junin (airport)</name>
+    <region>Buenos Aires (Province)</region>
+    <district>Junin (airport)</district>
+    <id>337881</id>
+  </point>
+  <point>
+    <name>La Plata</name>
+    <region>Buenos Aires (Province)</region>
+    <district>La Plata</district>
+    <id>337877</id>
+  </point>
+  <point>
+    <name>Las Flores (airport)</name>
+    <region>Buenos Aires (Province)</region>
+    <district>Las Flores (airport)</district>
+    <id>337880</id>
+  </point>
+  <point>
+    <name>Mar del Plata (airport)</name>
+    <region>Buenos Aires (Province)</region>
+    <district>Mar del Plata (airport)</district>
+    <id>337870</id>
+  </point>
+  <point>
+    <name>Tandil (airport)</name>
+    <region>Buenos Aires (Province)</region>
+    <district>Tandil (airport)</district>
+    <id>337873</id>
+  </point>
+  <point>
+    <name>Tres Arroyos (airport)</name>
+    <region>Buenos Aires (Province)</region>
+    <district>Tres Arroyos (airport)</district>
+    <id>337871</id>
+  </point>
+  <point>
+    <name>Catamarca (airport)</name>
+    <region>Catamarca</region>
+    <district>Catamarca (airport)</district>
+    <id>337906</id>
+  </point>
+  <point>
+    <name>San Fernando del Valle de Catamarca</name>
+    <region>Catamarca</region>
+    <district>San Fernando del Valle de Catamarca</district>
+    <id>347931</id>
+  </point>
+  <point>
+    <name>Presidencia Roque Saenz Pena</name>
+    <region>Chaco</region>
+    <district>Presidencia Roque Saenz Pena</district>
+    <id>337912</id>
+  </point>
+  <point>
+    <name>Resistencia</name>
+    <region>Chaco</region>
+    <district>Resistencia</district>
+    <id>347932</id>
+  </point>
+  <point>
+    <name>Resistencia (airport)</name>
+    <region>Chaco</region>
+    <district>Resistencia (airport)</district>
+    <id>337911</id>
+  </point>
+  <point>
+    <name>Comodoro Rivadavia (airport)</name>
+    <region>Chubut</region>
+    <district>Comodoro Rivadavia (airport)</district>
+    <id>337860</id>
+  </point>
+  <point>
+    <name>Esquel (airport)</name>
+    <region>Chubut</region>
+    <district>Esquel (airport)</district>
+    <id>337863</id>
+  </point>
+  <point>
+    <name>Rawson</name>
+    <region>Chubut</region>
+    <district>Rawson</district>
+    <id>347933</id>
+  </point>
+  <point>
+    <name>Trelew (airport)</name>
+    <region>Chubut</region>
+    <district>Trelew (airport)</district>
+    <id>337862</id>
+  </point>
+  <point>
+    <name>Cordoba</name>
+    <region>Cordoba</region>
+    <district>Cordoba</district>
+    <id>347934</id>
+  </point>
+  <point>
+    <name>Cordoba (airport)</name>
+    <region>Cordoba</region>
+    <district>Cordoba (airport)</district>
+    <id>337898</id>
+  </point>
+  <point>
+    <name>Rio Cuarto (airport)</name>
+    <region>Cordoba</region>
+    <district>Rio Cuarto (airport)</district>
+    <id>337888</id>
+  </point>
+  <point>
+    <name>Villa de Maria (airport)</name>
+    <region>Cordoba</region>
+    <district>Villa de Maria (airport)</district>
+    <id>337905</id>
+  </point>
+  <point>
+    <name>Laboulaye (airport)</name>
+    <region>Cordoba</region>
+    <district>Laboulaye (airport)</district>
+    <id>337882</id>
+  </point>
+  <point>
+    <name>Marcos Juarez (airport)</name>
+    <region>Cordoba</region>
+    <district>Marcos Juarez (airport)</district>
+    <id>337887</id>
+  </point>
+  <point>
+    <name>Pilar</name>
+    <region>Cordoba</region>
+    <district>Pilar</district>
+    <id>337897</id>
+  </point>
+  <point>
+    <name>Villa Dolores (airport)</name>
+    <region>Cordoba</region>
+    <district>Villa Dolores (airport)</district>
+    <id>337899</id>
+  </point>
+  <point>
+    <name>Corrientes</name>
+    <region>Corrientes</region>
+    <district>Corrientes</district>
+    <id>347935</id>
+  </point>
+  <point>
+    <name>Corrientes (airport)</name>
+    <region>Corrientes</region>
+    <district>Corrientes (airport)</district>
+    <id>337909</id>
+  </point>
+  <point>
+    <name>Monte Caseros (airport)</name>
+    <region>Corrientes</region>
+    <district>Monte Caseros (airport)</district>
+    <id>337894</id>
+  </point>
+  <point>
+    <name>Paso de Los Libres (airport)</name>
+    <region>Corrientes</region>
+    <district>Paso de Los Libres (airport)</district>
+    <id>337902</id>
+  </point>
+  <point>
+    <name>Concordia (airport)</name>
+    <region>Entre Rios</region>
+    <district>Concordia (airport)</district>
+    <id>337893</id>
+  </point>
+  <point>
+    <name>Gualeguaychu (airport)</name>
+    <region>Entre Rios</region>
+    <district>Gualeguaychu (airport)</district>
+    <id>337885</id>
+  </point>
+  <point>
+    <name>Parana</name>
+    <region>Entre Rios</region>
+    <district>Parana</district>
+    <id>347936</id>
+  </point>
+  <point>
+    <name>Parana (airport)</name>
+    <region>Entre Rios</region>
+    <district>Parana (airport)</district>
+    <id>337895</id>
+  </point>
+  <point>
+    <name>Formosa</name>
+    <region>Formosa</region>
+    <district>Formosa</district>
+    <id>337910</id>
+  </point>
+  <point>
+    <name>Formosa (airport)</name>
+    <region>Formosa</region>
+    <district>Formosa (airport)</district>
+    <id>504553</id>
+  </point>
+  <point>
+    <name>Las Lomitas</name>
+    <region>Formosa</region>
+    <district>Las Lomitas</district>
+    <id>337916</id>
+  </point>
+  <point>
+    <name>General Pico Aerodrome</name>
+    <region>La Pampa</region>
+    <district>General Pico Aerodrome</district>
+    <id>429817</id>
+  </point>
+  <point>
+    <name>Santa Rosa</name>
+    <region>La Pampa</region>
+    <district>Santa Rosa</district>
+    <id>337876</id>
+  </point>
+  <point>
+    <name>La Rioja</name>
+    <region>La Rioja</region>
+    <district>La Rioja</district>
+    <id>347938</id>
+  </point>
+  <point>
+    <name>Chamical (airport)</name>
+    <region>La Rioja</region>
+    <district>Chamical (airport)</district>
+    <id>337900</id>
+  </point>
+  <point>
+    <name>La Rioja (airport)</name>
+    <region>La Rioja</region>
+    <district>La Rioja (airport)</district>
+    <id>337907</id>
+  </point>
+  <point>
+    <name>Mendoza</name>
+    <region>Mendoza</region>
+    <district>Mendoza</district>
+    <id>347939</id>
+  </point>
+  <point>
+    <name>Mendoza (airport)</name>
+    <region>Mendoza</region>
+    <district>Mendoza (airport)</district>
+    <id>337891</id>
+  </point>
+  <point>
+    <name>San Martin (airport)</name>
+    <region>Mendoza</region>
+    <district>San Martin (airport)</district>
+    <id>337892</id>
+  </point>
+  <point>
+    <name>San Rafael (airport)</name>
+    <region>Mendoza</region>
+    <district>San Rafael (airport)</district>
+    <id>337883</id>
+  </point>
+  <point>
+    <name>Malargue (airport)</name>
+    <region>Mendoza</region>
+    <district>Malargue (airport)</district>
+    <id>337884</id>
+  </point>
+  <point>
+    <name>Iguazu (airport)</name>
+    <region>Misiones</region>
+    <district>Iguazu (airport)</district>
+    <id>337915</id>
+  </point>
+  <point>
+    <name>Posadas</name>
+    <region>Misiones</region>
+    <district>Posadas</district>
+    <id>347940</id>
+  </point>
+  <point>
+    <name>Posadas (airport)</name>
+    <region>Misiones</region>
+    <district>Posadas (airport)</district>
+    <id>504550</id>
+  </point>
+  <point>
+    <name>Neuquen</name>
+    <region>Neuquen</region>
+    <district>Neuquen</district>
+    <id>337869</id>
+  </point>
+  <point>
+    <name>Neuquen (airport)</name>
+    <region>Neuquen</region>
+    <district>Neuquen (airport)</district>
+    <id>504549</id>
+  </point>
+  <point>
+    <name>Bariloche (airport)</name>
+    <region>Rio Negro</region>
+    <district>Bariloche (airport)</district>
+    <id>337867</id>
+  </point>
+  <point>
+    <name>El Bolson Aerodrome</name>
+    <region>Rio Negro</region>
+    <district>El Bolson Aerodrome</district>
+    <id>429818</id>
+  </point>
+  <point>
+    <name>Maquinchao</name>
+    <region>Rio Negro</region>
+    <district>Maquinchao</district>
+    <id>337866</id>
+  </point>
+  <point>
+    <name>San Antonio Este (airport)</name>
+    <region>Rio Negro</region>
+    <district>San Antonio Este (airport)</district>
+    <id>337865</id>
+  </point>
+  <point>
+    <name>Viedma</name>
+    <region>Rio Negro</region>
+    <district>Viedma</district>
+    <id>337864</id>
+  </point>
+  <point>
+    <name>Salta</name>
+    <region>Salta</region>
+    <district>Salta</district>
+    <id>347941</id>
+  </point>
+  <point>
+    <name>Oran (airport)</name>
+    <region>Salta</region>
+    <district>Oran (airport)</district>
+    <id>337920</id>
+  </point>
+  <point>
+    <name>Salta (airport)</name>
+    <region>Salta</region>
+    <district>Salta (airport)</district>
+    <id>337917</id>
+  </point>
+  <point>
+    <name>Tartagal (airport)</name>
+    <region>Salta</region>
+    <district>Tartagal (airport)</district>
+    <id>337919</id>
+  </point>
+  <point>
+    <name>San Juan</name>
+    <region>San Juan</region>
+    <district>San Juan</district>
+    <id>347942</id>
+  </point>
+  <point>
+    <name>San Juan (airport)</name>
+    <region>San Juan</region>
+    <district>San Juan (airport)</district>
+    <id>337901</id>
+  </point>
+  <point>
+    <name>San Luis</name>
+    <region>San Luis</region>
+    <district>San Luis</district>
+    <id>337890</id>
+  </point>
+  <point>
+    <name>Villa Reynolds (airport)</name>
+    <region>San Luis</region>
+    <district>Villa Reynolds (airport)</district>
+    <id>337889</id>
+  </point>
+  <point>
+    <name>San Salvador de Jujuy</name>
+    <region>Jujuy</region>
+    <district>San Salvador de Jujuy</district>
+    <id>347937</id>
+  </point>
+  <point>
+    <name>Jujuy (airport)</name>
+    <region>Jujuy</region>
+    <district>Jujuy (airport)</district>
+    <id>337918</id>
+  </point>
+  <point>
+    <name>La Quiaca</name>
+    <region>Jujuy</region>
+    <district>La Quiaca</district>
+    <id>337921</id>
+  </point>
+  <point>
+    <name>El Calafate (airport)</name>
+    <region>Santa Cruz</region>
+    <district>El Calafate (airport)</district>
+    <id>337858</id>
+  </point>
+  <point>
+    <name>Natales / Teniente Julio Gallardo (airport)</name>
+    <region>Santa Cruz</region>
+    <district>Natales / Teniente Julio Gallardo (airport)</district>
+    <id>508564</id>
+  </point>
+  <point>
+    <name>Perito Moreno (airport)</name>
+    <region>Santa Cruz</region>
+    <district>Perito Moreno (airport)</district>
+    <id>337861</id>
+  </point>
+  <point>
+    <name>Puerto Deseado (airport)</name>
+    <region>Santa Cruz</region>
+    <district>Puerto Deseado (airport)</district>
+    <id>337859</id>
+  </point>
+  <point>
+    <name>Rio Gallegos</name>
+    <region>Santa Cruz</region>
+    <district>Rio Gallegos</district>
+    <id>337856</id>
+  </point>
+  <point>
+    <name>Rio Gallegos (airport)</name>
+    <region>Santa Cruz</region>
+    <district>Rio Gallegos (airport)</district>
+    <id>504551</id>
+  </point>
+  <point>
+    <name>San Julian (airport)</name>
+    <region>Santa Cruz</region>
+    <district>San Julian (airport)</district>
+    <id>337857</id>
+  </point>
+  <point>
+    <name>Santa Fe</name>
+    <region>Santa Fe</region>
+    <district>Santa Fe</district>
+    <id>347945</id>
+  </point>
+  <point>
+    <name>Ceres (airport)</name>
+    <region>Santa Fe</region>
+    <district>Ceres (airport)</district>
+    <id>337904</id>
+  </point>
+  <point>
+    <name>Rosario (airport)</name>
+    <region>Santa Fe</region>
+    <district>Rosario (airport)</district>
+    <id>337886</id>
+  </point>
+  <point>
+    <name>Sauce Viejo (airport)</name>
+    <region>Santa Fe</region>
+    <district>Sauce Viejo (airport)</district>
+    <id>337896</id>
+  </point>
+  <point>
+    <name>Reconquista (airport)</name>
+    <region>Santa Fe</region>
+    <district>Reconquista (airport)</district>
+    <id>337903</id>
+  </point>
+  <point>
+    <name>Santiago del Estero</name>
+    <region>Santiago del Estero</region>
+    <district>Santiago del Estero</district>
+    <id>337913</id>
+  </point>
+  <point>
+    <name>Rio Grande / Hermes Quijada (airport)</name>
+    <region>Tierra del Fuego</region>
+    <district>Rio Grande / Hermes Quijada (airport)</district>
+    <id>508444</id>
+  </point>
+  <point>
+    <name>Ushuaia</name>
+    <region>Tierra del Fuego</region>
+    <district>Ushuaia</district>
+    <id>337855</id>
+  </point>
+  <point>
+    <name>Ushuaia (airport)</name>
+    <region>Tierra del Fuego</region>
+    <district>Ushuaia (airport)</district>
+    <id>504552</id>
+  </point>
+  <point>
+    <name>San Miguel de Tucuman</name>
+    <region>Tucuman</region>
+    <district>San Miguel de Tucuman</district>
+    <id>347946</id>
+  </point>
+  <point>
+    <name>Tucuman (airport)</name>
+    <region>Tucuman</region>
+    <district>Tucuman (airport)</district>
+    <id>337914</id>
+  </point>
+</country>

@@ -1,0 +1,3679 @@
+<region name="New Scotland" count="622">
+  <point>
+    <name>Annapolis Royal</name>
+    <district>Annapolis</district>
+    <id>341475</id>
+  </point>
+  <point>
+    <name>Deep Brook</name>
+    <district>Annapolis</district>
+    <id>343825</id>
+  </point>
+  <point>
+    <name>Kejimkujik 1 (AWS)</name>
+    <district>Annapolis</district>
+    <id>338761</id>
+  </point>
+  <point>
+    <name>Margaretsville</name>
+    <district>Annapolis</district>
+    <id>343830</id>
+  </point>
+  <point>
+    <name>Springfield</name>
+    <district>Annapolis</district>
+    <id>343833</id>
+  </point>
+  <point>
+    <name>Bear River</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343820</id>
+  </point>
+  <point>
+    <name>Bridgetown</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343821</id>
+  </point>
+  <point>
+    <name>Clementsport</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343822</id>
+  </point>
+  <point>
+    <name>Clementsvale</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343823</id>
+  </point>
+  <point>
+    <name>Cornwallis</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343824</id>
+  </point>
+  <point>
+    <name>Granville Ferry</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343826</id>
+  </point>
+  <point>
+    <name>Hampton</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343827</id>
+  </point>
+  <point>
+    <name>Maitland Bridge</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343829</id>
+  </point>
+  <point>
+    <name>Middleton</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343831</id>
+  </point>
+  <point>
+    <name>Paradise</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343832</id>
+  </point>
+  <point>
+    <name>Wilmot Station</name>
+    <region>New Scotland</region>
+    <district>Annapolis</district>
+    <id>343834</id>
+  </point>
+  <point>
+    <name>Antigonish</name>
+    <district>Antigonish</district>
+    <id>341476</id>
+  </point>
+  <point>
+    <name>Havre Boucher</name>
+    <district>Antigonish</district>
+    <id>343837</id>
+  </point>
+  <point>
+    <name>Heatherton</name>
+    <district>Antigonish</district>
+    <id>343838</id>
+  </point>
+  <point>
+    <name>Monastery</name>
+    <district>Antigonish</district>
+    <id>343839</id>
+  </point>
+  <point>
+    <name>Tracadie (AWS)</name>
+    <district>Antigonish</district>
+    <id>339015</id>
+  </point>
+  <point>
+    <name>Afton Station</name>
+    <region>New Scotland</region>
+    <district>Antigonish</district>
+    <id>343835</id>
+  </point>
+  <point>
+    <name>Frankville</name>
+    <region>New Scotland</region>
+    <district>Antigonish</district>
+    <id>343836</id>
+  </point>
+  <point>
+    <name>St. Andrews</name>
+    <region>New Scotland</region>
+    <district>Antigonish</district>
+    <id>343840</id>
+  </point>
+  <point>
+    <name>Albert Bridge</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343841</id>
+  </point>
+  <point>
+    <name>Alder Point</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343842</id>
+  </point>
+  <point>
+    <name>Balls Creek</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343843</id>
+  </point>
+  <point>
+    <name>Barrachois</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343844</id>
+  </point>
+  <point>
+    <name>Bateston</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343845</id>
+  </point>
+  <point>
+    <name>Beaver Cove</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343846</id>
+  </point>
+  <point>
+    <name>Beechmont</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343847</id>
+  </point>
+  <point>
+    <name>Ben Eoin</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343848</id>
+  </point>
+  <point>
+    <name>Benacadie</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343849</id>
+  </point>
+  <point>
+    <name>Big Beach</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343850</id>
+  </point>
+  <point>
+    <name>Big Pond</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343851</id>
+  </point>
+  <point>
+    <name>Big Pond Centre</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343852</id>
+  </point>
+  <point>
+    <name>Big Ridge</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343853</id>
+  </point>
+  <point>
+    <name>Birch Grove</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343854</id>
+  </point>
+  <point>
+    <name>Black Brook</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343855</id>
+  </point>
+  <point>
+    <name>Blacketts Lake</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343856</id>
+  </point>
+  <point>
+    <name>Boisdale</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343857</id>
+  </point>
+  <point>
+    <name>Bras d'Or</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343858</id>
+  </point>
+  <point>
+    <name>Broughton</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343859</id>
+  </point>
+  <point>
+    <name>Caribou Marsh</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343860</id>
+  </point>
+  <point>
+    <name>Castle Bay</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343861</id>
+  </point>
+  <point>
+    <name>Catalone</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343862</id>
+  </point>
+  <point>
+    <name>Catalone Gut</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343863</id>
+  </point>
+  <point>
+    <name>Centreville</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343864</id>
+  </point>
+  <point>
+    <name>Christmas Island</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343865</id>
+  </point>
+  <point>
+    <name>Coxheath</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343866</id>
+  </point>
+  <point>
+    <name>Dalem Lake</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343867</id>
+  </point>
+  <point>
+    <name>Dominion</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343868</id>
+  </point>
+  <point>
+    <name>Donkin</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343869</id>
+  </point>
+  <point>
+    <name>Dutch Brook</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343871</id>
+  </point>
+  <point>
+    <name>East Bay</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343872</id>
+  </point>
+  <point>
+    <name>Edwardsville</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343875</id>
+  </point>
+  <point>
+    <name>Eskasoni (airport)</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343876</id>
+  </point>
+  <point>
+    <name>Florence</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343877</id>
+  </point>
+  <point>
+    <name>Fortress of Louisbourg</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343878</id>
+  </point>
+  <point>
+    <name>French Road</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343879</id>
+  </point>
+  <point>
+    <name>Frenchvale</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343880</id>
+  </point>
+  <point>
+    <name>Gabarus</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343881</id>
+  </point>
+  <point>
+    <name>Gabarus Lake</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343882</id>
+  </point>
+  <point>
+    <name>Gardiner Mines</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343883</id>
+  </point>
+  <point>
+    <name>Georges River</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343884</id>
+  </point>
+  <point>
+    <name>Gillis Lake</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343885</id>
+  </point>
+  <point>
+    <name>Glace Bay</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343886</id>
+  </point>
+  <point>
+    <name>Grand Lake Road</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343888</id>
+  </point>
+  <point>
+    <name>Grand Mira North</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343889</id>
+  </point>
+  <point>
+    <name>Grand Mira South</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343890</id>
+  </point>
+  <point>
+    <name>Grand Narrows</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343891</id>
+  </point>
+  <point>
+    <name>Groves Point</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343892</id>
+  </point>
+  <point>
+    <name>Hillside Boularderie</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343893</id>
+  </point>
+  <point>
+    <name>Homeville</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343894</id>
+  </point>
+  <point>
+    <name>Howie Center</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343895</id>
+  </point>
+  <point>
+    <name>Huntington</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343896</id>
+  </point>
+  <point>
+    <name>Irish Cove</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343897</id>
+  </point>
+  <point>
+    <name>Irishvale</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343898</id>
+  </point>
+  <point>
+    <name>Ironville</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343899</id>
+  </point>
+  <point>
+    <name>Islandview</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343900</id>
+  </point>
+  <point>
+    <name>Juniper Mountain</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343901</id>
+  </point>
+  <point>
+    <name>Leitches Creek</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343902</id>
+  </point>
+  <point>
+    <name>Lingan</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343903</id>
+  </point>
+  <point>
+    <name>Lingan Road</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343904</id>
+  </point>
+  <point>
+    <name>Little Bras d'Or</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343905</id>
+  </point>
+  <point>
+    <name>Little Lorraine</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343906</id>
+  </point>
+  <point>
+    <name>Little Pond</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343907</id>
+  </point>
+  <point>
+    <name>Long Island</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343908</id>
+  </point>
+  <point>
+    <name>Louisbourg</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343909</id>
+  </point>
+  <point>
+    <name>Macadams Lake</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343910</id>
+  </point>
+  <point>
+    <name>Main-à-Dieu</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343911</id>
+  </point>
+  <point>
+    <name>Marion Bridge</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343913</id>
+  </point>
+  <point>
+    <name>Membertou</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343914</id>
+  </point>
+  <point>
+    <name>Middle Cape</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343916</id>
+  </point>
+  <point>
+    <name>Mill Creek</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343917</id>
+  </point>
+  <point>
+    <name>Millville</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343918</id>
+  </point>
+  <point>
+    <name>Mira Gut</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343919</id>
+  </point>
+  <point>
+    <name>Mira Road</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343920</id>
+  </point>
+  <point>
+    <name>New Victoria</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343921</id>
+  </point>
+  <point>
+    <name>New Waterford</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343922</id>
+  </point>
+  <point>
+    <name>North Sydney</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343923</id>
+  </point>
+  <point>
+    <name>North West Arm</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343925</id>
+  </point>
+  <point>
+    <name>Northside East Bay</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343926</id>
+  </point>
+  <point>
+    <name>Pipers Cove</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343927</id>
+  </point>
+  <point>
+    <name>Point Aconi</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343928</id>
+  </point>
+  <point>
+    <name>Point Edward</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343929</id>
+  </point>
+  <point>
+    <name>Port Caledonia</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343930</id>
+  </point>
+  <point>
+    <name>Port Morien</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343931</id>
+  </point>
+  <point>
+    <name>Portage</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343932</id>
+  </point>
+  <point>
+    <name>Prime Brook</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343933</id>
+  </point>
+  <point>
+    <name>Reserve Mines</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343934</id>
+  </point>
+  <point>
+    <name>River Ryan</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343935</id>
+  </point>
+  <point>
+    <name>Rock Elm</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343936</id>
+  </point>
+  <point>
+    <name>Round Island</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343937</id>
+  </point>
+  <point>
+    <name>Sandfield</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343938</id>
+  </point>
+  <point>
+    <name>Scotch Lake</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343939</id>
+  </point>
+  <point>
+    <name>Scotchtown</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343940</id>
+  </point>
+  <point>
+    <name>Shenacadie</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343941</id>
+  </point>
+  <point>
+    <name>South Bar</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343942</id>
+  </point>
+  <point>
+    <name>South Head</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343943</id>
+  </point>
+  <point>
+    <name>Southside Boularderie</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343944</id>
+  </point>
+  <point>
+    <name>St. Andrews Channel</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343945</id>
+  </point>
+  <point>
+    <name>Sydney</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>338661</id>
+  </point>
+  <point>
+    <name>Sydney Forks</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343955</id>
+  </point>
+  <point>
+    <name>Sydney Mines</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>338703</id>
+  </point>
+  <point>
+    <name>Sydney River</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343956</id>
+  </point>
+  <point>
+    <name>Tower Road</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343957</id>
+  </point>
+  <point>
+    <name>Upper Grand Mira</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343958</id>
+  </point>
+  <point>
+    <name>Upper Leitches Creek</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343959</id>
+  </point>
+  <point>
+    <name>Upper North Sydney</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343960</id>
+  </point>
+  <point>
+    <name>Victoria Mines</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343961</id>
+  </point>
+  <point>
+    <name>Westmount</name>
+    <region>New Scotland</region>
+    <district>Cape Breton</district>
+    <id>343962</id>
+  </point>
+  <point>
+    <name>Bass River</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343963</id>
+  </point>
+  <point>
+    <name>Beaver Brook</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343964</id>
+  </point>
+  <point>
+    <name>Belmont</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343965</id>
+  </point>
+  <point>
+    <name>Bible Hill</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343966</id>
+  </point>
+  <point>
+    <name>Brookfield</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343967</id>
+  </point>
+  <point>
+    <name>Brookside</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343968</id>
+  </point>
+  <point>
+    <name>Camden</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343969</id>
+  </point>
+  <point>
+    <name>Central North River</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343970</id>
+  </point>
+  <point>
+    <name>Central Onslow</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343971</id>
+  </point>
+  <point>
+    <name>Clifton</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343972</id>
+  </point>
+  <point>
+    <name>Crowes Mills</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343973</id>
+  </point>
+  <point>
+    <name>Debert (airport)</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>339007</id>
+  </point>
+  <point>
+    <name>East Mountain</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343974</id>
+  </point>
+  <point>
+    <name>Economy</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343975</id>
+  </point>
+  <point>
+    <name>Five Islands</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343976</id>
+  </point>
+  <point>
+    <name>Five Islands National Park</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343983</id>
+  </point>
+  <point>
+    <name>Great Village</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343977</id>
+  </point>
+  <point>
+    <name>Green Oaks</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343978</id>
+  </point>
+  <point>
+    <name>Harmony</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343980</id>
+  </point>
+  <point>
+    <name>Kemptown</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343981</id>
+  </point>
+  <point>
+    <name>Londonderry</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343982</id>
+  </point>
+  <point>
+    <name>Lower Onslow</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343984</id>
+  </point>
+  <point>
+    <name>Lower Truro</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343985</id>
+  </point>
+  <point>
+    <name>Manganese Mines</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343986</id>
+  </point>
+  <point>
+    <name>Mccallum Settlement</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343987</id>
+  </point>
+  <point>
+    <name>Millbrook</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343988</id>
+  </point>
+  <point>
+    <name>Murray Siding</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343989</id>
+  </point>
+  <point>
+    <name>North River</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343991</id>
+  </point>
+  <point>
+    <name>Nuttby</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343992</id>
+  </point>
+  <point>
+    <name>Old Barns</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343993</id>
+  </point>
+  <point>
+    <name>Onslow Mountain</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343994</id>
+  </point>
+  <point>
+    <name>Princeport</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343995</id>
+  </point>
+  <point>
+    <name>Riversdale</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343996</id>
+  </point>
+  <point>
+    <name>Salmon River</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343997</id>
+  </point>
+  <point>
+    <name>Shubenacadie</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343998</id>
+  </point>
+  <point>
+    <name>Stewiacke</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>341477</id>
+  </point>
+  <point>
+    <name>Tatamagouche</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>343999</id>
+  </point>
+  <point>
+    <name>Truro</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>344000</id>
+  </point>
+  <point>
+    <name>Truro Heights</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>344011</id>
+  </point>
+  <point>
+    <name>Upper Brookside</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>344012</id>
+  </point>
+  <point>
+    <name>Upper North River</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>344013</id>
+  </point>
+  <point>
+    <name>Upper Onslow</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>344014</id>
+  </point>
+  <point>
+    <name>Upper Stewiacke</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>338666</id>
+  </point>
+  <point>
+    <name>Valley</name>
+    <region>New Scotland</region>
+    <district>Colchester</district>
+    <id>344015</id>
+  </point>
+  <point>
+    <name>Advocate Harbour</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344016</id>
+  </point>
+  <point>
+    <name>Amherst</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>341478</id>
+  </point>
+  <point>
+    <name>Collingwood Corner</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344020</id>
+  </point>
+  <point>
+    <name>Diligent River</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344021</id>
+  </point>
+  <point>
+    <name>Joggins</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344022</id>
+  </point>
+  <point>
+    <name>Maccan</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344023</id>
+  </point>
+  <point>
+    <name>Malagash</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344024</id>
+  </point>
+  <point>
+    <name>Nappan (AWS)</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>339012</id>
+  </point>
+  <point>
+    <name>Northport</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344025</id>
+  </point>
+  <point>
+    <name>Oxford</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344026</id>
+  </point>
+  <point>
+    <name>Oxford Junction</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344027</id>
+  </point>
+  <point>
+    <name>Parrsboro</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>338852</id>
+  </point>
+  <point>
+    <name>Port Greville</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344028</id>
+  </point>
+  <point>
+    <name>Port Howe</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344029</id>
+  </point>
+  <point>
+    <name>Pugwash</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344030</id>
+  </point>
+  <point>
+    <name>Pugwash Junction</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344031</id>
+  </point>
+  <point>
+    <name>River Hebert</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344032</id>
+  </point>
+  <point>
+    <name>River Hebert East</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344033</id>
+  </point>
+  <point>
+    <name>River Philip</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344034</id>
+  </point>
+  <point>
+    <name>Southampton</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344035</id>
+  </point>
+  <point>
+    <name>Springhill</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344036</id>
+  </point>
+  <point>
+    <name>Wallace</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344037</id>
+  </point>
+  <point>
+    <name>Wentworth</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344038</id>
+  </point>
+  <point>
+    <name>Westchester Station</name>
+    <region>New Scotland</region>
+    <district>Cumberland</district>
+    <id>344039</id>
+  </point>
+  <point>
+    <name>Digby</name>
+    <district>Digby</district>
+    <id>341479</id>
+  </point>
+  <point>
+    <name>Brier Island (airport)</name>
+    <district>Digby</district>
+    <id>338478</id>
+  </point>
+  <point>
+    <name>Mavillette</name>
+    <district>Digby</district>
+    <id>344045</id>
+  </point>
+  <point>
+    <name>Meteghan</name>
+    <district>Digby</district>
+    <id>344046</id>
+  </point>
+  <point>
+    <name>Smiths Cove</name>
+    <district>Digby</district>
+    <id>344051</id>
+  </point>
+  <point>
+    <name>Barton</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344040</id>
+  </point>
+  <point>
+    <name>Belliveau Cove</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344041</id>
+  </point>
+  <point>
+    <name>Church Point</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344042</id>
+  </point>
+  <point>
+    <name>Freeport</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344043</id>
+  </point>
+  <point>
+    <name>Little Brook</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344044</id>
+  </point>
+  <point>
+    <name>Meteghan Centre</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344047</id>
+  </point>
+  <point>
+    <name>Meteghan River</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344048</id>
+  </point>
+  <point>
+    <name>Plympton</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344049</id>
+  </point>
+  <point>
+    <name>Saulnierville</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344050</id>
+  </point>
+  <point>
+    <name>Tiverton</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344052</id>
+  </point>
+  <point>
+    <name>Westport</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344053</id>
+  </point>
+  <point>
+    <name>Weymouth</name>
+    <region>New Scotland</region>
+    <district>Digby</district>
+    <id>344054</id>
+  </point>
+  <point>
+    <name>Guysborough</name>
+    <district>Guysborough</district>
+    <id>341480</id>
+  </point>
+  <point>
+    <name>Aspen</name>
+    <district>Guysborough</district>
+    <id>344055</id>
+  </point>
+  <point>
+    <name>Isaacs Harbour</name>
+    <district>Guysborough</district>
+    <id>344063</id>
+  </point>
+  <point>
+    <name>Little Dover</name>
+    <district>Guysborough</district>
+    <id>344066</id>
+  </point>
+  <point>
+    <name>Mulgrave</name>
+    <district>Guysborough</district>
+    <id>344068</id>
+  </point>
+  <point>
+    <name>Bickerton West</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344056</id>
+  </point>
+  <point>
+    <name>Boylston</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344057</id>
+  </point>
+  <point>
+    <name>Canso</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344058</id>
+  </point>
+  <point>
+    <name>Cross Roads</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344059</id>
+  </point>
+  <point>
+    <name>Fishermans Harbour</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344060</id>
+  </point>
+  <point>
+    <name>Goldboro</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344061</id>
+  </point>
+  <point>
+    <name>Goshen</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344062</id>
+  </point>
+  <point>
+    <name>Hart Island (AWS)</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>338920</id>
+  </point>
+  <point>
+    <name>Larrys River</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344064</id>
+  </point>
+  <point>
+    <name>Liscomb</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344065</id>
+  </point>
+  <point>
+    <name>Marie Joseph</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344067</id>
+  </point>
+  <point>
+    <name>Sable Island (AWS)</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>338760</id>
+  </point>
+  <point>
+    <name>Sherbrooke</name>
+    <region>New Scotland</region>
+    <district>Guysborough</district>
+    <id>344069</id>
+  </point>
+  <point>
+    <name>Halifax</name>
+    <district>Halifax</district>
+    <id>341390</id>
+  </point>
+  <point>
+    <name>Bear Cove</name>
+    <district>Halifax</district>
+    <id>344072</id>
+  </point>
+  <point>
+    <name>Halifax (airport)</name>
+    <district>Halifax</district>
+    <id>338941</id>
+  </point>
+  <point>
+    <name>McNabs (AWS)</name>
+    <district>Halifax</district>
+    <id>509002</id>
+  </point>
+  <point>
+    <name>Shearwater (airport)</name>
+    <district>Halifax</district>
+    <id>339051</id>
+  </point>
+  <point>
+    <name>Bald Rock</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344070</id>
+  </point>
+  <point>
+    <name>Bayside</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344071</id>
+  </point>
+  <point>
+    <name>Beaven Island (AWS)</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>338935</id>
+  </point>
+  <point>
+    <name>Beaver Bank</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344073</id>
+  </point>
+  <point>
+    <name>Bedford</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344074</id>
+  </point>
+  <point>
+    <name>Beechville</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344076</id>
+  </point>
+  <point>
+    <name>Big Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344077</id>
+  </point>
+  <point>
+    <name>Blind Bay</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344078</id>
+  </point>
+  <point>
+    <name>Boutiliers Point</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344079</id>
+  </point>
+  <point>
+    <name>Brookside</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344080</id>
+  </point>
+  <point>
+    <name>Cherry Brook</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344081</id>
+  </point>
+  <point>
+    <name>Cole Harbour</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344082</id>
+  </point>
+  <point>
+    <name>Cow Bay</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344083</id>
+  </point>
+  <point>
+    <name>Dartmouth</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344084</id>
+  </point>
+  <point>
+    <name>Duncans Cove</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344090</id>
+  </point>
+  <point>
+    <name>Dutch Settlement</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344091</id>
+  </point>
+  <point>
+    <name>East Dover</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344092</id>
+  </point>
+  <point>
+    <name>East Lawrencetown</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344093</id>
+  </point>
+  <point>
+    <name>East Pennant</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344094</id>
+  </point>
+  <point>
+    <name>East Preston</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344095</id>
+  </point>
+  <point>
+    <name>Eastern Passage</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344096</id>
+  </point>
+  <point>
+    <name>Elderbank</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344097</id>
+  </point>
+  <point>
+    <name>Fall River</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344098</id>
+  </point>
+  <point>
+    <name>Fergusons Cove</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344106</id>
+  </point>
+  <point>
+    <name>Fletchers Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344108</id>
+  </point>
+  <point>
+    <name>French Village</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344110</id>
+  </point>
+  <point>
+    <name>Glen Haven</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344111</id>
+  </point>
+  <point>
+    <name>Glen Margaret</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344116</id>
+  </point>
+  <point>
+    <name>Goffs</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344117</id>
+  </point>
+  <point>
+    <name>Goodwood</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344118</id>
+  </point>
+  <point>
+    <name>Grand Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344119</id>
+  </point>
+  <point>
+    <name>Hacketts Cove</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344120</id>
+  </point>
+  <point>
+    <name>Halibut Bay</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344121</id>
+  </point>
+  <point>
+    <name>Hammonds Plains</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344124</id>
+  </point>
+  <point>
+    <name>Harrietsfield</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344125</id>
+  </point>
+  <point>
+    <name>Hatchet Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344126</id>
+  </point>
+  <point>
+    <name>Head of Chezzetcook</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344127</id>
+  </point>
+  <point>
+    <name>Head of Jeddore</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344128</id>
+  </point>
+  <point>
+    <name>Head of St. Margarets Bay</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344129</id>
+  </point>
+  <point>
+    <name>Herring Cove</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344130</id>
+  </point>
+  <point>
+    <name>Hubley</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344131</id>
+  </point>
+  <point>
+    <name>Indian Harbour</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344132</id>
+  </point>
+  <point>
+    <name>Ingramport</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344133</id>
+  </point>
+  <point>
+    <name>Jeddore Oyster Ponds</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344134</id>
+  </point>
+  <point>
+    <name>Ketch Harbour</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344135</id>
+  </point>
+  <point>
+    <name>Kinsac</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344136</id>
+  </point>
+  <point>
+    <name>Lake Charlotte</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344137</id>
+  </point>
+  <point>
+    <name>Lake Echo</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344139</id>
+  </point>
+  <point>
+    <name>Lakeside</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344140</id>
+  </point>
+  <point>
+    <name>Lakeview</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344141</id>
+  </point>
+  <point>
+    <name>Lawrencetown</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344142</id>
+  </point>
+  <point>
+    <name>Lewis Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344143</id>
+  </point>
+  <point>
+    <name>Lower Prospect</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344144</id>
+  </point>
+  <point>
+    <name>Lower Sackville</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344145</id>
+  </point>
+  <point>
+    <name>Lucasville</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344146</id>
+  </point>
+  <point>
+    <name>Malay Falls (AWS)</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>509759</id>
+  </point>
+  <point>
+    <name>McGraths Cove</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344148</id>
+  </point>
+  <point>
+    <name>Meaghers Grant</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344149</id>
+  </point>
+  <point>
+    <name>Middle Musquodoboit</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344150</id>
+  </point>
+  <point>
+    <name>Middle Porters Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344151</id>
+  </point>
+  <point>
+    <name>Middle Sackville</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344152</id>
+  </point>
+  <point>
+    <name>Milford Station</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344153</id>
+  </point>
+  <point>
+    <name>Mineville</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344154</id>
+  </point>
+  <point>
+    <name>Montague Gold Mines</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344155</id>
+  </point>
+  <point>
+    <name>Mooseland</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344156</id>
+  </point>
+  <point>
+    <name>Moser River</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344157</id>
+  </point>
+  <point>
+    <name>Musquodoboit Harbour</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344158</id>
+  </point>
+  <point>
+    <name>North Preston</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344159</id>
+  </point>
+  <point>
+    <name>Oakfield</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344160</id>
+  </point>
+  <point>
+    <name>Oldham</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344161</id>
+  </point>
+  <point>
+    <name>Peggys Cove</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344162</id>
+  </point>
+  <point>
+    <name>Port Dufferin</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344163</id>
+  </point>
+  <point>
+    <name>Porters Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344164</id>
+  </point>
+  <point>
+    <name>Portuguese Cove</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344165</id>
+  </point>
+  <point>
+    <name>Prospect</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344166</id>
+  </point>
+  <point>
+    <name>Prospect Bay</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344167</id>
+  </point>
+  <point>
+    <name>Prospect Village</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344168</id>
+  </point>
+  <point>
+    <name>Sambro</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344169</id>
+  </point>
+  <point>
+    <name>Sambro Creek</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344170</id>
+  </point>
+  <point>
+    <name>Sambro Head</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344171</id>
+  </point>
+  <point>
+    <name>Seabright</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344172</id>
+  </point>
+  <point>
+    <name>Shad Bay</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344173</id>
+  </point>
+  <point>
+    <name>Sheet Harbour</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344174</id>
+  </point>
+  <point>
+    <name>Stillwater Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344175</id>
+  </point>
+  <point>
+    <name>Tangier</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344176</id>
+  </point>
+  <point>
+    <name>Tantallon</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344177</id>
+  </point>
+  <point>
+    <name>Terence Bay</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344178</id>
+  </point>
+  <point>
+    <name>Timberlea</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344179</id>
+  </point>
+  <point>
+    <name>Upper Hammonds Plains</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344180</id>
+  </point>
+  <point>
+    <name>Upper Musquodoboit</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344181</id>
+  </point>
+  <point>
+    <name>Upper Sackville</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344182</id>
+  </point>
+  <point>
+    <name>Upper Tantallon</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344183</id>
+  </point>
+  <point>
+    <name>Waverley</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344184</id>
+  </point>
+  <point>
+    <name>Wellington</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344185</id>
+  </point>
+  <point>
+    <name>West Dover</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344186</id>
+  </point>
+  <point>
+    <name>West Pennant</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344187</id>
+  </point>
+  <point>
+    <name>West Porters Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344188</id>
+  </point>
+  <point>
+    <name>Westphal</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344189</id>
+  </point>
+  <point>
+    <name>Whites Lake</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344190</id>
+  </point>
+  <point>
+    <name>Williamswood</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344191</id>
+  </point>
+  <point>
+    <name>Windsor Junction</name>
+    <region>New Scotland</region>
+    <district>Halifax</district>
+    <id>344192</id>
+  </point>
+  <point>
+    <name>Hantsport</name>
+    <district>Hants</district>
+    <id>341481</id>
+  </point>
+  <point>
+    <name>Cheverie</name>
+    <district>Hants</district>
+    <id>344196</id>
+  </point>
+  <point>
+    <name>Nine Mile River</name>
+    <district>Hants</district>
+    <id>344211</id>
+  </point>
+  <point>
+    <name>Scotch Village</name>
+    <district>Hants</district>
+    <id>344214</id>
+  </point>
+  <point>
+    <name>Upper Nine Mile River</name>
+    <district>Hants</district>
+    <id>344217</id>
+  </point>
+  <point>
+    <name>Barr Settlement</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344193</id>
+  </point>
+  <point>
+    <name>Belnan</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344194</id>
+  </point>
+  <point>
+    <name>Centre Burlington</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344195</id>
+  </point>
+  <point>
+    <name>Currys Corner</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344197</id>
+  </point>
+  <point>
+    <name>Densmores Mills</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344198</id>
+  </point>
+  <point>
+    <name>East Gore</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344199</id>
+  </point>
+  <point>
+    <name>Ellershouse</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344200</id>
+  </point>
+  <point>
+    <name>Elmsdale</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344201</id>
+  </point>
+  <point>
+    <name>Enfield</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344203</id>
+  </point>
+  <point>
+    <name>Falmouth</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344204</id>
+  </point>
+  <point>
+    <name>Kennetcook</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344205</id>
+  </point>
+  <point>
+    <name>Lantz</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344206</id>
+  </point>
+  <point>
+    <name>Maitland</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344207</id>
+  </point>
+  <point>
+    <name>Mount Uniacke</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344208</id>
+  </point>
+  <point>
+    <name>Newport</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344209</id>
+  </point>
+  <point>
+    <name>Newport Station</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344210</id>
+  </point>
+  <point>
+    <name>Noel</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344212</id>
+  </point>
+  <point>
+    <name>Sainte-Croix</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344213</id>
+  </point>
+  <point>
+    <name>Summerville</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344215</id>
+  </point>
+  <point>
+    <name>Upper Kennetcook</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344216</id>
+  </point>
+  <point>
+    <name>Upper Rawdon</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344218</id>
+  </point>
+  <point>
+    <name>Walton</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344219</id>
+  </point>
+  <point>
+    <name>Windsor</name>
+    <region>New Scotland</region>
+    <district>Hants</district>
+    <id>344220</id>
+  </point>
+  <point>
+    <name>Inverness</name>
+    <district>Inverness</district>
+    <id>341482</id>
+  </point>
+  <point>
+    <name>Cheticamp</name>
+    <district>Inverness</district>
+    <id>338502</id>
+  </point>
+  <point>
+    <name>Grand Etang</name>
+    <district>Inverness</district>
+    <id>344226</id>
+  </point>
+  <point>
+    <name>Margaree Forks</name>
+    <district>Inverness</district>
+    <id>344234</id>
+  </point>
+  <point>
+    <name>West Bay</name>
+    <district>Inverness</district>
+    <id>344253</id>
+  </point>
+  <point>
+    <name>Askilton</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344221</id>
+  </point>
+  <point>
+    <name>Belle Cote</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344222</id>
+  </point>
+  <point>
+    <name>Craigmore</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344223</id>
+  </point>
+  <point>
+    <name>Crandall Road</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344224</id>
+  </point>
+  <point>
+    <name>Creignish</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344225</id>
+  </point>
+  <point>
+    <name>Judique</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344227</id>
+  </point>
+  <point>
+    <name>Lexington</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344228</id>
+  </point>
+  <point>
+    <name>Long Point</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344229</id>
+  </point>
+  <point>
+    <name>Mabou</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344230</id>
+  </point>
+  <point>
+    <name>Mackdale</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344231</id>
+  </point>
+  <point>
+    <name>Margaree</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344232</id>
+  </point>
+  <point>
+    <name>Margaree Centre</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344233</id>
+  </point>
+  <point>
+    <name>Margaree Harbour</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344235</id>
+  </point>
+  <point>
+    <name>Margaree Valley</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344236</id>
+  </point>
+  <point>
+    <name>Melville</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344237</id>
+  </point>
+  <point>
+    <name>Newtown</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344238</id>
+  </point>
+  <point>
+    <name>North East Margaree</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344239</id>
+  </point>
+  <point>
+    <name>North Mountain (AWS)</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>338758</id>
+  </point>
+  <point>
+    <name>Orangedale</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344240</id>
+  </point>
+  <point>
+    <name>Petit Etang</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344241</id>
+  </point>
+  <point>
+    <name>Pleasant Bay</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344242</id>
+  </point>
+  <point>
+    <name>Pleasant Hill</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344243</id>
+  </point>
+  <point>
+    <name>Port Hastings</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344244</id>
+  </point>
+  <point>
+    <name>Port Hawkesbury</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>339234</id>
+  </point>
+  <point>
+    <name>Port Hawkesbury (airport)</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>508095</id>
+  </point>
+  <point>
+    <name>Port Hood</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344245</id>
+  </point>
+  <point>
+    <name>Queensville</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344246</id>
+  </point>
+  <point>
+    <name>River Denys</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344247</id>
+  </point>
+  <point>
+    <name>Saint-Joseph-du-Moine</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344248</id>
+  </point>
+  <point>
+    <name>Scotsville</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344249</id>
+  </point>
+  <point>
+    <name>South West Margaree</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344250</id>
+  </point>
+  <point>
+    <name>Sugar Camp</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344251</id>
+  </point>
+  <point>
+    <name>Troy</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344252</id>
+  </point>
+  <point>
+    <name>West Bay Road</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344254</id>
+  </point>
+  <point>
+    <name>Whycocomagh</name>
+    <region>New Scotland</region>
+    <district>Inverness</district>
+    <id>344255</id>
+  </point>
+  <point>
+    <name>Auburn</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344256</id>
+  </point>
+  <point>
+    <name>Avonport</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344257</id>
+  </point>
+  <point>
+    <name>Aylesford</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344258</id>
+  </point>
+  <point>
+    <name>Berwick</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344259</id>
+  </point>
+  <point>
+    <name>Cambridge</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344260</id>
+  </point>
+  <point>
+    <name>Canning</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344261</id>
+  </point>
+  <point>
+    <name>Coldbrook</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344262</id>
+  </point>
+  <point>
+    <name>Grand Pre</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344263</id>
+  </point>
+  <point>
+    <name>Greenwood (airport)</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>338940</id>
+  </point>
+  <point>
+    <name>Kentville (AWS)</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>338727</id>
+  </point>
+  <point>
+    <name>Kingston</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344265</id>
+  </point>
+  <point>
+    <name>New Minas</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344266</id>
+  </point>
+  <point>
+    <name>Port Williams</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344267</id>
+  </point>
+  <point>
+    <name>Waterville</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344268</id>
+  </point>
+  <point>
+    <name>Wolfville</name>
+    <region>New Scotland</region>
+    <district>Kings</district>
+    <id>344269</id>
+  </point>
+  <point>
+    <name>Lunenburg</name>
+    <district>Lunenburg</district>
+    <id>341483</id>
+  </point>
+  <point>
+    <name>Indian Path</name>
+    <district>Lunenburg</district>
+    <id>344312</id>
+  </point>
+  <point>
+    <name>Lunenburg (AWS)</name>
+    <district>Lunenburg</district>
+    <id>509001</id>
+  </point>
+  <point>
+    <name>Molega Lake</name>
+    <district>Lunenburg</district>
+    <id>344325</id>
+  </point>
+  <point>
+    <name>Wileville</name>
+    <district>Lunenburg</district>
+    <id>344348</id>
+  </point>
+  <point>
+    <name>Auburndale</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344271</id>
+  </point>
+  <point>
+    <name>Baker Settlement</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344272</id>
+  </point>
+  <point>
+    <name>Barss Corner</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344273</id>
+  </point>
+  <point>
+    <name>Blandford</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344274</id>
+  </point>
+  <point>
+    <name>Blockhouse</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344275</id>
+  </point>
+  <point>
+    <name>Branch Lahave</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344276</id>
+  </point>
+  <point>
+    <name>Bridgewater</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344277</id>
+  </point>
+  <point>
+    <name>Buckfield</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344293</id>
+  </point>
+  <point>
+    <name>Camperdown</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344294</id>
+  </point>
+  <point>
+    <name>Chelsea</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344295</id>
+  </point>
+  <point>
+    <name>Chester</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344296</id>
+  </point>
+  <point>
+    <name>Chester Basin</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344297</id>
+  </point>
+  <point>
+    <name>Conquerall Bank</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344298</id>
+  </point>
+  <point>
+    <name>Conquerall Mills</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344299</id>
+  </point>
+  <point>
+    <name>Cookville</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344300</id>
+  </point>
+  <point>
+    <name>Crouses Settlement</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344301</id>
+  </point>
+  <point>
+    <name>Crousetown</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344302</id>
+  </point>
+  <point>
+    <name>Danesville</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344303</id>
+  </point>
+  <point>
+    <name>Dayspring</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344304</id>
+  </point>
+  <point>
+    <name>East Clifford</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344305</id>
+  </point>
+  <point>
+    <name>East LaHave</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344306</id>
+  </point>
+  <point>
+    <name>Grimms Settlement</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344307</id>
+  </point>
+  <point>
+    <name>Hebbs Cross</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344308</id>
+  </point>
+  <point>
+    <name>Hebbville</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344309</id>
+  </point>
+  <point>
+    <name>Hubbards</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344311</id>
+  </point>
+  <point>
+    <name>Italy Cross</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344313</id>
+  </point>
+  <point>
+    <name>La Have</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344314</id>
+  </point>
+  <point>
+    <name>Labelle</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344315</id>
+  </point>
+  <point>
+    <name>Laconia</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344316</id>
+  </point>
+  <point>
+    <name>Lapland</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344317</id>
+  </point>
+  <point>
+    <name>Little Tancook</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344318</id>
+  </point>
+  <point>
+    <name>Lower Branch</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344319</id>
+  </point>
+  <point>
+    <name>Lower Northfield</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344320</id>
+  </point>
+  <point>
+    <name>Mahone Bay</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344321</id>
+  </point>
+  <point>
+    <name>Middle Lahave</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344322</id>
+  </point>
+  <point>
+    <name>Middlewood</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344323</id>
+  </point>
+  <point>
+    <name>Midville Branch</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344324</id>
+  </point>
+  <point>
+    <name>New Canada</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344326</id>
+  </point>
+  <point>
+    <name>New Germany</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344327</id>
+  </point>
+  <point>
+    <name>New Ross</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344328</id>
+  </point>
+  <point>
+    <name>Newcombville</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344329</id>
+  </point>
+  <point>
+    <name>Petite Rivière</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344330</id>
+  </point>
+  <point>
+    <name>Pine Grove</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344331</id>
+  </point>
+  <point>
+    <name>Pinehurst</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344332</id>
+  </point>
+  <point>
+    <name>Pleasantville</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344333</id>
+  </point>
+  <point>
+    <name>Rhodes Corner</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344334</id>
+  </point>
+  <point>
+    <name>Riverport</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344335</id>
+  </point>
+  <point>
+    <name>Rose Bay</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344336</id>
+  </point>
+  <point>
+    <name>Spectacle Lakes</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344337</id>
+  </point>
+  <point>
+    <name>Tancook Island</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344338</id>
+  </point>
+  <point>
+    <name>Upper Branch</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344339</id>
+  </point>
+  <point>
+    <name>Upper Chelsea</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344340</id>
+  </point>
+  <point>
+    <name>Upper Lahave</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344341</id>
+  </point>
+  <point>
+    <name>Upper Northfield</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344342</id>
+  </point>
+  <point>
+    <name>Wentzells Lake</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344343</id>
+  </point>
+  <point>
+    <name>West Clifford</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344344</id>
+  </point>
+  <point>
+    <name>West Northfield</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344345</id>
+  </point>
+  <point>
+    <name>Western Shore</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344346</id>
+  </point>
+  <point>
+    <name>Whynotts Settlement</name>
+    <region>New Scotland</region>
+    <district>Lunenburg</district>
+    <id>344347</id>
+  </point>
+  <point>
+    <name>Pictou</name>
+    <district>Pictou</district>
+    <id>341484</id>
+  </point>
+  <point>
+    <name>Black Point</name>
+    <district>Pictou</district>
+    <id>344350</id>
+  </point>
+  <point>
+    <name>Caribou Point (AWS)</name>
+    <district>Pictou</district>
+    <id>338923</id>
+  </point>
+  <point>
+    <name>Eureka</name>
+    <district>Pictou</district>
+    <id>344351</id>
+  </point>
+  <point>
+    <name>Salt Springs</name>
+    <district>Pictou</district>
+    <id>344359</id>
+  </point>
+  <point>
+    <name>Barneys River Station</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344349</id>
+  </point>
+  <point>
+    <name>Hopewell</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344352</id>
+  </point>
+  <point>
+    <name>Merigomish</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344353</id>
+  </point>
+  <point>
+    <name>Micmac</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344354</id>
+  </point>
+  <point>
+    <name>Pictou Island</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344357</id>
+  </point>
+  <point>
+    <name>River John</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344358</id>
+  </point>
+  <point>
+    <name>Scotsburn</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344360</id>
+  </point>
+  <point>
+    <name>Stellarton</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344361</id>
+  </point>
+  <point>
+    <name>Sunnybrae</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344362</id>
+  </point>
+  <point>
+    <name>Thorburn</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344363</id>
+  </point>
+  <point>
+    <name>Trenton</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344364</id>
+  </point>
+  <point>
+    <name>West River Station</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344365</id>
+  </point>
+  <point>
+    <name>Westville</name>
+    <region>New Scotland</region>
+    <district>Pictou</district>
+    <id>344366</id>
+  </point>
+  <point>
+    <name>Brooklyn</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344367</id>
+  </point>
+  <point>
+    <name>Caledonia</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344368</id>
+  </point>
+  <point>
+    <name>Greenfield</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344369</id>
+  </point>
+  <point>
+    <name>Hunts Point</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344370</id>
+  </point>
+  <point>
+    <name>Liverpool</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>341485</id>
+  </point>
+  <point>
+    <name>Mill Village</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344371</id>
+  </point>
+  <point>
+    <name>Milton</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344372</id>
+  </point>
+  <point>
+    <name>Port Joli</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344373</id>
+  </point>
+  <point>
+    <name>Port Medway</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344374</id>
+  </point>
+  <point>
+    <name>Port Mouton</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344375</id>
+  </point>
+  <point>
+    <name>Sandy Cove</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344376</id>
+  </point>
+  <point>
+    <name>South Brookfield</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>344377</id>
+  </point>
+  <point>
+    <name>Western Head (AWS)</name>
+    <region>New Scotland</region>
+    <district>Queens</district>
+    <id>338927</id>
+  </point>
+  <point>
+    <name>Arichat</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>341486</id>
+  </point>
+  <point>
+    <name>Cleveland</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344378</id>
+  </point>
+  <point>
+    <name>D'Escousse</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344379</id>
+  </point>
+  <point>
+    <name>Enon</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344380</id>
+  </point>
+  <point>
+    <name>Fourchu</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344381</id>
+  </point>
+  <point>
+    <name>Framboise</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344382</id>
+  </point>
+  <point>
+    <name>Framboise Intervale</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344383</id>
+  </point>
+  <point>
+    <name>Grand River</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344384</id>
+  </point>
+  <point>
+    <name>L'Ardoise</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344385</id>
+  </point>
+  <point>
+    <name>Lake Uist</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344386</id>
+  </point>
+  <point>
+    <name>Loch Lomond</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344387</id>
+  </point>
+  <point>
+    <name>Louisdale</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344388</id>
+  </point>
+  <point>
+    <name>Lower l'Ardoise</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344389</id>
+  </point>
+  <point>
+    <name>Petit de Grat</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344390</id>
+  </point>
+  <point>
+    <name>Point Tupper</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344391</id>
+  </point>
+  <point>
+    <name>Port Malcolm</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344392</id>
+  </point>
+  <point>
+    <name>River Bourgeois</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344393</id>
+  </point>
+  <point>
+    <name>Sampson Cove</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344394</id>
+  </point>
+  <point>
+    <name>St. Peters</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344395</id>
+  </point>
+  <point>
+    <name>Stirling</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344396</id>
+  </point>
+  <point>
+    <name>West Arichat</name>
+    <region>New Scotland</region>
+    <district>Richmond</district>
+    <id>344397</id>
+  </point>
+  <point>
+    <name>Shelburne</name>
+    <district>Shelburne</district>
+    <id>341487</id>
+  </point>
+  <point>
+    <name>Baccaro</name>
+    <district>Shelburne</district>
+    <id>338532</id>
+  </point>
+  <point>
+    <name>Osborne Harbour</name>
+    <district>Shelburne</district>
+    <id>344415</id>
+  </point>
+  <point>
+    <name>Shag Harbour</name>
+    <district>Shelburne</district>
+    <id>344419</id>
+  </point>
+  <point>
+    <name>Smithsville</name>
+    <district>Shelburne</district>
+    <id>344420</id>
+  </point>
+  <point>
+    <name>Barrington</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344398</id>
+  </point>
+  <point>
+    <name>Barrington Passage</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344399</id>
+  </point>
+  <point>
+    <name>Cape Negro</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344400</id>
+  </point>
+  <point>
+    <name>Clam Point</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344401</id>
+  </point>
+  <point>
+    <name>Clarks Harbour</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344402</id>
+  </point>
+  <point>
+    <name>Clyde River</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344403</id>
+  </point>
+  <point>
+    <name>Crowell</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344404</id>
+  </point>
+  <point>
+    <name>East Baccaro</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344405</id>
+  </point>
+  <point>
+    <name>Greenwood</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344406</id>
+  </point>
+  <point>
+    <name>Ingomar</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344407</id>
+  </point>
+  <point>
+    <name>Jordan Falls</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344408</id>
+  </point>
+  <point>
+    <name>Lockeport</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344409</id>
+  </point>
+  <point>
+    <name>Lower East Pubnico</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344410</id>
+  </point>
+  <point>
+    <name>Lower Woods Harbour</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344411</id>
+  </point>
+  <point>
+    <name>Lydgate</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344412</id>
+  </point>
+  <point>
+    <name>McGray</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344413</id>
+  </point>
+  <point>
+    <name>North East Point</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344414</id>
+  </point>
+  <point>
+    <name>Port Clyde</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344416</id>
+  </point>
+  <point>
+    <name>Port la Tour</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344417</id>
+  </point>
+  <point>
+    <name>Sable River</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344418</id>
+  </point>
+  <point>
+    <name>Stoney Island</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344421</id>
+  </point>
+  <point>
+    <name>Thomasville</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344422</id>
+  </point>
+  <point>
+    <name>Upper Port la Tour</name>
+    <region>New Scotland</region>
+    <district>Shelburne</district>
+    <id>344423</id>
+  </point>
+  <point>
+    <name>Baddeck</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>341488</id>
+  </point>
+  <point>
+    <name>Barra Glen</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344424</id>
+  </point>
+  <point>
+    <name>Big Bras d'Or</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344425</id>
+  </point>
+  <point>
+    <name>Black Rock</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344426</id>
+  </point>
+  <point>
+    <name>Boularderie Center</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344427</id>
+  </point>
+  <point>
+    <name>Boularderie East</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344428</id>
+  </point>
+  <point>
+    <name>Cape Dauphin</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344429</id>
+  </point>
+  <point>
+    <name>Cape North</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344430</id>
+  </point>
+  <point>
+    <name>Capstick</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344431</id>
+  </point>
+  <point>
+    <name>Dingwall</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344432</id>
+  </point>
+  <point>
+    <name>Englishtown</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344433</id>
+  </point>
+  <point>
+    <name>Gillis Point</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344434</id>
+  </point>
+  <point>
+    <name>Grass Cove</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344435</id>
+  </point>
+  <point>
+    <name>Highland Hill</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344436</id>
+  </point>
+  <point>
+    <name>Ingonish</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344437</id>
+  </point>
+  <point>
+    <name>Ingonish Beach</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>339243</id>
+  </point>
+  <point>
+    <name>Iona</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344438</id>
+  </point>
+  <point>
+    <name>Jamesville</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344439</id>
+  </point>
+  <point>
+    <name>Kempt Head</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344440</id>
+  </point>
+  <point>
+    <name>Little Narrows</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344441</id>
+  </point>
+  <point>
+    <name>Little River</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344442</id>
+  </point>
+  <point>
+    <name>Lower Washabuck</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344443</id>
+  </point>
+  <point>
+    <name>Mackinnons Harbour</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344444</id>
+  </point>
+  <point>
+    <name>Neils Harbour</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344445</id>
+  </point>
+  <point>
+    <name>New Campbellton</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344446</id>
+  </point>
+  <point>
+    <name>New Harris</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344447</id>
+  </point>
+  <point>
+    <name>New Haven</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344448</id>
+  </point>
+  <point>
+    <name>Ottawa Brook</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344449</id>
+  </point>
+  <point>
+    <name>Red Point</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344450</id>
+  </point>
+  <point>
+    <name>Ross Ferry</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344451</id>
+  </point>
+  <point>
+    <name>St Paul Island</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>338921</id>
+  </point>
+  <point>
+    <name>St. Colombia</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344452</id>
+  </point>
+  <point>
+    <name>St. Margaret Village</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344453</id>
+  </point>
+  <point>
+    <name>Upper Washabuck</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344454</id>
+  </point>
+  <point>
+    <name>Wagmatcook</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344455</id>
+  </point>
+  <point>
+    <name>Washabuck Centre</name>
+    <region>New Scotland</region>
+    <district>Victoria</district>
+    <id>344456</id>
+  </point>
+  <point>
+    <name>Yarmouth (airport)</name>
+    <district>Yarmouth</district>
+    <id>338759</id>
+  </point>
+  <point>
+    <name>Kemptville</name>
+    <district>Yarmouth</district>
+    <id>344461</id>
+  </point>
+  <point>
+    <name>Port Maitland</name>
+    <district>Yarmouth</district>
+    <id>344465</id>
+  </point>
+  <point>
+    <name>Wedgeport</name>
+    <district>Yarmouth</district>
+    <id>344471</id>
+  </point>
+  <point>
+    <name>West Pubnico</name>
+    <district>Yarmouth</district>
+    <id>344472</id>
+  </point>
+  <point>
+    <name>Arcadia</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344457</id>
+  </point>
+  <point>
+    <name>Carleton</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344458</id>
+  </point>
+  <point>
+    <name>Glenwood</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344459</id>
+  </point>
+  <point>
+    <name>Hebron</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344460</id>
+  </point>
+  <point>
+    <name>Lower Wedgeport</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344462</id>
+  </point>
+  <point>
+    <name>Lower West Pubnico</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344463</id>
+  </point>
+  <point>
+    <name>Middle West Pubnico</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344464</id>
+  </point>
+  <point>
+    <name>Pubnico</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344466</id>
+  </point>
+  <point>
+    <name>Sainte-Anne-du-Ruisseau</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344467</id>
+  </point>
+  <point>
+    <name>Salmon River</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344468</id>
+  </point>
+  <point>
+    <name>South Ohio</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344469</id>
+  </point>
+  <point>
+    <name>Tusket</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>344470</id>
+  </point>
+  <point>
+    <name>Yarmouth</name>
+    <region>New Scotland</region>
+    <district>Yarmouth</district>
+    <id>510291</id>
+  </point>
+</region>

@@ -1,0 +1,32 @@
+<country name="Бруней" count="5">
+  <point>
+    <name>Куала-Белайт</name>
+    <region>Белайт</region>
+    <district>Куала-Белайт</district>
+    <id>351053</id>
+  </point>
+  <point>
+    <name>Бандар-Сери-Бегаван</name>
+    <region>Бруней-Муара</region>
+    <district>Бандар-Сери-Бегаван</district>
+    <id>337402</id>
+  </point>
+  <point>
+    <name>Бангар</name>
+    <region>Тембуронг</region>
+    <district>Бангар</district>
+    <id>351054</id>
+  </point>
+  <point>
+    <name>Тутонг</name>
+    <region>Тутонг</region>
+    <district>Тутонг</district>
+    <id>351055</id>
+  </point>
+  <point>
+    <name>Бандар-Сери-Бегаван / Бруней (аэропорт)</name>
+    <region>Тутонг</region>
+    <district>Бандар-Сери-Бегаван / Бруней (аэропорт)</district>
+    <id>337575</id>
+  </point>
+</country>

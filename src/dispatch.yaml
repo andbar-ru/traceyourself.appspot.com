@@ -1,0 +1,7 @@
+dispatch:
+  - url: "*/get_data"
+    module: highmem
+  - url: "*/get_common_data"
+    module: highmem
+  - url: "*/table2file"
+    module: highmem

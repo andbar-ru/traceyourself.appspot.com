@@ -1,0 +1,200 @@
+<country name="Morocco" count="33">
+  <point>
+    <name>Ben Slimane (airport)</name>
+    <region>Chaouia-Ouardigha</region>
+    <district>Ben Slimane (airport)</district>
+    <id>510649</id>
+  </point>
+  <point>
+    <name>Settat</name>
+    <region>Chaouia-Ouardigha</region>
+    <district>Settat</district>
+    <id>152209</id>
+  </point>
+  <point>
+    <name>Safi</name>
+    <region>Doukkala-Abda</region>
+    <district>Safi</district>
+    <id>10254</id>
+  </point>
+  <point>
+    <name>Fes / Saiss (airport)</name>
+    <region>Fes-Boulemane</region>
+    <district>Fes / Saiss (airport)</district>
+    <id>10246</id>
+  </point>
+  <point>
+    <name>Kenitra</name>
+    <region>Gharb-Chrarda-Beni Hssen</region>
+    <district>Kenitra</district>
+    <id>10242</id>
+  </point>
+  <point>
+    <name>Casablanca (airport)</name>
+    <region>Grand Casablanca</region>
+    <district>Casablanca (airport)</district>
+    <id>10249</id>
+  </point>
+  <point>
+    <name>Nouaseur / Mohamed V (airport)</name>
+    <region>Grand Casablanca</region>
+    <district>Nouaseur / Mohamed V (airport)</district>
+    <id>10250</id>
+  </point>
+  <point>
+    <name>Guelmim</name>
+    <region>Guelmim-Es Semara</region>
+    <district>Guelmim</district>
+    <id>10268</id>
+  </point>
+  <point>
+    <name>Tan Tan</name>
+    <region>Guelmim-Es Semara</region>
+    <district>Tan Tan</district>
+    <id>10269</id>
+  </point>
+  <point>
+    <name>Laayoune</name>
+    <region>Laayoune-Boujdour-Sakia El Hamra</region>
+    <district>Laayoune</district>
+    <id>212472</id>
+  </point>
+  <point>
+    <name>Essaouira (airport)</name>
+    <region>Marrakech-Tensift-El Haouz</region>
+    <district>Essaouira (airport)</district>
+    <id>10260</id>
+  </point>
+  <point>
+    <name>Marrakesh (airport)</name>
+    <region>Marrakech-Tensift-El Haouz</region>
+    <district>Marrakesh (airport)</district>
+    <id>10261</id>
+  </point>
+  <point>
+    <name>Errachidia (airport)</name>
+    <region>Meknes-Tafilalet</region>
+    <district>Errachidia (airport)</district>
+    <id>10259</id>
+  </point>
+  <point>
+    <name>Meknes (airport)</name>
+    <region>Meknes-Tafilalet</region>
+    <district>Meknes (airport)</district>
+    <id>10248</id>
+  </point>
+  <point>
+    <name>Midelt</name>
+    <region>Meknes-Tafilalet</region>
+    <district>Midelt</district>
+    <id>10257</id>
+  </point>
+  <point>
+    <name>Nador</name>
+    <region>Oriental Province</region>
+    <district>Nador</district>
+    <id>10273</id>
+  </point>
+  <point>
+    <name>Nador (airport)</name>
+    <region>Oriental Province</region>
+    <district>Nador (airport)</district>
+    <id>508559</id>
+  </point>
+  <point>
+    <name>Oujda (airport)</name>
+    <region>Oriental Province</region>
+    <district>Oujda (airport)</district>
+    <id>10241</id>
+  </point>
+  <point>
+    <name>Dakhla</name>
+    <region>Oued Ed-Dahab-Lagouira</region>
+    <district>Dakhla</district>
+    <id>212471</id>
+  </point>
+  <point>
+    <name>Dakhla (airport)</name>
+    <region>Oued Ed-Dahab-Lagouira</region>
+    <district>Dakhla (airport)</district>
+    <id>508355</id>
+  </point>
+  <point>
+    <name>Rabat (airport)</name>
+    <region>Rabat-Sale-Zemmour-Zaer</region>
+    <district>Rabat (airport)</district>
+    <id>10244</id>
+  </point>
+  <point>
+    <name>Agadir</name>
+    <region>Souss-Massa-Draa</region>
+    <district>Agadir</district>
+    <id>10262</id>
+  </point>
+  <point>
+    <name>Agadir / Al Massira (airport)</name>
+    <region>Souss-Massa-Draa</region>
+    <district>Agadir / Al Massira (airport)</district>
+    <id>10263</id>
+  </point>
+  <point>
+    <name>Ouarzazate (airport)</name>
+    <region>Souss-Massa-Draa</region>
+    <district>Ouarzazate (airport)</district>
+    <id>10265</id>
+  </point>
+  <point>
+    <name>Sidi Ifni</name>
+    <region>Souss-Massa-Draa</region>
+    <district>Sidi Ifni</district>
+    <id>10235</id>
+  </point>
+  <point>
+    <name>Beni Mellal</name>
+    <region>Tadla-Azilal</region>
+    <district>Beni Mellal</district>
+    <id>10256</id>
+  </point>
+  <point>
+    <name>Kasba-Tadla</name>
+    <region>Tadla-Azilal</region>
+    <district>Kasba-Tadla</district>
+    <id>10255</id>
+  </point>
+  <point>
+    <name>Chefchaouen</name>
+    <region>Tangier-Tetouan</region>
+    <district>Chefchaouen</district>
+    <id>10239</id>
+  </point>
+  <point>
+    <name>Larache</name>
+    <region>Tangier-Tetouan</region>
+    <district>Larache</district>
+    <id>10238</id>
+  </point>
+  <point>
+    <name>Tangier / Boukhalf (airport)</name>
+    <region>Tangier-Tetouan</region>
+    <district>Tangier / Boukhalf (airport)</district>
+    <id>10237</id>
+  </point>
+  <point>
+    <name>Tetouan (airport)</name>
+    <region>Tangier-Tetouan</region>
+    <district>Tetouan (airport)</district>
+    <id>10270</id>
+  </point>
+  <point>
+    <name>Al Hoceima (airport)</name>
+    <region>Taza-Al Hoceima-Taounate</region>
+    <district>Al Hoceima (airport)</district>
+    <id>10240</id>
+  </point>
+  <point>
+    <name>Taza</name>
+    <region>Taza-Al Hoceima-Taounate</region>
+    <district>Taza</district>
+    <id>10243</id>
+  </point>
+</country>

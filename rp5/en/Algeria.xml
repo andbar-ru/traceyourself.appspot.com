@@ -1,0 +1,836 @@
+<country name="Algeria" count="139">
+  <point>
+    <name>Adrar</name>
+    <region>Adrar</region>
+    <district>Adrar</district>
+    <id>10347</id>
+  </point>
+  <point>
+    <name>Adrar (airport)</name>
+    <region>Adrar</region>
+    <district>Adrar (airport)</district>
+    <id>504536</id>
+  </point>
+  <point>
+    <name>Bordj Mokhtar (airport)</name>
+    <region>Adrar</region>
+    <district>Bordj Mokhtar (airport)</district>
+    <id>508296</id>
+  </point>
+  <point>
+    <name>Bordji B Mokhtar</name>
+    <region>Adrar</region>
+    <district>Bordji B Mokhtar</district>
+    <id>10353</id>
+  </point>
+  <point>
+    <name>Bidon 5</name>
+    <region>Adrar</region>
+    <district>Bidon 5</district>
+    <id>348609</id>
+  </point>
+  <point>
+    <name>In Ziza</name>
+    <region>Adrar</region>
+    <district>In Ziza</district>
+    <id>348372</id>
+  </point>
+  <point>
+    <name>Ouallene</name>
+    <region>Adrar</region>
+    <district>Ouallene</district>
+    <id>348379</id>
+  </point>
+  <point>
+    <name>Reggane</name>
+    <region>Adrar</region>
+    <district>Reggane</district>
+    <id>348374</id>
+  </point>
+  <point>
+    <name>Talmine</name>
+    <region>Adrar</region>
+    <district>Talmine</district>
+    <id>348611</id>
+  </point>
+  <point>
+    <name>Timiaouine</name>
+    <region>Adrar</region>
+    <district>Timiaouine</district>
+    <id>348614</id>
+  </point>
+  <point>
+    <name>Timimoun (airport)</name>
+    <region>Adrar</region>
+    <district>Timimoun (airport)</district>
+    <id>10345</id>
+  </point>
+  <point>
+    <name>Tinzaouatene</name>
+    <region>Adrar</region>
+    <district>Tinzaouatene</district>
+    <id>348616</id>
+  </point>
+  <point>
+    <name>Ain Defla</name>
+    <region>Ain Defla</region>
+    <district>Ain Defla</district>
+    <id>196277</id>
+  </point>
+  <point>
+    <name>Miliana</name>
+    <region>Ain Defla</region>
+    <district>Miliana</district>
+    <id>10299</id>
+  </point>
+  <point>
+    <name>Ain Temouchent</name>
+    <region>Ain Temouchent</region>
+    <district>Ain Temouchent</district>
+    <id>3145</id>
+  </point>
+  <point>
+    <name>Beni Saf</name>
+    <region>Ain Temouchent</region>
+    <district>Beni Saf</district>
+    <id>10325</id>
+  </point>
+  <point>
+    <name>Algiers</name>
+    <region>Algiers</region>
+    <district>Algiers</district>
+    <id>151422</id>
+  </point>
+  <point>
+    <name>Algiers (port)</name>
+    <region>Algiers</region>
+    <district>Algiers (port)</district>
+    <id>10280</id>
+  </point>
+  <point>
+    <name>Bouzareah</name>
+    <region>Algiers</region>
+    <district>Bouzareah</district>
+    <id>348634</id>
+  </point>
+  <point>
+    <name>Dar El Beida / Houari Boumediene (airport)</name>
+    <region>Algiers</region>
+    <district>Dar El Beida / Houari Boumediene (airport)</district>
+    <id>10287</id>
+  </point>
+  <point>
+    <name>Baraki</name>
+    <region>Algiers</region>
+    <district>Baraki</district>
+    <id>348612</id>
+  </point>
+  <point>
+    <name>Boufarik / Tessala El Merdja</name>
+    <region>Algiers</region>
+    <district>Boufarik / Tessala El Merdja</district>
+    <id>348615</id>
+  </point>
+  <point>
+    <name>Dar El Beida</name>
+    <region>Algiers</region>
+    <district>Dar El Beida</district>
+    <id>348628</id>
+  </point>
+  <point>
+    <name>El Harrach</name>
+    <region>Algiers</region>
+    <district>El Harrach</district>
+    <id>348633</id>
+  </point>
+  <point>
+    <name>Oued Koriche</name>
+    <region>Algiers</region>
+    <district>Oued Koriche</district>
+    <id>429849</id>
+  </point>
+  <point>
+    <name>Annaba</name>
+    <region>Annaba</region>
+    <district>Annaba</district>
+    <id>10278</id>
+  </point>
+  <point>
+    <name>Annaba (airport)</name>
+    <region>Annaba</region>
+    <district>Annaba (airport)</district>
+    <id>504537</id>
+  </point>
+  <point>
+    <name>Batna</name>
+    <region>Batna</region>
+    <district>Batna</district>
+    <id>10309</id>
+  </point>
+  <point>
+    <name>Batna (airport)</name>
+    <region>Batna</region>
+    <district>Batna (airport)</district>
+    <id>504538</id>
+  </point>
+  <point>
+    <name>Bechar</name>
+    <region>Bechar</region>
+    <district>Bechar</district>
+    <id>10340</id>
+  </point>
+  <point>
+    <name>Bechar (airport)</name>
+    <region>Bechar</region>
+    <district>Bechar (airport)</district>
+    <id>509075</id>
+  </point>
+  <point>
+    <name>Beni Abbes</name>
+    <region>Bechar</region>
+    <district>Beni Abbes</district>
+    <id>10344</id>
+  </point>
+  <point>
+    <name>Tabelbala</name>
+    <region>Bechar</region>
+    <district>Tabelbala</district>
+    <id>348397</id>
+  </point>
+  <point>
+    <name>Hassi el Khebi</name>
+    <region>Bechar</region>
+    <district>Hassi el Khebi</district>
+    <id>348607</id>
+  </point>
+  <point>
+    <name>Bejaia</name>
+    <region>Bejaia</region>
+    <district>Bejaia</district>
+    <id>170840</id>
+  </point>
+  <point>
+    <name>Bejaia (airport)</name>
+    <region>Bejaia</region>
+    <district>Bejaia (airport)</district>
+    <id>10290</id>
+  </point>
+  <point>
+    <name>Biskra</name>
+    <region>Biskra</region>
+    <district>Biskra</district>
+    <id>10328</id>
+  </point>
+  <point>
+    <name>Biskra (airport)</name>
+    <region>Biskra</region>
+    <district>Biskra (airport)</district>
+    <id>504539</id>
+  </point>
+  <point>
+    <name>Blida</name>
+    <region>Blida</region>
+    <district>Blida</district>
+    <id>3115</id>
+  </point>
+  <point>
+    <name>Bordj Bou Arreridj</name>
+    <region>Bordj Bou Arreridj</region>
+    <district>Bordj Bou Arreridj</district>
+    <id>10301</id>
+  </point>
+  <point>
+    <name>Bordj El Bahri</name>
+    <region>Bordj Bou Arreridj</region>
+    <district>Bordj El Bahri</district>
+    <id>10282</id>
+  </point>
+  <point>
+    <name>Reghaia</name>
+    <region>Bordj Bou Arreridj</region>
+    <district>Reghaia</district>
+    <id>348629</id>
+  </point>
+  <point>
+    <name>Bouira</name>
+    <region>Bouira</region>
+    <district>Bouira</district>
+    <id>10294</id>
+  </point>
+  <point>
+    <name>Boumerdes</name>
+    <region>Boumerdes</region>
+    <district>Boumerdes</district>
+    <id>3119</id>
+  </point>
+  <point>
+    <name>Chlef</name>
+    <region>Chlef</region>
+    <district>Chlef</district>
+    <id>10298</id>
+  </point>
+  <point>
+    <name>Chlef (airport)</name>
+    <region>Chlef</region>
+    <district>Chlef (airport)</district>
+    <id>504548</id>
+  </point>
+  <point>
+    <name>Constantine</name>
+    <region>Constantine</region>
+    <district>Constantine</district>
+    <id>10295</id>
+  </point>
+  <point>
+    <name>Constantine (airport)</name>
+    <region>Constantine</region>
+    <district>Constantine (airport)</district>
+    <id>504543</id>
+  </point>
+  <point>
+    <name>Djelfa</name>
+    <region>Djelfa</region>
+    <district>Djelfa</district>
+    <id>10330</id>
+  </point>
+  <point>
+    <name>El Bayadh</name>
+    <region>El Bayadh</region>
+    <district>El Bayadh</district>
+    <id>10335</id>
+  </point>
+  <point>
+    <name>El Kheiter</name>
+    <region>El Bayadh</region>
+    <district>El Kheiter</district>
+    <id>170543</id>
+  </point>
+  <point>
+    <name>El Oued</name>
+    <region>El Oued</region>
+    <district>El Oued</district>
+    <id>3142</id>
+  </point>
+  <point>
+    <name>El Oued / Guemar (airport)</name>
+    <region>El Oued</region>
+    <district>El Oued / Guemar (airport)</district>
+    <id>152514</id>
+  </point>
+  <point>
+    <name>El Tarf</name>
+    <region>El Tarf</region>
+    <district>El Tarf</district>
+    <id>3121</id>
+  </point>
+  <point>
+    <name>El Kala</name>
+    <region>El Tarf</region>
+    <district>El Kala</district>
+    <id>10279</id>
+  </point>
+  <point>
+    <name>Ghardaia (airport)</name>
+    <region>Ghardaia</region>
+    <district>Ghardaia (airport)</district>
+    <id>10339</id>
+  </point>
+  <point>
+    <name>El Golea (airport)</name>
+    <region>Ghardaia</region>
+    <district>El Golea (airport)</district>
+    <id>10343</id>
+  </point>
+  <point>
+    <name>Guelma</name>
+    <region>Guelma</region>
+    <district>Guelma</district>
+    <id>10291</id>
+  </point>
+  <point>
+    <name>Illizi</name>
+    <region>Illizi</region>
+    <district>Illizi</district>
+    <id>10349</id>
+  </point>
+  <point>
+    <name>Illizi (airport)</name>
+    <region>Illizi</region>
+    <district>Illizi (airport)</district>
+    <id>508188</id>
+  </point>
+  <point>
+    <name>In Amenas (airport)</name>
+    <region>Illizi</region>
+    <district>In Amenas (airport)</district>
+    <id>10346</id>
+  </point>
+  <point>
+    <name>Ohanet</name>
+    <region>Illizi</region>
+    <district>Ohanet</district>
+    <id>348608</id>
+  </point>
+  <point>
+    <name>Abed Lerrach</name>
+    <region>Illizi</region>
+    <district>Abed Lerrach</district>
+    <id>348613</id>
+  </point>
+  <point>
+    <name>Fadnoune</name>
+    <region>Illizi</region>
+    <district>Fadnoune</district>
+    <id>510206</id>
+  </point>
+  <point>
+    <name>Jijel</name>
+    <region>Jijel</region>
+    <district>Jijel</district>
+    <id>10275</id>
+  </point>
+  <point>
+    <name>Jijel / Achouat (airport)</name>
+    <region>Jijel</region>
+    <district>Jijel / Achouat (airport)</district>
+    <id>504542</id>
+  </point>
+  <point>
+    <name>Khenchela</name>
+    <region>Khenchela</region>
+    <district>Khenchela</district>
+    <id>10312</id>
+  </point>
+  <point>
+    <name>Laghouat (airport)</name>
+    <region>Laghouat</region>
+    <district>Laghouat (airport)</district>
+    <id>10333</id>
+  </point>
+  <point>
+    <name>Hassi R'Mel</name>
+    <region>Laghouat</region>
+    <district>Hassi R`Mel</district>
+    <id>170841</id>
+  </point>
+  <point>
+    <name>Hassi R'Mel (airport)</name>
+    <region>Laghouat</region>
+    <district>Hassi R`Mel (airport)</district>
+    <id>508439</id>
+  </point>
+  <point>
+    <name>M'Sila</name>
+    <region>M`Sila</region>
+    <district>M`Sila</district>
+    <id>10308</id>
+  </point>
+  <point>
+    <name>Bou-Saada (airport)</name>
+    <region>M`Sila</region>
+    <district>Bou-Saada (airport)</district>
+    <id>10323</id>
+  </point>
+  <point>
+    <name>Mascara</name>
+    <region>Mascara</region>
+    <district>Mascara</district>
+    <id>330073</id>
+  </point>
+  <point>
+    <name>Mascara / Ghriss (airport)</name>
+    <region>Mascara</region>
+    <district>Mascara / Ghriss (airport)</district>
+    <id>10320</id>
+  </point>
+  <point>
+    <name>Matemore</name>
+    <region>Mascara</region>
+    <district>Matemore</district>
+    <id>10319</id>
+  </point>
+  <point>
+    <name>Medea</name>
+    <region>Medea</region>
+    <district>Medea</district>
+    <id>10300</id>
+  </point>
+  <point>
+    <name>Mila</name>
+    <region>Mila</region>
+    <district>Mila</district>
+    <id>196276</id>
+  </point>
+  <point>
+    <name>Mostaganem</name>
+    <region>Mostaganem</region>
+    <district>Mostaganem</district>
+    <id>10305</id>
+  </point>
+  <point>
+    <name>Naama</name>
+    <region>Naama</region>
+    <district>Naama</district>
+    <id>10337</id>
+  </point>
+  <point>
+    <name>Ain Sefra</name>
+    <region>Naama</region>
+    <district>Ain Sefra</district>
+    <id>170544</id>
+  </point>
+  <point>
+    <name>Oran</name>
+    <region>Oran</region>
+    <district>Oran</district>
+    <id>10317</id>
+  </point>
+  <point>
+    <name>Oran (airport)</name>
+    <region>Oran</region>
+    <district>Oran (airport)</district>
+    <id>504544</id>
+  </point>
+  <point>
+    <name>Oran (port)</name>
+    <region>Oran</region>
+    <district>Oran (port)</district>
+    <id>10307</id>
+  </point>
+  <point>
+    <name>Oran / Tafaraoui (airport)</name>
+    <region>Oran</region>
+    <district>Oran / Tafaraoui (airport)</district>
+    <id>510082</id>
+  </point>
+  <point>
+    <name>Arzew</name>
+    <region>Oran</region>
+    <district>Arzew</district>
+    <id>10303</id>
+  </point>
+  <point>
+    <name>Ouargla (airport)</name>
+    <region>Ouargla</region>
+    <district>Ouargla (airport)</district>
+    <id>10341</id>
+  </point>
+  <point>
+    <name>Hassi Messaoud (airport)</name>
+    <region>Ouargla</region>
+    <district>Hassi Messaoud (airport)</district>
+    <id>10342</id>
+  </point>
+  <point>
+    <name>Tinfouye</name>
+    <region>Ouargla</region>
+    <district>Tinfouye</district>
+    <id>348630</id>
+  </point>
+  <point>
+    <name>Touggourt (airport)</name>
+    <region>Ouargla</region>
+    <district>Touggourt (airport)</district>
+    <id>10336</id>
+  </point>
+  <point>
+    <name>Hamra (airport)</name>
+    <region>Ouargla</region>
+    <district>Hamra (airport)</district>
+    <id>510806</id>
+  </point>
+  <point>
+    <name>Rhourd Nouss</name>
+    <region>Ouargla</region>
+    <district>Rhourd Nouss</district>
+    <id>348369</id>
+  </point>
+  <point>
+    <name>Rhourd Nouss (airport)</name>
+    <region>Ouargla</region>
+    <district>Rhourd Nouss (airport)</district>
+    <id>509005</id>
+  </point>
+  <point>
+    <name>Tinfouye (airport)</name>
+    <region>Ouargla</region>
+    <district>Tinfouye (airport)</district>
+    <id>509761</id>
+  </point>
+  <point>
+    <name>Tinfouye (weather station 60638)</name>
+    <region>Ouargla</region>
+    <district>Tinfouye (weather station 60638)</district>
+    <id>348373</id>
+  </point>
+  <point>
+    <name>Oum el-Bouaghi</name>
+    <region>Oum el-Bouaghi</region>
+    <district>Oum el-Bouaghi</district>
+    <id>10296</id>
+  </point>
+  <point>
+    <name>Relizane</name>
+    <region>Relizane</region>
+    <district>Relizane</district>
+    <id>10318</id>
+  </point>
+  <point>
+    <name>Saida</name>
+    <region>Saida</region>
+    <district>Saida</district>
+    <id>10331</id>
+  </point>
+  <point>
+    <name>Setif</name>
+    <region>Setif</region>
+    <district>Setif</district>
+    <id>10302</id>
+  </point>
+  <point>
+    <name>Setif (airport)</name>
+    <region>Setif</region>
+    <district>Setif (airport)</district>
+    <id>504545</id>
+  </point>
+  <point>
+    <name>Sidi Bel Abbes</name>
+    <region>Sidi Bel Abbes</region>
+    <district>Sidi Bel Abbes</district>
+    <id>10326</id>
+  </point>
+  <point>
+    <name>Mecheria (airport)</name>
+    <region>Sidi Bel Abbes</region>
+    <district>Mecheria (airport)</district>
+    <id>10334</id>
+  </point>
+  <point>
+    <name>Skikda</name>
+    <region>Skikda</region>
+    <district>Skikda</district>
+    <id>10277</id>
+  </point>
+  <point>
+    <name>Souk Ahras</name>
+    <region>Souk Ahras</region>
+    <district>Souk Ahras</district>
+    <id>10297</id>
+  </point>
+  <point>
+    <name>Tamanrasset</name>
+    <region>Tamanghasset</region>
+    <district>Tamanrasset</district>
+    <id>10352</id>
+  </point>
+  <point>
+    <name>Djanet</name>
+    <region>Tamanghasset</region>
+    <district>Djanet</district>
+    <id>10351</id>
+  </point>
+  <point>
+    <name>Tamanrasset (airport)</name>
+    <region>Tamanghasset</region>
+    <district>Tamanrasset (airport)</district>
+    <id>508122</id>
+  </point>
+  <point>
+    <name>Tin El Koum</name>
+    <region>Tamanghasset</region>
+    <district>Tin El Koum</district>
+    <id>510207</id>
+  </point>
+  <point>
+    <name>Abankor</name>
+    <region>Tamanghasset</region>
+    <district>Abankor</district>
+    <id>348381</id>
+  </point>
+  <point>
+    <name>Ain Hadjaj</name>
+    <region>Tamanghasset</region>
+    <district>Ain Hadjaj</district>
+    <id>348370</id>
+  </point>
+  <point>
+    <name>Amguid</name>
+    <region>Tamanghasset</region>
+    <district>Amguid</district>
+    <id>348375</id>
+  </point>
+  <point>
+    <name>Anesbaraka</name>
+    <region>Tamanghasset</region>
+    <district>Anesbaraka</district>
+    <id>510359</id>
+  </point>
+  <point>
+    <name>Arak (Miniet)</name>
+    <region>Tamanghasset</region>
+    <district>Arak (Miniet)</district>
+    <id>348376</id>
+  </point>
+  <point>
+    <name>Assekrem</name>
+    <region>Tamanghasset</region>
+    <district>Assekrem</district>
+    <id>348382</id>
+  </point>
+  <point>
+    <name>Djanet (airport)</name>
+    <region>Tamanghasset</region>
+    <district>Djanet (airport)</district>
+    <id>504540</id>
+  </point>
+  <point>
+    <name>Illizi / Ayn Az Zan</name>
+    <region>Tamanghasset</region>
+    <district>Illizi / Ayn Az Zan</district>
+    <id>348380</id>
+  </point>
+  <point>
+    <name>In Atei</name>
+    <region>Tamanghasset</region>
+    <district>In Atei</district>
+    <id>348606</id>
+  </point>
+  <point>
+    <name>In Azaoua</name>
+    <region>Tamanghasset</region>
+    <district>In Azaoua</district>
+    <id>348610</id>
+  </point>
+  <point>
+    <name>In Guezzam (weather station 60621)</name>
+    <region>Tamanghasset</region>
+    <district>In Guezzam (weather station 60621)</district>
+    <id>348371</id>
+  </point>
+  <point>
+    <name>In Salah (airport)</name>
+    <region>Tamanghasset</region>
+    <district>In Salah (airport)</district>
+    <id>508121</id>
+  </point>
+  <point>
+    <name>Mertouek</name>
+    <region>Tamanghasset</region>
+    <district>Mertouek</district>
+    <id>348378</id>
+  </point>
+  <point>
+    <name>Moulay Lachen</name>
+    <region>Tamanghasset</region>
+    <district>Moulay Lachen</district>
+    <id>348377</id>
+  </point>
+  <point>
+    <name>Oued Tahaggaret</name>
+    <region>Tamanghasset</region>
+    <district>Oued Tahaggaret</district>
+    <id>348617</id>
+  </point>
+  <point>
+    <name>Tintarabine</name>
+    <region>Tamanghasset</region>
+    <district>Tintarabine</district>
+    <id>504511</id>
+  </point>
+  <point>
+    <name>Tiririne</name>
+    <region>Tamanghasset</region>
+    <district>Tiririne</district>
+    <id>510204</id>
+  </point>
+  <point>
+    <name>Tebessa (airport)</name>
+    <region>Tebessa</region>
+    <district>Tebessa (airport)</district>
+    <id>10311</id>
+  </point>
+  <point>
+    <name>Tiaret</name>
+    <region>Tiaret</region>
+    <district>Tiaret</district>
+    <id>10321</id>
+  </point>
+  <point>
+    <name>Ksar Chellala</name>
+    <region>Tiaret</region>
+    <district>Ksar Chellala</district>
+    <id>10322</id>
+  </point>
+  <point>
+    <name>Tiaret (airport)</name>
+    <region>Tiaret</region>
+    <district>Tiaret (airport)</district>
+    <id>504546</id>
+  </point>
+  <point>
+    <name>Tindouf</name>
+    <region>Tindouf</region>
+    <district>Tindouf</district>
+    <id>10350</id>
+  </point>
+  <point>
+    <name>Gara Djebilet</name>
+    <region>Tindouf</region>
+    <district>Gara Djebilet</district>
+    <id>510205</id>
+  </point>
+  <point>
+    <name>Tindouf (airport)</name>
+    <region>Tindouf</region>
+    <district>Tindouf (airport)</district>
+    <id>504547</id>
+  </point>
+  <point>
+    <name>Tipasa</name>
+    <region>Tipasa</region>
+    <district>Tipasa</district>
+    <id>3153</id>
+  </point>
+  <point>
+    <name>Cap-Caxine</name>
+    <region>Tipasa</region>
+    <district>Cap-Caxine</district>
+    <id>10281</id>
+  </point>
+  <point>
+    <name>Mehelma</name>
+    <region>Tipasa</region>
+    <district>Mehelma</district>
+    <id>504510</id>
+  </point>
+  <point>
+    <name>Tissemsilt</name>
+    <region>Tissemsilt</region>
+    <district>Tissemsilt</district>
+    <id>3124</id>
+  </point>
+  <point>
+    <name>Tizi Ouzou</name>
+    <region>Tizi Ouzou</region>
+    <district>Tizi Ouzou</district>
+    <id>10288</id>
+  </point>
+  <point>
+    <name>Tlemcen / Zenata (airport)</name>
+    <region>Tlemcen</region>
+    <district>Tlemcen / Zenata (airport)</district>
+    <id>10329</id>
+  </point>
+  <point>
+    <name>Ghazaouet</name>
+    <region>Tlemcen</region>
+    <district>Ghazaouet</district>
+    <id>10324</id>
+  </point>
+  <point>
+    <name>Maghnia</name>
+    <region>Tlemcen</region>
+    <district>Maghnia</district>
+    <id>10327</id>
+  </point>
+</country>

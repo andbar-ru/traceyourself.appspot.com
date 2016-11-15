@@ -1,0 +1,8018 @@
+<country name="New Zealand" count="1336">
+  <point>
+    <name>Auckland</name>
+    <region>Auckland</region>
+    <district></district>
+    <id>341420</id>
+  </point>
+  <point>
+    <name>Auckland (airport)</name>
+    <region>Auckland</region>
+    <district>Auckland (airport)</district>
+    <id>337749</id>
+  </point>
+  <point>
+    <name>Manukau</name>
+    <region>Auckland</region>
+    <district>Manukau</district>
+    <id>391335</id>
+  </point>
+  <point>
+    <name>Raoul Island</name>
+    <region>Auckland</region>
+    <district>Raoul Island</district>
+    <id>337718</id>
+  </point>
+  <point>
+    <name>Mokohinau (airport)</name>
+    <region>Auckland</region>
+    <district>Mokohinau (airport)</district>
+    <id>337750</id>
+  </point>
+  <point>
+    <name>Avondale</name>
+    <region>Auckland</region>
+    <district>Avondale</district>
+    <id>391708</id>
+  </point>
+  <point>
+    <name>Beachlands</name>
+    <region>Auckland</region>
+    <district>Beachlands</district>
+    <id>392265</id>
+  </point>
+  <point>
+    <name>Blockhouse Bay</name>
+    <region>Auckland</region>
+    <district>Blockhouse Bay</district>
+    <id>392364</id>
+  </point>
+  <point>
+    <name>Botany Downs</name>
+    <region>Auckland</region>
+    <district>Botany Downs</district>
+    <id>392278</id>
+  </point>
+  <point>
+    <name>Bucklands Beach</name>
+    <region>Auckland</region>
+    <district>Bucklands Beach</district>
+    <id>392287</id>
+  </point>
+  <point>
+    <name>Burswood</name>
+    <region>Auckland</region>
+    <district>Burswood</district>
+    <id>392304</id>
+  </point>
+  <point>
+    <name>Clendon Park</name>
+    <region>Auckland</region>
+    <district>Clendon Park</district>
+    <id>392313</id>
+  </point>
+  <point>
+    <name>Clevedon</name>
+    <region>Auckland</region>
+    <district>Clevedon</district>
+    <id>392336</id>
+  </point>
+  <point>
+    <name>Clover Park</name>
+    <region>Auckland</region>
+    <district>Clover Park</district>
+    <id>392338</id>
+  </point>
+  <point>
+    <name>Cockle Bay</name>
+    <region>Auckland</region>
+    <district>Cockle Bay</district>
+    <id>392360</id>
+  </point>
+  <point>
+    <name>Dannemora</name>
+    <region>Auckland</region>
+    <district>Dannemora</district>
+    <id>392372</id>
+  </point>
+  <point>
+    <name>East Tamaki</name>
+    <region>Auckland</region>
+    <district>East Tamaki</district>
+    <id>392449</id>
+  </point>
+  <point>
+    <name>Eastern Beach</name>
+    <region>Auckland</region>
+    <district>Eastern Beach</district>
+    <id>392466</id>
+  </point>
+  <point>
+    <name>Eden Terrace</name>
+    <region>Auckland</region>
+    <district>Eden Terrace</district>
+    <id>392530</id>
+  </point>
+  <point>
+    <name>Ellerslie</name>
+    <region>Auckland</region>
+    <district>Ellerslie</district>
+    <id>392535</id>
+  </point>
+  <point>
+    <name>Epsom</name>
+    <region>Auckland</region>
+    <district>Epsom</district>
+    <id>392543</id>
+  </point>
+  <point>
+    <name>Farm Cove</name>
+    <region>Auckland</region>
+    <district>Farm Cove</district>
+    <id>392469</id>
+  </point>
+  <point>
+    <name>Favona</name>
+    <region>Auckland</region>
+    <district>Favona</district>
+    <id>392476</id>
+  </point>
+  <point>
+    <name>Freemans Bay</name>
+    <region>Auckland</region>
+    <district>Freemans Bay</district>
+    <id>392570</id>
+  </point>
+  <point>
+    <name>Glen Innes</name>
+    <region>Auckland</region>
+    <district>Glen Innes</district>
+    <id>392583</id>
+  </point>
+  <point>
+    <name>Glendowie</name>
+    <region>Auckland</region>
+    <district>Glendowie</district>
+    <id>392607</id>
+  </point>
+  <point>
+    <name>Golflands</name>
+    <region>Auckland</region>
+    <district>Golflands</district>
+    <id>392504</id>
+  </point>
+  <point>
+    <name>Goodwood Heights</name>
+    <region>Auckland</region>
+    <district>Goodwood Heights</district>
+    <id>392523</id>
+  </point>
+  <point>
+    <name>Grafton</name>
+    <region>Auckland</region>
+    <district>Grafton</district>
+    <id>392620</id>
+  </point>
+  <point>
+    <name>Great Barrier Island</name>
+    <region>Auckland</region>
+    <district>Great Barrier Island</district>
+    <id>392634</id>
+  </point>
+  <point>
+    <name>Greenlane</name>
+    <region>Auckland</region>
+    <district>Greenlane</district>
+    <id>392635</id>
+  </point>
+  <point>
+    <name>Grey Lynn</name>
+    <region>Auckland</region>
+    <district>Grey Lynn</district>
+    <id>391387</id>
+  </point>
+  <point>
+    <name>Half Moon Bay</name>
+    <region>Auckland</region>
+    <district>Half Moon Bay</district>
+    <id>392524</id>
+  </point>
+  <point>
+    <name>Herne Bay</name>
+    <region>Auckland</region>
+    <district>Herne Bay</district>
+    <id>391404</id>
+  </point>
+  <point>
+    <name>Highland Park</name>
+    <region>Auckland</region>
+    <district>Highland Park</district>
+    <id>392525</id>
+  </point>
+  <point>
+    <name>Hillsborough</name>
+    <region>Auckland</region>
+    <district>Hillsborough</district>
+    <id>391412</id>
+  </point>
+  <point>
+    <name>Howick</name>
+    <region>Auckland</region>
+    <district>Howick</district>
+    <id>392526</id>
+  </point>
+  <point>
+    <name>Huntington Park</name>
+    <region>Auckland</region>
+    <district>Huntington Park</district>
+    <id>392528</id>
+  </point>
+  <point>
+    <name>Kingsland</name>
+    <region>Auckland</region>
+    <district>Kingsland</district>
+    <id>391445</id>
+  </point>
+  <point>
+    <name>Kohimarama</name>
+    <region>Auckland</region>
+    <district>Kohimarama</district>
+    <id>391449</id>
+  </point>
+  <point>
+    <name>Leigh</name>
+    <region>Auckland</region>
+    <district>Leigh</district>
+    <id>391458</id>
+  </point>
+  <point>
+    <name>Lynfield</name>
+    <region>Auckland</region>
+    <district>Lynfield</district>
+    <id>391459</id>
+  </point>
+  <point>
+    <name>Mangere</name>
+    <region>Auckland</region>
+    <district>Mangere</district>
+    <id>392529</id>
+  </point>
+  <point>
+    <name>Mangere Bridge</name>
+    <region>Auckland</region>
+    <district>Mangere Bridge</district>
+    <id>392531</id>
+  </point>
+  <point>
+    <name>Mangere East</name>
+    <region>Auckland</region>
+    <district>Mangere East</district>
+    <id>392532</id>
+  </point>
+  <point>
+    <name>Mangere South</name>
+    <region>Auckland</region>
+    <district>Mangere South</district>
+    <id>392533</id>
+  </point>
+  <point>
+    <name>Manurewa</name>
+    <region>Auckland</region>
+    <district>Manurewa</district>
+    <id>392534</id>
+  </point>
+  <point>
+    <name>Manurewa East</name>
+    <region>Auckland</region>
+    <district>Manurewa East</district>
+    <id>392536</id>
+  </point>
+  <point>
+    <name>Maraetai</name>
+    <region>Auckland</region>
+    <district>Maraetai</district>
+    <id>392537</id>
+  </point>
+  <point>
+    <name>Meadowbank</name>
+    <region>Auckland</region>
+    <district>Meadowbank</district>
+    <id>391472</id>
+  </point>
+  <point>
+    <name>Mechanics Bay</name>
+    <region>Auckland</region>
+    <district>Mechanics Bay</district>
+    <id>391478</id>
+  </point>
+  <point>
+    <name>Mission Bay</name>
+    <region>Auckland</region>
+    <district>Mission Bay</district>
+    <id>391479</id>
+  </point>
+  <point>
+    <name>Mt Albert</name>
+    <region>Auckland</region>
+    <district>Mt Albert</district>
+    <id>391485</id>
+  </point>
+  <point>
+    <name>Mt Eden</name>
+    <region>Auckland</region>
+    <district>Mt Eden</district>
+    <id>391516</id>
+  </point>
+  <point>
+    <name>Mt Roskill</name>
+    <region>Auckland</region>
+    <district>Mt Roskill</district>
+    <id>391553</id>
+  </point>
+  <point>
+    <name>Mt Wellington</name>
+    <region>Auckland</region>
+    <district>Mt Wellington</district>
+    <id>391623</id>
+  </point>
+  <point>
+    <name>Newmarket</name>
+    <region>Auckland</region>
+    <district>Newmarket</district>
+    <id>391684</id>
+  </point>
+  <point>
+    <name>One Tree Hill</name>
+    <region>Auckland</region>
+    <district>One Tree Hill</district>
+    <id>391699</id>
+  </point>
+  <point>
+    <name>Onehunga</name>
+    <region>Auckland</region>
+    <district>Onehunga</district>
+    <id>391705</id>
+  </point>
+  <point>
+    <name>Orakei</name>
+    <region>Auckland</region>
+    <district>Orakei</district>
+    <id>391736</id>
+  </point>
+  <point>
+    <name>Ormiston</name>
+    <region>Auckland</region>
+    <district>Ormiston</district>
+    <id>392538</id>
+  </point>
+  <point>
+    <name>Otahuhu</name>
+    <region>Auckland</region>
+    <district>Otahuhu</district>
+    <id>391745</id>
+  </point>
+  <point>
+    <name>Otara</name>
+    <region>Auckland</region>
+    <district>Otara</district>
+    <id>392539</id>
+  </point>
+  <point>
+    <name>Pakuranga</name>
+    <region>Auckland</region>
+    <district>Pakuranga</district>
+    <id>392540</id>
+  </point>
+  <point>
+    <name>Panmure</name>
+    <region>Auckland</region>
+    <district>Panmure</district>
+    <id>391774</id>
+  </point>
+  <point>
+    <name>Papatoetoe</name>
+    <region>Auckland</region>
+    <district>Papatoetoe</district>
+    <id>392542</id>
+  </point>
+  <point>
+    <name>Parnell</name>
+    <region>Auckland</region>
+    <district>Parnell</district>
+    <id>391788</id>
+  </point>
+  <point>
+    <name>Patumahoe</name>
+    <region>Auckland</region>
+    <district>Patumahoe</district>
+    <id>392544</id>
+  </point>
+  <point>
+    <name>Penrose</name>
+    <region>Auckland</region>
+    <district>Penrose</district>
+    <id>391822</id>
+  </point>
+  <point>
+    <name>Point Chevalier</name>
+    <region>Auckland</region>
+    <district>Point Chevalier</district>
+    <id>391841</id>
+  </point>
+  <point>
+    <name>Point England</name>
+    <region>Auckland</region>
+    <district>Point England</district>
+    <id>391869</id>
+  </point>
+  <point>
+    <name>Ponsonby</name>
+    <region>Auckland</region>
+    <district>Ponsonby</district>
+    <id>391875</id>
+  </point>
+  <point>
+    <name>Puhoi</name>
+    <region>Auckland</region>
+    <district>Puhoi</district>
+    <id>391908</id>
+  </point>
+  <point>
+    <name>Rakino Island</name>
+    <region>Auckland</region>
+    <district>Rakino Island</district>
+    <id>391909</id>
+  </point>
+  <point>
+    <name>Randwick Park</name>
+    <region>Auckland</region>
+    <district>Randwick Park</district>
+    <id>392545</id>
+  </point>
+  <point>
+    <name>Remuera</name>
+    <region>Auckland</region>
+    <district>Remuera</district>
+    <id>391917</id>
+  </point>
+  <point>
+    <name>Royal Oak</name>
+    <region>Auckland</region>
+    <district>Royal Oak</district>
+    <id>391978</id>
+  </point>
+  <point>
+    <name>Sandringham</name>
+    <region>Auckland</region>
+    <district>Sandringham</district>
+    <id>391984</id>
+  </point>
+  <point>
+    <name>Shelly Park</name>
+    <region>Auckland</region>
+    <district>Shelly Park</district>
+    <id>392546</id>
+  </point>
+  <point>
+    <name>Somerville</name>
+    <region>Auckland</region>
+    <district>Somerville</district>
+    <id>392547</id>
+  </point>
+  <point>
+    <name>St Heliers</name>
+    <region>Auckland</region>
+    <district>St Heliers</district>
+    <id>392015</id>
+  </point>
+  <point>
+    <name>St Johns</name>
+    <region>Auckland</region>
+    <district>St Johns</district>
+    <id>392036</id>
+  </point>
+  <point>
+    <name>St Marys Bay</name>
+    <region>Auckland</region>
+    <district>St Marys Bay</district>
+    <id>392060</id>
+  </point>
+  <point>
+    <name>Takanini</name>
+    <region>Auckland</region>
+    <district>Takanini</district>
+    <id>392548</id>
+  </point>
+  <point>
+    <name>The Gardens</name>
+    <region>Auckland</region>
+    <district>The Gardens</district>
+    <id>392549</id>
+  </point>
+  <point>
+    <name>Three Kings</name>
+    <region>Auckland</region>
+    <district>Three Kings</district>
+    <id>392071</id>
+  </point>
+  <point>
+    <name>Waiheke Island</name>
+    <region>Auckland</region>
+    <district>Waiheke Island</district>
+    <id>392078</id>
+  </point>
+  <point>
+    <name>Wairere</name>
+    <region>Auckland</region>
+    <district>Wairere</district>
+    <id>392550</id>
+  </point>
+  <point>
+    <name>Waiwera</name>
+    <region>Auckland</region>
+    <district>Waiwera</district>
+    <id>392083</id>
+  </point>
+  <point>
+    <name>Waterview</name>
+    <region>Auckland</region>
+    <district>Waterview</district>
+    <id>392086</id>
+  </point>
+  <point>
+    <name>Wattle Downs</name>
+    <region>Auckland</region>
+    <district>Wattle Downs</district>
+    <id>392551</id>
+  </point>
+  <point>
+    <name>Western Springs</name>
+    <region>Auckland</region>
+    <district>Western Springs</district>
+    <id>392094</id>
+  </point>
+  <point>
+    <name>Westhaven</name>
+    <region>Auckland</region>
+    <district>Westhaven</district>
+    <id>392107</id>
+  </point>
+  <point>
+    <name>Westmere</name>
+    <region>Auckland</region>
+    <district>Westmere</district>
+    <id>392111</id>
+  </point>
+  <point>
+    <name>Weymouth</name>
+    <region>Auckland</region>
+    <district>Weymouth</district>
+    <id>392552</id>
+  </point>
+  <point>
+    <name>Whitford</name>
+    <region>Auckland</region>
+    <district>Whitford</district>
+    <id>392553</id>
+  </point>
+  <point>
+    <name>Wiri</name>
+    <region>Auckland</region>
+    <district>Wiri</district>
+    <id>392554</id>
+  </point>
+  <point>
+    <name>Bombay</name>
+    <region>Auckland</region>
+    <district>Franklin</district>
+    <id>392138</id>
+  </point>
+  <point>
+    <name>Clarks Beach</name>
+    <region>Auckland</region>
+    <district>Franklin</district>
+    <id>392140</id>
+  </point>
+  <point>
+    <name>Mercer</name>
+    <region>Auckland</region>
+    <district>Franklin</district>
+    <id>392145</id>
+  </point>
+  <point>
+    <name>Pokeno</name>
+    <region>Auckland</region>
+    <district>Franklin</district>
+    <id>392146</id>
+  </point>
+  <point>
+    <name>Pukekohe</name>
+    <region>Auckland</region>
+    <district>Franklin</district>
+    <id>391334</id>
+  </point>
+  <point>
+    <name>Tuakau</name>
+    <region>Auckland</region>
+    <district>Franklin</district>
+    <id>392219</id>
+  </point>
+  <point>
+    <name>Waiau Pa</name>
+    <region>Auckland</region>
+    <district>Franklin</district>
+    <id>392235</id>
+  </point>
+  <point>
+    <name>Waiuku</name>
+    <region>Auckland</region>
+    <district>Franklin</district>
+    <id>392236</id>
+  </point>
+  <point>
+    <name>North Shore</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>391336</id>
+  </point>
+  <point>
+    <name>Army Bay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392557</id>
+  </point>
+  <point>
+    <name>Castor Bay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392565</id>
+  </point>
+  <point>
+    <name>Gulf Harbour</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392572</id>
+  </point>
+  <point>
+    <name>Whangaparaoa</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392609</id>
+  </point>
+  <point>
+    <name>Albany</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392555</id>
+  </point>
+  <point>
+    <name>Arkles Bay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392556</id>
+  </point>
+  <point>
+    <name>Bayswater</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392558</id>
+  </point>
+  <point>
+    <name>Beach Haven</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392559</id>
+  </point>
+  <point>
+    <name>Belmont</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392560</id>
+  </point>
+  <point>
+    <name>Birkdale</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392561</id>
+  </point>
+  <point>
+    <name>Birkenhead</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392562</id>
+  </point>
+  <point>
+    <name>Browns Bay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392563</id>
+  </point>
+  <point>
+    <name>Campbells Bay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392564</id>
+  </point>
+  <point>
+    <name>Chatswood</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392566</id>
+  </point>
+  <point>
+    <name>Devonport</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392567</id>
+  </point>
+  <point>
+    <name>Forrest Hill</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392568</id>
+  </point>
+  <point>
+    <name>Glenfield</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392569</id>
+  </point>
+  <point>
+    <name>Greenhithe</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392571</id>
+  </point>
+  <point>
+    <name>Hauraki</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392573</id>
+  </point>
+  <point>
+    <name>Hillcrest</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392574</id>
+  </point>
+  <point>
+    <name>Mairangi Bay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392575</id>
+  </point>
+  <point>
+    <name>Manly</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392576</id>
+  </point>
+  <point>
+    <name>Marlborough</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392577</id>
+  </point>
+  <point>
+    <name>Meadowood</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392578</id>
+  </point>
+  <point>
+    <name>Milford</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392579</id>
+  </point>
+  <point>
+    <name>Murrays Bay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392580</id>
+  </point>
+  <point>
+    <name>Narrow Neck</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392581</id>
+  </point>
+  <point>
+    <name>Ngatea</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392582</id>
+  </point>
+  <point>
+    <name>Northcote</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392584</id>
+  </point>
+  <point>
+    <name>Northcross</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392585</id>
+  </point>
+  <point>
+    <name>Omiha</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392586</id>
+  </point>
+  <point>
+    <name>Oneroa</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392587</id>
+  </point>
+  <point>
+    <name>Onetangi</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392588</id>
+  </point>
+  <point>
+    <name>Ostend</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392589</id>
+  </point>
+  <point>
+    <name>Paeroa</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392590</id>
+  </point>
+  <point>
+    <name>Paremoremo</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392591</id>
+  </point>
+  <point>
+    <name>Pinehill</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392592</id>
+  </point>
+  <point>
+    <name>Redvale</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392593</id>
+  </point>
+  <point>
+    <name>Rosedale</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392594</id>
+  </point>
+  <point>
+    <name>Rothesay Bay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392595</id>
+  </point>
+  <point>
+    <name>Stanley Point</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392596</id>
+  </point>
+  <point>
+    <name>Stanmore Bay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392597</id>
+  </point>
+  <point>
+    <name>Sunnynook</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392598</id>
+  </point>
+  <point>
+    <name>Sunset North</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392599</id>
+  </point>
+  <point>
+    <name>Takapuna</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392600</id>
+  </point>
+  <point>
+    <name>Tindalls Beach</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392601</id>
+  </point>
+  <point>
+    <name>Torbay</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392602</id>
+  </point>
+  <point>
+    <name>Totaravale</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392603</id>
+  </point>
+  <point>
+    <name>Turua</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392604</id>
+  </point>
+  <point>
+    <name>Waiake</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392605</id>
+  </point>
+  <point>
+    <name>Waihi</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392606</id>
+  </point>
+  <point>
+    <name>Wairau Valley</name>
+    <region>Auckland</region>
+    <district>North Shore</district>
+    <id>392608</id>
+  </point>
+  <point>
+    <name>Papakura</name>
+    <region>Auckland</region>
+    <district>Papakura</district>
+    <id>391337</id>
+  </point>
+  <point>
+    <name>Drury</name>
+    <region>Auckland</region>
+    <district>Papakura</district>
+    <id>392612</id>
+  </point>
+  <point>
+    <name>Opaheke</name>
+    <region>Auckland</region>
+    <district>Papakura</district>
+    <id>392613</id>
+  </point>
+  <point>
+    <name>Pahurehure</name>
+    <region>Auckland</region>
+    <district>Papakura</district>
+    <id>392614</id>
+  </point>
+  <point>
+    <name>Red Hill</name>
+    <region>Auckland</region>
+    <district>Papakura</district>
+    <id>392615</id>
+  </point>
+  <point>
+    <name>Alfriston</name>
+    <region>Auckland</region>
+    <district>Papakura</district>
+    <id>392610</id>
+  </point>
+  <point>
+    <name>Conifer Grove</name>
+    <region>Auckland</region>
+    <district>Papakura</district>
+    <id>392611</id>
+  </point>
+  <point>
+    <name>Rosehill</name>
+    <region>Auckland</region>
+    <district>Papakura</district>
+    <id>392616</id>
+  </point>
+  <point>
+    <name>Algies Bay</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392617</id>
+  </point>
+  <point>
+    <name>Hatfields Beach</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392618</id>
+  </point>
+  <point>
+    <name>Helensville</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392619</id>
+  </point>
+  <point>
+    <name>Kaukapakapa</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392621</id>
+  </point>
+  <point>
+    <name>Kawau Island</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392622</id>
+  </point>
+  <point>
+    <name>Matakana</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392623</id>
+  </point>
+  <point>
+    <name>Orewa</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>391338</id>
+  </point>
+  <point>
+    <name>Parakai</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392624</id>
+  </point>
+  <point>
+    <name>Red Beach</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392625</id>
+  </point>
+  <point>
+    <name>Riverhead</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392626</id>
+  </point>
+  <point>
+    <name>Silverdale</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392627</id>
+  </point>
+  <point>
+    <name>Snells Beach</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392628</id>
+  </point>
+  <point>
+    <name>Waimauku</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392629</id>
+  </point>
+  <point>
+    <name>Warkworth</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392630</id>
+  </point>
+  <point>
+    <name>Wellsford</name>
+    <region>Auckland</region>
+    <district>Rodney</district>
+    <id>392631</id>
+  </point>
+  <point>
+    <name>Waitakere</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391339</id>
+  </point>
+  <point>
+    <name>Hobsonville</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391384</id>
+  </point>
+  <point>
+    <name>Kelston</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391386</id>
+  </point>
+  <point>
+    <name>Laingholm</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391389</id>
+  </point>
+  <point>
+    <name>Titirangi</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391400</id>
+  </point>
+  <point>
+    <name>Cornwallis</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>392632</id>
+  </point>
+  <point>
+    <name>Glen Eden</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>392633</id>
+  </point>
+  <point>
+    <name>Glendene</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>392636</id>
+  </point>
+  <point>
+    <name>Green Bay</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>392637</id>
+  </point>
+  <point>
+    <name>Henderson</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>392638</id>
+  </point>
+  <point>
+    <name>Henderson Valley</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391382</id>
+  </point>
+  <point>
+    <name>Herald Island</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391383</id>
+  </point>
+  <point>
+    <name>Huia</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391385</id>
+  </point>
+  <point>
+    <name>Kumeu</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391388</id>
+  </point>
+  <point>
+    <name>Massey</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391390</id>
+  </point>
+  <point>
+    <name>New Lynn</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391391</id>
+  </point>
+  <point>
+    <name>Nihotupu</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391392</id>
+  </point>
+  <point>
+    <name>Oratia</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391393</id>
+  </point>
+  <point>
+    <name>Parau</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391394</id>
+  </point>
+  <point>
+    <name>Ranui</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391395</id>
+  </point>
+  <point>
+    <name>Sunnyvale</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391396</id>
+  </point>
+  <point>
+    <name>Swanson</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391397</id>
+  </point>
+  <point>
+    <name>Te Atatu Peninsula</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391398</id>
+  </point>
+  <point>
+    <name>Te Atatu South</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391399</id>
+  </point>
+  <point>
+    <name>Waiatarua</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391401</id>
+  </point>
+  <point>
+    <name>West Harbour</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391402</id>
+  </point>
+  <point>
+    <name>Whenuapai</name>
+    <region>Auckland</region>
+    <district>Waitakere</district>
+    <id>391403</id>
+  </point>
+  <point>
+    <name>Kawerau</name>
+    <region>Bay of Plenty</region>
+    <district>Kawerau</district>
+    <id>391340</id>
+  </point>
+  <point>
+    <name>Opotiki</name>
+    <region>Bay of Plenty</region>
+    <district>Opotiki</district>
+    <id>391341</id>
+  </point>
+  <point>
+    <name>Waiotahi</name>
+    <region>Bay of Plenty</region>
+    <district>Opotiki</district>
+    <id>391405</id>
+  </point>
+  <point>
+    <name>Rotorua</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391342</id>
+  </point>
+  <point>
+    <name>Glenholme</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391409</id>
+  </point>
+  <point>
+    <name>Ngongotaha</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391418</id>
+  </point>
+  <point>
+    <name>Owhata</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391420</id>
+  </point>
+  <point>
+    <name>Pukehangi</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391421</id>
+  </point>
+  <point>
+    <name>Atiamuri</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391406</id>
+  </point>
+  <point>
+    <name>Fairy Springs</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391407</id>
+  </point>
+  <point>
+    <name>Fordlands</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391408</id>
+  </point>
+  <point>
+    <name>Hillcrest</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391410</id>
+  </point>
+  <point>
+    <name>Kawaha Point</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391411</id>
+  </point>
+  <point>
+    <name>Koutu</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391413</id>
+  </point>
+  <point>
+    <name>Lynmore</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391414</id>
+  </point>
+  <point>
+    <name>Mamaku</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391415</id>
+  </point>
+  <point>
+    <name>Mangakakahi</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391416</id>
+  </point>
+  <point>
+    <name>Ngapuna</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391417</id>
+  </point>
+  <point>
+    <name>Ngongotaha Valley</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391419</id>
+  </point>
+  <point>
+    <name>Reporoa</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391422</id>
+  </point>
+  <point>
+    <name>Selwyn Heights</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391423</id>
+  </point>
+  <point>
+    <name>Springfield</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391424</id>
+  </point>
+  <point>
+    <name>Tihoitonga</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391425</id>
+  </point>
+  <point>
+    <name>Victoria</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391426</id>
+  </point>
+  <point>
+    <name>West Brook</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391427</id>
+  </point>
+  <point>
+    <name>Westbrook</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391428</id>
+  </point>
+  <point>
+    <name>Western Heights</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391429</id>
+  </point>
+  <point>
+    <name>Whakarewarewa</name>
+    <region>Bay of Plenty</region>
+    <district>Rotorua</district>
+    <id>391430</id>
+  </point>
+  <point>
+    <name>Tauranga</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>337748</id>
+  </point>
+  <point>
+    <name>Otumoetai</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391446</id>
+  </point>
+  <point>
+    <name>Papamoa Beach</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391448</id>
+  </point>
+  <point>
+    <name>Pyes Pa</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391452</id>
+  </point>
+  <point>
+    <name>Welcome Bay</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391455</id>
+  </point>
+  <point>
+    <name>Bellevue</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391431</id>
+  </point>
+  <point>
+    <name>Bethlehem</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391432</id>
+  </point>
+  <point>
+    <name>Brookfield</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391433</id>
+  </point>
+  <point>
+    <name>Gate Pa</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391434</id>
+  </point>
+  <point>
+    <name>Greerton</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391435</id>
+  </point>
+  <point>
+    <name>Hairini</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391436</id>
+  </point>
+  <point>
+    <name>Judea</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391437</id>
+  </point>
+  <point>
+    <name>Kairua</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391438</id>
+  </point>
+  <point>
+    <name>Matapihi</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391439</id>
+  </point>
+  <point>
+    <name>Matua</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391440</id>
+  </point>
+  <point>
+    <name>Maunganui</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391441</id>
+  </point>
+  <point>
+    <name>Maungatapu</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391442</id>
+  </point>
+  <point>
+    <name>Motiti Island</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391443</id>
+  </point>
+  <point>
+    <name>Mt Maunganui</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391444</id>
+  </point>
+  <point>
+    <name>Papamoa</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391447</id>
+  </point>
+  <point>
+    <name>Parkvale</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391450</id>
+  </point>
+  <point>
+    <name>Poike</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391451</id>
+  </point>
+  <point>
+    <name>Tauranga South</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391453</id>
+  </point>
+  <point>
+    <name>Tauriko</name>
+    <region>Bay of Plenty</region>
+    <district>Tauranga</district>
+    <id>391454</id>
+  </point>
+  <point>
+    <name>Athenree</name>
+    <region>Bay of Plenty</region>
+    <district>Western Bay of Plenty</district>
+    <id>391456</id>
+  </point>
+  <point>
+    <name>Katikati</name>
+    <region>Bay of Plenty</region>
+    <district>Western Bay of Plenty</district>
+    <id>391457</id>
+  </point>
+  <point>
+    <name>Omokoroa</name>
+    <region>Bay of Plenty</region>
+    <district>Western Bay of Plenty</district>
+    <id>391460</id>
+  </point>
+  <point>
+    <name>Te Puke</name>
+    <region>Bay of Plenty</region>
+    <district>Western Bay of Plenty</district>
+    <id>391461</id>
+  </point>
+  <point>
+    <name>Te Teko</name>
+    <region>Bay of Plenty</region>
+    <district>Western Bay of Plenty</district>
+    <id>391462</id>
+  </point>
+  <point>
+    <name>Waihi Beach</name>
+    <region>Bay of Plenty</region>
+    <district>Western Bay of Plenty</district>
+    <id>391463</id>
+  </point>
+  <point>
+    <name>Whakatane</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>341409</id>
+  </point>
+  <point>
+    <name>Coastlands</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>391464</id>
+  </point>
+  <point>
+    <name>Edgecumbe</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>391465</id>
+  </point>
+  <point>
+    <name>Murupara</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>391468</id>
+  </point>
+  <point>
+    <name>Waimana</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>391473</id>
+  </point>
+  <point>
+    <name>Maraetotara</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>391466</id>
+  </point>
+  <point>
+    <name>Matata</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>391467</id>
+  </point>
+  <point>
+    <name>Ohope</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>391469</id>
+  </point>
+  <point>
+    <name>Poroporo</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>391470</id>
+  </point>
+  <point>
+    <name>Taneatua</name>
+    <region>Bay of Plenty</region>
+    <district>Whakatane</district>
+    <id>391471</id>
+  </point>
+  <point>
+    <name>Ashburton</name>
+    <region>Canterbury</region>
+    <district>Ashburton</district>
+    <id>391343</id>
+  </point>
+  <point>
+    <name>Allenton</name>
+    <region>Canterbury</region>
+    <district>Ashburton</district>
+    <id>391474</id>
+  </point>
+  <point>
+    <name>Hinds</name>
+    <region>Canterbury</region>
+    <district>Ashburton</district>
+    <id>391476</id>
+  </point>
+  <point>
+    <name>Netherby</name>
+    <region>Canterbury</region>
+    <district>Ashburton</district>
+    <id>391480</id>
+  </point>
+  <point>
+    <name>Rakaia</name>
+    <region>Canterbury</region>
+    <district>Ashburton</district>
+    <id>391481</id>
+  </point>
+  <point>
+    <name>Hampstead</name>
+    <region>Canterbury</region>
+    <district>Ashburton</district>
+    <id>391475</id>
+  </point>
+  <point>
+    <name>Methven</name>
+    <region>Canterbury</region>
+    <district>Ashburton</district>
+    <id>391477</id>
+  </point>
+  <point>
+    <name>Tinwald</name>
+    <region>Canterbury</region>
+    <district>Ashburton</district>
+    <id>391482</id>
+  </point>
+  <point>
+    <name>Christchurch</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>341416</id>
+  </point>
+  <point>
+    <name>Burnside</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391500</id>
+  </point>
+  <point>
+    <name>Christchurch (airport)</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>337728</id>
+  </point>
+  <point>
+    <name>Hororata</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391526</id>
+  </point>
+  <point>
+    <name>Waipara</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391574</id>
+  </point>
+  <point>
+    <name>Addington</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391483</id>
+  </point>
+  <point>
+    <name>Akaroa</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391484</id>
+  </point>
+  <point>
+    <name>Aranui</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391486</id>
+  </point>
+  <point>
+    <name>Avondale</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391487</id>
+  </point>
+  <point>
+    <name>Avonhead</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391488</id>
+  </point>
+  <point>
+    <name>Avonside</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391489</id>
+  </point>
+  <point>
+    <name>Barrington</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391490</id>
+  </point>
+  <point>
+    <name>Beckenham</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391491</id>
+  </point>
+  <point>
+    <name>Belfast</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391492</id>
+  </point>
+  <point>
+    <name>Bexley</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391493</id>
+  </point>
+  <point>
+    <name>Bishopdale</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391494</id>
+  </point>
+  <point>
+    <name>Bottle Lake</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391495</id>
+  </point>
+  <point>
+    <name>Bromley</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391496</id>
+  </point>
+  <point>
+    <name>Brooklands</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391497</id>
+  </point>
+  <point>
+    <name>Broomfield</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391498</id>
+  </point>
+  <point>
+    <name>Bryndwr</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391499</id>
+  </point>
+  <point>
+    <name>Burwood</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391501</id>
+  </point>
+  <point>
+    <name>Casebrook</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391502</id>
+  </point>
+  <point>
+    <name>Cashmere</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391503</id>
+  </point>
+  <point>
+    <name>Cass Bay</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391504</id>
+  </point>
+  <point>
+    <name>Corsair Bay</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391506</id>
+  </point>
+  <point>
+    <name>Coutts Island</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391507</id>
+  </point>
+  <point>
+    <name>Cust</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391508</id>
+  </point>
+  <point>
+    <name>Dallington</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391509</id>
+  </point>
+  <point>
+    <name>Diamond Harbour</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391510</id>
+  </point>
+  <point>
+    <name>Doyleston</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391511</id>
+  </point>
+  <point>
+    <name>Duvauchelle</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391512</id>
+  </point>
+  <point>
+    <name>Edgeware</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391513</id>
+  </point>
+  <point>
+    <name>Fendalton</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391514</id>
+  </point>
+  <point>
+    <name>Ferrymead</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391515</id>
+  </point>
+  <point>
+    <name>Governors Bay</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391517</id>
+  </point>
+  <point>
+    <name>Halswell</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391518</id>
+  </point>
+  <point>
+    <name>Harewood</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391519</id>
+  </point>
+  <point>
+    <name>Heathcote Valley</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391520</id>
+  </point>
+  <point>
+    <name>Hei Hei</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391521</id>
+  </point>
+  <point>
+    <name>Hillsborough</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391522</id>
+  </point>
+  <point>
+    <name>Hoon Hay</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391523</id>
+  </point>
+  <point>
+    <name>Hornby</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391524</id>
+  </point>
+  <point>
+    <name>Hornby South</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391525</id>
+  </point>
+  <point>
+    <name>Ilam</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391527</id>
+  </point>
+  <point>
+    <name>Islington</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391528</id>
+  </point>
+  <point>
+    <name>Kainga</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391529</id>
+  </point>
+  <point>
+    <name>Kennedys Bush</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391530</id>
+  </point>
+  <point>
+    <name>Kirwee</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391531</id>
+  </point>
+  <point>
+    <name>Leithfield</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391532</id>
+  </point>
+  <point>
+    <name>Linwood</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391533</id>
+  </point>
+  <point>
+    <name>Little River</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391534</id>
+  </point>
+  <point>
+    <name>Lyttelton</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391535</id>
+  </point>
+  <point>
+    <name>Mairehau</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391536</id>
+  </point>
+  <point>
+    <name>Marshland</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391537</id>
+  </point>
+  <point>
+    <name>Mcleans Island</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391538</id>
+  </point>
+  <point>
+    <name>Merivale</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391539</id>
+  </point>
+  <point>
+    <name>Middleton</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391540</id>
+  </point>
+  <point>
+    <name>Mt Pleasant</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391541</id>
+  </point>
+  <point>
+    <name>New Brighton</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391542</id>
+  </point>
+  <point>
+    <name>North Beach</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391543</id>
+  </point>
+  <point>
+    <name>Northcote</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391544</id>
+  </point>
+  <point>
+    <name>Northwood</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391545</id>
+  </point>
+  <point>
+    <name>Opawa</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391546</id>
+  </point>
+  <point>
+    <name>Papanui</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391547</id>
+  </point>
+  <point>
+    <name>Parklands</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391548</id>
+  </point>
+  <point>
+    <name>Phillipstown</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391549</id>
+  </point>
+  <point>
+    <name>Redcliffs</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391550</id>
+  </point>
+  <point>
+    <name>Redwood</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391551</id>
+  </point>
+  <point>
+    <name>Riccarton</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391552</id>
+  </point>
+  <point>
+    <name>Richmond</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391554</id>
+  </point>
+  <point>
+    <name>Russley</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391555</id>
+  </point>
+  <point>
+    <name>Sefton</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391556</id>
+  </point>
+  <point>
+    <name>Shirley</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391557</id>
+  </point>
+  <point>
+    <name>Sockburn</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391558</id>
+  </point>
+  <point>
+    <name>Somerfield</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391559</id>
+  </point>
+  <point>
+    <name>South New Brighton</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391560</id>
+  </point>
+  <point>
+    <name>Southshore</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391561</id>
+  </point>
+  <point>
+    <name>Spreydon</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391562</id>
+  </point>
+  <point>
+    <name>St Albans</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391563</id>
+  </point>
+  <point>
+    <name>St Martins</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391564</id>
+  </point>
+  <point>
+    <name>Strowan</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391565</id>
+  </point>
+  <point>
+    <name>Styx</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391566</id>
+  </point>
+  <point>
+    <name>Sumner</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391567</id>
+  </point>
+  <point>
+    <name>Sydenham</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391568</id>
+  </point>
+  <point>
+    <name>Taitapu</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391569</id>
+  </point>
+  <point>
+    <name>Templeton</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391570</id>
+  </point>
+  <point>
+    <name>Upper Riccarton</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391571</id>
+  </point>
+  <point>
+    <name>Waimairi Beach</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391572</id>
+  </point>
+  <point>
+    <name>Wainoni</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391573</id>
+  </point>
+  <point>
+    <name>Waltham</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391575</id>
+  </point>
+  <point>
+    <name>Westmorland</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391576</id>
+  </point>
+  <point>
+    <name>Wigram</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391577</id>
+  </point>
+  <point>
+    <name>Woolston</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391578</id>
+  </point>
+  <point>
+    <name>Yaldhurst</name>
+    <region>Canterbury</region>
+    <district>Christchurch</district>
+    <id>391579</id>
+  </point>
+  <point>
+    <name>Amberley</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391344</id>
+  </point>
+  <point>
+    <name>Cheviot</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391580</id>
+  </point>
+  <point>
+    <name>Culverden</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391581</id>
+  </point>
+  <point>
+    <name>Greta Valley</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391582</id>
+  </point>
+  <point>
+    <name>Hanmer Forest Park</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391583</id>
+  </point>
+  <point>
+    <name>Hanmer Springs</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391584</id>
+  </point>
+  <point>
+    <name>Hawarden</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391585</id>
+  </point>
+  <point>
+    <name>Rotherham</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391586</id>
+  </point>
+  <point>
+    <name>Waiau</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391587</id>
+  </point>
+  <point>
+    <name>Waikari</name>
+    <region>Canterbury</region>
+    <district>Hurunui</district>
+    <id>391588</id>
+  </point>
+  <point>
+    <name>Kaikoura</name>
+    <region>Canterbury</region>
+    <district>Kaikoura</district>
+    <id>391345</id>
+  </point>
+  <point>
+    <name>Kaikoura (weather station)</name>
+    <region>Canterbury</region>
+    <district>Kaikoura</district>
+    <id>337732</id>
+  </point>
+  <point>
+    <name>Kaikoura Flat</name>
+    <region>Canterbury</region>
+    <district>Kaikoura</district>
+    <id>391589</id>
+  </point>
+  <point>
+    <name>South Bay</name>
+    <region>Canterbury</region>
+    <district>Kaikoura</district>
+    <id>391590</id>
+  </point>
+  <point>
+    <name>Ben Ohau</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391591</id>
+  </point>
+  <point>
+    <name>Burkes Pass</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391592</id>
+  </point>
+  <point>
+    <name>Fairlie</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391346</id>
+  </point>
+  <point>
+    <name>Huxley Gorge</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391593</id>
+  </point>
+  <point>
+    <name>Lake Tekapo</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391594</id>
+  </point>
+  <point>
+    <name>Mount Cook</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391595</id>
+  </point>
+  <point>
+    <name>Mount Cook National Park</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391596</id>
+  </point>
+  <point>
+    <name>Tekapo</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391597</id>
+  </point>
+  <point>
+    <name>Totara Peak</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391598</id>
+  </point>
+  <point>
+    <name>Twizel</name>
+    <region>Canterbury</region>
+    <district>Mackenzie</district>
+    <id>391599</id>
+  </point>
+  <point>
+    <name>Burnham</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391600</id>
+  </point>
+  <point>
+    <name>Coalgate</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391601</id>
+  </point>
+  <point>
+    <name>Darfield</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391602</id>
+  </point>
+  <point>
+    <name>Dunsandel</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391603</id>
+  </point>
+  <point>
+    <name>Leeston</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391604</id>
+  </point>
+  <point>
+    <name>Lincoln</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391605</id>
+  </point>
+  <point>
+    <name>Prebbleton</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391606</id>
+  </point>
+  <point>
+    <name>Rolleston</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391347</id>
+  </point>
+  <point>
+    <name>Sheffield</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391607</id>
+  </point>
+  <point>
+    <name>Southbridge</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391608</id>
+  </point>
+  <point>
+    <name>Springfield</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391609</id>
+  </point>
+  <point>
+    <name>Springston</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391610</id>
+  </point>
+  <point>
+    <name>West Melton</name>
+    <region>Canterbury</region>
+    <district>Selwyn</district>
+    <id>391611</id>
+  </point>
+  <point>
+    <name>Timaru</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391348</id>
+  </point>
+  <point>
+    <name>Geraldine</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391615</id>
+  </point>
+  <point>
+    <name>Peel Forest</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391627</id>
+  </point>
+  <point>
+    <name>Temuka</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391633</id>
+  </point>
+  <point>
+    <name>Timaru (aerodrome)</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>337729</id>
+  </point>
+  <point>
+    <name>Cave</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391612</id>
+  </point>
+  <point>
+    <name>Denfield</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391613</id>
+  </point>
+  <point>
+    <name>Fairview</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391614</id>
+  </point>
+  <point>
+    <name>Gleniti</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391616</id>
+  </point>
+  <point>
+    <name>Glenwood</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391617</id>
+  </point>
+  <point>
+    <name>Highfield</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391618</id>
+  </point>
+  <point>
+    <name>Kensington</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391619</id>
+  </point>
+  <point>
+    <name>Kingsdown</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391620</id>
+  </point>
+  <point>
+    <name>Maori Park</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391621</id>
+  </point>
+  <point>
+    <name>Marchwiel</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391622</id>
+  </point>
+  <point>
+    <name>Oceanview</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391624</id>
+  </point>
+  <point>
+    <name>Otipua Creek</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391625</id>
+  </point>
+  <point>
+    <name>Parkside</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391626</id>
+  </point>
+  <point>
+    <name>Pleasant Point</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391628</id>
+  </point>
+  <point>
+    <name>Redruth</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391629</id>
+  </point>
+  <point>
+    <name>Scarborough</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391630</id>
+  </point>
+  <point>
+    <name>Seaview</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391631</id>
+  </point>
+  <point>
+    <name>Smithfield</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391632</id>
+  </point>
+  <point>
+    <name>Totara Valley</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391636</id>
+  </point>
+  <point>
+    <name>Waimataitai</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391637</id>
+  </point>
+  <point>
+    <name>Washdyke</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391638</id>
+  </point>
+  <point>
+    <name>Washdyke Flat</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391639</id>
+  </point>
+  <point>
+    <name>Watlington</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391640</id>
+  </point>
+  <point>
+    <name>West End</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391641</id>
+  </point>
+  <point>
+    <name>Winchester</name>
+    <region>Canterbury</region>
+    <district>Timaru</district>
+    <id>391642</id>
+  </point>
+  <point>
+    <name>Camside</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391643</id>
+  </point>
+  <point>
+    <name>Fernside</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391644</id>
+  </point>
+  <point>
+    <name>Kaiapoi</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391645</id>
+  </point>
+  <point>
+    <name>Kairaki Beach</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391646</id>
+  </point>
+  <point>
+    <name>Oxford</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391647</id>
+  </point>
+  <point>
+    <name>Pines Beach</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391648</id>
+  </point>
+  <point>
+    <name>Rangiora</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391349</id>
+  </point>
+  <point>
+    <name>Starvation Hill</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391649</id>
+  </point>
+  <point>
+    <name>Tuahiwi</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391650</id>
+  </point>
+  <point>
+    <name>Waikuku</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391651</id>
+  </point>
+  <point>
+    <name>Waikuku Beach</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391652</id>
+  </point>
+  <point>
+    <name>Woodend</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391653</id>
+  </point>
+  <point>
+    <name>Woodend Beach</name>
+    <region>Canterbury</region>
+    <district>Waimakariri</district>
+    <id>391654</id>
+  </point>
+  <point>
+    <name>Waimate</name>
+    <region>Canterbury</region>
+    <district>Waimate</district>
+    <id>391350</id>
+  </point>
+  <point>
+    <name>Cattle Creek</name>
+    <region>Canterbury</region>
+    <district>Waimate</district>
+    <id>391655</id>
+  </point>
+  <point>
+    <name>Hakataramea</name>
+    <region>Canterbury</region>
+    <district>Waimate</district>
+    <id>391656</id>
+  </point>
+  <point>
+    <name>Pareora</name>
+    <region>Canterbury</region>
+    <district>Waimate</district>
+    <id>391657</id>
+  </point>
+  <point>
+    <name>St Andrews</name>
+    <region>Canterbury</region>
+    <district>Waimate</district>
+    <id>391658</id>
+  </point>
+  <point>
+    <name>Chatham Islands / Tuuta (airport)</name>
+    <region>Chatham Islands</region>
+    <district>Chatham Islands / Tuuta (airport)</district>
+    <id>510285</id>
+  </point>
+  <point>
+    <name>Waitangi</name>
+    <region>Chatham Islands</region>
+    <district>Waitangi</district>
+    <id>341419</id>
+  </point>
+  <point>
+    <name>Waitangi (weather station)</name>
+    <region>Chatham Islands</region>
+    <district>Waitangi (weather station)</district>
+    <id>337719</id>
+  </point>
+  <point>
+    <name>Gisborne</name>
+    <region>Gisborne</region>
+    <district></district>
+    <id>337745</id>
+  </point>
+  <point>
+    <name>Riverdale</name>
+    <region>Gisborne</region>
+    <district>Riverdale</district>
+    <id>391672</id>
+  </point>
+  <point>
+    <name>Ruatoria</name>
+    <region>Gisborne</region>
+    <district>Ruatoria</district>
+    <id>391673</id>
+  </point>
+  <point>
+    <name>Te Araroa</name>
+    <region>Gisborne</region>
+    <district>Te Araroa</district>
+    <id>391675</id>
+  </point>
+  <point>
+    <name>Mangapapa</name>
+    <region>Gisborne</region>
+    <district>Mangapapa</district>
+    <id>391664</id>
+  </point>
+  <point>
+    <name>Awapuni</name>
+    <region>Gisborne</region>
+    <district>Awapuni</district>
+    <id>391659</id>
+  </point>
+  <point>
+    <name>Elgin</name>
+    <region>Gisborne</region>
+    <district>Elgin</district>
+    <id>391660</id>
+  </point>
+  <point>
+    <name>Hicks Bay</name>
+    <region>Gisborne</region>
+    <district>Hicks Bay</district>
+    <id>337747</id>
+  </point>
+  <point>
+    <name>Inner Kaiti</name>
+    <region>Gisborne</region>
+    <district>Inner Kaiti</district>
+    <id>391661</id>
+  </point>
+  <point>
+    <name>Makaraka</name>
+    <region>Gisborne</region>
+    <district>Makaraka</district>
+    <id>391663</id>
+  </point>
+  <point>
+    <name>Manutuke</name>
+    <region>Gisborne</region>
+    <district>Manutuke</district>
+    <id>391665</id>
+  </point>
+  <point>
+    <name>Matawai</name>
+    <region>Gisborne</region>
+    <district>Matawai</district>
+    <id>391666</id>
+  </point>
+  <point>
+    <name>Matokitoki</name>
+    <region>Gisborne</region>
+    <district>Matokitoki</district>
+    <id>391667</id>
+  </point>
+  <point>
+    <name>Motu</name>
+    <region>Gisborne</region>
+    <district>Motu</district>
+    <id>391668</id>
+  </point>
+  <point>
+    <name>Okitu</name>
+    <region>Gisborne</region>
+    <district>Okitu</district>
+    <id>391669</id>
+  </point>
+  <point>
+    <name>Outer Kaiti</name>
+    <region>Gisborne</region>
+    <district>Outer Kaiti</district>
+    <id>391670</id>
+  </point>
+  <point>
+    <name>Patutahi</name>
+    <region>Gisborne</region>
+    <district>Patutahi</district>
+    <id>391671</id>
+  </point>
+  <point>
+    <name>Tamarau</name>
+    <region>Gisborne</region>
+    <district>Tamarau</district>
+    <id>391674</id>
+  </point>
+  <point>
+    <name>Te Hapara</name>
+    <region>Gisborne</region>
+    <district>Te Hapara</district>
+    <id>391676</id>
+  </point>
+  <point>
+    <name>Te Karaka</name>
+    <region>Gisborne</region>
+    <district>Te Karaka</district>
+    <id>391677</id>
+  </point>
+  <point>
+    <name>Te Puia Springs</name>
+    <region>Gisborne</region>
+    <district>Te Puia Springs</district>
+    <id>391678</id>
+  </point>
+  <point>
+    <name>Tikitiki</name>
+    <region>Gisborne</region>
+    <district>Tikitiki</district>
+    <id>391679</id>
+  </point>
+  <point>
+    <name>Tiniroto</name>
+    <region>Gisborne</region>
+    <district>Tiniroto</district>
+    <id>391680</id>
+  </point>
+  <point>
+    <name>Tokomaru Bay</name>
+    <region>Gisborne</region>
+    <district>Tokomaru Bay</district>
+    <id>391681</id>
+  </point>
+  <point>
+    <name>Tolaga Bay</name>
+    <region>Gisborne</region>
+    <district>Tolaga Bay</district>
+    <id>391682</id>
+  </point>
+  <point>
+    <name>Wainui</name>
+    <region>Gisborne</region>
+    <district>Wainui</district>
+    <id>391683</id>
+  </point>
+  <point>
+    <name>Whataupoko</name>
+    <region>Gisborne</region>
+    <district>Whataupoko</district>
+    <id>391685</id>
+  </point>
+  <point>
+    <name>Mahia</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391686</id>
+  </point>
+  <point>
+    <name>Ongaonga</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391687</id>
+  </point>
+  <point>
+    <name>Otane</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391688</id>
+  </point>
+  <point>
+    <name>Porangahau</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391689</id>
+  </point>
+  <point>
+    <name>Takapau</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391690</id>
+  </point>
+  <point>
+    <name>Tuai</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391691</id>
+  </point>
+  <point>
+    <name>Tutira</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391692</id>
+  </point>
+  <point>
+    <name>Waipawa</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391351</id>
+  </point>
+  <point>
+    <name>Waipukurau</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391693</id>
+  </point>
+  <point>
+    <name>Whakatu</name>
+    <region>Hawke's Bay</region>
+    <district>Central Hawke`s Bay</district>
+    <id>391694</id>
+  </point>
+  <point>
+    <name>Hastings</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391352</id>
+  </point>
+  <point>
+    <name>Bridge Pa</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391696</id>
+  </point>
+  <point>
+    <name>Flaxmere</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391700</id>
+  </point>
+  <point>
+    <name>Te Awanga</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391713</id>
+  </point>
+  <point>
+    <name>Waiohiki</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391715</id>
+  </point>
+  <point>
+    <name>Akina</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391695</id>
+  </point>
+  <point>
+    <name>Camberley</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391697</id>
+  </point>
+  <point>
+    <name>Clive</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391698</id>
+  </point>
+  <point>
+    <name>Frimley</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391701</id>
+  </point>
+  <point>
+    <name>Haumoana</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391703</id>
+  </point>
+  <point>
+    <name>Havelock North</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391704</id>
+  </point>
+  <point>
+    <name>Longlands</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391706</id>
+  </point>
+  <point>
+    <name>Mahora</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391707</id>
+  </point>
+  <point>
+    <name>Mayfair</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391709</id>
+  </point>
+  <point>
+    <name>Parkvale</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391710</id>
+  </point>
+  <point>
+    <name>Raureka</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391711</id>
+  </point>
+  <point>
+    <name>St Leonards</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391712</id>
+  </point>
+  <point>
+    <name>Tomoana</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391714</id>
+  </point>
+  <point>
+    <name>Waipatu</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391716</id>
+  </point>
+  <point>
+    <name>Woolwich</name>
+    <region>Hawke's Bay</region>
+    <district>Hastings</district>
+    <id>391717</id>
+  </point>
+  <point>
+    <name>Napier</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>341413</id>
+  </point>
+  <point>
+    <name>Greenmeadows</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391722</id>
+  </point>
+  <point>
+    <name>Napier (airport)</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>337742</id>
+  </point>
+  <point>
+    <name>Poraiti</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391733</id>
+  </point>
+  <point>
+    <name>Taradale</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391735</id>
+  </point>
+  <point>
+    <name>Ahuriri</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391718</id>
+  </point>
+  <point>
+    <name>Awatoto</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391719</id>
+  </point>
+  <point>
+    <name>Bay View</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391720</id>
+  </point>
+  <point>
+    <name>Bluff Hill</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391721</id>
+  </point>
+  <point>
+    <name>Hospital Hill</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391723</id>
+  </point>
+  <point>
+    <name>Jervoistown</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391724</id>
+  </point>
+  <point>
+    <name>Maraenui</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391725</id>
+  </point>
+  <point>
+    <name>Marewa</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391726</id>
+  </point>
+  <point>
+    <name>Meeanee</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391727</id>
+  </point>
+  <point>
+    <name>Napier South</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391728</id>
+  </point>
+  <point>
+    <name>Onekawa</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391729</id>
+  </point>
+  <point>
+    <name>Onekawa Industrial</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391730</id>
+  </point>
+  <point>
+    <name>Pandora</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391731</id>
+  </point>
+  <point>
+    <name>Pirimai</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391732</id>
+  </point>
+  <point>
+    <name>Tamatea</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391734</id>
+  </point>
+  <point>
+    <name>Te Awa</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391737</id>
+  </point>
+  <point>
+    <name>Westshore</name>
+    <region>Hawke's Bay</region>
+    <district>Napier</district>
+    <id>391738</id>
+  </point>
+  <point>
+    <name>Wairoa</name>
+    <region>Hawke's Bay</region>
+    <district>Wairoa</district>
+    <id>391353</id>
+  </point>
+  <point>
+    <name>Frasertown</name>
+    <region>Hawke's Bay</region>
+    <district>Wairoa</district>
+    <id>391739</id>
+  </point>
+  <point>
+    <name>Kotemaori</name>
+    <region>Hawke's Bay</region>
+    <district>Wairoa</district>
+    <id>391740</id>
+  </point>
+  <point>
+    <name>Nuhaka</name>
+    <region>Hawke's Bay</region>
+    <district>Wairoa</district>
+    <id>391741</id>
+  </point>
+  <point>
+    <name>Raupunga</name>
+    <region>Hawke's Bay</region>
+    <district>Wairoa</district>
+    <id>391742</id>
+  </point>
+  <point>
+    <name>Foxton</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Horowhenua</district>
+    <id>391743</id>
+  </point>
+  <point>
+    <name>Foxton Beach</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Horowhenua</district>
+    <id>391744</id>
+  </point>
+  <point>
+    <name>Levin</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Horowhenua</district>
+    <id>391354</id>
+  </point>
+  <point>
+    <name>Shannon</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Horowhenua</district>
+    <id>391746</id>
+  </point>
+  <point>
+    <name>Tokomaru</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Horowhenua</district>
+    <id>391747</id>
+  </point>
+  <point>
+    <name>Waitarere</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Horowhenua</district>
+    <id>391748</id>
+  </point>
+  <point>
+    <name>Waitarere Beach</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Horowhenua</district>
+    <id>391749</id>
+  </point>
+  <point>
+    <name>Apiti</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391750</id>
+  </point>
+  <point>
+    <name>Bunnythorpe</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391751</id>
+  </point>
+  <point>
+    <name>Feilding</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391355</id>
+  </point>
+  <point>
+    <name>Kimbolton</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391752</id>
+  </point>
+  <point>
+    <name>Longburn</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391753</id>
+  </point>
+  <point>
+    <name>Manakau</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391754</id>
+  </point>
+  <point>
+    <name>Rewa</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391755</id>
+  </point>
+  <point>
+    <name>Rongotea</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391756</id>
+  </point>
+  <point>
+    <name>Sanson</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391757</id>
+  </point>
+  <point>
+    <name>Tangimoana</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Manawatu</district>
+    <id>391758</id>
+  </point>
+  <point>
+    <name>Palmerston North</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>337741</id>
+  </point>
+  <point>
+    <name>Ashhurst</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391759</id>
+  </point>
+  <point>
+    <name>Linton Military Camp</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391767</id>
+  </point>
+  <point>
+    <name>Milson</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391768</id>
+  </point>
+  <point>
+    <name>Takaro</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391770</id>
+  </point>
+  <point>
+    <name>Awapuni</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391760</id>
+  </point>
+  <point>
+    <name>Cloverlea</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391761</id>
+  </point>
+  <point>
+    <name>Fitzherbert</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391762</id>
+  </point>
+  <point>
+    <name>Highbury</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391763</id>
+  </point>
+  <point>
+    <name>Hokowhitu</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391764</id>
+  </point>
+  <point>
+    <name>Kelvin Grove</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391765</id>
+  </point>
+  <point>
+    <name>Linton</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391766</id>
+  </point>
+  <point>
+    <name>Roslyn</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391769</id>
+  </point>
+  <point>
+    <name>Terrace End</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391771</id>
+  </point>
+  <point>
+    <name>West End</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Palmerston North</district>
+    <id>391772</id>
+  </point>
+  <point>
+    <name>Bulls</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Rangitikei</district>
+    <id>391773</id>
+  </point>
+  <point>
+    <name>Hunterville</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Rangitikei</district>
+    <id>391775</id>
+  </point>
+  <point>
+    <name>Mangaweka</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Rangitikei</district>
+    <id>391776</id>
+  </point>
+  <point>
+    <name>Marton</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Rangitikei</district>
+    <id>391356</id>
+  </point>
+  <point>
+    <name>Ohakea</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Rangitikei</district>
+    <id>391777</id>
+  </point>
+  <point>
+    <name>Taihape</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Rangitikei</district>
+    <id>391778</id>
+  </point>
+  <point>
+    <name>Manunui</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391779</id>
+  </point>
+  <point>
+    <name>Matiere</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391780</id>
+  </point>
+  <point>
+    <name>Ohakune</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391781</id>
+  </point>
+  <point>
+    <name>Ohura</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391782</id>
+  </point>
+  <point>
+    <name>Ongarue</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391783</id>
+  </point>
+  <point>
+    <name>Owhango</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391784</id>
+  </point>
+  <point>
+    <name>Raetihi</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391785</id>
+  </point>
+  <point>
+    <name>Taumarunui</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391357</id>
+  </point>
+  <point>
+    <name>Waimiha</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391786</id>
+  </point>
+  <point>
+    <name>Waiouru</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>337743</id>
+  </point>
+  <point>
+    <name>Waiouru (airport)</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>504519</id>
+  </point>
+  <point>
+    <name>Waiouru Military Area</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Ruapehu</district>
+    <id>391787</id>
+  </point>
+  <point>
+    <name>Dannevirke</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Tararua</district>
+    <id>391358</id>
+  </point>
+  <point>
+    <name>Eketahuna</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Tararua</district>
+    <id>391789</id>
+  </point>
+  <point>
+    <name>Norsewood</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Tararua</district>
+    <id>391790</id>
+  </point>
+  <point>
+    <name>Pahiatua</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Tararua</district>
+    <id>391791</id>
+  </point>
+  <point>
+    <name>Pongaroa</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Tararua</district>
+    <id>391792</id>
+  </point>
+  <point>
+    <name>Woodville</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Tararua</district>
+    <id>391793</id>
+  </point>
+  <point>
+    <name>Wanganui</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>341412</id>
+  </point>
+  <point>
+    <name>Otamatea</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391802</id>
+  </point>
+  <point>
+    <name>Tawhero</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391806</id>
+  </point>
+  <point>
+    <name>Wanganui (airport)</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391807</id>
+  </point>
+  <point>
+    <name>Wanganui East</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391809</id>
+  </point>
+  <point>
+    <name>Aramoho</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391794</id>
+  </point>
+  <point>
+    <name>Balgownie</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391795</id>
+  </point>
+  <point>
+    <name>Castlecliff</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391796</id>
+  </point>
+  <point>
+    <name>College Estate</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391797</id>
+  </point>
+  <point>
+    <name>Durie Hill</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391798</id>
+  </point>
+  <point>
+    <name>Gonville</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391799</id>
+  </point>
+  <point>
+    <name>Kowhai Park</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391800</id>
+  </point>
+  <point>
+    <name>Okoia</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391801</id>
+  </point>
+  <point>
+    <name>Putiki</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391803</id>
+  </point>
+  <point>
+    <name>Springvale</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391804</id>
+  </point>
+  <point>
+    <name>St Johns Hill</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391805</id>
+  </point>
+  <point>
+    <name>Westmere</name>
+    <region>Manawatu-Wanganui</region>
+    <district>Wanganui</district>
+    <id>391810</id>
+  </point>
+  <point>
+    <name>Blenheim</name>
+    <region>Marlborough</region>
+    <district>Blenheim</district>
+    <id>341414</id>
+  </point>
+  <point>
+    <name>Cape Campbell (airport)</name>
+    <region>Marlborough</region>
+    <district>Cape Campbell (airport)</district>
+    <id>337734</id>
+  </point>
+  <point>
+    <name>Grovetown</name>
+    <region>Marlborough</region>
+    <district>Grovetown</district>
+    <id>391812</id>
+  </point>
+  <point>
+    <name>Havelock</name>
+    <region>Marlborough</region>
+    <district>Havelock</district>
+    <id>391813</id>
+  </point>
+  <point>
+    <name>Hawkesbury</name>
+    <region>Marlborough</region>
+    <district>Hawkesbury</district>
+    <id>391814</id>
+  </point>
+  <point>
+    <name>Islington</name>
+    <region>Marlborough</region>
+    <district>Islington</district>
+    <id>391815</id>
+  </point>
+  <point>
+    <name>Kekerengu</name>
+    <region>Marlborough</region>
+    <district>Kekerengu</district>
+    <id>391816</id>
+  </point>
+  <point>
+    <name>Mayfield</name>
+    <region>Marlborough</region>
+    <district>Mayfield</district>
+    <id>391817</id>
+  </point>
+  <point>
+    <name>Omaka</name>
+    <region>Marlborough</region>
+    <district>Omaka</district>
+    <id>391818</id>
+  </point>
+  <point>
+    <name>Picton</name>
+    <region>Marlborough</region>
+    <district>Picton</district>
+    <id>391819</id>
+  </point>
+  <point>
+    <name>Rai Valley</name>
+    <region>Marlborough</region>
+    <district>Rai Valley</district>
+    <id>391820</id>
+  </point>
+  <point>
+    <name>Redwoodtown</name>
+    <region>Marlborough</region>
+    <district>Redwoodtown</district>
+    <id>391821</id>
+  </point>
+  <point>
+    <name>Renwick</name>
+    <region>Marlborough</region>
+    <district>Renwick</district>
+    <id>391823</id>
+  </point>
+  <point>
+    <name>Riverlands</name>
+    <region>Marlborough</region>
+    <district>Riverlands</district>
+    <id>391824</id>
+  </point>
+  <point>
+    <name>Riversdale</name>
+    <region>Marlborough</region>
+    <district>Riversdale</district>
+    <id>391825</id>
+  </point>
+  <point>
+    <name>Riwaka</name>
+    <region>Marlborough</region>
+    <district>Riwaka</district>
+    <id>391826</id>
+  </point>
+  <point>
+    <name>Seddon</name>
+    <region>Marlborough</region>
+    <district>Seddon</district>
+    <id>391827</id>
+  </point>
+  <point>
+    <name>Spring Creek</name>
+    <region>Marlborough</region>
+    <district>Spring Creek</district>
+    <id>391828</id>
+  </point>
+  <point>
+    <name>Springlands</name>
+    <region>Marlborough</region>
+    <district>Springlands</district>
+    <id>391829</id>
+  </point>
+  <point>
+    <name>Taylor Pass</name>
+    <region>Marlborough</region>
+    <district>Taylor Pass</district>
+    <id>391830</id>
+  </point>
+  <point>
+    <name>Thomsons Ford</name>
+    <region>Marlborough</region>
+    <district>Thomsons Ford</district>
+    <id>391831</id>
+  </point>
+  <point>
+    <name>Tuamarina</name>
+    <region>Marlborough</region>
+    <district>Tuamarina</district>
+    <id>391832</id>
+  </point>
+  <point>
+    <name>Waikawa</name>
+    <region>Marlborough</region>
+    <district>Waikawa</district>
+    <id>391833</id>
+  </point>
+  <point>
+    <name>Ward</name>
+    <region>Marlborough</region>
+    <district>Ward</district>
+    <id>391834</id>
+  </point>
+  <point>
+    <name>Wither Hills Park</name>
+    <region>Marlborough</region>
+    <district>Wither Hills Park</district>
+    <id>391835</id>
+  </point>
+  <point>
+    <name>Witherlea</name>
+    <region>Marlborough</region>
+    <district>Witherlea</district>
+    <id>391836</id>
+  </point>
+  <point>
+    <name>Woodbourne</name>
+    <region>Marlborough</region>
+    <district>Woodbourne</district>
+    <id>391837</id>
+  </point>
+  <point>
+    <name>Yelverton</name>
+    <region>Marlborough</region>
+    <district>Yelverton</district>
+    <id>391838</id>
+  </point>
+  <point>
+    <name>Nelson</name>
+    <region>Nelson</region>
+    <district></district>
+    <id>337735</id>
+  </point>
+  <point>
+    <name>Bishopdale</name>
+    <region>Nelson</region>
+    <district>Bishopdale</district>
+    <id>391843</id>
+  </point>
+  <point>
+    <name>Moana</name>
+    <region>Nelson</region>
+    <district>Moana</district>
+    <id>391849</id>
+  </point>
+  <point>
+    <name>Richmond</name>
+    <region>Nelson</region>
+    <district>Richmond</district>
+    <id>341415</id>
+  </point>
+  <point>
+    <name>Nelson (airport)</name>
+    <region>Nelson</region>
+    <district>Nelson (airport)</district>
+    <id>391851</id>
+  </point>
+  <point>
+    <name>Annesbrook</name>
+    <region>Nelson</region>
+    <district>Annesbrook</district>
+    <id>391839</id>
+  </point>
+  <point>
+    <name>Atawhai</name>
+    <region>Nelson</region>
+    <district>Atawhai</district>
+    <id>391840</id>
+  </point>
+  <point>
+    <name>Beachville</name>
+    <region>Nelson</region>
+    <district>Beachville</district>
+    <id>391842</id>
+  </point>
+  <point>
+    <name>Britannia Heights</name>
+    <region>Nelson</region>
+    <district>Britannia Heights</district>
+    <id>391844</id>
+  </point>
+  <point>
+    <name>Enner Glynn</name>
+    <region>Nelson</region>
+    <district>Enner Glynn</district>
+    <id>391845</id>
+  </point>
+  <point>
+    <name>Hope</name>
+    <region>Nelson</region>
+    <district>Hope</district>
+    <id>391846</id>
+  </point>
+  <point>
+    <name>Maitai</name>
+    <region>Nelson</region>
+    <district>Maitai</district>
+    <id>391847</id>
+  </point>
+  <point>
+    <name>Marybank</name>
+    <region>Nelson</region>
+    <district>Marybank</district>
+    <id>391848</id>
+  </point>
+  <point>
+    <name>Monaco</name>
+    <region>Nelson</region>
+    <district>Monaco</district>
+    <id>391850</id>
+  </point>
+  <point>
+    <name>Nelson South</name>
+    <region>Nelson</region>
+    <district>Nelson South</district>
+    <id>391853</id>
+  </point>
+  <point>
+    <name>Port Nelson</name>
+    <region>Nelson</region>
+    <district>Port Nelson</district>
+    <id>391854</id>
+  </point>
+  <point>
+    <name>Stepheyville</name>
+    <region>Nelson</region>
+    <district>Stepheyville</district>
+    <id>391855</id>
+  </point>
+  <point>
+    <name>Stoke</name>
+    <region>Nelson</region>
+    <district>Stoke</district>
+    <id>391856</id>
+  </point>
+  <point>
+    <name>Tahunanui</name>
+    <region>Nelson</region>
+    <district>Tahunanui</district>
+    <id>391857</id>
+  </point>
+  <point>
+    <name>The Brook</name>
+    <region>Nelson</region>
+    <district>The Brook</district>
+    <id>391858</id>
+  </point>
+  <point>
+    <name>The Wood</name>
+    <region>Nelson</region>
+    <district>The Wood</district>
+    <id>391859</id>
+  </point>
+  <point>
+    <name>Toi Toi</name>
+    <region>Nelson</region>
+    <district>Toi Toi</district>
+    <id>391860</id>
+  </point>
+  <point>
+    <name>Wakapuaka</name>
+    <region>Nelson</region>
+    <district>Wakapuaka</district>
+    <id>391861</id>
+  </point>
+  <point>
+    <name>Wakatu</name>
+    <region>Nelson</region>
+    <district>Wakatu</district>
+    <id>391862</id>
+  </point>
+  <point>
+    <name>Washington Valley</name>
+    <region>Nelson</region>
+    <district>Washington Valley</district>
+    <id>391863</id>
+  </point>
+  <point>
+    <name>Ahipara</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391864</id>
+  </point>
+  <point>
+    <name>Awanui</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391865</id>
+  </point>
+  <point>
+    <name>Broadwood</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391866</id>
+  </point>
+  <point>
+    <name>Cable Bay</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391867</id>
+  </point>
+  <point>
+    <name>Cape Reinga</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>337752</id>
+  </point>
+  <point>
+    <name>Coopers Beach</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391868</id>
+  </point>
+  <point>
+    <name>Houhora</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391870</id>
+  </point>
+  <point>
+    <name>Kaeo</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391871</id>
+  </point>
+  <point>
+    <name>Kaikohe</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391359</id>
+  </point>
+  <point>
+    <name>Kaitaia</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391872</id>
+  </point>
+  <point>
+    <name>Kawakawa</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391873</id>
+  </point>
+  <point>
+    <name>Kerikeri</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391874</id>
+  </point>
+  <point>
+    <name>Kohukohu</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391876</id>
+  </point>
+  <point>
+    <name>Mangonui</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391877</id>
+  </point>
+  <point>
+    <name>Moerewa</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391878</id>
+  </point>
+  <point>
+    <name>Okaihau</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391879</id>
+  </point>
+  <point>
+    <name>Omapere</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391880</id>
+  </point>
+  <point>
+    <name>Opononi</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391881</id>
+  </point>
+  <point>
+    <name>Opua</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391882</id>
+  </point>
+  <point>
+    <name>Paihia</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391883</id>
+  </point>
+  <point>
+    <name>Peria</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391884</id>
+  </point>
+  <point>
+    <name>Purerua</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>337751</id>
+  </point>
+  <point>
+    <name>Rawene</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391885</id>
+  </point>
+  <point>
+    <name>Russell</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391886</id>
+  </point>
+  <point>
+    <name>Taipa</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391887</id>
+  </point>
+  <point>
+    <name>Towai</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391888</id>
+  </point>
+  <point>
+    <name>Waimamaku</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391889</id>
+  </point>
+  <point>
+    <name>Waipapa</name>
+    <region>Northland</region>
+    <district>Far North</district>
+    <id>391890</id>
+  </point>
+  <point>
+    <name>Awakino Point</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391891</id>
+  </point>
+  <point>
+    <name>Dargaville</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391360</id>
+  </point>
+  <point>
+    <name>Kaiwaka</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391892</id>
+  </point>
+  <point>
+    <name>Mangawhai</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391893</id>
+  </point>
+  <point>
+    <name>Mangawhai Heads</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391894</id>
+  </point>
+  <point>
+    <name>Matakohe</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391895</id>
+  </point>
+  <point>
+    <name>Maungaturoto</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391896</id>
+  </point>
+  <point>
+    <name>Paparoa</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391897</id>
+  </point>
+  <point>
+    <name>Ruawai</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391898</id>
+  </point>
+  <point>
+    <name>Tangiteroria</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391899</id>
+  </point>
+  <point>
+    <name>Te Kopuru</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391900</id>
+  </point>
+  <point>
+    <name>Turiwiri</name>
+    <region>Northland</region>
+    <district>Kaipara</district>
+    <id>391901</id>
+  </point>
+  <point>
+    <name>Whangarei</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>341407</id>
+  </point>
+  <point>
+    <name>Hikurangi</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391905</id>
+  </point>
+  <point>
+    <name>Kamo</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391907</id>
+  </point>
+  <point>
+    <name>Waipu</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391929</id>
+  </point>
+  <point>
+    <name>Woodhill</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391932</id>
+  </point>
+  <point>
+    <name>Abbey Caves</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391902</id>
+  </point>
+  <point>
+    <name>Avenues</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391903</id>
+  </point>
+  <point>
+    <name>Glenbervie</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391904</id>
+  </point>
+  <point>
+    <name>Horahora</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391906</id>
+  </point>
+  <point>
+    <name>Kensington</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391910</id>
+  </point>
+  <point>
+    <name>Mairtown</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391911</id>
+  </point>
+  <point>
+    <name>Maungakaramea</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391912</id>
+  </point>
+  <point>
+    <name>Maungatapere</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391913</id>
+  </point>
+  <point>
+    <name>Morningside</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391914</id>
+  </point>
+  <point>
+    <name>Ngunguru</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391915</id>
+  </point>
+  <point>
+    <name>Onerahi</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391916</id>
+  </point>
+  <point>
+    <name>Otaika</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391918</id>
+  </point>
+  <point>
+    <name>Otangarei</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391919</id>
+  </point>
+  <point>
+    <name>Parahaki</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391920</id>
+  </point>
+  <point>
+    <name>Port Whangarei</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391921</id>
+  </point>
+  <point>
+    <name>Raumanga</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391922</id>
+  </point>
+  <point>
+    <name>Regent</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391923</id>
+  </point>
+  <point>
+    <name>Riverside</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391924</id>
+  </point>
+  <point>
+    <name>Ruakaka</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391925</id>
+  </point>
+  <point>
+    <name>Tikipunga</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391926</id>
+  </point>
+  <point>
+    <name>Tutukaka</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391927</id>
+  </point>
+  <point>
+    <name>Waiotira</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391928</id>
+  </point>
+  <point>
+    <name>Whau Valley</name>
+    <region>Northland</region>
+    <district>Whangarei</district>
+    <id>391931</id>
+  </point>
+  <point>
+    <name>Alexandra</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391361</id>
+  </point>
+  <point>
+    <name>Bridge Hill</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391933</id>
+  </point>
+  <point>
+    <name>Clyde</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391934</id>
+  </point>
+  <point>
+    <name>Conroys Gully</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391935</id>
+  </point>
+  <point>
+    <name>Cromwell</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391936</id>
+  </point>
+  <point>
+    <name>Dumbarton</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391937</id>
+  </point>
+  <point>
+    <name>Millers Flat</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391938</id>
+  </point>
+  <point>
+    <name>Naseby</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391939</id>
+  </point>
+  <point>
+    <name>Omakau</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391940</id>
+  </point>
+  <point>
+    <name>Oturehua</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391941</id>
+  </point>
+  <point>
+    <name>Ranfurly</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391942</id>
+  </point>
+  <point>
+    <name>Roxburgh</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391943</id>
+  </point>
+  <point>
+    <name>Roxburgh East</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391944</id>
+  </point>
+  <point>
+    <name>Wedderburn</name>
+    <region>Otago</region>
+    <district>Central Otago</district>
+    <id>391945</id>
+  </point>
+  <point>
+    <name>Balclutha</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391362</id>
+  </point>
+  <point>
+    <name>Clinton</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391946</id>
+  </point>
+  <point>
+    <name>Clydevale</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391947</id>
+  </point>
+  <point>
+    <name>Finegand</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391948</id>
+  </point>
+  <point>
+    <name>Gabriels Gully</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391949</id>
+  </point>
+  <point>
+    <name>Inch Clutha</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391950</id>
+  </point>
+  <point>
+    <name>Kaitangata</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391951</id>
+  </point>
+  <point>
+    <name>Lawrence</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391952</id>
+  </point>
+  <point>
+    <name>Milton</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391953</id>
+  </point>
+  <point>
+    <name>Owaka</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391954</id>
+  </point>
+  <point>
+    <name>Stirling</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391955</id>
+  </point>
+  <point>
+    <name>Tapanui</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391956</id>
+  </point>
+  <point>
+    <name>Te Houka</name>
+    <region>Otago</region>
+    <district>Clutha</district>
+    <id>391957</id>
+  </point>
+  <point>
+    <name>Dunedin</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>341418</id>
+  </point>
+  <point>
+    <name>Dunedin (airport)</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>337723</id>
+  </point>
+  <point>
+    <name>Fairfield</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391982</id>
+  </point>
+  <point>
+    <name>Green Island</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391987</id>
+  </point>
+  <point>
+    <name>Waikouaiti</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392031</id>
+  </point>
+  <point>
+    <name>Abbotsford</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391958</id>
+  </point>
+  <point>
+    <name>Andersons Bay</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391959</id>
+  </point>
+  <point>
+    <name>Balaclava</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391960</id>
+  </point>
+  <point>
+    <name>Belleknowes</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391961</id>
+  </point>
+  <point>
+    <name>Blackhead</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391962</id>
+  </point>
+  <point>
+    <name>Bradford</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391963</id>
+  </point>
+  <point>
+    <name>Brighton</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391964</id>
+  </point>
+  <point>
+    <name>Broad Bay</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391965</id>
+  </point>
+  <point>
+    <name>Brockville</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391966</id>
+  </point>
+  <point>
+    <name>Burnside</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391967</id>
+  </point>
+  <point>
+    <name>Calton Hill</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391968</id>
+  </point>
+  <point>
+    <name>Careys Bay</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391969</id>
+  </point>
+  <point>
+    <name>Caversham</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391970</id>
+  </point>
+  <point>
+    <name>Chain Hills</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391971</id>
+  </point>
+  <point>
+    <name>Clyde Hill</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391972</id>
+  </point>
+  <point>
+    <name>Company Bay</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391973</id>
+  </point>
+  <point>
+    <name>Concord</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391974</id>
+  </point>
+  <point>
+    <name>Corstorphine</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391975</id>
+  </point>
+  <point>
+    <name>Dalmore</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391976</id>
+  </point>
+  <point>
+    <name>Dunedin North</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391979</id>
+  </point>
+  <point>
+    <name>Dunedin South</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391980</id>
+  </point>
+  <point>
+    <name>East Taieri</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391981</id>
+  </point>
+  <point>
+    <name>Forbury</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391983</id>
+  </point>
+  <point>
+    <name>Glenleith</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391985</id>
+  </point>
+  <point>
+    <name>Glenross</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391986</id>
+  </point>
+  <point>
+    <name>Halfway Bush</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391988</id>
+  </point>
+  <point>
+    <name>Helensburgh</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391989</id>
+  </point>
+  <point>
+    <name>Highcliff</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391990</id>
+  </point>
+  <point>
+    <name>Kaikorai</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391991</id>
+  </point>
+  <point>
+    <name>Kenmure</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391992</id>
+  </point>
+  <point>
+    <name>Kensington</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391993</id>
+  </point>
+  <point>
+    <name>Kew</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391994</id>
+  </point>
+  <point>
+    <name>Kinmont Park</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391995</id>
+  </point>
+  <point>
+    <name>Lawyers Head</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391996</id>
+  </point>
+  <point>
+    <name>Leith Valley</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391997</id>
+  </point>
+  <point>
+    <name>Liberton</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391998</id>
+  </point>
+  <point>
+    <name>Lookout Point</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>391999</id>
+  </point>
+  <point>
+    <name>Macandrew Bay</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392000</id>
+  </point>
+  <point>
+    <name>Maori Hill</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392001</id>
+  </point>
+  <point>
+    <name>Maryhill</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392002</id>
+  </point>
+  <point>
+    <name>Middlemarch</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392003</id>
+  </point>
+  <point>
+    <name>Mornington</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392004</id>
+  </point>
+  <point>
+    <name>Mosgiel</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392005</id>
+  </point>
+  <point>
+    <name>Mount Grand</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392006</id>
+  </point>
+  <point>
+    <name>Musselburgh</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392007</id>
+  </point>
+  <point>
+    <name>Normanby</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392008</id>
+  </point>
+  <point>
+    <name>North East Valley</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392009</id>
+  </point>
+  <point>
+    <name>Ocean Grove</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392010</id>
+  </point>
+  <point>
+    <name>Opoho</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392011</id>
+  </point>
+  <point>
+    <name>Otakou</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392012</id>
+  </point>
+  <point>
+    <name>Outram</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392013</id>
+  </point>
+  <point>
+    <name>Pine Hill</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392014</id>
+  </point>
+  <point>
+    <name>Port Chalmers</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392016</id>
+  </point>
+  <point>
+    <name>Portobello</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392017</id>
+  </point>
+  <point>
+    <name>Ravensbourne</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392018</id>
+  </point>
+  <point>
+    <name>Roseneath</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392019</id>
+  </point>
+  <point>
+    <name>Roslyn</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392020</id>
+  </point>
+  <point>
+    <name>Saint Clair</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392021</id>
+  </point>
+  <point>
+    <name>Saint Kilda</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392022</id>
+  </point>
+  <point>
+    <name>Saint Leonards</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392023</id>
+  </point>
+  <point>
+    <name>Sawyers Bay</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392024</id>
+  </point>
+  <point>
+    <name>Scroggs Hill</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392025</id>
+  </point>
+  <point>
+    <name>Shiel Hill</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392026</id>
+  </point>
+  <point>
+    <name>Tainui</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392027</id>
+  </point>
+  <point>
+    <name>The Glen</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392028</id>
+  </point>
+  <point>
+    <name>Upper Junction</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392029</id>
+  </point>
+  <point>
+    <name>Vauxhall</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392030</id>
+  </point>
+  <point>
+    <name>Waitati</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392032</id>
+  </point>
+  <point>
+    <name>Wakari</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392033</id>
+  </point>
+  <point>
+    <name>Waldronville</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392034</id>
+  </point>
+  <point>
+    <name>Waverley</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392035</id>
+  </point>
+  <point>
+    <name>Westwood</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392037</id>
+  </point>
+  <point>
+    <name>Woodhaugh</name>
+    <region>Otago</region>
+    <district>Dunedin</district>
+    <id>392038</id>
+  </point>
+  <point>
+    <name>Queenstown</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>337725</id>
+  </point>
+  <point>
+    <name>Albert Town</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392039</id>
+  </point>
+  <point>
+    <name>Haast</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>337731</id>
+  </point>
+  <point>
+    <name>Kelvin Heights</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392044</id>
+  </point>
+  <point>
+    <name>Lake Hawea</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392045</id>
+  </point>
+  <point>
+    <name>Arrowtown</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392040</id>
+  </point>
+  <point>
+    <name>Fernhill</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392041</id>
+  </point>
+  <point>
+    <name>Frankton</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392042</id>
+  </point>
+  <point>
+    <name>Glenorchy</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392043</id>
+  </point>
+  <point>
+    <name>Sunshine Bay</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392046</id>
+  </point>
+  <point>
+    <name>Tarras</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392047</id>
+  </point>
+  <point>
+    <name>Wanaka</name>
+    <region>Otago</region>
+    <district>Queenstown-Lakes</district>
+    <id>392048</id>
+  </point>
+  <point>
+    <name>Alma</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392049</id>
+  </point>
+  <point>
+    <name>Ardgowan</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392050</id>
+  </point>
+  <point>
+    <name>Aviemore</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392051</id>
+  </point>
+  <point>
+    <name>Awamoa</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392052</id>
+  </point>
+  <point>
+    <name>Ben Omar</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392053</id>
+  </point>
+  <point>
+    <name>Deborah</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392054</id>
+  </point>
+  <point>
+    <name>Duntroon</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392055</id>
+  </point>
+  <point>
+    <name>Hampden</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392056</id>
+  </point>
+  <point>
+    <name>Hillgrove</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392057</id>
+  </point>
+  <point>
+    <name>Holmes Hill</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392058</id>
+  </point>
+  <point>
+    <name>Kurow</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392059</id>
+  </point>
+  <point>
+    <name>Makareao</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392061</id>
+  </point>
+  <point>
+    <name>Oamaru</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>391363</id>
+  </point>
+  <point>
+    <name>Oamaru North</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392063</id>
+  </point>
+  <point>
+    <name>Omarama</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392064</id>
+  </point>
+  <point>
+    <name>Otematata</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392065</id>
+  </point>
+  <point>
+    <name>Otiake</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392066</id>
+  </point>
+  <point>
+    <name>Palmerston</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392067</id>
+  </point>
+  <point>
+    <name>Quailburn</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392068</id>
+  </point>
+  <point>
+    <name>Richmond</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392069</id>
+  </point>
+  <point>
+    <name>South Hill</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392070</id>
+  </point>
+  <point>
+    <name>Waianakarua</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392072</id>
+  </point>
+  <point>
+    <name>Waiareka Junction</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392073</id>
+  </point>
+  <point>
+    <name>Waynes</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392074</id>
+  </point>
+  <point>
+    <name>Weston</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392075</id>
+  </point>
+  <point>
+    <name>Whitstone</name>
+    <region>Otago</region>
+    <district>Waitaki</district>
+    <id>392076</id>
+  </point>
+  <point>
+    <name>Gore</name>
+    <region>Southland</region>
+    <district>Gore</district>
+    <id>391364</id>
+  </point>
+  <point>
+    <name>East Gore</name>
+    <region>Southland</region>
+    <district>Gore</district>
+    <id>392077</id>
+  </point>
+  <point>
+    <name>Mataura</name>
+    <region>Southland</region>
+    <district>Gore</district>
+    <id>392079</id>
+  </point>
+  <point>
+    <name>Waikaka</name>
+    <region>Southland</region>
+    <district>Gore</district>
+    <id>392080</id>
+  </point>
+  <point>
+    <name>Whiterigg</name>
+    <region>Southland</region>
+    <district>Gore</district>
+    <id>392081</id>
+  </point>
+  <point>
+    <name>Invercargill</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>337724</id>
+  </point>
+  <point>
+    <name>Clifton</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392088</id>
+  </point>
+  <point>
+    <name>Georgetown</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392089</id>
+  </point>
+  <point>
+    <name>Gladstone</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392090</id>
+  </point>
+  <point>
+    <name>Waihopai</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392116</id>
+  </point>
+  <point>
+    <name>Appleby</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392082</id>
+  </point>
+  <point>
+    <name>Ascot</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392084</id>
+  </point>
+  <point>
+    <name>Avenal</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392085</id>
+  </point>
+  <point>
+    <name>Bluff</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392087</id>
+  </point>
+  <point>
+    <name>Glengarry</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392091</id>
+  </point>
+  <point>
+    <name>Grasmere</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392092</id>
+  </point>
+  <point>
+    <name>Hargest</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392093</id>
+  </point>
+  <point>
+    <name>Hawthorndale</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392095</id>
+  </point>
+  <point>
+    <name>Heidelberg</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392096</id>
+  </point>
+  <point>
+    <name>Invercargill (airport)</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392097</id>
+  </point>
+  <point>
+    <name>Invercargill West</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392099</id>
+  </point>
+  <point>
+    <name>Kew</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392100</id>
+  </point>
+  <point>
+    <name>Kingswell</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392101</id>
+  </point>
+  <point>
+    <name>Lorneville</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392102</id>
+  </point>
+  <point>
+    <name>Motu Rimu</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392103</id>
+  </point>
+  <point>
+    <name>Newfield</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392104</id>
+  </point>
+  <point>
+    <name>Prestonville</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392105</id>
+  </point>
+  <point>
+    <name>Queens Park</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392106</id>
+  </point>
+  <point>
+    <name>Richmond</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392108</id>
+  </point>
+  <point>
+    <name>Rockdale</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392109</id>
+  </point>
+  <point>
+    <name>Rosedale</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392110</id>
+  </point>
+  <point>
+    <name>Seaward Bush</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392112</id>
+  </point>
+  <point>
+    <name>Strathern</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392113</id>
+  </point>
+  <point>
+    <name>Tisbury</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392114</id>
+  </point>
+  <point>
+    <name>Turnbull Thomson</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392115</id>
+  </point>
+  <point>
+    <name>Waikiwi</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392117</id>
+  </point>
+  <point>
+    <name>Waverley</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392118</id>
+  </point>
+  <point>
+    <name>Windsor</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392119</id>
+  </point>
+  <point>
+    <name>Woodend</name>
+    <region>Southland</region>
+    <district>Invercargill</district>
+    <id>392120</id>
+  </point>
+  <point>
+    <name>Athol</name>
+    <region>Southland</region>
+    <district>Athol</district>
+    <id>392121</id>
+  </point>
+  <point>
+    <name>Balfour</name>
+    <region>Southland</region>
+    <district>Balfour</district>
+    <id>392122</id>
+  </point>
+  <point>
+    <name>Birchwood</name>
+    <region>Southland</region>
+    <district>Birchwood</district>
+    <id>392123</id>
+  </point>
+  <point>
+    <name>Campbell island</name>
+    <region>Southland</region>
+    <district>Campbell island</district>
+    <id>337720</id>
+  </point>
+  <point>
+    <name>Dipton</name>
+    <region>Southland</region>
+    <district>Dipton</district>
+    <id>392124</id>
+  </point>
+  <point>
+    <name>Edendale</name>
+    <region>Southland</region>
+    <district>Edendale</district>
+    <id>392125</id>
+  </point>
+  <point>
+    <name>Enderby island</name>
+    <region>Southland</region>
+    <district>Enderby island</district>
+    <id>337721</id>
+  </point>
+  <point>
+    <name>Garston</name>
+    <region>Southland</region>
+    <district>Garston</district>
+    <id>392126</id>
+  </point>
+  <point>
+    <name>Lumsden</name>
+    <region>Southland</region>
+    <district>Lumsden</district>
+    <id>392127</id>
+  </point>
+  <point>
+    <name>Manapouri</name>
+    <region>Southland</region>
+    <district>Manapouri</district>
+    <id>392128</id>
+  </point>
+  <point>
+    <name>Mossburn</name>
+    <region>Southland</region>
+    <district>Mossburn</district>
+    <id>392129</id>
+  </point>
+  <point>
+    <name>Nightcaps</name>
+    <region>Southland</region>
+    <district>Nightcaps</district>
+    <id>392130</id>
+  </point>
+  <point>
+    <name>Ocean Beach</name>
+    <region>Southland</region>
+    <district>Ocean Beach</district>
+    <id>392131</id>
+  </point>
+  <point>
+    <name>Ohai</name>
+    <region>Southland</region>
+    <district>Ohai</district>
+    <id>392132</id>
+  </point>
+  <point>
+    <name>Otautau</name>
+    <region>Southland</region>
+    <district>Otautau</district>
+    <id>392133</id>
+  </point>
+  <point>
+    <name>Puysegur Point</name>
+    <region>Southland</region>
+    <district>Puysegur Point</district>
+    <id>337726</id>
+  </point>
+  <point>
+    <name>Raes Junction</name>
+    <region>Southland</region>
+    <district>Raes Junction</district>
+    <id>392134</id>
+  </point>
+  <point>
+    <name>Riverton</name>
+    <region>Southland</region>
+    <district>Riverton</district>
+    <id>392135</id>
+  </point>
+  <point>
+    <name>Riverton North</name>
+    <region>Southland</region>
+    <district>Riverton North</district>
+    <id>392136</id>
+  </point>
+  <point>
+    <name>Riverton Rocks</name>
+    <region>Southland</region>
+    <district>Riverton Rocks</district>
+    <id>392137</id>
+  </point>
+  <point>
+    <name>Riverton South</name>
+    <region>Southland</region>
+    <district>Riverton South</district>
+    <id>392139</id>
+  </point>
+  <point>
+    <name>Secretary Island</name>
+    <region>Southland</region>
+    <district>Secretary Island</district>
+    <id>337727</id>
+  </point>
+  <point>
+    <name>South Island</name>
+    <region>Southland</region>
+    <district>South Island</district>
+    <id>337730</id>
+  </point>
+  <point>
+    <name>South West Cape</name>
+    <region>Southland</region>
+    <district>South West Cape</district>
+    <id>337722</id>
+  </point>
+  <point>
+    <name>Stewart Island</name>
+    <region>Southland</region>
+    <district>Stewart Island</district>
+    <id>392141</id>
+  </point>
+  <point>
+    <name>Te Anau</name>
+    <region>Southland</region>
+    <district>Te Anau</district>
+    <id>392142</id>
+  </point>
+  <point>
+    <name>Tokanui</name>
+    <region>Southland</region>
+    <district>Tokanui</district>
+    <id>392143</id>
+  </point>
+  <point>
+    <name>Tuatapere</name>
+    <region>Southland</region>
+    <district>Tuatapere</district>
+    <id>392144</id>
+  </point>
+  <point>
+    <name>Waikaia</name>
+    <region>Southland</region>
+    <district>Waikaia</district>
+    <id>392147</id>
+  </point>
+  <point>
+    <name>Wallacetown</name>
+    <region>Southland</region>
+    <district>Wallacetown</district>
+    <id>392148</id>
+  </point>
+  <point>
+    <name>Winton</name>
+    <region>Southland</region>
+    <district>Winton</district>
+    <id>392149</id>
+  </point>
+  <point>
+    <name>Wyndham</name>
+    <region>Southland</region>
+    <district>Wyndham</district>
+    <id>392150</id>
+  </point>
+  <point>
+    <name>New Plymouth</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>341411</id>
+  </point>
+  <point>
+    <name>Lower Vogeltown</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392161</id>
+  </point>
+  <point>
+    <name>Marfell</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392163</id>
+  </point>
+  <point>
+    <name>New Plymouth (airport)</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>337744</id>
+  </point>
+  <point>
+    <name>Okato</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392167</id>
+  </point>
+  <point>
+    <name>Bell Block</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392151</id>
+  </point>
+  <point>
+    <name>Blagdon</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392152</id>
+  </point>
+  <point>
+    <name>Brooklands</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392153</id>
+  </point>
+  <point>
+    <name>Ferndale</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392154</id>
+  </point>
+  <point>
+    <name>Fitzroy</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392155</id>
+  </point>
+  <point>
+    <name>Frankleigh Park</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392156</id>
+  </point>
+  <point>
+    <name>Glen Avon</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392157</id>
+  </point>
+  <point>
+    <name>Highlands Park</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392158</id>
+  </point>
+  <point>
+    <name>Hurdon</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392159</id>
+  </point>
+  <point>
+    <name>Inglewood</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392160</id>
+  </point>
+  <point>
+    <name>Lynmouth</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392162</id>
+  </point>
+  <point>
+    <name>Merrilands</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392164</id>
+  </point>
+  <point>
+    <name>Moturoa</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392165</id>
+  </point>
+  <point>
+    <name>Oakura</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392166</id>
+  </point>
+  <point>
+    <name>Port Taranaki</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392168</id>
+  </point>
+  <point>
+    <name>Spotswood</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392169</id>
+  </point>
+  <point>
+    <name>Strandon</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392170</id>
+  </point>
+  <point>
+    <name>Upper Vogeltown</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392171</id>
+  </point>
+  <point>
+    <name>Urenui</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392172</id>
+  </point>
+  <point>
+    <name>Vogeltown</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392173</id>
+  </point>
+  <point>
+    <name>Waitara</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392174</id>
+  </point>
+  <point>
+    <name>Waiwhakaiho</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392175</id>
+  </point>
+  <point>
+    <name>Welbourn</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392176</id>
+  </point>
+  <point>
+    <name>Westown</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392177</id>
+  </point>
+  <point>
+    <name>Whalers Gate</name>
+    <region>Taranaki</region>
+    <district>New Plymouth</district>
+    <id>392178</id>
+  </point>
+  <point>
+    <name>Eltham</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>392179</id>
+  </point>
+  <point>
+    <name>Hawera</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>391365</id>
+  </point>
+  <point>
+    <name>Kaponga</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>392180</id>
+  </point>
+  <point>
+    <name>Manaia</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>392181</id>
+  </point>
+  <point>
+    <name>Opunake</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>392182</id>
+  </point>
+  <point>
+    <name>Patea</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>392183</id>
+  </point>
+  <point>
+    <name>Ratana</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>392184</id>
+  </point>
+  <point>
+    <name>Turakina</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>392185</id>
+  </point>
+  <point>
+    <name>Waitotara</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>392186</id>
+  </point>
+  <point>
+    <name>Waverley</name>
+    <region>Taranaki</region>
+    <district>South Taranaki</district>
+    <id>392187</id>
+  </point>
+  <point>
+    <name>Stratford</name>
+    <region>Taranaki</region>
+    <district>Stratford</district>
+    <id>391366</id>
+  </point>
+  <point>
+    <name>Brightwater</name>
+    <region>Tasman</region>
+    <district>Brightwater</district>
+    <id>392188</id>
+  </point>
+  <point>
+    <name>Collingwood</name>
+    <region>Tasman</region>
+    <district>Collingwood</district>
+    <id>392189</id>
+  </point>
+  <point>
+    <name>Farewell Spit</name>
+    <region>Tasman</region>
+    <district>Farewell Spit</district>
+    <id>337736</id>
+  </point>
+  <point>
+    <name>Lower Moutere</name>
+    <region>Tasman</region>
+    <district>Lower Moutere</district>
+    <id>392190</id>
+  </point>
+  <point>
+    <name>Mapua</name>
+    <region>Tasman</region>
+    <district>Mapua</district>
+    <id>392191</id>
+  </point>
+  <point>
+    <name>Motueka</name>
+    <region>Tasman</region>
+    <district>Motueka</district>
+    <id>392192</id>
+  </point>
+  <point>
+    <name>Murchison</name>
+    <region>Tasman</region>
+    <district>Murchison</district>
+    <id>392193</id>
+  </point>
+  <point>
+    <name>Pigeon Valley</name>
+    <region>Tasman</region>
+    <district>Pigeon Valley</district>
+    <id>392194</id>
+  </point>
+  <point>
+    <name>Ruby Bay</name>
+    <region>Tasman</region>
+    <district>Ruby Bay</district>
+    <id>392195</id>
+  </point>
+  <point>
+    <name>St Arnaud</name>
+    <region>Tasman</region>
+    <district>St Arnaud</district>
+    <id>392196</id>
+  </point>
+  <point>
+    <name>Takaka</name>
+    <region>Tasman</region>
+    <district>Takaka</district>
+    <id>392197</id>
+  </point>
+  <point>
+    <name>Tapawera</name>
+    <region>Tasman</region>
+    <district>Tapawera</district>
+    <id>392198</id>
+  </point>
+  <point>
+    <name>Upper Moutere</name>
+    <region>Tasman</region>
+    <district>Upper Moutere</district>
+    <id>392199</id>
+  </point>
+  <point>
+    <name>Wai-iti</name>
+    <region>Tasman</region>
+    <district>Wai-iti</district>
+    <id>392200</id>
+  </point>
+  <point>
+    <name>Wakefield</name>
+    <region>Tasman</region>
+    <district>Wakefield</district>
+    <id>392201</id>
+  </point>
+  <point>
+    <name>Hamilton</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>341408</id>
+  </point>
+  <point>
+    <name>Dinsdale</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392209</id>
+  </point>
+  <point>
+    <name>Glenview</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392216</id>
+  </point>
+  <point>
+    <name>Pukete</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392232</id>
+  </point>
+  <point>
+    <name>Rototuna</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392238</id>
+  </point>
+  <point>
+    <name>Avalon Industrial</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392202</id>
+  </point>
+  <point>
+    <name>Bader</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392203</id>
+  </point>
+  <point>
+    <name>Beerescourt</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392204</id>
+  </point>
+  <point>
+    <name>Chartwell</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392205</id>
+  </point>
+  <point>
+    <name>Chedworth</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392206</id>
+  </point>
+  <point>
+    <name>Claudelands</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392207</id>
+  </point>
+  <point>
+    <name>Deanwell</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392208</id>
+  </point>
+  <point>
+    <name>Enderley</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392210</id>
+  </point>
+  <point>
+    <name>Fairfield</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392211</id>
+  </point>
+  <point>
+    <name>Fairview Downs</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392212</id>
+  </point>
+  <point>
+    <name>Flagstaff</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392213</id>
+  </point>
+  <point>
+    <name>Forest Lake</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392214</id>
+  </point>
+  <point>
+    <name>Frankton</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392215</id>
+  </point>
+  <point>
+    <name>Grandview Heights</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392217</id>
+  </point>
+  <point>
+    <name>Hamilton East</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392220</id>
+  </point>
+  <point>
+    <name>Hamilton Lake</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392221</id>
+  </point>
+  <point>
+    <name>Harrowfield</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392222</id>
+  </point>
+  <point>
+    <name>Hillcrest</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392223</id>
+  </point>
+  <point>
+    <name>Huntingdon</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392224</id>
+  </point>
+  <point>
+    <name>Kihikihi</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392225</id>
+  </point>
+  <point>
+    <name>Maeroa</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392226</id>
+  </point>
+  <point>
+    <name>Melville</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392227</id>
+  </point>
+  <point>
+    <name>Nawton</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392228</id>
+  </point>
+  <point>
+    <name>North Huntingdon</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392229</id>
+  </point>
+  <point>
+    <name>Northgate Industrial</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392230</id>
+  </point>
+  <point>
+    <name>Puketaha</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392231</id>
+  </point>
+  <point>
+    <name>Queenwood</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392234</id>
+  </point>
+  <point>
+    <name>Riverlea</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392237</id>
+  </point>
+  <point>
+    <name>Silverdale</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392240</id>
+  </point>
+  <point>
+    <name>St Andrews</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392241</id>
+  </point>
+  <point>
+    <name>Te Rapa Park</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392242</id>
+  </point>
+  <point>
+    <name>Te Rapa Straight</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392243</id>
+  </point>
+  <point>
+    <name>Temple View</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392244</id>
+  </point>
+  <point>
+    <name>Waikato</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392245</id>
+  </point>
+  <point>
+    <name>Waikato Hospital</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392246</id>
+  </point>
+  <point>
+    <name>Western Heights</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392247</id>
+  </point>
+  <point>
+    <name>Whitiora</name>
+    <region>Waikato</region>
+    <district>Hamilton</district>
+    <id>392248</id>
+  </point>
+  <point>
+    <name>Te Aroha</name>
+    <region>Waikato</region>
+    <district>Matamata-Piako</district>
+    <id>391372</id>
+  </point>
+  <point>
+    <name>Waharoa</name>
+    <region>Waikato</region>
+    <district>Matamata-Piako</district>
+    <id>392249</id>
+  </point>
+  <point>
+    <name>Walton</name>
+    <region>Waikato</region>
+    <district>Matamata-Piako</district>
+    <id>392250</id>
+  </point>
+  <point>
+    <name>Otorohanga</name>
+    <region>Waikato</region>
+    <district>Otorohanga</district>
+    <id>391368</id>
+  </point>
+  <point>
+    <name>Kawhia</name>
+    <region>Waikato</region>
+    <district>Otorohanga</district>
+    <id>392251</id>
+  </point>
+  <point>
+    <name>Oparau</name>
+    <region>Waikato</region>
+    <district>Otorohanga</district>
+    <id>392252</id>
+  </point>
+  <point>
+    <name>Te Mata</name>
+    <region>Waikato</region>
+    <district>Otorohanga</district>
+    <id>392253</id>
+  </point>
+  <point>
+    <name>Arapuni</name>
+    <region>Waikato</region>
+    <district>South Waikato</district>
+    <id>392254</id>
+  </point>
+  <point>
+    <name>Lichfield</name>
+    <region>Waikato</region>
+    <district>South Waikato</district>
+    <id>392255</id>
+  </point>
+  <point>
+    <name>North Putaruru</name>
+    <region>Waikato</region>
+    <district>South Waikato</district>
+    <id>392256</id>
+  </point>
+  <point>
+    <name>Okoroire</name>
+    <region>Waikato</region>
+    <district>South Waikato</district>
+    <id>392257</id>
+  </point>
+  <point>
+    <name>Piarere</name>
+    <region>Waikato</region>
+    <district>South Waikato</district>
+    <id>392258</id>
+  </point>
+  <point>
+    <name>Putaruru</name>
+    <region>Waikato</region>
+    <district>South Waikato</district>
+    <id>392259</id>
+  </point>
+  <point>
+    <name>Tirau</name>
+    <region>Waikato</region>
+    <district>South Waikato</district>
+    <id>392260</id>
+  </point>
+  <point>
+    <name>Tokoroa</name>
+    <region>Waikato</region>
+    <district>South Waikato</district>
+    <id>391369</id>
+  </point>
+  <point>
+    <name>Taupo</name>
+    <region>Waikato</region>
+    <district>Taupo</district>
+    <id>337746</id>
+  </point>
+  <point>
+    <name>Mangakino</name>
+    <region>Waikato</region>
+    <district>Taupo</district>
+    <id>392262</id>
+  </point>
+  <point>
+    <name>Tokaanu</name>
+    <region>Waikato</region>
+    <district>Taupo</district>
+    <id>392266</id>
+  </point>
+  <point>
+    <name>Tongariro</name>
+    <region>Waikato</region>
+    <district>Taupo</district>
+    <id>392267</id>
+  </point>
+  <point>
+    <name>Turangi</name>
+    <region>Waikato</region>
+    <district>Taupo</district>
+    <id>392268</id>
+  </point>
+  <point>
+    <name>Acacia Bay</name>
+    <region>Waikato</region>
+    <district>Taupo</district>
+    <id>392261</id>
+  </point>
+  <point>
+    <name>National Park</name>
+    <region>Waikato</region>
+    <district>Taupo</district>
+    <id>392263</id>
+  </point>
+  <point>
+    <name>Nukuhau</name>
+    <region>Waikato</region>
+    <district>Taupo</district>
+    <id>392264</id>
+  </point>
+  <point>
+    <name>Wairakei</name>
+    <region>Waikato</region>
+    <district>Taupo</district>
+    <id>392269</id>
+  </point>
+  <point>
+    <name>Thames</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>391370</id>
+  </point>
+  <point>
+    <name>Colville</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392270</id>
+  </point>
+  <point>
+    <name>Hikuai</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392272</id>
+  </point>
+  <point>
+    <name>Kopu</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392273</id>
+  </point>
+  <point>
+    <name>Pauanui</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392274</id>
+  </point>
+  <point>
+    <name>Coromandel</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392271</id>
+  </point>
+  <point>
+    <name>Preece Point</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392275</id>
+  </point>
+  <point>
+    <name>Tairua</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392276</id>
+  </point>
+  <point>
+    <name>Te Rerenga</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392277</id>
+  </point>
+  <point>
+    <name>Whangamata</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392279</id>
+  </point>
+  <point>
+    <name>Whitianga</name>
+    <region>Waikato</region>
+    <district>Thames-Coromandel</district>
+    <id>392280</id>
+  </point>
+  <point>
+    <name>Benneydale</name>
+    <region>Waikato</region>
+    <district>Benneydale</district>
+    <id>392281</id>
+  </point>
+  <point>
+    <name>Gordonton</name>
+    <region>Waikato</region>
+    <district>Gordonton</district>
+    <id>392282</id>
+  </point>
+  <point>
+    <name>Hautapu</name>
+    <region>Waikato</region>
+    <district>Hautapu</district>
+    <id>392283</id>
+  </point>
+  <point>
+    <name>Horotiu</name>
+    <region>Waikato</region>
+    <district>Horotiu</district>
+    <id>392284</id>
+  </point>
+  <point>
+    <name>Huntly</name>
+    <region>Waikato</region>
+    <district>Huntly</district>
+    <id>392285</id>
+  </point>
+  <point>
+    <name>Matamata</name>
+    <region>Waikato</region>
+    <district>Matamata</district>
+    <id>392286</id>
+  </point>
+  <point>
+    <name>Matangi</name>
+    <region>Waikato</region>
+    <district>Matangi</district>
+    <id>392288</id>
+  </point>
+  <point>
+    <name>Meremere</name>
+    <region>Waikato</region>
+    <district>Meremere</district>
+    <id>392289</id>
+  </point>
+  <point>
+    <name>Morrinsville</name>
+    <region>Waikato</region>
+    <district>Morrinsville</district>
+    <id>392290</id>
+  </point>
+  <point>
+    <name>Ngaruawahia</name>
+    <region>Waikato</region>
+    <district>Ngaruawahia</district>
+    <id>391371</id>
+  </point>
+  <point>
+    <name>Ohinewai</name>
+    <region>Waikato</region>
+    <district>Ohinewai</district>
+    <id>392291</id>
+  </point>
+  <point>
+    <name>Raglan</name>
+    <region>Waikato</region>
+    <district>Raglan</district>
+    <id>392292</id>
+  </point>
+  <point>
+    <name>Rotokauri</name>
+    <region>Waikato</region>
+    <district>Rotokauri</district>
+    <id>392293</id>
+  </point>
+  <point>
+    <name>Tamahere</name>
+    <region>Waikato</region>
+    <district>Tamahere</district>
+    <id>392294</id>
+  </point>
+  <point>
+    <name>Tamihana</name>
+    <region>Waikato</region>
+    <district>Tamihana</district>
+    <id>392295</id>
+  </point>
+  <point>
+    <name>Taupiri</name>
+    <region>Waikato</region>
+    <district>Taupiri</district>
+    <id>392296</id>
+  </point>
+  <point>
+    <name>Te Kauwhata</name>
+    <region>Waikato</region>
+    <district>Te Kauwhata</district>
+    <id>392297</id>
+  </point>
+  <point>
+    <name>Te Uku</name>
+    <region>Waikato</region>
+    <district>Te Uku</district>
+    <id>392298</id>
+  </point>
+  <point>
+    <name>Waitoa</name>
+    <region>Waikato</region>
+    <district>Waitoa</district>
+    <id>392299</id>
+  </point>
+  <point>
+    <name>Whatawhata</name>
+    <region>Waikato</region>
+    <district>Whatawhata</district>
+    <id>392300</id>
+  </point>
+  <point>
+    <name>Cambridge</name>
+    <region>Waikato</region>
+    <district>Waipa</district>
+    <id>392301</id>
+  </point>
+  <point>
+    <name>French Pass</name>
+    <region>Waikato</region>
+    <district>Waipa</district>
+    <id>392302</id>
+  </point>
+  <point>
+    <name>Leamington</name>
+    <region>Waikato</region>
+    <district>Waipa</district>
+    <id>392303</id>
+  </point>
+  <point>
+    <name>Ohaupo</name>
+    <region>Waikato</region>
+    <district>Waipa</district>
+    <id>392305</id>
+  </point>
+  <point>
+    <name>Pirongia</name>
+    <region>Waikato</region>
+    <district>Waipa</district>
+    <id>392306</id>
+  </point>
+  <point>
+    <name>Pukeatua</name>
+    <region>Waikato</region>
+    <district>Waipa</district>
+    <id>392307</id>
+  </point>
+  <point>
+    <name>Te Awamutu</name>
+    <region>Waikato</region>
+    <district>Waipa</district>
+    <id>391367</id>
+  </point>
+  <point>
+    <name>Waitomo</name>
+    <region>Waikato</region>
+    <district>Waitomo</district>
+    <id>391373</id>
+  </point>
+  <point>
+    <name>Aria</name>
+    <region>Waikato</region>
+    <district>Waitomo</district>
+    <id>392308</id>
+  </point>
+  <point>
+    <name>Mahoenui</name>
+    <region>Waikato</region>
+    <district>Waitomo</district>
+    <id>392309</id>
+  </point>
+  <point>
+    <name>Mokau</name>
+    <region>Waikato</region>
+    <district>Waitomo</district>
+    <id>392310</id>
+  </point>
+  <point>
+    <name>Piopio</name>
+    <region>Waikato</region>
+    <district>Waitomo</district>
+    <id>392311</id>
+  </point>
+  <point>
+    <name>Te Kuiti</name>
+    <region>Waikato</region>
+    <district>Waitomo</district>
+    <id>392312</id>
+  </point>
+  <point>
+    <name>Wellington</name>
+    <region>Wellington</region>
+    <district></district>
+    <id>337421</id>
+  </point>
+  <point>
+    <name>Paraparaumu</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>391376</id>
+  </point>
+  <point>
+    <name>Paraparaumu (weather station)</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>337740</id>
+  </point>
+  <point>
+    <name>Wellington (airport)</name>
+    <region>Wellington</region>
+    <district>Wellington (airport)</district>
+    <id>337739</id>
+  </point>
+  <point>
+    <name>Carterton</name>
+    <region>Wellington</region>
+    <district>Carterton</district>
+    <id>391374</id>
+  </point>
+  <point>
+    <name>Clareville</name>
+    <region>Wellington</region>
+    <district>Carterton</district>
+    <id>392314</id>
+  </point>
+  <point>
+    <name>Dalefield</name>
+    <region>Wellington</region>
+    <district>Carterton</district>
+    <id>392315</id>
+  </point>
+  <point>
+    <name>Parkvale</name>
+    <region>Wellington</region>
+    <district>Carterton</district>
+    <id>392316</id>
+  </point>
+  <point>
+    <name>Alicetown</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392317</id>
+  </point>
+  <point>
+    <name>Avalon</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392318</id>
+  </point>
+  <point>
+    <name>Belmont</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392319</id>
+  </point>
+  <point>
+    <name>Belmont Regional Park</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392320</id>
+  </point>
+  <point>
+    <name>Boulcott</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392321</id>
+  </point>
+  <point>
+    <name>Days Bay</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392322</id>
+  </point>
+  <point>
+    <name>Eastbourne</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392323</id>
+  </point>
+  <point>
+    <name>Epuni</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392324</id>
+  </point>
+  <point>
+    <name>Fairfield</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392325</id>
+  </point>
+  <point>
+    <name>Gracefield</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392326</id>
+  </point>
+  <point>
+    <name>Harbour View</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392327</id>
+  </point>
+  <point>
+    <name>Haywards</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392328</id>
+  </point>
+  <point>
+    <name>Kelson</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392329</id>
+  </point>
+  <point>
+    <name>Korokoro</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392330</id>
+  </point>
+  <point>
+    <name>Lower Hutt</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>391375</id>
+  </point>
+  <point>
+    <name>Lowry Bay</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392332</id>
+  </point>
+  <point>
+    <name>Mahina Bay</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392333</id>
+  </point>
+  <point>
+    <name>Manor Park</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392334</id>
+  </point>
+  <point>
+    <name>Maungaraki</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392335</id>
+  </point>
+  <point>
+    <name>Melling</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392337</id>
+  </point>
+  <point>
+    <name>Moera</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392339</id>
+  </point>
+  <point>
+    <name>Muritai</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392340</id>
+  </point>
+  <point>
+    <name>Naenae</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392341</id>
+  </point>
+  <point>
+    <name>Normandale</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392342</id>
+  </point>
+  <point>
+    <name>Pencarrow</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392343</id>
+  </point>
+  <point>
+    <name>Petone</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392344</id>
+  </point>
+  <point>
+    <name>Point Howard</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392345</id>
+  </point>
+  <point>
+    <name>Seaview</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392346</id>
+  </point>
+  <point>
+    <name>Stokes Valley</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392347</id>
+  </point>
+  <point>
+    <name>Sunshine Bay</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392348</id>
+  </point>
+  <point>
+    <name>Taita</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392349</id>
+  </point>
+  <point>
+    <name>Tirohanga</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392350</id>
+  </point>
+  <point>
+    <name>Wainuiomata</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392351</id>
+  </point>
+  <point>
+    <name>Waiwhetu</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392352</id>
+  </point>
+  <point>
+    <name>Waterloo</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392353</id>
+  </point>
+  <point>
+    <name>Woburn</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392354</id>
+  </point>
+  <point>
+    <name>York Bay</name>
+    <region>Wellington</region>
+    <district>Hutt</district>
+    <id>392355</id>
+  </point>
+  <point>
+    <name>Maungakotukutuku</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392356</id>
+  </point>
+  <point>
+    <name>Nikau Valley</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392357</id>
+  </point>
+  <point>
+    <name>Otaihanga</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392358</id>
+  </point>
+  <point>
+    <name>Otaki</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392359</id>
+  </point>
+  <point>
+    <name>Otaki Beach</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392361</id>
+  </point>
+  <point>
+    <name>Paekakariki</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392362</id>
+  </point>
+  <point>
+    <name>Paraparaumu Beach</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392363</id>
+  </point>
+  <point>
+    <name>Queen Elizabeth Park</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392365</id>
+  </point>
+  <point>
+    <name>Raumati Beach</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392366</id>
+  </point>
+  <point>
+    <name>Raumati South</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392367</id>
+  </point>
+  <point>
+    <name>Te Horo</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392368</id>
+  </point>
+  <point>
+    <name>Waikanae</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392369</id>
+  </point>
+  <point>
+    <name>Waikanae Beach</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392370</id>
+  </point>
+  <point>
+    <name>Waikanae Park</name>
+    <region>Wellington</region>
+    <district>Kapiti Coast</district>
+    <id>392371</id>
+  </point>
+  <point>
+    <name>Masterton</name>
+    <region>Wellington</region>
+    <district>Masterton</district>
+    <id>391377</id>
+  </point>
+  <point>
+    <name>Castlepoint</name>
+    <region>Wellington</region>
+    <district>Masterton</district>
+    <id>337738</id>
+  </point>
+  <point>
+    <name>Lansdowne</name>
+    <region>Wellington</region>
+    <district>Masterton</district>
+    <id>392374</id>
+  </point>
+  <point>
+    <name>Te Ore Ore</name>
+    <region>Wellington</region>
+    <district>Masterton</district>
+    <id>392376</id>
+  </point>
+  <point>
+    <name>Upper Plain</name>
+    <region>Wellington</region>
+    <district>Masterton</district>
+    <id>392378</id>
+  </point>
+  <point>
+    <name>Homebush</name>
+    <region>Wellington</region>
+    <district>Masterton</district>
+    <id>392373</id>
+  </point>
+  <point>
+    <name>Solway</name>
+    <region>Wellington</region>
+    <district>Masterton</district>
+    <id>392375</id>
+  </point>
+  <point>
+    <name>Tinui</name>
+    <region>Wellington</region>
+    <district>Masterton</district>
+    <id>392377</id>
+  </point>
+  <point>
+    <name>Porirua</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>391378</id>
+  </point>
+  <point>
+    <name>Elsdon</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392383</id>
+  </point>
+  <point>
+    <name>Plimmerton</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392387</id>
+  </point>
+  <point>
+    <name>Pukerua Bay</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392389</id>
+  </point>
+  <point>
+    <name>Titahi Bay</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392391</id>
+  </point>
+  <point>
+    <name>Aotea</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392379</id>
+  </point>
+  <point>
+    <name>Ascot Park</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392380</id>
+  </point>
+  <point>
+    <name>Camborne</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392381</id>
+  </point>
+  <point>
+    <name>Cannons Creek</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392382</id>
+  </point>
+  <point>
+    <name>Mana</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392384</id>
+  </point>
+  <point>
+    <name>Papakowhai</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392385</id>
+  </point>
+  <point>
+    <name>Paremata</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392386</id>
+  </point>
+  <point>
+    <name>Porirua East</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392388</id>
+  </point>
+  <point>
+    <name>Ranui Heights</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392390</id>
+  </point>
+  <point>
+    <name>Waitangirua</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392392</id>
+  </point>
+  <point>
+    <name>Whitby</name>
+    <region>Wellington</region>
+    <district>Porirua</district>
+    <id>392393</id>
+  </point>
+  <point>
+    <name>Featherston</name>
+    <region>Wellington</region>
+    <district>South Wairarapa</district>
+    <id>392394</id>
+  </point>
+  <point>
+    <name>Greytown</name>
+    <region>Wellington</region>
+    <district>South Wairarapa</district>
+    <id>392395</id>
+  </point>
+  <point>
+    <name>Martinborough</name>
+    <region>Wellington</region>
+    <district>South Wairarapa</district>
+    <id>391379</id>
+  </point>
+  <point>
+    <name>Rimutaka Hill</name>
+    <region>Wellington</region>
+    <district>South Wairarapa</district>
+    <id>392396</id>
+  </point>
+  <point>
+    <name>Upper Hutt</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>391380</id>
+  </point>
+  <point>
+    <name>Elderslea</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392403</id>
+  </point>
+  <point>
+    <name>Maoribank</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392407</id>
+  </point>
+  <point>
+    <name>Pinehaven</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392409</id>
+  </point>
+  <point>
+    <name>Silverstream</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392411</id>
+  </point>
+  <point>
+    <name>Akatarawa</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392397</id>
+  </point>
+  <point>
+    <name>Birchville</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392398</id>
+  </point>
+  <point>
+    <name>Brown Owl</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392399</id>
+  </point>
+  <point>
+    <name>Clouston Park</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392400</id>
+  </point>
+  <point>
+    <name>Craigs Flat</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392401</id>
+  </point>
+  <point>
+    <name>Ebdentown</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392402</id>
+  </point>
+  <point>
+    <name>Heretaunga</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392404</id>
+  </point>
+  <point>
+    <name>Kingsley Heights</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392405</id>
+  </point>
+  <point>
+    <name>Maidstone</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392406</id>
+  </point>
+  <point>
+    <name>Pakuratahi</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392408</id>
+  </point>
+  <point>
+    <name>Riverstone Terraces</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392410</id>
+  </point>
+  <point>
+    <name>Te Marua</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392412</id>
+  </point>
+  <point>
+    <name>Timberlea</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392413</id>
+  </point>
+  <point>
+    <name>Totara Park</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392414</id>
+  </point>
+  <point>
+    <name>Trentham</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392415</id>
+  </point>
+  <point>
+    <name>Trentham Military Camp</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392416</id>
+  </point>
+  <point>
+    <name>Wallaceville</name>
+    <region>Wellington</region>
+    <district>Upper Hutt</district>
+    <id>392418</id>
+  </point>
+  <point>
+    <name>Aro Valley</name>
+    <region>Wellington</region>
+    <district>Aro Valley</district>
+    <id>392419</id>
+  </point>
+  <point>
+    <name>Horokiwi</name>
+    <region>Wellington</region>
+    <district>Horokiwi</district>
+    <id>392431</id>
+  </point>
+  <point>
+    <name>Ngaio</name>
+    <region>Wellington</region>
+    <district>Ngaio</district>
+    <id>392453</id>
+  </point>
+  <point>
+    <name>Berhampore</name>
+    <region>Wellington</region>
+    <district>Berhampore</district>
+    <id>392420</id>
+  </point>
+  <point>
+    <name>Breaker Bay</name>
+    <region>Wellington</region>
+    <district>Breaker Bay</district>
+    <id>392421</id>
+  </point>
+  <point>
+    <name>Broadmeadows</name>
+    <region>Wellington</region>
+    <district>Broadmeadows</district>
+    <id>392422</id>
+  </point>
+  <point>
+    <name>Brooklyn</name>
+    <region>Wellington</region>
+    <district>Brooklyn</district>
+    <id>392423</id>
+  </point>
+  <point>
+    <name>Churton Park</name>
+    <region>Wellington</region>
+    <district>Churton Park</district>
+    <id>392424</id>
+  </point>
+  <point>
+    <name>Crofton Downs</name>
+    <region>Wellington</region>
+    <district>Crofton Downs</district>
+    <id>392425</id>
+  </point>
+  <point>
+    <name>Glenside</name>
+    <region>Wellington</region>
+    <district>Glenside</district>
+    <id>392426</id>
+  </point>
+  <point>
+    <name>Grenada North</name>
+    <region>Wellington</region>
+    <district>Grenada North</district>
+    <id>392427</id>
+  </point>
+  <point>
+    <name>Grenada Village</name>
+    <region>Wellington</region>
+    <district>Grenada Village</district>
+    <id>392428</id>
+  </point>
+  <point>
+    <name>Hataitai</name>
+    <region>Wellington</region>
+    <district>Hataitai</district>
+    <id>392429</id>
+  </point>
+  <point>
+    <name>Highbury</name>
+    <region>Wellington</region>
+    <district>Highbury</district>
+    <id>392430</id>
+  </point>
+  <point>
+    <name>Houghton Bay</name>
+    <region>Wellington</region>
+    <district>Houghton Bay</district>
+    <id>392432</id>
+  </point>
+  <point>
+    <name>Island Bay</name>
+    <region>Wellington</region>
+    <district>Island Bay</district>
+    <id>392433</id>
+  </point>
+  <point>
+    <name>Johnsonville</name>
+    <region>Wellington</region>
+    <district>Johnsonville</district>
+    <id>392434</id>
+  </point>
+  <point>
+    <name>Kaiwharawhara</name>
+    <region>Wellington</region>
+    <district>Kaiwharawhara</district>
+    <id>392435</id>
+  </point>
+  <point>
+    <name>Karaka Bays</name>
+    <region>Wellington</region>
+    <district>Karaka Bays</district>
+    <id>392436</id>
+  </point>
+  <point>
+    <name>Karori</name>
+    <region>Wellington</region>
+    <district>Karori</district>
+    <id>392437</id>
+  </point>
+  <point>
+    <name>Kelburn</name>
+    <region>Wellington</region>
+    <district>Kelburn</district>
+    <id>392438</id>
+  </point>
+  <point>
+    <name>Khandallah</name>
+    <region>Wellington</region>
+    <district>Khandallah</district>
+    <id>392439</id>
+  </point>
+  <point>
+    <name>Kilbirnie</name>
+    <region>Wellington</region>
+    <district>Kilbirnie</district>
+    <id>392440</id>
+  </point>
+  <point>
+    <name>Kingston</name>
+    <region>Wellington</region>
+    <district>Kingston</district>
+    <id>392441</id>
+  </point>
+  <point>
+    <name>Lyall Bay</name>
+    <region>Wellington</region>
+    <district>Lyall Bay</district>
+    <id>392442</id>
+  </point>
+  <point>
+    <name>Maupuia</name>
+    <region>Wellington</region>
+    <district>Maupuia</district>
+    <id>392443</id>
+  </point>
+  <point>
+    <name>Melrose</name>
+    <region>Wellington</region>
+    <district>Melrose</district>
+    <id>392444</id>
+  </point>
+  <point>
+    <name>Miramar</name>
+    <region>Wellington</region>
+    <district>Miramar</district>
+    <id>392445</id>
+  </point>
+  <point>
+    <name>Moa Point</name>
+    <region>Wellington</region>
+    <district>Moa Point</district>
+    <id>392446</id>
+  </point>
+  <point>
+    <name>Mornington</name>
+    <region>Wellington</region>
+    <district>Mornington</district>
+    <id>392447</id>
+  </point>
+  <point>
+    <name>Mt Cook</name>
+    <region>Wellington</region>
+    <district>Mt Cook</district>
+    <id>392448</id>
+  </point>
+  <point>
+    <name>Mt Victoria</name>
+    <region>Wellington</region>
+    <district>Mt Victoria</district>
+    <id>392450</id>
+  </point>
+  <point>
+    <name>Newlands</name>
+    <region>Wellington</region>
+    <district>Newlands</district>
+    <id>392451</id>
+  </point>
+  <point>
+    <name>Newtown</name>
+    <region>Wellington</region>
+    <district>Newtown</district>
+    <id>392452</id>
+  </point>
+  <point>
+    <name>Ngauranga</name>
+    <region>Wellington</region>
+    <district>Ngauranga</district>
+    <id>392454</id>
+  </point>
+  <point>
+    <name>Northland</name>
+    <region>Wellington</region>
+    <district>Northland</district>
+    <id>392455</id>
+  </point>
+  <point>
+    <name>Ohariu</name>
+    <region>Wellington</region>
+    <district>Ohariu</district>
+    <id>392456</id>
+  </point>
+  <point>
+    <name>Oriental Bay</name>
+    <region>Wellington</region>
+    <district>Oriental Bay</district>
+    <id>392457</id>
+  </point>
+  <point>
+    <name>Owhiro Bay</name>
+    <region>Wellington</region>
+    <district>Owhiro Bay</district>
+    <id>392458</id>
+  </point>
+  <point>
+    <name>Paparangi</name>
+    <region>Wellington</region>
+    <district>Paparangi</district>
+    <id>392459</id>
+  </point>
+  <point>
+    <name>Pipitea</name>
+    <region>Wellington</region>
+    <district>Pipitea</district>
+    <id>392460</id>
+  </point>
+  <point>
+    <name>Rongotai</name>
+    <region>Wellington</region>
+    <district>Rongotai</district>
+    <id>392461</id>
+  </point>
+  <point>
+    <name>Roseneath</name>
+    <region>Wellington</region>
+    <district>Roseneath</district>
+    <id>392462</id>
+  </point>
+  <point>
+    <name>Seatoun</name>
+    <region>Wellington</region>
+    <district>Seatoun</district>
+    <id>392463</id>
+  </point>
+  <point>
+    <name>Southgate</name>
+    <region>Wellington</region>
+    <district>Southgate</district>
+    <id>392464</id>
+  </point>
+  <point>
+    <name>Strathmore Park</name>
+    <region>Wellington</region>
+    <district>Strathmore Park</district>
+    <id>392465</id>
+  </point>
+  <point>
+    <name>Takapu Valley</name>
+    <region>Wellington</region>
+    <district>Takapu Valley</district>
+    <id>392467</id>
+  </point>
+  <point>
+    <name>Tawa</name>
+    <region>Wellington</region>
+    <district>Tawa</district>
+    <id>392468</id>
+  </point>
+  <point>
+    <name>Te Aro</name>
+    <region>Wellington</region>
+    <district>Te Aro</district>
+    <id>392470</id>
+  </point>
+  <point>
+    <name>Thorndon</name>
+    <region>Wellington</region>
+    <district>Thorndon</district>
+    <id>392471</id>
+  </point>
+  <point>
+    <name>Vogeltown</name>
+    <region>Wellington</region>
+    <district>Vogeltown</district>
+    <id>392472</id>
+  </point>
+  <point>
+    <name>Wadestown</name>
+    <region>Wellington</region>
+    <district>Wadestown</district>
+    <id>392473</id>
+  </point>
+  <point>
+    <name>Wilton</name>
+    <region>Wellington</region>
+    <district>Wilton</district>
+    <id>392475</id>
+  </point>
+  <point>
+    <name>Woodridge</name>
+    <region>Wellington</region>
+    <district>Woodridge</district>
+    <id>392477</id>
+  </point>
+  <point>
+    <name>Cape Foulwind</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>392478</id>
+  </point>
+  <point>
+    <name>Carters Beach</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>392479</id>
+  </point>
+  <point>
+    <name>Granity</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>392480</id>
+  </point>
+  <point>
+    <name>Hector</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>392481</id>
+  </point>
+  <point>
+    <name>Karamea</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>392482</id>
+  </point>
+  <point>
+    <name>Ngakawau</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>392483</id>
+  </point>
+  <point>
+    <name>Reefton</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>392484</id>
+  </point>
+  <point>
+    <name>Waimangaroa</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>392485</id>
+  </point>
+  <point>
+    <name>Westport</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>391381</id>
+  </point>
+  <point>
+    <name>Westport (aerodrome)</name>
+    <region>West Coast</region>
+    <district>Buller</district>
+    <id>337737</id>
+  </point>
+  <point>
+    <name>Greymouth</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>341417</id>
+  </point>
+  <point>
+    <name>Ahaura</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392486</id>
+  </point>
+  <point>
+    <name>Hohonu</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392494</id>
+  </point>
+  <point>
+    <name>Nine Mile</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392498</id>
+  </point>
+  <point>
+    <name>Rapahoe</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392500</id>
+  </point>
+  <point>
+    <name>Blackball</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392487</id>
+  </point>
+  <point>
+    <name>Blaketown</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392488</id>
+  </point>
+  <point>
+    <name>Camerons</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392489</id>
+  </point>
+  <point>
+    <name>Coal Creek</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392490</id>
+  </point>
+  <point>
+    <name>Cobden</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392491</id>
+  </point>
+  <point>
+    <name>Dobson</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392492</id>
+  </point>
+  <point>
+    <name>Dunganville</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392493</id>
+  </point>
+  <point>
+    <name>Kaiata</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392495</id>
+  </point>
+  <point>
+    <name>Karoro</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392496</id>
+  </point>
+  <point>
+    <name>Marsden</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392497</id>
+  </point>
+  <point>
+    <name>Point Elizabeth</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392499</id>
+  </point>
+  <point>
+    <name>Runanga</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392501</id>
+  </point>
+  <point>
+    <name>Rutherglen</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392502</id>
+  </point>
+  <point>
+    <name>South Beach</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392503</id>
+  </point>
+  <point>
+    <name>Taylorville</name>
+    <region>West Coast</region>
+    <district>Grey</district>
+    <id>392505</id>
+  </point>
+  <point>
+    <name>Awatuna</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392506</id>
+  </point>
+  <point>
+    <name>Blue Spur</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392507</id>
+  </point>
+  <point>
+    <name>Charleston</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392508</id>
+  </point>
+  <point>
+    <name>Dillmanstown</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392509</id>
+  </point>
+  <point>
+    <name>Fox Glacier</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392510</id>
+  </point>
+  <point>
+    <name>Franz Josef Glacier</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392511</id>
+  </point>
+  <point>
+    <name>Harihari</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392512</id>
+  </point>
+  <point>
+    <name>Hokitika</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>337733</id>
+  </point>
+  <point>
+    <name>Ikamatua</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392513</id>
+  </point>
+  <point>
+    <name>Kaniere</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392514</id>
+  </point>
+  <point>
+    <name>Kokatahi</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392515</id>
+  </point>
+  <point>
+    <name>Kumara</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392516</id>
+  </point>
+  <point>
+    <name>Kumara Junction</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392517</id>
+  </point>
+  <point>
+    <name>Maruia</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392518</id>
+  </point>
+  <point>
+    <name>Ross</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392519</id>
+  </point>
+  <point>
+    <name>Seaview</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392520</id>
+  </point>
+  <point>
+    <name>Springs Junction</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392521</id>
+  </point>
+  <point>
+    <name>Whataroa</name>
+    <region>West Coast</region>
+    <district>Westland</district>
+    <id>392522</id>
+  </point>
+</country>

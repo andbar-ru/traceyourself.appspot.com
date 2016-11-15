@@ -1,0 +1,2342 @@
+<country name="Великобритания" count="390">
+  <point>
+    <name>Хай-Вайкомб</name>
+    <region>Англия</region>
+    <district>Бакингемшир</district>
+    <id>170405</id>
+  </point>
+  <point>
+    <name>Эйлсбери</name>
+    <region>Англия</region>
+    <district>Бакингемшир</district>
+    <id>222433</id>
+  </point>
+  <point>
+    <name>Бат</name>
+    <region>Англия</region>
+    <district>Бат и Северо-Восточный Сомерсет</district>
+    <id>222318</id>
+  </point>
+  <point>
+    <name>Бегвари</name>
+    <region>Англия</region>
+    <district>Бедфордшир</district>
+    <id>3298</id>
+  </point>
+  <point>
+    <name>Кренфилд (аэропорт)</name>
+    <region>Англия</region>
+    <district>Бедфордшир</district>
+    <id>226852</id>
+  </point>
+  <point>
+    <name>Лутон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Бедфордшир</district>
+    <id>224646</id>
+  </point>
+  <point>
+    <name>Лутон</name>
+    <region>Англия</region>
+    <district>Бедфордшир</district>
+    <id>222432</id>
+  </point>
+  <point>
+    <name>Бракнелл</name>
+    <region>Англия</region>
+    <district>Беркшир</district>
+    <id>3458</id>
+  </point>
+  <point>
+    <name>Рединг</name>
+    <region>Англия</region>
+    <district>Беркшир</district>
+    <id>222361</id>
+  </point>
+  <point>
+    <name>Велли (аэропорт)</name>
+    <region>Англия</region>
+    <district>Большой Лондон</district>
+    <id>3101</id>
+  </point>
+  <point>
+    <name>Лондон-Сити (аэропорт)</name>
+    <region>Англия</region>
+    <district>Большой Лондон</district>
+    <id>508239</id>
+  </point>
+  <point>
+    <name>Лондон / Сент-Джеймский парк</name>
+    <region>Англия</region>
+    <district>Большой Лондон</district>
+    <id>348337</id>
+  </point>
+  <point>
+    <name>Лондон</name>
+    <region>Англия</region>
+    <district>Большой Лондон</district>
+    <id>3478</id>
+  </point>
+  <point>
+    <name>Нортхолт Мендвилль (аэропорт)</name>
+    <region>Англия</region>
+    <district>Большой Лондон</district>
+    <id>170406</id>
+  </point>
+  <point>
+    <name>Манчестер (аэропорт)</name>
+    <region>Англия</region>
+    <district>Большой Манчестер</district>
+    <id>3122</id>
+  </point>
+  <point>
+    <name>Манчестер</name>
+    <region>Англия</region>
+    <district>Большой Манчестер</district>
+    <id>222321</id>
+  </point>
+  <point>
+    <name>Бристоль (аэропорт)</name>
+    <region>Англия</region>
+    <district>Бристоль Сити</district>
+    <id>508846</id>
+  </point>
+  <point>
+    <name>Бристоль</name>
+    <region>Англия</region>
+    <district>Бристоль Сити</district>
+    <id>3430</id>
+  </point>
+  <point>
+    <name>Беверли</name>
+    <region>Англия</region>
+    <district>Восточный райдинг Йоркшира</district>
+    <id>222319</id>
+  </point>
+  <point>
+    <name>Бридлингтон</name>
+    <region>Англия</region>
+    <district>Восточный райдинг Йоркшира</district>
+    <id>3098</id>
+  </point>
+  <point>
+    <name>Изингтон</name>
+    <region>Англия</region>
+    <district>Восточный райдинг Йоркшира</district>
+    <id>3164</id>
+  </point>
+  <point>
+    <name>Леконфилд (аэропорт)</name>
+    <region>Англия</region>
+    <district>Восточный райдинг Йоркшира</district>
+    <id>170694</id>
+  </point>
+  <point>
+    <name>Брид</name>
+    <region>Англия</region>
+    <district>Восточный Суссекс</district>
+    <id>3599</id>
+  </point>
+  <point>
+    <name>Льюис</name>
+    <region>Англия</region>
+    <district>Восточный Суссекс</district>
+    <id>222429</id>
+  </point>
+  <point>
+    <name>Ньюхевен</name>
+    <region>Англия</region>
+    <district>Восточный Суссекс</district>
+    <id>3592</id>
+  </point>
+  <point>
+    <name>Херстмонсе</name>
+    <region>Англия</region>
+    <district>Восточный Суссекс</district>
+    <id>3600</id>
+  </point>
+  <point>
+    <name>Вустер</name>
+    <region>Англия</region>
+    <district>Вустершир</district>
+    <id>222373</id>
+  </point>
+  <point>
+    <name>Барбурн</name>
+    <region>Англия</region>
+    <district>Вустершир</district>
+    <id>3263</id>
+  </point>
+  <point>
+    <name>Малверн</name>
+    <region>Англия</region>
+    <district>Вустершир</district>
+    <id>3261</id>
+  </point>
+  <point>
+    <name>Першор</name>
+    <region>Англия</region>
+    <district>Вустершир</district>
+    <id>3265</id>
+  </point>
+  <point>
+    <name>Стратфорд-на-Эйвоне</name>
+    <region>Англия</region>
+    <district>Вустершир</district>
+    <id>237663</id>
+  </point>
+  <point>
+    <name>Глостер</name>
+    <region>Англия</region>
+    <district>Глостершир</district>
+    <id>222320</id>
+  </point>
+  <point>
+    <name>Бристоль / Филтон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Глостершир</district>
+    <id>170403</id>
+  </point>
+  <point>
+    <name>Глостершир / Ставертон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Глостершир</district>
+    <id>252474</id>
+  </point>
+  <point>
+    <name>Литтл Риссингтон</name>
+    <region>Англия</region>
+    <district>Глостершир</district>
+    <id>170404</id>
+  </point>
+  <point>
+    <name>Фейрфорд (аэропорт)</name>
+    <region>Англия</region>
+    <district>Глостершир</district>
+    <id>251826</id>
+  </point>
+  <point>
+    <name>Гровзенд</name>
+    <region>Англия</region>
+    <district>Глостершир</district>
+    <id>292052</id>
+  </point>
+  <point>
+    <name>Дарем</name>
+    <region>Англия</region>
+    <district>Дарем</district>
+    <id>222428</id>
+  </point>
+  <point>
+    <name>Бернхоуп</name>
+    <region>Англия</region>
+    <district>Дарем</district>
+    <id>3039</id>
+  </point>
+  <point>
+    <name>Болтшоп-Парк</name>
+    <region>Англия</region>
+    <district>Дарем</district>
+    <id>3027</id>
+  </point>
+  <point>
+    <name>Дарем Долина Тиса (аэропорт)</name>
+    <region>Англия</region>
+    <district>Дарем</district>
+    <id>508370</id>
+  </point>
+  <point>
+    <name>Баррингтон</name>
+    <region>Англия</region>
+    <district>Девон</district>
+    <id>3530</id>
+  </point>
+  <point>
+    <name>Бриксгем</name>
+    <region>Англия</region>
+    <district>Девон</district>
+    <id>3545</id>
+  </point>
+  <point>
+    <name>Гоулиш</name>
+    <region>Англия</region>
+    <district>Девон</district>
+    <id>3419</id>
+  </point>
+  <point>
+    <name>Данкесуэлл (аэропорт)</name>
+    <region>Англия</region>
+    <district>Девон</district>
+    <id>3551</id>
+  </point>
+  <point>
+    <name>Плимут (метеостанция)</name>
+    <region>Англия</region>
+    <district>Девон</district>
+    <id>3529</id>
+  </point>
+  <point>
+    <name>Чивенор</name>
+    <region>Англия</region>
+    <district>Девон</district>
+    <id>3420</id>
+  </point>
+  <point>
+    <name>Эксетер (аэропорт)</name>
+    <region>Англия</region>
+    <district>Девон</district>
+    <id>3546</id>
+  </point>
+  <point>
+    <name>Эксетер</name>
+    <region>Англия</region>
+    <district>Девон</district>
+    <id>222364</id>
+  </point>
+  <point>
+    <name>Мэтлок</name>
+    <region>Англия</region>
+    <district>Дербишир</district>
+    <id>222430</id>
+  </point>
+  <point>
+    <name>Дорчестер</name>
+    <region>Англия</region>
+    <district>Дорсет</district>
+    <id>222365</id>
+  </point>
+  <point>
+    <name>Борнмут</name>
+    <region>Англия</region>
+    <district>Дорсет</district>
+    <id>249497</id>
+  </point>
+  <point>
+    <name>Борнмут (аэропорт)</name>
+    <region>Англия</region>
+    <district>Дорсет</district>
+    <id>3565</id>
+  </point>
+  <point>
+    <name>Портленд (остров)</name>
+    <region>Англия</region>
+    <district>Дорсет</district>
+    <id>3553</id>
+  </point>
+  <point>
+    <name>Бингли</name>
+    <region>Англия</region>
+    <district>Западный Йоркшир</district>
+    <id>3141</id>
+  </point>
+  <point>
+    <name>Вейкфилд</name>
+    <region>Англия</region>
+    <district>Западный Йоркшир</district>
+    <id>222419</id>
+  </point>
+  <point>
+    <name>Лидс-Брэдфорд (аэропорт)</name>
+    <region>Англия</region>
+    <district>Западный Йоркшир</district>
+    <id>236466</id>
+  </point>
+  <point>
+    <name>Лидс</name>
+    <region>Англия</region>
+    <district>Западный Йоркшир</district>
+    <id>3143</id>
+  </point>
+  <point>
+    <name>Лондон / Гатуик (аэропорт)</name>
+    <region>Англия</region>
+    <district>Западный Суссекс</district>
+    <id>3473</id>
+  </point>
+  <point>
+    <name>о. Торни</name>
+    <region>Англия</region>
+    <district>Западный Суссекс</district>
+    <id>3575</id>
+  </point>
+  <point>
+    <name>Чарлвуд</name>
+    <region>Англия</region>
+    <district>Западный Суссекс</district>
+    <id>170695</id>
+  </point>
+  <point>
+    <name>Чичестер</name>
+    <region>Англия</region>
+    <district>Западный Суссекс</district>
+    <id>222352</id>
+  </point>
+  <point>
+    <name>Шорхэм-бай-Си (аэропорт)</name>
+    <region>Англия</region>
+    <district>Западный Суссекс</district>
+    <id>3580</id>
+  </point>
+  <point>
+    <name>Аспатрия</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>3008</id>
+  </point>
+  <point>
+    <name>Грейт-Дан-Фелл</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>3021</id>
+  </point>
+  <point>
+    <name>Драмбург</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>2995</id>
+  </point>
+  <point>
+    <name>Карлайл (аэропорт)</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>509136</id>
+  </point>
+  <point>
+    <name>Карлайл (метеостанция)</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>61936</id>
+  </point>
+  <point>
+    <name>Карлайл</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>3009</id>
+  </point>
+  <point>
+    <name>Кесвик</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>61921</id>
+  </point>
+  <point>
+    <name>о. Валней</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>3005</id>
+  </point>
+  <point>
+    <name>Сандвит</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>61223</id>
+  </point>
+  <point>
+    <name>Спедедам / Кингуотер (аэропорт)</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>170212</id>
+  </point>
+  <point>
+    <name>Уоркоп</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>170374</id>
+  </point>
+  <point>
+    <name>Шэп</name>
+    <region>Англия</region>
+    <district>Камбрия</district>
+    <id>170373</id>
+  </point>
+  <point>
+    <name>Кембридж (аэропорт)</name>
+    <region>Англия</region>
+    <district>Кембриджшир</district>
+    <id>222431</id>
+  </point>
+  <point>
+    <name>Алконбари</name>
+    <region>Англия</region>
+    <district>Кембриджшир</district>
+    <id>3303</id>
+  </point>
+  <point>
+    <name>Виттеринг (аэропорт)</name>
+    <region>Англия</region>
+    <district>Кембриджшир</district>
+    <id>3212</id>
+  </point>
+  <point>
+    <name>Уайтон (авиабаза)</name>
+    <region>Англия</region>
+    <district>Кембриджшир</district>
+    <id>508974</id>
+  </point>
+  <point>
+    <name>Биггин Хилл (аэропорт)</name>
+    <region>Англия</region>
+    <district>Кент</district>
+    <id>224210</id>
+  </point>
+  <point>
+    <name>Грейвсенд</name>
+    <region>Англия</region>
+    <district>Кент</district>
+    <id>224381</id>
+  </point>
+  <point>
+    <name>Гринхит</name>
+    <region>Англия</region>
+    <district>Кент</district>
+    <id>3492</id>
+  </point>
+  <point>
+    <name>Джубили-Корнер</name>
+    <region>Англия</region>
+    <district>Кент</district>
+    <id>3498</id>
+  </point>
+  <point>
+    <name>Лангдон-Бэй</name>
+    <region>Англия</region>
+    <district>Кент</district>
+    <id>3502</id>
+  </point>
+  <point>
+    <name>Лидд (аэропорт)</name>
+    <region>Англия</region>
+    <district>Кент</district>
+    <id>224562</id>
+  </point>
+  <point>
+    <name>Мейдстон</name>
+    <region>Англия</region>
+    <district>Кент</district>
+    <id>222323</id>
+  </point>
+  <point>
+    <name>Мэнстон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Кент</district>
+    <id>3504</id>
+  </point>
+  <point>
+    <name>Чаринг</name>
+    <region>Англия</region>
+    <district>Кент</district>
+    <id>3496</id>
+  </point>
+  <point>
+    <name>Батпул</name>
+    <region>Англия</region>
+    <district>Корнуолл</district>
+    <id>3527</id>
+  </point>
+  <point>
+    <name>Калдроуз (аэропорт)</name>
+    <region>Англия</region>
+    <district>Корнуолл</district>
+    <id>3510</id>
+  </point>
+  <point>
+    <name>Кардинхем</name>
+    <region>Англия</region>
+    <district>Корнуолл</district>
+    <id>3525</id>
+  </point>
+  <point>
+    <name>Кееленд</name>
+    <region>Англия</region>
+    <district>Корнуолл</district>
+    <id>3508</id>
+  </point>
+  <point>
+    <name>Ньюквай-Корнуолл (аэропорт)</name>
+    <region>Англия</region>
+    <district>Корнуолл</district>
+    <id>508572</id>
+  </point>
+  <point>
+    <name>Сент-Мауган</name>
+    <region>Англия</region>
+    <district>Корнуолл</district>
+    <id>170696</id>
+  </point>
+  <point>
+    <name>Силли (аэропорт)</name>
+    <region>Англия</region>
+    <district>Корнуолл</district>
+    <id>3505</id>
+  </point>
+  <point>
+    <name>Труро</name>
+    <region>Англия</region>
+    <district>Корнуолл</district>
+    <id>222363</id>
+  </point>
+  <point>
+    <name>Блэкпул (аэропорт)</name>
+    <region>Англия</region>
+    <district>Ланкашир</district>
+    <id>3117</id>
+  </point>
+  <point>
+    <name>Отон (метеостанция 03322)</name>
+    <region>Англия</region>
+    <district>Ланкашир</district>
+    <id>3120</id>
+  </point>
+  <point>
+    <name>Престон</name>
+    <region>Англия</region>
+    <district>Ланкашир</district>
+    <id>222367</id>
+  </point>
+  <point>
+    <name>Уортон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Ланкашир</district>
+    <id>508739</id>
+  </point>
+  <point>
+    <name>Восточный Мидландс (аэропорт)</name>
+    <region>Англия</region>
+    <district>Лестершир</district>
+    <id>225695</id>
+  </point>
+  <point>
+    <name>Гленфилд</name>
+    <region>Англия</region>
+    <district>Лестершир</district>
+    <id>222359</id>
+  </point>
+  <point>
+    <name>Линкольн</name>
+    <region>Англия</region>
+    <district>Линкольншир</district>
+    <id>222357</id>
+  </point>
+  <point>
+    <name>Ваддингтон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Линкольншир</district>
+    <id>3147</id>
+  </point>
+  <point>
+    <name>Конингсби (аэропорт)</name>
+    <region>Англия</region>
+    <district>Линкольншир</district>
+    <id>170386</id>
+  </point>
+  <point>
+    <name>Кронвелл (аэропорт)</name>
+    <region>Англия</region>
+    <district>Линкольншир</district>
+    <id>3149</id>
+  </point>
+  <point>
+    <name>Скемптон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Линкольншир</district>
+    <id>170384</id>
+  </point>
+  <point>
+    <name>Вейнфлит</name>
+    <region>Англия</region>
+    <district>Линкольншир</district>
+    <id>3178</id>
+  </point>
+  <point>
+    <name>Донна-Нук (метеостанция)</name>
+    <region>Англия</region>
+    <district>Линкольншир</district>
+    <id>170385</id>
+  </point>
+  <point>
+    <name>Хамберсайд (аэропорт)</name>
+    <region>Англия</region>
+    <district>Линкольншир</district>
+    <id>226331</id>
+  </point>
+  <point>
+    <name>Холбич (аэропорт)</name>
+    <region>Англия</region>
+    <district>Линкольншир</district>
+    <id>170390</id>
+  </point>
+  <point>
+    <name>Вудвейл (аэропорт)</name>
+    <region>Англия</region>
+    <district>Мерсисайд</district>
+    <id>508973</id>
+  </point>
+  <point>
+    <name>Кросби</name>
+    <region>Англия</region>
+    <district>Мерсисайд</district>
+    <id>3116</id>
+  </point>
+  <point>
+    <name>Ливерпуль (аэропорт)</name>
+    <region>Англия</region>
+    <district>Мерсисайд</district>
+    <id>226898</id>
+  </point>
+  <point>
+    <name>Ливерпуль</name>
+    <region>Англия</region>
+    <district>Мерсисайд</district>
+    <id>222424</id>
+  </point>
+  <point>
+    <name>Литл Кросби Виллидж</name>
+    <region>Англия</region>
+    <district>Мерсисайд</district>
+    <id>14023</id>
+  </point>
+  <point>
+    <name>Нортгемптон</name>
+    <region>Англия</region>
+    <district>Нортгемптоншир</district>
+    <id>222426</id>
+  </point>
+  <point>
+    <name>Альбемарль</name>
+    <region>Англия</region>
+    <district>Нортумберленд</district>
+    <id>170691</id>
+  </point>
+  <point>
+    <name>Бервик-апон-Твид</name>
+    <region>Англия</region>
+    <district>Нортумберленд</district>
+    <id>2985</id>
+  </point>
+  <point>
+    <name>Боулмер (аэропорт)</name>
+    <region>Англия</region>
+    <district>Нортумберленд</district>
+    <id>3035</id>
+  </point>
+  <point>
+    <name>Морпет</name>
+    <region>Англия</region>
+    <district>Нортумберленд</district>
+    <id>222368</id>
+  </point>
+  <point>
+    <name>Рочестер</name>
+    <region>Англия</region>
+    <district>Нортумберленд</district>
+    <id>170375</id>
+  </point>
+  <point>
+    <name>Норидж</name>
+    <region>Англия</region>
+    <district>Норфолк</district>
+    <id>3229</id>
+  </point>
+  <point>
+    <name>Вейбурн</name>
+    <region>Англия</region>
+    <district>Норфолк</district>
+    <id>3226</id>
+  </point>
+  <point>
+    <name>Мархам (аэропорт)</name>
+    <region>Англия</region>
+    <district>Норфолк</district>
+    <id>3215</id>
+  </point>
+  <point>
+    <name>Норидж (аэропорт)</name>
+    <region>Англия</region>
+    <district>Норфолк</district>
+    <id>509776</id>
+  </point>
+  <point>
+    <name>Западный Бриджфорд</name>
+    <region>Англия</region>
+    <district>Ноттингемшир</district>
+    <id>222356</id>
+  </point>
+  <point>
+    <name>Ноттингем</name>
+    <region>Англия</region>
+    <district>Ноттингемшир</district>
+    <id>3144</id>
+  </point>
+  <point>
+    <name>Оксфорд</name>
+    <region>Англия</region>
+    <district>Оксфордшир</district>
+    <id>222423</id>
+  </point>
+  <point>
+    <name>Бенсон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Оксфордшир</district>
+    <id>3382</id>
+  </point>
+  <point>
+    <name>Оксфорд (аэропорт)</name>
+    <region>Англия</region>
+    <district>Оксфордшир</district>
+    <id>230307</id>
+  </point>
+  <point>
+    <name>Оксфорд / Брайз-Нортон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Оксфордшир</district>
+    <id>3375</id>
+  </point>
+  <point>
+    <name>Ньюпорт</name>
+    <region>Англия</region>
+    <district>Остров Уайт</district>
+    <id>222358</id>
+  </point>
+  <point>
+    <name>Сент-Кетринс-Поинт</name>
+    <region>Англия</region>
+    <district>Остров Уайт</district>
+    <id>3573</id>
+  </point>
+  <point>
+    <name>Коттесмор</name>
+    <region>Англия</region>
+    <district>Ратленд</district>
+    <id>170388</id>
+  </point>
+  <point>
+    <name>Окхам</name>
+    <region>Англия</region>
+    <district>Ратленд</district>
+    <id>222422</id>
+  </point>
+  <point>
+    <name>Ипсвич</name>
+    <region>Англия</region>
+    <district>Саффолк</district>
+    <id>222370</id>
+  </point>
+  <point>
+    <name>Лейкенхит (аэропорт)</name>
+    <region>Англия</region>
+    <district>Саффолк</district>
+    <id>234019</id>
+  </point>
+  <point>
+    <name>Милденхолл (авиабаза)</name>
+    <region>Англия</region>
+    <district>Саффолк</district>
+    <id>234025</id>
+  </point>
+  <point>
+    <name>Уоттишам (аэропорт)</name>
+    <region>Англия</region>
+    <district>Саффолк</district>
+    <id>3334</id>
+  </point>
+  <point>
+    <name>Хонингтон</name>
+    <region>Англия</region>
+    <district>Саффолк</district>
+    <id>3332</id>
+  </point>
+  <point>
+    <name>Дишфорт (аэропорт)</name>
+    <region>Англия</region>
+    <district>Северный Йоркшир</district>
+    <id>170377</id>
+  </point>
+  <point>
+    <name>Лиминг (аэропорт)</name>
+    <region>Англия</region>
+    <district>Северный Йоркшир</district>
+    <id>3059</id>
+  </point>
+  <point>
+    <name>Линтон-он-Аус (аэропорт)</name>
+    <region>Англия</region>
+    <district>Северный Йоркшир</district>
+    <id>170379</id>
+  </point>
+  <point>
+    <name>Лофтус</name>
+    <region>Англия</region>
+    <district>Северный Йоркшир</district>
+    <id>170380</id>
+  </point>
+  <point>
+    <name>Норталлертон</name>
+    <region>Англия</region>
+    <district>Северный Йоркшир</district>
+    <id>222425</id>
+  </point>
+  <point>
+    <name>Скиптон</name>
+    <region>Англия</region>
+    <district>Северный Йоркшир</district>
+    <id>3137</id>
+  </point>
+  <point>
+    <name>Топклиффе (аэропорт)</name>
+    <region>Англия</region>
+    <district>Северный Йоркшир</district>
+    <id>170378</id>
+  </point>
+  <point>
+    <name>Файлингдейлс</name>
+    <region>Англия</region>
+    <district>Северный Йоркшир</district>
+    <id>3090</id>
+  </point>
+  <point>
+    <name>Черч Фентон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Северный Йоркшир</district>
+    <id>170383</id>
+  </point>
+  <point>
+    <name>Йеавилтон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Сомерсет</district>
+    <id>3552</id>
+  </point>
+  <point>
+    <name>Лискомб</name>
+    <region>Англия</region>
+    <district>Сомерсет</district>
+    <id>170408</id>
+  </point>
+  <point>
+    <name>Таунтон</name>
+    <region>Англия</region>
+    <district>Сомерсет</district>
+    <id>222420</id>
+  </point>
+  <point>
+    <name>Стаффорд</name>
+    <region>Англия</region>
+    <district>Стаффордшир</district>
+    <id>222353</id>
+  </point>
+  <point>
+    <name>Торнклифф</name>
+    <region>Англия</region>
+    <district>Стаффордшир</district>
+    <id>170692</id>
+  </point>
+  <point>
+    <name>Вейбридж</name>
+    <region>Англия</region>
+    <district>Суррей</district>
+    <id>234644</id>
+  </point>
+  <point>
+    <name>Кенли</name>
+    <region>Англия</region>
+    <district>Суррей</district>
+    <id>3490</id>
+  </point>
+  <point>
+    <name>Кингстон-апон-Темс</name>
+    <region>Англия</region>
+    <district>Суррей</district>
+    <id>222418</id>
+  </point>
+  <point>
+    <name>Лондон / Хитроу (аэропорт)</name>
+    <region>Англия</region>
+    <district>Суррей</district>
+    <id>3469</id>
+  </point>
+  <point>
+    <name>Ньюкасл (аэропорт)</name>
+    <region>Англия</region>
+    <district>Тайн-энд-Уир</district>
+    <id>509169</id>
+  </point>
+  <point>
+    <name>Ньюкасл</name>
+    <region>Англия</region>
+    <district>Тайн-энд-Уир</district>
+    <id>3049</id>
+  </point>
+  <point>
+    <name>Тайнмут</name>
+    <region>Англия</region>
+    <district>Тайн-энд-Уир</district>
+    <id>3069</id>
+  </point>
+  <point>
+    <name>Боскомб-Даун (аэропорт)</name>
+    <region>Англия</region>
+    <district>Уилтшир</district>
+    <id>3444</id>
+  </point>
+  <point>
+    <name>Колерн (аэропорт)</name>
+    <region>Англия</region>
+    <district>Уилтшир</district>
+    <id>510170</id>
+  </point>
+  <point>
+    <name>Ларкхилл</name>
+    <region>Англия</region>
+    <district>Уилтшир</district>
+    <id>3441</id>
+  </point>
+  <point>
+    <name>Линехам (аэропорт)</name>
+    <region>Англия</region>
+    <district>Уилтшир</district>
+    <id>236888</id>
+  </point>
+  <point>
+    <name>Троубридж</name>
+    <region>Англия</region>
+    <district>Уилтшир</district>
+    <id>222417</id>
+  </point>
+  <point>
+    <name>Уорик</name>
+    <region>Англия</region>
+    <district>Уорикшир</district>
+    <id>222371</id>
+  </point>
+  <point>
+    <name>Черч-Лоуфорд</name>
+    <region>Англия</region>
+    <district>Уорикшир</district>
+    <id>170397</id>
+  </point>
+  <point>
+    <name>Бирмингем (аэропорт)</name>
+    <region>Англия</region>
+    <district>Уэст-Мидлендс</district>
+    <id>3282</id>
+  </point>
+  <point>
+    <name>Бирмингем</name>
+    <region>Англия</region>
+    <district>Уэст-Мидлендс</district>
+    <id>222372</id>
+  </point>
+  <point>
+    <name>Ковентри (аэропорт)</name>
+    <region>Англия</region>
+    <district>Уэст-Мидлендс</district>
+    <id>509746</id>
+  </point>
+  <point>
+    <name>Ковентри</name>
+    <region>Англия</region>
+    <district>Уэст-Мидлендс</district>
+    <id>235534</id>
+  </point>
+  <point>
+    <name>Хертфорд</name>
+    <region>Англия</region>
+    <district>Хартфордшир</district>
+    <id>222427</id>
+  </point>
+  <point>
+    <name>Нортвуд</name>
+    <region>Англия</region>
+    <district>Хартфордшир</district>
+    <id>3391</id>
+  </point>
+  <point>
+    <name>Ротамстед</name>
+    <region>Англия</region>
+    <district>Хартфордшир</district>
+    <id>510188</id>
+  </point>
+  <point>
+    <name>Ченис</name>
+    <region>Англия</region>
+    <district>Хартфордшир</district>
+    <id>3395</id>
+  </point>
+  <point>
+    <name>Херефорд</name>
+    <region>Англия</region>
+    <district>Херефордшир</district>
+    <id>170395</id>
+  </point>
+  <point>
+    <name>Шобдон</name>
+    <region>Англия</region>
+    <district>Херефордшир</district>
+    <id>170394</id>
+  </point>
+  <point>
+    <name>Винчестер</name>
+    <region>Англия</region>
+    <district>Хэмпшир</district>
+    <id>222366</id>
+  </point>
+  <point>
+    <name>Миддл Уоллоп (аэропорт)</name>
+    <region>Англия</region>
+    <district>Хэмпшир</district>
+    <id>170409</id>
+  </point>
+  <point>
+    <name>Одихем (аэропорт)</name>
+    <region>Англия</region>
+    <district>Хэмпшир</district>
+    <id>170410</id>
+  </point>
+  <point>
+    <name>Саутгемптон (аэропорт)</name>
+    <region>Англия</region>
+    <district>Хэмпшир</district>
+    <id>509317</id>
+  </point>
+  <point>
+    <name>Саутгемптон</name>
+    <region>Англия</region>
+    <district>Хэмпшир</district>
+    <id>3566</id>
+  </point>
+  <point>
+    <name>Солент</name>
+    <region>Англия</region>
+    <district>Хэмпшир</district>
+    <id>3579</id>
+  </point>
+  <point>
+    <name>Фарнборо (аэропорт)</name>
+    <region>Англия</region>
+    <district>Хэмпшир</district>
+    <id>3462</id>
+  </point>
+  <point>
+    <name>Вудфорд</name>
+    <region>Англия</region>
+    <district>Чешир</district>
+    <id>170693</id>
+  </point>
+  <point>
+    <name>Ростерн</name>
+    <region>Англия</region>
+    <district>Чешир</district>
+    <id>229396</id>
+  </point>
+  <point>
+    <name>Честер</name>
+    <region>Англия</region>
+    <district>Чешир</district>
+    <id>222362</id>
+  </point>
+  <point>
+    <name>Косфорд (аэропорт)</name>
+    <region>Англия</region>
+    <district>Шропшир</district>
+    <id>508972</id>
+  </point>
+  <point>
+    <name>Шоубери (аэропорт)</name>
+    <region>Англия</region>
+    <district>Шропшир</district>
+    <id>3205</id>
+  </point>
+  <point>
+    <name>Шрусбери</name>
+    <region>Англия</region>
+    <district>Шропшир</district>
+    <id>222369</id>
+  </point>
+  <point>
+    <name>Саутенд-он-Си (AWS)</name>
+    <region>Англия</region>
+    <district>Эссекс</district>
+    <id>3405</id>
+  </point>
+  <point>
+    <name>Саутенд-он-Си (аэропорт)</name>
+    <region>Англия</region>
+    <district>Эссекс</district>
+    <id>508132</id>
+  </point>
+  <point>
+    <name>Станстед (аэропорт)</name>
+    <region>Англия</region>
+    <district>Эссекс</district>
+    <id>3398</id>
+  </point>
+  <point>
+    <name>Темз-Тауэр</name>
+    <region>Англия</region>
+    <district>Эссекс</district>
+    <id>3410</id>
+  </point>
+  <point>
+    <name>Челмсфорд</name>
+    <region>Англия</region>
+    <district>Эссекс</district>
+    <id>222360</id>
+  </point>
+  <point>
+    <name>Эндрюсфилд</name>
+    <region>Англия</region>
+    <district>Эссекс</district>
+    <id>170407</id>
+  </point>
+  <point>
+    <name>Барнсли</name>
+    <region>Англия</region>
+    <district>Южный Йоркшир</district>
+    <id>222421</id>
+  </point>
+  <point>
+    <name>Донкастер-Шеффилд / им. Робина Гуда (аэропорт)</name>
+    <region>Англия</region>
+    <district>Южный Йоркшир</district>
+    <id>508629</id>
+  </point>
+  <point>
+    <name>о. Гоф</name>
+    <region>Британские заморские территории</region>
+    <district>о. Гоф</district>
+    <id>11264</id>
+  </point>
+  <point>
+    <name>о. Св. Елены</name>
+    <region>Британские заморские территории</region>
+    <district>о. Св. Елены</district>
+    <id>170851</id>
+  </point>
+  <point>
+    <name>Тристан-да-Кунья</name>
+    <region>Британские заморские территории</region>
+    <district>Тристан-да-Кунья</district>
+    <id>11263</id>
+  </point>
+  <point>
+    <name>Гернси (аэропорт)</name>
+    <region>Нормандские острова</region>
+    <district>Гернси</district>
+    <id>3601</id>
+  </point>
+  <point>
+    <name>Олдерни (аэропорт)</name>
+    <region>Нормандские острова</region>
+    <district>Гернси</district>
+    <id>222117</id>
+  </point>
+  <point>
+    <name>Сент-Питер-Порт</name>
+    <region>Нормандские острова</region>
+    <district>Гернси</district>
+    <id>152614</id>
+  </point>
+  <point>
+    <name>Джерси (аэропорт)</name>
+    <region>Нормандские острова</region>
+    <district>Джерси</district>
+    <id>3608</id>
+  </point>
+  <point>
+    <name>Сент-Хелиер</name>
+    <region>Нормандские острова</region>
+    <district>Джерси</district>
+    <id>152613</id>
+  </point>
+  <point>
+    <name>Дуглас</name>
+    <region>о. Мэн</region>
+    <district>Дуглас</district>
+    <id>152616</id>
+  </point>
+  <point>
+    <name>Мэн / Рональдсвей (аэропорт)</name>
+    <region>о. Мэн</region>
+    <district>Мэн / Рональдсвей (аэропорт)</district>
+    <id>2989</id>
+  </point>
+  <point>
+    <name>Снэфелль</name>
+    <region>о. Мэн</region>
+    <district>Снэфелль</district>
+    <id>2990</id>
+  </point>
+  <point>
+    <name>Антрим</name>
+    <region>Сев. Ирландия</region>
+    <district>Антрим</district>
+    <id>222349</id>
+  </point>
+  <point>
+    <name>Белфаст / Ольдергров (аэропорт)</name>
+    <region>Сев. Ирландия</region>
+    <district>Антрим</district>
+    <id>3637</id>
+  </point>
+  <point>
+    <name>Ньютаунардс</name>
+    <region>Сев. Ирландия</region>
+    <district>Ардс</district>
+    <id>222350</id>
+  </point>
+  <point>
+    <name>Арма</name>
+    <region>Сев. Ирландия</region>
+    <district>Арма</district>
+    <id>222351</id>
+  </point>
+  <point>
+    <name>Банбридж</name>
+    <region>Сев. Ирландия</region>
+    <district>Банбридж</district>
+    <id>222412</id>
+  </point>
+  <point>
+    <name>Белфаст</name>
+    <region>Сев. Ирландия</region>
+    <district>Белфаст</district>
+    <id>152615</id>
+  </point>
+  <point>
+    <name>Бэллимани</name>
+    <region>Сев. Ирландия</region>
+    <district>Бэллимани</district>
+    <id>222416</id>
+  </point>
+  <point>
+    <name>Бэллимена</name>
+    <region>Сев. Ирландия</region>
+    <district>Бэллимена</district>
+    <id>222415</id>
+  </point>
+  <point>
+    <name>Портгленон</name>
+    <region>Сев. Ирландия</region>
+    <district>Бэллимена</district>
+    <id>170429</id>
+  </point>
+  <point>
+    <name>Данганнон</name>
+    <region>Сев. Ирландия</region>
+    <district>Данганнон</district>
+    <id>222326</id>
+  </point>
+  <point>
+    <name>Даунпатрик</name>
+    <region>Сев. Ирландия</region>
+    <district>Даун</district>
+    <id>222325</id>
+  </point>
+  <point>
+    <name>Дерри (аэропорт)</name>
+    <region>Сев. Ирландия</region>
+    <district>Дерри Сити</district>
+    <id>509705</id>
+  </point>
+  <point>
+    <name>Дерри</name>
+    <region>Сев. Ирландия</region>
+    <district>Дерри Сити</district>
+    <id>3619</id>
+  </point>
+  <point>
+    <name>Каслри</name>
+    <region>Сев. Ирландия</region>
+    <district>Каслри</district>
+    <id>222414</id>
+  </point>
+  <point>
+    <name>Белфаст (аэропорт)</name>
+    <region>Сев. Ирландия</region>
+    <district>Каслри</district>
+    <id>3645</id>
+  </point>
+  <point>
+    <name>Колрейн</name>
+    <region>Сев. Ирландия</region>
+    <district>Колрейн</district>
+    <id>222346</id>
+  </point>
+  <point>
+    <name>Магиллиган 2</name>
+    <region>Сев. Ирландия</region>
+    <district>Колрейн</district>
+    <id>504497</id>
+  </point>
+  <point>
+    <name>Крейгавон</name>
+    <region>Сев. Ирландия</region>
+    <district>Крейгавон</district>
+    <id>222348</id>
+  </point>
+  <point>
+    <name>Кукстаун</name>
+    <region>Сев. Ирландия</region>
+    <district>Кукстаун</district>
+    <id>222347</id>
+  </point>
+  <point>
+    <name>Лох-Фай</name>
+    <region>Сев. Ирландия</region>
+    <district>Кукстаун</district>
+    <id>170412</id>
+  </point>
+  <point>
+    <name>Кэррикфергюс</name>
+    <region>Сев. Ирландия</region>
+    <district>Кэррикфергюс</district>
+    <id>222413</id>
+  </point>
+  <point>
+    <name>Ларн</name>
+    <region>Сев. Ирландия</region>
+    <district>Ларн</district>
+    <id>3661</id>
+  </point>
+  <point>
+    <name>Лимавэди</name>
+    <region>Сев. Ирландия</region>
+    <district>Лимавэди</district>
+    <id>222354</id>
+  </point>
+  <point>
+    <name>Балликелли</name>
+    <region>Сев. Ирландия</region>
+    <district>Лимавэди</district>
+    <id>3622</id>
+  </point>
+  <point>
+    <name>Лисберн</name>
+    <region>Сев. Ирландия</region>
+    <district>Лисберн</district>
+    <id>222355</id>
+  </point>
+  <point>
+    <name>Хиллсборо</name>
+    <region>Сев. Ирландия</region>
+    <district>Лисберн</district>
+    <id>3638</id>
+  </point>
+  <point>
+    <name>Марафелт</name>
+    <region>Сев. Ирландия</region>
+    <district>Марафелт</district>
+    <id>222409</id>
+  </point>
+  <point>
+    <name>Балликасл</name>
+    <region>Сев. Ирландия</region>
+    <district>Мойл</district>
+    <id>222410</id>
+  </point>
+  <point>
+    <name>Баллипатрик</name>
+    <region>Сев. Ирландия</region>
+    <district>Мойл</district>
+    <id>3636</id>
+  </point>
+  <point>
+    <name>Ньюри</name>
+    <region>Сев. Ирландия</region>
+    <district>Ньюри-энд-Мурн</district>
+    <id>222411</id>
+  </point>
+  <point>
+    <name>Гленан</name>
+    <region>Сев. Ирландия</region>
+    <district>Ньюри-энд-Мурн</district>
+    <id>170428</id>
+  </point>
+  <point>
+    <name>Ньютаунэбби</name>
+    <region>Сев. Ирландия</region>
+    <district>Ньютаунэбби</district>
+    <id>222407</id>
+  </point>
+  <point>
+    <name>Ома</name>
+    <region>Сев. Ирландия</region>
+    <district>Ома</district>
+    <id>222408</id>
+  </point>
+  <point>
+    <name>Бангор</name>
+    <region>Сев. Ирландия</region>
+    <district>Северный Даун</district>
+    <id>3657</id>
+  </point>
+  <point>
+    <name>Страбэйн</name>
+    <region>Сев. Ирландия</region>
+    <district>Страбэйн</district>
+    <id>222327</id>
+  </point>
+  <point>
+    <name>Донегал (аэропорт)</name>
+    <region>Сев. Ирландия</region>
+    <district>Страбэйн</district>
+    <id>510085</id>
+  </point>
+  <point>
+    <name>Каслдерг</name>
+    <region>Сев. Ирландия</region>
+    <district>Страбэйн</district>
+    <id>3618</id>
+  </point>
+  <point>
+    <name>Гаррисон</name>
+    <region>Сев. Ирландия</region>
+    <district>Фермана</district>
+    <id>3611</id>
+  </point>
+  <point>
+    <name>Томастаун</name>
+    <region>Сев. Ирландия</region>
+    <district>Фермана</district>
+    <id>239636</id>
+  </point>
+  <point>
+    <name>Эннискиллен (аэропорт)</name>
+    <region>Сев. Ирландия</region>
+    <district>Фермана</district>
+    <id>170411</id>
+  </point>
+  <point>
+    <name>Эннискиллен</name>
+    <region>Сев. Ирландия</region>
+    <district>Фермана</district>
+    <id>222374</id>
+  </point>
+  <point>
+    <name>Эббв-Вейл</name>
+    <region>Уэльс</region>
+    <district>Блайнай-Гвент</district>
+    <id>222333</id>
+  </point>
+  <point>
+    <name>Бридженд</name>
+    <region>Уэльс</region>
+    <district>Бридженд</district>
+    <id>222334</id>
+  </point>
+  <point>
+    <name>Абердарон</name>
+    <region>Уэльс</region>
+    <district>Гвинед</district>
+    <id>3188</id>
+  </point>
+  <point>
+    <name>Бала</name>
+    <region>Уэльс</region>
+    <district>Гвинед</district>
+    <id>245131</id>
+  </point>
+  <point>
+    <name>Кэрнарфон</name>
+    <region>Уэльс</region>
+    <district>Гвинед</district>
+    <id>222400</id>
+  </point>
+  <point>
+    <name>Нантмор</name>
+    <region>Уэльс</region>
+    <district>Гвинед</district>
+    <id>3184</id>
+  </point>
+  <point>
+    <name>Рил</name>
+    <region>Уэльс</region>
+    <district>Денбишир</district>
+    <id>170381</id>
+  </point>
+  <point>
+    <name>Рутин</name>
+    <region>Уэльс</region>
+    <district>Денбишир</district>
+    <id>222338</id>
+  </point>
+  <point>
+    <name>Барри</name>
+    <region>Уэльс</region>
+    <district>Долина Гламорган</district>
+    <id>222390</id>
+  </point>
+  <point>
+    <name>Сейнт-Атан (аэропорт)</name>
+    <region>Уэльс</region>
+    <district>Долина Гламорган</district>
+    <id>3424</id>
+  </point>
+  <point>
+    <name>Кайрфилли</name>
+    <region>Уэльс</region>
+    <district>Кайрфилли</district>
+    <id>222385</id>
+  </point>
+  <point>
+    <name>Кардифф</name>
+    <region>Уэльс</region>
+    <district>Кардифф</district>
+    <id>3428</id>
+  </point>
+  <point>
+    <name>Кардифф (аэропорт)</name>
+    <region>Уэльс</region>
+    <district>Кардифф</district>
+    <id>508234</id>
+  </point>
+  <point>
+    <name>Сент-Гавен</name>
+    <region>Уэльс</region>
+    <district>Кардифф</district>
+    <id>3414</id>
+  </point>
+  <point>
+    <name>Кармартен</name>
+    <region>Уэльс</region>
+    <district>Кармартеншир</district>
+    <id>222343</id>
+  </point>
+  <point>
+    <name>Пембри (аэропорт)</name>
+    <region>Уэльс</region>
+    <district>Кармартеншир</district>
+    <id>170401</id>
+  </point>
+  <point>
+    <name>Пендин</name>
+    <region>Уэльс</region>
+    <district>Кармартеншир</district>
+    <id>3349</id>
+  </point>
+  <point>
+    <name>Аберайрон</name>
+    <region>Уэльс</region>
+    <district>Кередигион</district>
+    <id>222394</id>
+  </point>
+  <point>
+    <name>Аберпорт</name>
+    <region>Уэльс</region>
+    <district>Кередигион</district>
+    <id>3243</id>
+  </point>
+  <point>
+    <name>Тросгед</name>
+    <region>Уэльс</region>
+    <district>Кередигион</district>
+    <id>170392</id>
+  </point>
+  <point>
+    <name>Конуи</name>
+    <region>Уэльс</region>
+    <district>Конуи</district>
+    <id>222386</id>
+  </point>
+  <point>
+    <name>Капел-Кьюриг</name>
+    <region>Уэльс</region>
+    <district>Конуи</district>
+    <id>3108</id>
+  </point>
+  <point>
+    <name>Мертир-Тидвил</name>
+    <region>Уэльс</region>
+    <district>Мертир-Тидвил</district>
+    <id>222388</id>
+  </point>
+  <point>
+    <name>Квмбран</name>
+    <region>Уэльс</region>
+    <district>Монмутшир</district>
+    <id>222339</id>
+  </point>
+  <point>
+    <name>Порт-Толбот</name>
+    <region>Уэльс</region>
+    <district>Нит-Порт-Толбот</district>
+    <id>222395</id>
+  </point>
+  <point>
+    <name>Ньюпорт</name>
+    <region>Уэльс</region>
+    <district>Ньюпорт</district>
+    <id>222335</id>
+  </point>
+  <point>
+    <name>Амлух</name>
+    <region>Уэльс</region>
+    <district>остров Англси</district>
+    <id>3107</id>
+  </point>
+  <point>
+    <name>Ллангефни</name>
+    <region>Уэльс</region>
+    <district>остров Англси</district>
+    <id>222393</id>
+  </point>
+  <point>
+    <name>Мона</name>
+    <region>Уэльс</region>
+    <district>остров Англси</district>
+    <id>348336</id>
+  </point>
+  <point>
+    <name>Милфорд Хейвен</name>
+    <region>Уэльс</region>
+    <district>Пембрукшир</district>
+    <id>170396</id>
+  </point>
+  <point>
+    <name>Хаверфордвест</name>
+    <region>Уэльс</region>
+    <district>Пембрукшир</district>
+    <id>222392</id>
+  </point>
+  <point>
+    <name>Аберхосан</name>
+    <region>Уэльс</region>
+    <district>Поуис</district>
+    <id>3196</id>
+  </point>
+  <point>
+    <name>Лейк-Вирнви</name>
+    <region>Уэльс</region>
+    <district>Поуис</district>
+    <id>170387</id>
+  </point>
+  <point>
+    <name>Лландриндод Уэллс</name>
+    <region>Уэльс</region>
+    <district>Поуис</district>
+    <id>222336</id>
+  </point>
+  <point>
+    <name>Ньюкасл-он-Клан</name>
+    <region>Уэльс</region>
+    <district>Поуис</district>
+    <id>3251</id>
+  </point>
+  <point>
+    <name>Сеннибридж</name>
+    <region>Уэльс</region>
+    <district>Поуис</district>
+    <id>170393</id>
+  </point>
+  <point>
+    <name>Рексем</name>
+    <region>Уэльс</region>
+    <district>Рексем</district>
+    <id>222391</id>
+  </point>
+  <point>
+    <name>Клидач-Вэйл</name>
+    <region>Уэльс</region>
+    <district>Ронта-Кинон-Тав</district>
+    <id>222401</id>
+  </point>
+  <point>
+    <name>Суонси</name>
+    <region>Уэльс</region>
+    <district>Суонси</district>
+    <id>222389</id>
+  </point>
+  <point>
+    <name>Мамблс</name>
+    <region>Уэльс</region>
+    <district>Суонси</district>
+    <id>170402</id>
+  </point>
+  <point>
+    <name>Понтипул</name>
+    <region>Уэльс</region>
+    <district>Торвайн</district>
+    <id>222337</id>
+  </point>
+  <point>
+    <name>Гаварден</name>
+    <region>Уэльс</region>
+    <district>Флинтшир</district>
+    <id>245054</id>
+  </point>
+  <point>
+    <name>Молд</name>
+    <region>Уэльс</region>
+    <district>Флинтшир</district>
+    <id>222387</id>
+  </point>
+  <point>
+    <name>Честер / Ховарден (аэропорт)</name>
+    <region>Уэльс</region>
+    <district>Флинтшир</district>
+    <id>170382</id>
+  </point>
+  <point>
+    <name>Абердин</name>
+    <region>Шотландия</region>
+    <district>Абердин</district>
+    <id>222328</id>
+  </point>
+  <point>
+    <name>Абердин (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Абердин</district>
+    <id>2890</id>
+  </point>
+  <point>
+    <name>Абойн</name>
+    <region>Шотландия</region>
+    <district>Абердиншир</district>
+    <id>2872</id>
+  </point>
+  <point>
+    <name>Инверберви</name>
+    <region>Шотландия</region>
+    <district>Абердиншир</district>
+    <id>170690</id>
+  </point>
+  <point>
+    <name>Розхарти</name>
+    <region>Шотландия</region>
+    <district>Абердиншир</district>
+    <id>59088</id>
+  </point>
+  <point>
+    <name>Тайри (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Абердиншир</district>
+    <id>2897</id>
+  </point>
+  <point>
+    <name>Форфар</name>
+    <region>Шотландия</region>
+    <district>Ангус</district>
+    <id>222375</id>
+  </point>
+  <point>
+    <name>Айлей (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Аргайл-энд-Бьют</district>
+    <id>59091</id>
+  </point>
+  <point>
+    <name>Килмори</name>
+    <region>Шотландия</region>
+    <district>Аргайл-энд-Бьют</district>
+    <id>2794</id>
+  </point>
+  <point>
+    <name>Кэмпбелтаун (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Аргайл-энд-Бьют</district>
+    <id>508918</id>
+  </point>
+  <point>
+    <name>Лохгилпхед</name>
+    <region>Шотландия</region>
+    <district>Аргайл-энд-Бьют</district>
+    <id>222376</id>
+  </point>
+  <point>
+    <name>Махриханиш</name>
+    <region>Шотландия</region>
+    <district>Аргайл-энд-Бьют</district>
+    <id>2903</id>
+  </point>
+  <point>
+    <name>Обан (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Аргайл-энд-Бьют</district>
+    <id>508959</id>
+  </point>
+  <point>
+    <name>Орсей</name>
+    <region>Шотландия</region>
+    <district>Аргайл-энд-Бьют</district>
+    <id>2902</id>
+  </point>
+  <point>
+    <name>Киркинтиллох</name>
+    <region>Шотландия</region>
+    <district>Восточный Дамбартоншир</district>
+    <id>222379</id>
+  </point>
+  <point>
+    <name>Хаддингтон</name>
+    <region>Шотландия</region>
+    <district>Восточный Лотиан</district>
+    <id>222380</id>
+  </point>
+  <point>
+    <name>Гиффнок</name>
+    <region>Шотландия</region>
+    <district>Восточный Ренфрушир</district>
+    <id>222405</id>
+  </point>
+  <point>
+    <name>Килмарнок</name>
+    <region>Шотландия</region>
+    <district>Восточный Эйршир</district>
+    <id>222378</id>
+  </point>
+  <point>
+    <name>Глазго</name>
+    <region>Шотландия</region>
+    <district>Глазго</district>
+    <id>222330</id>
+  </point>
+  <point>
+    <name>Дамфрис</name>
+    <region>Шотландия</region>
+    <district>Дамфрис-энд-Галлоуэй</district>
+    <id>222377</id>
+  </point>
+  <point>
+    <name>Вест Фреф</name>
+    <region>Шотландия</region>
+    <district>Дамфрис-энд-Галлоуэй</district>
+    <id>59762</id>
+  </point>
+  <point>
+    <name>Дандреннан</name>
+    <region>Шотландия</region>
+    <district>Дамфрис-энд-Галлоуэй</district>
+    <id>60029</id>
+  </point>
+  <point>
+    <name>Драмслит</name>
+    <region>Шотландия</region>
+    <district>Дамфрис-энд-Галлоуэй</district>
+    <id>2945</id>
+  </point>
+  <point>
+    <name>Эскдалемур</name>
+    <region>Шотландия</region>
+    <district>Дамфрис-энд-Галлоуэй</district>
+    <id>2954</id>
+  </point>
+  <point>
+    <name>Данди (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Данди</district>
+    <id>222342</id>
+  </point>
+  <point>
+    <name>Глазго (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Западный Дамбартоншир</district>
+    <id>509707</id>
+  </point>
+  <point>
+    <name>Глазго</name>
+    <region>Шотландия</region>
+    <district>Западный Дамбартоншир</district>
+    <id>244093</id>
+  </point>
+  <point>
+    <name>Дамбартон</name>
+    <region>Шотландия</region>
+    <district>Западный Дамбартоншир</district>
+    <id>222403</id>
+  </point>
+  <point>
+    <name>Ливингстон</name>
+    <region>Шотландия</region>
+    <district>Западный Лотиан</district>
+    <id>222397</id>
+  </point>
+  <point>
+    <name>Гринок</name>
+    <region>Шотландия</region>
+    <district>Инверклайд</district>
+    <id>222406</id>
+  </point>
+  <point>
+    <name>Нью-Аллоа</name>
+    <region>Шотландия</region>
+    <district>Клакманнаншир</district>
+    <id>222329</id>
+  </point>
+  <point>
+    <name>Далкит</name>
+    <region>Шотландия</region>
+    <district>Мидлотиан</district>
+    <id>222396</id>
+  </point>
+  <point>
+    <name>Кинлосс (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Морей</district>
+    <id>2838</id>
+  </point>
+  <point>
+    <name>Лоссимут (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Морей</district>
+    <id>59080</id>
+  </point>
+  <point>
+    <name>Нью-Элджин</name>
+    <region>Шотландия</region>
+    <district>Морей</district>
+    <id>222331</id>
+  </point>
+  <point>
+    <name>Керкуолл (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Оркнейские острова</district>
+    <id>2755</id>
+  </point>
+  <point>
+    <name>Керкуолл</name>
+    <region>Шотландия</region>
+    <district>Оркнейские острова</district>
+    <id>222383</id>
+  </point>
+  <point>
+    <name>Норт-Рональдсей</name>
+    <region>Шотландия</region>
+    <district>Оркнейские острова</district>
+    <id>2743</id>
+  </point>
+  <point>
+    <name>Реквик</name>
+    <region>Шотландия</region>
+    <district>Оркнейские острова</district>
+    <id>2813</id>
+  </point>
+  <point>
+    <name>Сьюл-Скерри</name>
+    <region>Шотландия</region>
+    <district>Оркнейские острова</district>
+    <id>2745</id>
+  </point>
+  <point>
+    <name>Перт</name>
+    <region>Шотландия</region>
+    <district>Перт и Кинросс</district>
+    <id>222404</id>
+  </point>
+  <point>
+    <name>Каирнвелл</name>
+    <region>Шотландия</region>
+    <district>Перт и Кинросс</district>
+    <id>2852</id>
+  </point>
+  <point>
+    <name>Страталлан</name>
+    <region>Шотландия</region>
+    <district>Перт и Кинросс</district>
+    <id>60025</id>
+  </point>
+  <point>
+    <name>Глазго (AWS)</name>
+    <region>Шотландия</region>
+    <district>Ренфрушир</district>
+    <id>508131</id>
+  </point>
+  <point>
+    <name>Глазго (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Ренфрушир</district>
+    <id>2935</id>
+  </point>
+  <point>
+    <name>Пейсли</name>
+    <region>Шотландия</region>
+    <district>Ренфрушир</district>
+    <id>222340</id>
+  </point>
+  <point>
+    <name>Мотеруэлл</name>
+    <region>Шотландия</region>
+    <district>Северный Ланаркшир</district>
+    <id>222399</id>
+  </point>
+  <point>
+    <name>Салсборо</name>
+    <region>Шотландия</region>
+    <district>Северный Ланаркшир</district>
+    <id>2943</id>
+  </point>
+  <point>
+    <name>Ирвин</name>
+    <region>Шотландия</region>
+    <district>Северный Эйршир</district>
+    <id>222384</id>
+  </point>
+  <point>
+    <name>Лохранза</name>
+    <region>Шотландия</region>
+    <district>Северный Эйршир</district>
+    <id>2910</id>
+  </point>
+  <point>
+    <name>Стерлинг</name>
+    <region>Шотландия</region>
+    <district>Стерлинг</district>
+    <id>222402</id>
+  </point>
+  <point>
+    <name>Глен Огл</name>
+    <region>Шотландия</region>
+    <district>Стерлинг</district>
+    <id>348335</id>
+  </point>
+  <point>
+    <name>Гленротс</name>
+    <region>Шотландия</region>
+    <district>Файф</district>
+    <id>222381</id>
+  </point>
+  <point>
+    <name>Лейчарс (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Файф</district>
+    <id>2974</id>
+  </point>
+  <point>
+    <name>Фалькирк</name>
+    <region>Шотландия</region>
+    <district>Фалькирк</district>
+    <id>222344</id>
+  </point>
+  <point>
+    <name>Авимор</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>2836</id>
+  </point>
+  <point>
+    <name>Альтнахара</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>2805</id>
+  </point>
+  <point>
+    <name>Билач На Ба</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>348333</id>
+  </point>
+  <point>
+    <name>Вик (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>2855</id>
+  </point>
+  <point>
+    <name>Инвернесс (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>2830</id>
+  </point>
+  <point>
+    <name>Инвернесс</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>222382</id>
+  </point>
+  <point>
+    <name>Каирнгормс</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>2837</id>
+  </point>
+  <point>
+    <name>Кейп-Рос</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>2809</id>
+  </point>
+  <point>
+    <name>Лох-Гласкарнох</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>170370</id>
+  </point>
+  <point>
+    <name>Олтби</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>2786</id>
+  </point>
+  <point>
+    <name>Скай</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>58175</id>
+  </point>
+  <point>
+    <name>Тейн-Рендж (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>2832</id>
+  </point>
+  <point>
+    <name>Туллоч Бридж</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>59738</id>
+  </point>
+  <point>
+    <name>Фойерс</name>
+    <region>Шотландия</region>
+    <district>Хайленд</district>
+    <id>2818</id>
+  </point>
+  <point>
+    <name>Бэлтсаунд</name>
+    <region>Шотландия</region>
+    <district>Шетландские острова</district>
+    <id>2716</id>
+  </point>
+  <point>
+    <name>Леруик</name>
+    <region>Шотландия</region>
+    <district>Шетландские острова</district>
+    <id>2722</id>
+  </point>
+  <point>
+    <name>Макл-Флага</name>
+    <region>Шотландия</region>
+    <district>Шетландские острова</district>
+    <id>2710</id>
+  </point>
+  <point>
+    <name>Макл-Холм</name>
+    <region>Шотландия</region>
+    <district>Шетландские острова</district>
+    <id>2736</id>
+  </point>
+  <point>
+    <name>Самбург (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Шетландские острова</district>
+    <id>2721</id>
+  </point>
+  <point>
+    <name>Скатста (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Шетландские острова</district>
+    <id>508657</id>
+  </point>
+  <point>
+    <name>Фоула</name>
+    <region>Шотландия</region>
+    <district>Шетландские острова</district>
+    <id>2750</id>
+  </point>
+  <point>
+    <name>Фэр-Айл</name>
+    <region>Шотландия</region>
+    <district>Шетландские острова</district>
+    <id>2740</id>
+  </point>
+  <point>
+    <name>Картерхаус</name>
+    <region>Шотландия</region>
+    <district>Шотландские границы</district>
+    <id>2977</id>
+  </point>
+  <point>
+    <name>Ньютаун-Сент-Босвеллс</name>
+    <region>Шотландия</region>
+    <district>Шотландские границы</district>
+    <id>222332</id>
+  </point>
+  <point>
+    <name>Чартерхолл</name>
+    <region>Шотландия</region>
+    <district>Шотландские границы</district>
+    <id>2948</id>
+  </point>
+  <point>
+    <name>Эдинбург (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Эдинбург</district>
+    <id>2950</id>
+  </point>
+  <point>
+    <name>Барра</name>
+    <region>Шотландия</region>
+    <district>Эйлиан Сиар</district>
+    <id>2788</id>
+  </point>
+  <point>
+    <name>Бат-оф-Льюис</name>
+    <region>Шотландия</region>
+    <district>Эйлиан Сиар</district>
+    <id>2766</id>
+  </point>
+  <point>
+    <name>Бенбекула (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Эйлиан Сиар</district>
+    <id>2764</id>
+  </point>
+  <point>
+    <name>Лочбойсдэйл</name>
+    <region>Шотландия</region>
+    <district>Эйлиан Сиар</district>
+    <id>2762</id>
+  </point>
+  <point>
+    <name>Норт-Рона</name>
+    <region>Шотландия</region>
+    <district>Эйлиан Сиар</district>
+    <id>2747</id>
+  </point>
+  <point>
+    <name>Саут-Уист-Рендж</name>
+    <region>Шотландия</region>
+    <district>Эйлиан Сиар</district>
+    <id>2765</id>
+  </point>
+  <point>
+    <name>Сторновей (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Эйлиан Сиар</district>
+    <id>2769</id>
+  </point>
+  <point>
+    <name>Сторновей</name>
+    <region>Шотландия</region>
+    <district>Эйлиан Сиар</district>
+    <id>222345</id>
+  </point>
+  <point>
+    <name>Гамильтон</name>
+    <region>Шотландия</region>
+    <district>Южный Ланаркшир</district>
+    <id>222341</id>
+  </point>
+  <point>
+    <name>Друмалбин</name>
+    <region>Шотландия</region>
+    <district>Южный Ланаркшир</district>
+    <id>60456</id>
+  </point>
+  <point>
+    <name>Прествик (аэропорт)</name>
+    <region>Шотландия</region>
+    <district>Южный Эйршир</district>
+    <id>2918</id>
+  </point>
+  <point>
+    <name>Прествик</name>
+    <region>Шотландия</region>
+    <district>Южный Эйршир</district>
+    <id>2925</id>
+  </point>
+  <point>
+    <name>Эйр</name>
+    <region>Шотландия</region>
+    <district>Южный Эйршир</district>
+    <id>222398</id>
+  </point>
+</country>

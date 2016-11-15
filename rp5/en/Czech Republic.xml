@@ -1,0 +1,314 @@
+<country name="Czech Republic" count="52">
+  <point>
+    <name>Benesov</name>
+    <region>Central Bohemian Region</region>
+    <district>Benesov</district>
+    <id>151593</id>
+  </point>
+  <point>
+    <name>Caslav</name>
+    <region>Central Bohemian Region</region>
+    <district>Caslav</district>
+    <id>7649</id>
+  </point>
+  <point>
+    <name>Caslav (airbase)</name>
+    <region>Central Bohemian Region</region>
+    <district>Caslav (airbase)</district>
+    <id>509564</id>
+  </point>
+  <point>
+    <name>Prague</name>
+    <region>Prague</region>
+    <district>Prague</district>
+    <id>152618</id>
+  </point>
+  <point>
+    <name>Hradec Kralove</name>
+    <region>Hradec Kralove Region</region>
+    <district>Hradec Kralove</district>
+    <id>7658</id>
+  </point>
+  <point>
+    <name>Pec Pod Snezkou</name>
+    <region>Hradec Kralove Region</region>
+    <district>Pec Pod Snezkou</district>
+    <id>7657</id>
+  </point>
+  <point>
+    <name>Polom</name>
+    <region>Hradec Kralove Region</region>
+    <district>Polom</district>
+    <id>3555</id>
+  </point>
+  <point>
+    <name>Karlovy Vary (airport)</name>
+    <region>Karlovy Vary Region</region>
+    <district>Karlovy Vary (airport)</district>
+    <id>7571</id>
+  </point>
+  <point>
+    <name>Eger</name>
+    <region>Karlovy Vary Region</region>
+    <district>Eger</district>
+    <id>7565</id>
+  </point>
+  <point>
+    <name>Liberec</name>
+    <region>Liberec Region</region>
+    <district>Liberec</district>
+    <id>7644</id>
+  </point>
+  <point>
+    <name>Liberec (airport)</name>
+    <region>Liberec Region</region>
+    <district>Liberec (airport)</district>
+    <id>509565</id>
+  </point>
+  <point>
+    <name>Cervena</name>
+    <region>Moravian-Silesian Region</region>
+    <district>Cervena</district>
+    <id>7693</id>
+  </point>
+  <point>
+    <name>Lysa Hora</name>
+    <region>Moravian-Silesian Region</region>
+    <district>Lysa Hora</district>
+    <id>7712</id>
+  </point>
+  <point>
+    <name>Ostrava</name>
+    <region>Moravian-Silesian Region</region>
+    <district>Ostrava</district>
+    <id>152619</id>
+  </point>
+  <point>
+    <name>Ostrava / Mosnov (airport)</name>
+    <region>Moravian-Silesian Region</region>
+    <district>Ostrava / Mosnov (airport)</district>
+    <id>7706</id>
+  </point>
+  <point>
+    <name>Olomouc</name>
+    <region>Olomouc Region</region>
+    <district>Olomouc</district>
+    <id>151563</id>
+  </point>
+  <point>
+    <name>Luka</name>
+    <region>Olomouc Region</region>
+    <district>Luka</district>
+    <id>7678</id>
+  </point>
+  <point>
+    <name>Mount Serak</name>
+    <region>Olomouc Region</region>
+    <district>Mount Serak</district>
+    <id>170737</id>
+  </point>
+  <point>
+    <name>Prerov</name>
+    <region>Olomouc Region</region>
+    <district>Prerov</district>
+    <id>7692</id>
+  </point>
+  <point>
+    <name>Prerov (airbase)</name>
+    <region>Olomouc Region</region>
+    <district>Prerov (airbase)</district>
+    <id>509566</id>
+  </point>
+  <point>
+    <name>Prostejov (airport)</name>
+    <region>Olomouc Region</region>
+    <district>Prostejov (airport)</district>
+    <id>510829</id>
+  </point>
+  <point>
+    <name>Pardubice (airport)</name>
+    <region>Pardubice Region</region>
+    <district>Pardubice (airport)</district>
+    <id>7663</id>
+  </point>
+  <point>
+    <name>Svratouch</name>
+    <region>Pardubice Region</region>
+    <district>Svratouch</district>
+    <id>7668</id>
+  </point>
+  <point>
+    <name>Usti Nad Orlici</name>
+    <region>Pardubice Region</region>
+    <district>Usti Nad Orlici</district>
+    <id>7666</id>
+  </point>
+  <point>
+    <name>Plzen</name>
+    <region>Plzen Region</region>
+    <district>Plzen</district>
+    <id>152620</id>
+  </point>
+  <point>
+    <name>Pfraumberg</name>
+    <region>Plzen Region</region>
+    <district>Pfraumberg</district>
+    <id>7573</id>
+  </point>
+  <point>
+    <name>Pilsen / Line (airport)</name>
+    <region>Plzen Region</region>
+    <district>Pilsen / Line (airport)</district>
+    <id>7575</id>
+  </point>
+  <point>
+    <name>Prague / Kbely</name>
+    <region>Prague</region>
+    <district>Prague / Kbely</district>
+    <id>7640</id>
+  </point>
+  <point>
+    <name>Prague / Libus</name>
+    <region>Prague</region>
+    <district>Prague / Libus</district>
+    <id>7611</id>
+  </point>
+  <point>
+    <name>Prague / Ruzyne (airport)</name>
+    <region>Prague</region>
+    <district>Prague / Ruzyne (airport)</district>
+    <id>7610</id>
+  </point>
+  <point>
+    <name>Kbely (airbase)</name>
+    <region>Prague</region>
+    <district>Kbely (airbase)</district>
+    <id>508479</id>
+  </point>
+  <point>
+    <name>Vodochody (airport)</name>
+    <region>Prague</region>
+    <district>Vodochody (airport)</district>
+    <id>510376</id>
+  </point>
+  <point>
+    <name>Ceske Budejovice</name>
+    <region>South Bohemian Region</region>
+    <district>Ceske Budejovice</district>
+    <id>7626</id>
+  </point>
+  <point>
+    <name>Ceske Budejovice / Roznov</name>
+    <region>South Bohemian Region</region>
+    <district>Ceske Budejovice / Roznov</district>
+    <id>170736</id>
+  </point>
+  <point>
+    <name>Churanow</name>
+    <region>South Bohemian Region</region>
+    <district>Churanow</district>
+    <id>7576</id>
+  </point>
+  <point>
+    <name>Kozłowice</name>
+    <region>South Bohemian Region</region>
+    <district>Kozłowice</district>
+    <id>7592</id>
+  </point>
+  <point>
+    <name>Temelin</name>
+    <region>South Bohemian Region</region>
+    <district>Temelin</district>
+    <id>7618</id>
+  </point>
+  <point>
+    <name>Brno</name>
+    <region>South Moravian Region</region>
+    <district>Brno</district>
+    <id>152621</id>
+  </point>
+  <point>
+    <name>Brno / Turany (airport)</name>
+    <region>South Moravian Region</region>
+    <district>Brno / Turany (airport)</district>
+    <id>7688</id>
+  </point>
+  <point>
+    <name>Kucharovitse</name>
+    <region>South Moravian Region</region>
+    <district>Kucharovitse</district>
+    <id>7677</id>
+  </point>
+  <point>
+    <name>Usti nad Labem</name>
+    <region>Usti nad Labem Region</region>
+    <district>Usti nad Labem</district>
+    <id>7599</id>
+  </point>
+  <point>
+    <name>Doksany</name>
+    <region>Usti nad Labem Region</region>
+    <district>Doksany</district>
+    <id>7602</id>
+  </point>
+  <point>
+    <name>Milesovka</name>
+    <region>Usti nad Labem Region</region>
+    <district>Milesovka</district>
+    <id>7591</id>
+  </point>
+  <point>
+    <name>Tusimice</name>
+    <region>Usti nad Labem Region</region>
+    <district>Tusimice</district>
+    <id>7574</id>
+  </point>
+  <point>
+    <name>Dukovany</name>
+    <region>Vysocina Region</region>
+    <district>Dukovany</district>
+    <id>7676</id>
+  </point>
+  <point>
+    <name>Jihlava</name>
+    <region>Vysocina Region</region>
+    <district>Jihlava</district>
+    <id>151602</id>
+  </point>
+  <point>
+    <name>Kostelni Myslova</name>
+    <region>Vysocina Region</region>
+    <district>Kostelni Myslova</district>
+    <id>7654</id>
+  </point>
+  <point>
+    <name>Kramolin</name>
+    <region>Vysocina Region</region>
+    <district>Kramolin</district>
+    <id>7651</id>
+  </point>
+  <point>
+    <name>Namest nad Oslavou (airport)</name>
+    <region>Vysocina Region</region>
+    <district>Namest nad Oslavou (airport)</district>
+    <id>7675</id>
+  </point>
+  <point>
+    <name>Pribyslav</name>
+    <region>Vysocina Region</region>
+    <district>Pribyslav</district>
+    <id>7664</id>
+  </point>
+  <point>
+    <name>Zlin</name>
+    <region>Zlin Region</region>
+    <district>Zlin</district>
+    <id>151609</id>
+  </point>
+  <point>
+    <name>Holesov</name>
+    <region>Zlin Region</region>
+    <district>Holesov</district>
+    <id>7704</id>
+  </point>
+</country>

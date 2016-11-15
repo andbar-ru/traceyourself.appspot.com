@@ -1,0 +1,423 @@
+<region name="Shanghai" count="71">
+  <point>
+    <name>Baoshan</name>
+    <region>Shanghai</region>
+    <district>Baoshan district</district>
+    <id>12076</id>
+  </point>
+  <point>
+    <name>Chenjiazhai</name>
+    <region>Shanghai</region>
+    <district>Baoshan district</district>
+    <id>212166</id>
+  </point>
+  <point>
+    <name>Chengqiao</name>
+    <region>Shanghai</region>
+    <district>Chongming county</district>
+    <id>198065</id>
+  </point>
+  <point>
+    <name>Dachun</name>
+    <region>Shanghai</region>
+    <district>Chongming county</district>
+    <id>212169</id>
+  </point>
+  <point>
+    <name>Fuminnongchang</name>
+    <region>Shanghai</region>
+    <district>Chongming county</district>
+    <id>212170</id>
+  </point>
+  <point>
+    <name>Fuyechang</name>
+    <region>Shanghai</region>
+    <district>Chongming county</district>
+    <id>212171</id>
+  </point>
+  <point>
+    <name>Hexing</name>
+    <region>Shanghai</region>
+    <district>Chongming county</district>
+    <id>212172</id>
+  </point>
+  <point>
+    <name>Nanqiao</name>
+    <region>Shanghai</region>
+    <district>Fengxian district</district>
+    <id>198066</id>
+  </point>
+  <point>
+    <name>Situan Zhen</name>
+    <region>Shanghai</region>
+    <district>Fengxian district</district>
+    <id>212176</id>
+  </point>
+  <point>
+    <name>Wuqiao Zhen</name>
+    <region>Shanghai</region>
+    <district>Fengxian district</district>
+    <id>212177</id>
+  </point>
+  <point>
+    <name>Gan Xiang Xiang</name>
+    <region>Shanghai</region>
+    <district>Jinshan district</district>
+    <id>212179</id>
+  </point>
+  <point>
+    <name>Lv Xiang Xiang</name>
+    <region>Shanghai</region>
+    <district>Jinshan district</district>
+    <id>212181</id>
+  </point>
+  <point>
+    <name>Qianwei Xiang</name>
+    <region>Shanghai</region>
+    <district>Jinshan district</district>
+    <id>212182</id>
+  </point>
+  <point>
+    <name>Shanyang</name>
+    <region>Shanghai</region>
+    <district>Jinshan district</district>
+    <id>197409</id>
+  </point>
+  <point>
+    <name>Tinglin Xiang</name>
+    <region>Shanghai</region>
+    <district>Jinshan district</district>
+    <id>212184</id>
+  </point>
+  <point>
+    <name>Zhuhang Xiang</name>
+    <region>Shanghai</region>
+    <district>Jinshan district</district>
+    <id>212185</id>
+  </point>
+  <point>
+    <name>Xinzhuang Industrial Zone</name>
+    <region>Shanghai</region>
+    <district>Minhang district</district>
+    <id>197410</id>
+  </point>
+  <point>
+    <name>Donghai Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212186</id>
+  </point>
+  <point>
+    <name>Hangtou Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212187</id>
+  </point>
+  <point>
+    <name>Hengmian Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212188</id>
+  </point>
+  <point>
+    <name>Huamu</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>197907</id>
+  </point>
+  <point>
+    <name>Luzao Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212189</id>
+  </point>
+  <point>
+    <name>Malegang</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212190</id>
+  </point>
+  <point>
+    <name>Nanhui</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>198067</id>
+  </point>
+  <point>
+    <name>Shanghai Pudong (airport)</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>508662</id>
+  </point>
+  <point>
+    <name>Tanzhi Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212191</id>
+  </point>
+  <point>
+    <name>Wanxiang Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212192</id>
+  </point>
+  <point>
+    <name>Waxie Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212193</id>
+  </point>
+  <point>
+    <name>Xiasha Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212195</id>
+  </point>
+  <point>
+    <name>Xishagang</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212198</id>
+  </point>
+  <point>
+    <name>Yancang Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212196</id>
+  </point>
+  <point>
+    <name>Zhuqiao Zhen</name>
+    <region>Shanghai</region>
+    <district>Pudong district</district>
+    <id>212197</id>
+  </point>
+  <point>
+    <name>Fengxi</name>
+    <region>Shanghai</region>
+    <district>Qingpu district</district>
+    <id>212199</id>
+  </point>
+  <point>
+    <name>Liansheng Xiang</name>
+    <region>Shanghai</region>
+    <district>Qingpu district</district>
+    <id>212200</id>
+  </point>
+  <point>
+    <name>Shangta Xiang</name>
+    <region>Shanghai</region>
+    <district>Qingpu district</district>
+    <id>212201</id>
+  </point>
+  <point>
+    <name>Xiaozheng Xiang</name>
+    <region>Shanghai</region>
+    <district>Qingpu district</district>
+    <id>212202</id>
+  </point>
+  <point>
+    <name>Xiayang</name>
+    <region>Shanghai</region>
+    <district>Qingpu district</district>
+    <id>198284</id>
+  </point>
+  <point>
+    <name>Zhengdian Xiang</name>
+    <region>Shanghai</region>
+    <district>Qingpu district</district>
+    <id>212205</id>
+  </point>
+  <point>
+    <name>Shanghai</name>
+    <district>Shanghai municipality</district>
+    <id>198285</id>
+  </point>
+  <point>
+    <name>Dong Wanxincunxiao</name>
+    <district>Shanghai municipality</district>
+    <id>429742</id>
+  </point>
+  <point>
+    <name>Luli</name>
+    <district>Shanghai municipality</district>
+    <id>212294</id>
+  </point>
+  <point>
+    <name>Luohang</name>
+    <district>Shanghai municipality</district>
+    <id>212295</id>
+  </point>
+  <point>
+    <name>Shanghai / Hongqiao (airport)</name>
+    <district>Shanghai municipality</district>
+    <id>12077</id>
+  </point>
+  <point>
+    <name>Andaluwusong</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212206</id>
+  </point>
+  <point>
+    <name>Baijiahuayuan</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212207</id>
+  </point>
+  <point>
+    <name>Beicai</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212210</id>
+  </point>
+  <point>
+    <name>Dongfeijiatang</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212223</id>
+  </point>
+  <point>
+    <name>Donggaojiazhai</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212224</id>
+  </point>
+  <point>
+    <name>Hehe</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212249</id>
+  </point>
+  <point>
+    <name>Helicunhengsha</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212250</id>
+  </point>
+  <point>
+    <name>Huachengdaxia</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212257</id>
+  </point>
+  <point>
+    <name>Huyigonglu</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212265</id>
+  </point>
+  <point>
+    <name>Liujialong</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212288</id>
+  </point>
+  <point>
+    <name>Longtanyuan</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212292</id>
+  </point>
+  <point>
+    <name>Mingzhushangxia</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212301</id>
+  </point>
+  <point>
+    <name>Nanbao</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212302</id>
+  </point>
+  <point>
+    <name>Niuqiaocun</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212307</id>
+  </point>
+  <point>
+    <name>Shenjia</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212335</id>
+  </point>
+  <point>
+    <name>Sujiaqiao</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212337</id>
+  </point>
+  <point>
+    <name>Tuanjieluodian</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212345</id>
+  </point>
+  <point>
+    <name>Xinglong</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212359</id>
+  </point>
+  <point>
+    <name>Xinshi</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212366</id>
+  </point>
+  <point>
+    <name>Xishenjiatang</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212368</id>
+  </point>
+  <point>
+    <name>Yan`anxilu</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212371</id>
+  </point>
+  <point>
+    <name>Yecangyanghang</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212374</id>
+  </point>
+  <point>
+    <name>Youqiao</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212377</id>
+  </point>
+  <point>
+    <name>Yuanjialuojing</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212378</id>
+  </point>
+  <point>
+    <name>Zhonghuaxincun</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212388</id>
+  </point>
+  <point>
+    <name>Zhongshuang</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212393</id>
+  </point>
+  <point>
+    <name>Zhuqiaoloutang</name>
+    <region>Shanghai</region>
+    <district>Shanghai municipality</district>
+    <id>212401</id>
+  </point>
+  <point>
+    <name>Fangsong</name>
+    <region>Shanghai</region>
+    <district>Songjiang district</district>
+    <id>198068</id>
+  </point>
+</region>

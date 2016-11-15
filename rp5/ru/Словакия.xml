@@ -1,0 +1,584 @@
+<country name="Словакия" count="97">
+  <point>
+    <name>Банска Бистрица</name>
+    <region>Банскобистрицкий край</region>
+    <district>Банска Бистрица</district>
+    <id>151922</id>
+  </point>
+  <point>
+    <name>Дудинце</name>
+    <region>Банскобистрицкий край</region>
+    <district>Дудинце</district>
+    <id>7776</id>
+  </point>
+  <point>
+    <name>Лученец (аэропорт)</name>
+    <region>Банскобистрицкий край</region>
+    <district>Лученец (аэропорт)</district>
+    <id>7786</id>
+  </point>
+  <point>
+    <name>Слиач (аэропорт)</name>
+    <region>Банскобистрицкий край</region>
+    <district>Слиач (аэропорт)</district>
+    <id>7782</id>
+  </point>
+  <point>
+    <name>Банска Штьявница</name>
+    <region>Банскобистрицкий край</region>
+    <district>Банска Штьявница</district>
+    <id>151921</id>
+  </point>
+  <point>
+    <name>Брезно</name>
+    <region>Банскобистрицкий край</region>
+    <district>Брезно</district>
+    <id>151918</id>
+  </point>
+  <point>
+    <name>Вельки Кртиш</name>
+    <region>Банскобистрицкий край</region>
+    <district>Вельки Кртиш</district>
+    <id>151916</id>
+  </point>
+  <point>
+    <name>Детва</name>
+    <region>Банскобистрицкий край</region>
+    <district>Детва</district>
+    <id>151907</id>
+  </point>
+  <point>
+    <name>Жьяр-над-Гроном</name>
+    <region>Банскобистрицкий край</region>
+    <district>Жьяр-над-Гроном</district>
+    <id>151902</id>
+  </point>
+  <point>
+    <name>Зволен</name>
+    <region>Банскобистрицкий край</region>
+    <district>Зволен</district>
+    <id>151901</id>
+  </point>
+  <point>
+    <name>Ревуца</name>
+    <region>Банскобистрицкий край</region>
+    <district>Ревуца</district>
+    <id>151947</id>
+  </point>
+  <point>
+    <name>Римавска Собота</name>
+    <region>Банскобистрицкий край</region>
+    <district>Римавска Собота</district>
+    <id>151946</id>
+  </point>
+  <point>
+    <name>Телгарт</name>
+    <region>Банскобистрицкий край</region>
+    <district>Телгарт</district>
+    <id>7796</id>
+  </point>
+  <point>
+    <name>Филяково</name>
+    <region>Банскобистрицкий край</region>
+    <district>Филяково</district>
+    <id>151929</id>
+  </point>
+  <point>
+    <name>Братислава</name>
+    <region>Братиславский край</region>
+    <district>Братислава</district>
+    <id>7716</id>
+  </point>
+  <point>
+    <name>Братислава (аэропорт)</name>
+    <region>Братиславский край</region>
+    <district>Братислава (аэропорт)</district>
+    <id>507977</id>
+  </point>
+  <point>
+    <name>Братислава / Колиба (аэропорт)</name>
+    <region>Братиславский край</region>
+    <district>Братислава / Колиба (аэропорт)</district>
+    <id>348627</id>
+  </point>
+  <point>
+    <name>Малацки (авиабаза)</name>
+    <region>Братиславский край</region>
+    <district>Малацки (авиабаза)</district>
+    <id>510544</id>
+  </point>
+  <point>
+    <name>Малацки</name>
+    <region>Братиславский край</region>
+    <district>Малацки</district>
+    <id>7715</id>
+  </point>
+  <point>
+    <name>Пезинок</name>
+    <region>Братиславский край</region>
+    <district>Пезинок</district>
+    <id>151887</id>
+  </point>
+  <point>
+    <name>Сенец</name>
+    <region>Братиславский край</region>
+    <district>Сенец</district>
+    <id>151941</id>
+  </point>
+  <point>
+    <name>Жилина / Хриков (аэропорт)</name>
+    <region>Жилинский край</region>
+    <district>Жилина / Хриков (аэропорт)</district>
+    <id>7750</id>
+  </point>
+  <point>
+    <name>Липтовски-Микулаш</name>
+    <region>Жилинский край</region>
+    <district>Липтовски-Микулаш</district>
+    <id>151229</id>
+  </point>
+  <point>
+    <name>Моховце</name>
+    <region>Жилинский край</region>
+    <district>Моховце</district>
+    <id>7766</id>
+  </point>
+  <point>
+    <name>Хопок</name>
+    <region>Жилинский край</region>
+    <district>Хопок</district>
+    <id>7784</id>
+  </point>
+  <point>
+    <name>Битча</name>
+    <region>Жилинский край</region>
+    <district>Битча</district>
+    <id>151919</id>
+  </point>
+  <point>
+    <name>Долны Кубин</name>
+    <region>Жилинский край</region>
+    <district>Долны Кубин</district>
+    <id>151906</id>
+  </point>
+  <point>
+    <name>Кисуцке Нове Место</name>
+    <region>Жилинский край</region>
+    <district>Кисуцке Нове Место</district>
+    <id>151898</id>
+  </point>
+  <point>
+    <name>Льешек</name>
+    <region>Жилинский край</region>
+    <district>Льешек</district>
+    <id>7785</id>
+  </point>
+  <point>
+    <name>Мартин</name>
+    <region>Жилинский край</region>
+    <district>Мартин</district>
+    <id>141688</id>
+  </point>
+  <point>
+    <name>Ружомберок</name>
+    <region>Жилинский край</region>
+    <district>Ружомберок</district>
+    <id>151944</id>
+  </point>
+  <point>
+    <name>Чадца</name>
+    <region>Жилинский край</region>
+    <district>Чадца</district>
+    <id>151928</id>
+  </point>
+  <point>
+    <name>Кошице (аэропорт)</name>
+    <region>Кошицкий край</region>
+    <district>Кошице (аэропорт)</district>
+    <id>7804</id>
+  </point>
+  <point>
+    <name>Койсовска-Гола</name>
+    <region>Кошицкий край</region>
+    <district>Койсовска-Гола</district>
+    <id>7803</id>
+  </point>
+  <point>
+    <name>Милхостов</name>
+    <region>Кошицкий край</region>
+    <district>Милхостов</district>
+    <id>7813</id>
+  </point>
+  <point>
+    <name>Требишов</name>
+    <region>Кошицкий край</region>
+    <district>Требишов</district>
+    <id>151931</id>
+  </point>
+  <point>
+    <name>Вельке Капушаны</name>
+    <region>Кошицкий край</region>
+    <district>Вельке Капушаны</district>
+    <id>151917</id>
+  </point>
+  <point>
+    <name>Молдава-над-Бодвоу</name>
+    <region>Кошицкий край</region>
+    <district>Молдава-над-Бодвоу</district>
+    <id>151892</id>
+  </point>
+  <point>
+    <name>Рожнява</name>
+    <region>Кошицкий край</region>
+    <district>Рожнява</district>
+    <id>151945</id>
+  </point>
+  <point>
+    <name>Спишска Нова Вес</name>
+    <region>Кошицкий край</region>
+    <district>Спишска Нова Вес</district>
+    <id>151935</id>
+  </point>
+  <point>
+    <name>Нитра (аэропорт)</name>
+    <region>Нитранский край</region>
+    <district>Нитра (аэропорт)</district>
+    <id>7756</id>
+  </point>
+  <point>
+    <name>Гурбаново</name>
+    <region>Нитранский край</region>
+    <district>Гурбаново</district>
+    <id>7771</id>
+  </point>
+  <point>
+    <name>Комарно</name>
+    <region>Нитранский край</region>
+    <district>Комарно</district>
+    <id>151897</id>
+  </point>
+  <point>
+    <name>Левице</name>
+    <region>Нитранский край</region>
+    <district>Левице</district>
+    <id>151895</id>
+  </point>
+  <point>
+    <name>Врабле</name>
+    <region>Нитранский край</region>
+    <district>Врабле</district>
+    <id>151915</id>
+  </point>
+  <point>
+    <name>Жельезовце</name>
+    <region>Нитранский край</region>
+    <district>Жельезовце</district>
+    <id>151903</id>
+  </point>
+  <point>
+    <name>Злате Моравце</name>
+    <region>Нитранский край</region>
+    <district>Злате Моравце</district>
+    <id>151900</id>
+  </point>
+  <point>
+    <name>Коларово</name>
+    <region>Нитранский край</region>
+    <district>Коларово</district>
+    <id>151896</id>
+  </point>
+  <point>
+    <name>Нове Замки</name>
+    <region>Нитранский край</region>
+    <district>Нове Замки</district>
+    <id>151890</id>
+  </point>
+  <point>
+    <name>Топольчаны</name>
+    <region>Нитранский край</region>
+    <district>Топольчаны</district>
+    <id>151932</id>
+  </point>
+  <point>
+    <name>Шаля</name>
+    <region>Нитранский край</region>
+    <district>Шаля</district>
+    <id>151927</id>
+  </point>
+  <point>
+    <name>Шураны</name>
+    <region>Нитранский край</region>
+    <district>Шураны</district>
+    <id>151924</id>
+  </point>
+  <point>
+    <name>Прешов</name>
+    <region>Прешовский край</region>
+    <district>Прешов</district>
+    <id>510545</id>
+  </point>
+  <point>
+    <name>Ломницкий Штит (гора)</name>
+    <region>Прешовский край</region>
+    <district>Ломницкий Штит (гора)</district>
+    <id>7787</id>
+  </point>
+  <point>
+    <name>Прешов (аэропорт)</name>
+    <region>Прешовский край</region>
+    <district>Прешов (аэропорт)</district>
+    <id>7799</id>
+  </point>
+  <point>
+    <name>Стропков</name>
+    <region>Прешовский край</region>
+    <district>Стропков</district>
+    <id>7807</id>
+  </point>
+  <point>
+    <name>Бардейов</name>
+    <region>Прешовский край</region>
+    <district>Бардейов</district>
+    <id>151920</id>
+  </point>
+  <point>
+    <name>Вранов-над-Топлёу</name>
+    <region>Прешовский край</region>
+    <district>Вранов-над-Топлёу</district>
+    <id>151914</id>
+  </point>
+  <point>
+    <name>Высоке Татры</name>
+    <region>Прешовский край</region>
+    <district>Высоке Татры</district>
+    <id>151913</id>
+  </point>
+  <point>
+    <name>Гуменне</name>
+    <region>Прешовский край</region>
+    <district>Гуменне</district>
+    <id>151908</id>
+  </point>
+  <point>
+    <name>Каменица-над-Цирохоу (аэропорт)</name>
+    <region>Прешовский край</region>
+    <district>Каменица-над-Цирохоу (аэропорт)</district>
+    <id>7816</id>
+  </point>
+  <point>
+    <name>Кежмарок</name>
+    <region>Прешовский край</region>
+    <district>Кежмарок</district>
+    <id>151899</id>
+  </point>
+  <point>
+    <name>Левоча</name>
+    <region>Прешовский край</region>
+    <district>Левоча</district>
+    <id>151894</id>
+  </point>
+  <point>
+    <name>Попрад / Гановче</name>
+    <region>Прешовский край</region>
+    <district>Попрад / Гановче</district>
+    <id>7797</id>
+  </point>
+  <point>
+    <name>Попрад / Татры (аэропорт)</name>
+    <region>Прешовский край</region>
+    <district>Попрад / Татры (аэропорт)</district>
+    <id>7794</id>
+  </point>
+  <point>
+    <name>Сабинов</name>
+    <region>Прешовский край</region>
+    <district>Сабинов</district>
+    <id>151943</id>
+  </point>
+  <point>
+    <name>Свидник</name>
+    <region>Прешовский край</region>
+    <district>Свидник</district>
+    <id>151942</id>
+  </point>
+  <point>
+    <name>Снина</name>
+    <region>Прешовский край</region>
+    <district>Снина</district>
+    <id>151937</id>
+  </point>
+  <point>
+    <name>Спишска Бела</name>
+    <region>Прешовский край</region>
+    <district>Спишска Бела</district>
+    <id>151936</id>
+  </point>
+  <point>
+    <name>Стара Любовня</name>
+    <region>Прешовский край</region>
+    <district>Стара Любовня</district>
+    <id>151934</id>
+  </point>
+  <point>
+    <name>Штребске-Плесо</name>
+    <region>Прешовский край</region>
+    <district>Штребске-Плесо</district>
+    <id>7792</id>
+  </point>
+  <point>
+    <name>Тренчин</name>
+    <region>Тренчинский край</region>
+    <district>Тренчин</district>
+    <id>7753</id>
+  </point>
+  <point>
+    <name>Прьевидза</name>
+    <region>Тренчинский край</region>
+    <district>Прьевидза</district>
+    <id>7773</id>
+  </point>
+  <point>
+    <name>Прьевидза (аэропорт)</name>
+    <region>Тренчинский край</region>
+    <district>Прьевидза (аэропорт)</district>
+    <id>509571</id>
+  </point>
+  <point>
+    <name>Штурово</name>
+    <region>Тренчинский край</region>
+    <district>Штурово</district>
+    <id>151925</id>
+  </point>
+  <point>
+    <name>Бановце-над-Бебравоу</name>
+    <region>Тренчинский край</region>
+    <district>Бановце-над-Бебравоу</district>
+    <id>151923</id>
+  </point>
+  <point>
+    <name>Гандлова</name>
+    <region>Тренчинский край</region>
+    <district>Гандлова</district>
+    <id>151911</id>
+  </point>
+  <point>
+    <name>Дубница-над-Вагом</name>
+    <region>Тренчинский край</region>
+    <district>Дубница-над-Вагом</district>
+    <id>151905</id>
+  </point>
+  <point>
+    <name>Миява</name>
+    <region>Тренчинский край</region>
+    <district>Миява</district>
+    <id>151893</id>
+  </point>
+  <point>
+    <name>Нова Дубница</name>
+    <region>Тренчинский край</region>
+    <district>Нова Дубница</district>
+    <id>151891</id>
+  </point>
+  <point>
+    <name>Нове Место-над-Вагом</name>
+    <region>Тренчинский край</region>
+    <district>Нове Место-над-Вагом</district>
+    <id>151889</id>
+  </point>
+  <point>
+    <name>Партизанске</name>
+    <region>Тренчинский край</region>
+    <district>Партизанске</district>
+    <id>151888</id>
+  </point>
+  <point>
+    <name>Поважска Бистрица</name>
+    <region>Тренчинский край</region>
+    <district>Поважска Бистрица</district>
+    <id>151886</id>
+  </point>
+  <point>
+    <name>Пухов</name>
+    <region>Тренчинский край</region>
+    <district>Пухов</district>
+    <id>151948</id>
+  </point>
+  <point>
+    <name>Стара Тура</name>
+    <region>Тренчинский край</region>
+    <district>Стара Тура</district>
+    <id>151933</id>
+  </point>
+  <point>
+    <name>Трнава</name>
+    <region>Трнавский край</region>
+    <district>Трнава</district>
+    <id>151930</id>
+  </point>
+  <point>
+    <name>Куновице (аэропорт)</name>
+    <region>Трнавский край</region>
+    <district>Куновице (аэропорт)</district>
+    <id>508943</id>
+  </point>
+  <point>
+    <name>Пьештяны (аэропорт)</name>
+    <region>Трнавский край</region>
+    <district>Пьештяны (аэропорт)</district>
+    <id>7733</id>
+  </point>
+  <point>
+    <name>Ясловске-Богунице</name>
+    <region>Трнавский край</region>
+    <district>Ясловске-Богунице</district>
+    <id>7726</id>
+  </point>
+  <point>
+    <name>Галанта</name>
+    <region>Трнавский край</region>
+    <district>Галанта</district>
+    <id>151912</id>
+  </point>
+  <point>
+    <name>Глоговец</name>
+    <region>Трнавский край</region>
+    <district>Глоговец</district>
+    <id>151910</id>
+  </point>
+  <point>
+    <name>Голич-над-Моравой</name>
+    <region>Трнавский край</region>
+    <district>Голич-над-Моравой</district>
+    <id>151909</id>
+  </point>
+  <point>
+    <name>Дунайска Стреда</name>
+    <region>Трнавский край</region>
+    <district>Дунайска Стреда</district>
+    <id>151904</id>
+  </point>
+  <point>
+    <name>Сеница</name>
+    <region>Трнавский край</region>
+    <district>Сеница</district>
+    <id>151940</id>
+  </point>
+  <point>
+    <name>Середь</name>
+    <region>Трнавский край</region>
+    <district>Середь</district>
+    <id>151939</id>
+  </point>
+  <point>
+    <name>Скалица</name>
+    <region>Трнавский край</region>
+    <district>Скалица</district>
+    <id>151938</id>
+  </point>
+  <point>
+    <name>Шаморин</name>
+    <region>Трнавский край</region>
+    <district>Шаморин</district>
+    <id>151926</id>
+  </point>
+</country>

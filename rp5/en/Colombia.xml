@@ -1,0 +1,356 @@
+<country name="Colombia" count="59">
+  <point>
+    <name>Leticia (airport)</name>
+    <region>Amazonas</region>
+    <district>Leticia</district>
+    <id>338311</id>
+  </point>
+  <point>
+    <name>Apartado / Los Cedros (airport)</name>
+    <region>Antioquia</region>
+    <district>Apartado / Los Cedros</district>
+    <id>338329</id>
+  </point>
+  <point>
+    <name>Medellin (airport)</name>
+    <region>Antioquia</region>
+    <district>Medellin</district>
+    <id>338324</id>
+  </point>
+  <point>
+    <name>Rionegro (airport)</name>
+    <region>Antioquia</region>
+    <district>Rionegro</district>
+    <id>338323</id>
+  </point>
+  <point>
+    <name>Arauca</name>
+    <region>Arauca</region>
+    <district></district>
+    <id>341421</id>
+  </point>
+  <point>
+    <name>Arauca (airport)</name>
+    <region>Arauca</region>
+    <district>Arauca (airport)</district>
+    <id>338325</id>
+  </point>
+  <point>
+    <name>Barranquilla</name>
+    <region>Atlantico</region>
+    <district>Barranquilla</district>
+    <id>341422</id>
+  </point>
+  <point>
+    <name>Malambo</name>
+    <region>Atlantico</region>
+    <district>Malambo</district>
+    <id>464251</id>
+  </point>
+  <point>
+    <name>Malambo / Ernesto Cortissoz (airport)</name>
+    <region>Atlantico</region>
+    <district>Malambo</district>
+    <id>338333</id>
+  </point>
+  <point>
+    <name>Cartagena</name>
+    <region>Bolivar</region>
+    <district>Cartagena</district>
+    <id>341428</id>
+  </point>
+  <point>
+    <name>Cartagena / Rafael Nunez (airport)</name>
+    <region>Bolivar</region>
+    <district>Cartagena</district>
+    <id>338334</id>
+  </point>
+  <point>
+    <name>Tunja</name>
+    <region>Boyaca</region>
+    <district>Tunja</district>
+    <id>341429</id>
+  </point>
+  <point>
+    <name>Manizales</name>
+    <region>Caldas</region>
+    <district>Manizales</district>
+    <id>341430</id>
+  </point>
+  <point>
+    <name>La Nubia (Airport)</name>
+    <region>Caldas</region>
+    <district>Manizales</district>
+    <id>510043</id>
+  </point>
+  <point>
+    <name>Florencia</name>
+    <region>Caqueta</region>
+    <district>Florencia</district>
+    <id>341431</id>
+  </point>
+  <point>
+    <name>Yopal</name>
+    <region>Casanare</region>
+    <district>Yopal</district>
+    <id>341432</id>
+  </point>
+  <point>
+    <name>Popayan</name>
+    <region>Cauca</region>
+    <district>Popayan</district>
+    <id>341433</id>
+  </point>
+  <point>
+    <name>Valledupar</name>
+    <region>Cesar</region>
+    <district>Valledupar</district>
+    <id>341434</id>
+  </point>
+  <point>
+    <name>Valledupar / Fagrave (airport)</name>
+    <region>Cesar</region>
+    <district>Valledupar</district>
+    <id>338331</id>
+  </point>
+  <point>
+    <name>Quibdo (airport)</name>
+    <region>Choco</region>
+    <district>Quibdo</district>
+    <id>338321</id>
+  </point>
+  <point>
+    <name>Monteria</name>
+    <region>Cordoba</region>
+    <district>Monteria</district>
+    <id>341435</id>
+  </point>
+  <point>
+    <name>Monteria / Los Garzones (airport)</name>
+    <region>Cordoba</region>
+    <district>Monteria</district>
+    <id>338330</id>
+  </point>
+  <point>
+    <name>Anapoima</name>
+    <region>Cundinamarca</region>
+    <district>Anapoima</district>
+    <id>463762</id>
+  </point>
+  <point>
+    <name>Bogota / Eldorado (airport)</name>
+    <region>Cundinamarca</region>
+    <district>Anapoima</district>
+    <id>338317</id>
+  </point>
+  <point>
+    <name>Bogota</name>
+    <region>Distrito Capital</region>
+    <district>Bogota</district>
+    <id>337446</id>
+  </point>
+  <point>
+    <name>Inirida</name>
+    <region>Guainia</region>
+    <district>Inirida</district>
+    <id>341436</id>
+  </point>
+  <point>
+    <name>San Jose del Guaviare</name>
+    <region>Guaviare</region>
+    <district>San Jose del Guaviare</district>
+    <id>341437</id>
+  </point>
+  <point>
+    <name>Neiva (airport)</name>
+    <region>Huila</region>
+    <district>Neiva</district>
+    <id>338314</id>
+  </point>
+  <point>
+    <name>Riohacha (airport)</name>
+    <region>La Guajira</region>
+    <district>Riohacha</district>
+    <id>338332</id>
+  </point>
+  <point>
+    <name>Santa Marta</name>
+    <region>Magdalena</region>
+    <district>Santa Marta</district>
+    <id>341438</id>
+  </point>
+  <point>
+    <name>Santa Marta / Simon Bolivar (airport)</name>
+    <region>Magdalena</region>
+    <district>Santa Marta</district>
+    <id>338335</id>
+  </point>
+  <point>
+    <name>Villavicencio (airport)</name>
+    <region>Meta</region>
+    <district>Villavicencio</district>
+    <id>338316</id>
+  </point>
+  <point>
+    <name>Buesaco</name>
+    <region>Narino</region>
+    <district>Buesaco</district>
+    <id>463848</id>
+  </point>
+  <point>
+    <name>Pasto / Antonio Narino (airport)</name>
+    <region>Narino</region>
+    <district>Buesaco</district>
+    <id>338313</id>
+  </point>
+  <point>
+    <name>Cumbal</name>
+    <region>Narino</region>
+    <district>Cumbal</district>
+    <id>463986</id>
+  </point>
+  <point>
+    <name>Ipiales / San Luis (airport)</name>
+    <region>Narino</region>
+    <district>Ipiales</district>
+    <id>338312</id>
+  </point>
+  <point>
+    <name>Pasto</name>
+    <region>Narino</region>
+    <district>Pasto</district>
+    <id>341439</id>
+  </point>
+  <point>
+    <name>Cucuta (airport)</name>
+    <region>Norte de Santander</region>
+    <district>Cucuta</district>
+    <id>338326</id>
+  </point>
+  <point>
+    <name>La Fria (airport)</name>
+    <region>Norte de Santander</region>
+    <district>Cucuta</district>
+    <id>508944</id>
+  </point>
+  <point>
+    <name>Mocoa</name>
+    <region>Putumayo</region>
+    <district>Mocoa</district>
+    <id>341440</id>
+  </point>
+  <point>
+    <name>Armenia</name>
+    <region>Quindio</region>
+    <district>Armenia</district>
+    <id>341441</id>
+  </point>
+  <point>
+    <name>El Eden (airport)</name>
+    <region>Quindio</region>
+    <district>Armenia</district>
+    <id>338319</id>
+  </point>
+  <point>
+    <name>Pereira (airport)</name>
+    <region>Risaralda</region>
+    <district>Pereira</district>
+    <id>338320</id>
+  </point>
+  <point>
+    <name>San Andres (airport)</name>
+    <region>San Andres and Providencia</region>
+    <district>San Andres</district>
+    <id>338337</id>
+  </point>
+  <point>
+    <name>Providencia (airport)</name>
+    <region>San Andres and Providencia</region>
+    <district>Providencia and Santa Catalina</district>
+    <id>338336</id>
+  </point>
+  <point>
+    <name>Barrancabermeja / Yariguies (airport)</name>
+    <region>Santander</region>
+    <district>Barrancabermeja</district>
+    <id>338328</id>
+  </point>
+  <point>
+    <name>Bucaramanga</name>
+    <region>Santander</region>
+    <district>Bucaramanga</district>
+    <id>341442</id>
+  </point>
+  <point>
+    <name>Lebrija</name>
+    <region>Santander</region>
+    <district>Lebrija</district>
+    <id>464222</id>
+  </point>
+  <point>
+    <name>Bucaramanga / Palonegro (airport)</name>
+    <region>Santander</region>
+    <district>Lebrija</district>
+    <id>338327</id>
+  </point>
+  <point>
+    <name>Sincelejo</name>
+    <region>Sucre</region>
+    <district>Sincelejo</district>
+    <id>341443</id>
+  </point>
+  <point>
+    <name>Ibague</name>
+    <region>Tolima</region>
+    <district>Ibague</district>
+    <id>341444</id>
+  </point>
+  <point>
+    <name>Perales (airport)</name>
+    <region>Tolima</region>
+    <district>Ibague</district>
+    <id>338318</id>
+  </point>
+  <point>
+    <name>Palmira</name>
+    <region>Valle del Cauca</region>
+    <district>Palmira</district>
+    <id>464363</id>
+  </point>
+  <point>
+    <name>Cali / Alfonso Bonilla (airport)</name>
+    <region>Valle del Cauca</region>
+    <district>Palmira</district>
+    <id>338315</id>
+  </point>
+  <point>
+    <name>Cali</name>
+    <region>Valle del Cauca</region>
+    <district>Santiago de Cali</district>
+    <id>341445</id>
+  </point>
+  <point>
+    <name>Mitu</name>
+    <region>Vaupes</region>
+    <district>Mitu</district>
+    <id>341446</id>
+  </point>
+  <point>
+    <name>Yavarate</name>
+    <region>Vaupes</region>
+    <district>Yavarate</district>
+    <id>464801</id>
+  </point>
+  <point>
+    <name>Iauarete (airport)</name>
+    <region>Vaupes</region>
+    <district>Yavarate</district>
+    <id>510026</id>
+  </point>
+  <point>
+    <name>Puerto Carreno (airport)</name>
+    <region>Vichada</region>
+    <district>Puerto Carreno</district>
+    <id>338322</id>
+  </point>
+</country>

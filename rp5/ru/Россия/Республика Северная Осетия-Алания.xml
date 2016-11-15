@@ -1,0 +1,932 @@
+<region name="Республика Северная Осетия-Алания" count="186">
+  <point>
+    <name>Алагир</name>
+    <district>Алагирский район</district>
+    <id>958</id>
+  </point>
+  <point>
+    <name>Бурон</name>
+    <district>Алагирский район</district>
+    <id>111069</id>
+  </point>
+  <point>
+    <name>Верхний Цей</name>
+    <district>Алагирский район</district>
+    <id>111080</id>
+  </point>
+  <point>
+    <name>Майрамадаг</name>
+    <district>Алагирский район</district>
+    <id>111131</id>
+  </point>
+  <point>
+    <name>Садон</name>
+    <district>Алагирский район</district>
+    <id>111072</id>
+  </point>
+  <point>
+    <name>Абайтикау</name>
+    <district>Алагирский район</district>
+    <id>111078</id>
+  </point>
+  <point>
+    <name>Биз</name>
+    <district>Алагирский район</district>
+    <id>111164</id>
+  </point>
+  <point>
+    <name>Варце</name>
+    <district>Алагирский район</district>
+    <id>111076</id>
+  </point>
+  <point>
+    <name>Верхний Зарамаг</name>
+    <district>Алагирский район</district>
+    <id>167629</id>
+  </point>
+  <point>
+    <name>Верхний Згид</name>
+    <district>Алагирский район</district>
+    <id>111070</id>
+  </point>
+  <point>
+    <name>Верхний Унал</name>
+    <district>Алагирский район</district>
+    <id>167634</id>
+  </point>
+  <point>
+    <name>Верхний Фиагдон</name>
+    <district>Алагирский район</district>
+    <id>2156</id>
+  </point>
+  <point>
+    <name>Гусыра</name>
+    <district>Алагирский район</district>
+    <id>111146</id>
+  </point>
+  <point>
+    <name>Дагом</name>
+    <district>Алагирский район</district>
+    <id>111161</id>
+  </point>
+  <point>
+    <name>Дзуарикау</name>
+    <district>Алагирский район</district>
+    <id>48602</id>
+  </point>
+  <point>
+    <name>Донисар</name>
+    <district>Алагирский район</district>
+    <id>167635</id>
+  </point>
+  <point>
+    <name>Елгона</name>
+    <district>Алагирский район</district>
+    <id>111178</id>
+  </point>
+  <point>
+    <name>Згил</name>
+    <district>Алагирский район</district>
+    <id>167630</id>
+  </point>
+  <point>
+    <name>Зинцар</name>
+    <district>Алагирский район</district>
+    <id>111163</id>
+  </point>
+  <point>
+    <name>Зригатта</name>
+    <district>Алагирский район</district>
+    <id>111191</id>
+  </point>
+  <point>
+    <name>Калак</name>
+    <district>Алагирский район</district>
+    <id>111075</id>
+  </point>
+  <point>
+    <name>Карца</name>
+    <district>Алагирский район</district>
+    <id>111154</id>
+  </point>
+  <point>
+    <name>Кесатикау</name>
+    <district>Алагирский район</district>
+    <id>111190</id>
+  </point>
+  <point>
+    <name>Кодахджин</name>
+    <district>Алагирский район</district>
+    <id>111136</id>
+  </point>
+  <point>
+    <name>Красный Ход</name>
+    <district>Алагирский район</district>
+    <id>111167</id>
+  </point>
+  <point>
+    <name>Лисри</name>
+    <district>Алагирский район</district>
+    <id>167631</id>
+  </point>
+  <point>
+    <name>Мизур</name>
+    <district>Алагирский район</district>
+    <id>111071</id>
+  </point>
+  <point>
+    <name>Нар</name>
+    <district>Алагирский район</district>
+    <id>111180</id>
+  </point>
+  <point>
+    <name>Нижний Бирагзанг</name>
+    <district>Алагирский район</district>
+    <id>167628</id>
+  </point>
+  <point>
+    <name>Нижний Зарамаг</name>
+    <district>Алагирский район</district>
+    <id>5811</id>
+  </point>
+  <point>
+    <name>Нижний Унал</name>
+    <district>Алагирский район</district>
+    <id>111171</id>
+  </point>
+  <point>
+    <name>Нижний Цей</name>
+    <district>Алагирский район</district>
+    <id>111079</id>
+  </point>
+  <point>
+    <name>Ногкау</name>
+    <district>Алагирский район</district>
+    <id>111184</id>
+  </point>
+  <point>
+    <name>Рамоново</name>
+    <district>Алагирский район</district>
+    <id>111158</id>
+  </point>
+  <point>
+    <name>Регах</name>
+    <district>Алагирский район</district>
+    <id>111189</id>
+  </point>
+  <point>
+    <name>Сагол</name>
+    <district>Алагирский район</district>
+    <id>111181</id>
+  </point>
+  <point>
+    <name>Сатат</name>
+    <district>Алагирский район</district>
+    <id>167632</id>
+  </point>
+  <point>
+    <name>Саубын</name>
+    <district>Алагирский район</district>
+    <id>111188</id>
+  </point>
+  <point>
+    <name>Сахсат</name>
+    <district>Алагирский район</district>
+    <id>111177</id>
+  </point>
+  <point>
+    <name>Суадаг</name>
+    <district>Алагирский район</district>
+    <id>48614</id>
+  </point>
+  <point>
+    <name>Тагардон</name>
+    <district>Алагирский район</district>
+    <id>111147</id>
+  </point>
+  <point>
+    <name>Тамиск</name>
+    <district>Алагирский район</district>
+    <id>111165</id>
+  </point>
+  <point>
+    <name>Тиб</name>
+    <district>Алагирский район</district>
+    <id>111083</id>
+  </point>
+  <point>
+    <name>Урсдон</name>
+    <district>Алагирский район</district>
+    <id>111162</id>
+  </point>
+  <point>
+    <name>Хаталдон</name>
+    <district>Алагирский район</district>
+    <id>111151</id>
+  </point>
+  <point>
+    <name>Холст</name>
+    <district>Алагирский район</district>
+    <id>111073</id>
+  </point>
+  <point>
+    <name>Хукали</name>
+    <district>Алагирский район</district>
+    <id>111077</id>
+  </point>
+  <point>
+    <name>Цаликово</name>
+    <district>Алагирский район</district>
+    <id>111157</id>
+  </point>
+  <point>
+    <name>Цамад</name>
+    <district>Алагирский район</district>
+    <id>111170</id>
+  </point>
+  <point>
+    <name>Цемса</name>
+    <district>Алагирский район</district>
+    <id>111179</id>
+  </point>
+  <point>
+    <name>Цми</name>
+    <district>Алагирский район</district>
+    <id>167633</id>
+  </point>
+  <point>
+    <name>Црау</name>
+    <district>Алагирский район</district>
+    <id>48615</id>
+  </point>
+  <point>
+    <name>Ардон</name>
+    <district>Ардонский район</district>
+    <id>1140</id>
+  </point>
+  <point>
+    <name>Кадгарон</name>
+    <district>Ардонский район</district>
+    <id>111152</id>
+  </point>
+  <point>
+    <name>Красногор</name>
+    <district>Ардонский район</district>
+    <id>111160</id>
+  </point>
+  <point>
+    <name>Рассвет</name>
+    <district>Ардонский район</district>
+    <id>111138</id>
+  </point>
+  <point>
+    <name>Фиагдон</name>
+    <district>Ардонский район</district>
+    <id>111137</id>
+  </point>
+  <point>
+    <name>Кирово</name>
+    <district>Ардонский район</district>
+    <id>111149</id>
+  </point>
+  <point>
+    <name>Коста</name>
+    <district>Ардонский район</district>
+    <id>111140</id>
+  </point>
+  <point>
+    <name>Мичурино</name>
+    <district>Ардонский район</district>
+    <id>111148</id>
+  </point>
+  <point>
+    <name>Нарт</name>
+    <district>Ардонский район</district>
+    <id>111139</id>
+  </point>
+  <point>
+    <name>Цмити</name>
+    <district>Ардонский район</district>
+    <id>111150</id>
+  </point>
+  <point>
+    <name>Владикавказ</name>
+    <district>Владикавказ</district>
+    <id>2277</id>
+  </point>
+  <point>
+    <name>Балта</name>
+    <district>Владикавказ</district>
+    <id>111116</id>
+  </point>
+  <point>
+    <name>Верхний Ларс</name>
+    <district>Владикавказ</district>
+    <id>111112</id>
+  </point>
+  <point>
+    <name>Владикавказ (аэропорт)</name>
+    <district>Владикавказ</district>
+    <id>508038</id>
+  </point>
+  <point>
+    <name>Чми</name>
+    <district>Владикавказ</district>
+    <id>111115</id>
+  </point>
+  <point>
+    <name>Заводской</name>
+    <district>Владикавказ</district>
+    <id>111068</id>
+  </point>
+  <point>
+    <name>Нижний Ларс</name>
+    <district>Владикавказ</district>
+    <id>111113</id>
+  </point>
+  <point>
+    <name>Терк</name>
+    <district>Владикавказ</district>
+    <id>111117</id>
+  </point>
+  <point>
+    <name>Чернореченское</name>
+    <district>Владикавказ</district>
+    <id>111110</id>
+  </point>
+  <point>
+    <name>Эзми</name>
+    <district>Владикавказ</district>
+    <id>111114</id>
+  </point>
+  <point>
+    <name>Дигора</name>
+    <district>Дигорский район</district>
+    <id>2870</id>
+  </point>
+  <point>
+    <name>Дур-Дур</name>
+    <district>Дигорский район</district>
+    <id>111187</id>
+  </point>
+  <point>
+    <name>Мостиздах</name>
+    <district>Дигорский район</district>
+    <id>111168</id>
+  </point>
+  <point>
+    <name>Николаевская</name>
+    <district>Дигорский район</district>
+    <id>111169</id>
+  </point>
+  <point>
+    <name>Урсдон</name>
+    <district>Дигорский район</district>
+    <id>111173</id>
+  </point>
+  <point>
+    <name>Карман-Синдзикау</name>
+    <district>Дигорский район</district>
+    <id>111175</id>
+  </point>
+  <point>
+    <name>Кора</name>
+    <district>Дигорский район</district>
+    <id>111186</id>
+  </point>
+  <point>
+    <name>Ахсарисар</name>
+    <district>Ирафский район</district>
+    <id>111089</id>
+  </point>
+  <point>
+    <name>Ахсау</name>
+    <district>Ирафский район</district>
+    <id>111098</id>
+  </point>
+  <point>
+    <name>Вакац</name>
+    <district>Ирафский район</district>
+    <id>111096</id>
+  </point>
+  <point>
+    <name>Верхний Задалеск</name>
+    <district>Ирафский район</district>
+    <id>111092</id>
+  </point>
+  <point>
+    <name>Галиат</name>
+    <district>Ирафский район</district>
+    <id>111086</id>
+  </point>
+  <point>
+    <name>Дзагепбарз</name>
+    <district>Ирафский район</district>
+    <id>111081</id>
+  </point>
+  <point>
+    <name>Дзинага</name>
+    <district>Ирафский район</district>
+    <id>111099</id>
+  </point>
+  <point>
+    <name>Донифарс</name>
+    <district>Ирафский район</district>
+    <id>167637</id>
+  </point>
+  <point>
+    <name>Дунта</name>
+    <district>Ирафский район</district>
+    <id>111084</id>
+  </point>
+  <point>
+    <name>Калнахта</name>
+    <district>Ирафский район</district>
+    <id>167638</id>
+  </point>
+  <point>
+    <name>Калух</name>
+    <district>Ирафский район</district>
+    <id>111090</id>
+  </point>
+  <point>
+    <name>Камата</name>
+    <district>Ирафский район</district>
+    <id>167639</id>
+  </point>
+  <point>
+    <name>Камунта</name>
+    <district>Ирафский район</district>
+    <id>111085</id>
+  </point>
+  <point>
+    <name>Куссу</name>
+    <district>Ирафский район</district>
+    <id>111102</id>
+  </point>
+  <point>
+    <name>Лескен</name>
+    <district>Ирафский район</district>
+    <id>4885</id>
+  </point>
+  <point>
+    <name>Махческ</name>
+    <district>Ирафский район</district>
+    <id>111095</id>
+  </point>
+  <point>
+    <name>Мацута</name>
+    <district>Ирафский район</district>
+    <id>111097</id>
+  </point>
+  <point>
+    <name>Моска</name>
+    <district>Ирафский район</district>
+    <id>167641</id>
+  </point>
+  <point>
+    <name>Нижний Задалеск</name>
+    <district>Ирафский район</district>
+    <id>111091</id>
+  </point>
+  <point>
+    <name>Новый Урух</name>
+    <district>Ирафский район</district>
+    <id>111082</id>
+  </point>
+  <point>
+    <name>Ногкау</name>
+    <district>Ирафский район</district>
+    <id>111100</id>
+  </point>
+  <point>
+    <name>Одола</name>
+    <district>Ирафский район</district>
+    <id>167642</id>
+  </point>
+  <point>
+    <name>Средний Урух</name>
+    <district>Ирафский район</district>
+    <id>111224</id>
+  </point>
+  <point>
+    <name>Стур-Дигора</name>
+    <district>Ирафский район</district>
+    <id>111101</id>
+  </point>
+  <point>
+    <name>Сурх-Дигора</name>
+    <district>Ирафский район</district>
+    <id>111225</id>
+  </point>
+  <point>
+    <name>Толдзгун</name>
+    <district>Ирафский район</district>
+    <id>111088</id>
+  </point>
+  <point>
+    <name>Фараскатта</name>
+    <district>Ирафский район</district>
+    <id>111094</id>
+  </point>
+  <point>
+    <name>Фаснал</name>
+    <district>Ирафский район</district>
+    <id>167640</id>
+  </point>
+  <point>
+    <name>Хазнидон</name>
+    <district>Ирафский район</district>
+    <id>111087</id>
+  </point>
+  <point>
+    <name>Ханаз</name>
+    <district>Ирафский район</district>
+    <id>167636</id>
+  </point>
+  <point>
+    <name>Чикола</name>
+    <district>Ирафский район</district>
+    <id>9053</id>
+  </point>
+  <point>
+    <name>Дарг-Кох</name>
+    <district>Кировский район</district>
+    <id>111153</id>
+  </point>
+  <point>
+    <name>Змейская</name>
+    <district>Кировский район</district>
+    <id>111226</id>
+  </point>
+  <point>
+    <name>Иран</name>
+    <district>Кировский район</district>
+    <id>111176</id>
+  </point>
+  <point>
+    <name>Карджин</name>
+    <district>Кировский район</district>
+    <id>111156</id>
+  </point>
+  <point>
+    <name>Комсомольское</name>
+    <district>Кировский район</district>
+    <id>111194</id>
+  </point>
+  <point>
+    <name>Ставд-Дурта</name>
+    <district>Кировский район</district>
+    <id>111192</id>
+  </point>
+  <point>
+    <name>Эльхотово</name>
+    <district>Кировский район</district>
+    <id>9331</id>
+  </point>
+  <point>
+    <name>Моздок</name>
+    <district>Моздокский район</district>
+    <id>5421</id>
+  </point>
+  <point>
+    <name>Павлодольская</name>
+    <district>Моздокский район</district>
+    <id>111205</id>
+  </point>
+  <point>
+    <name>Притеречный</name>
+    <district>Моздокский район</district>
+    <id>111193</id>
+  </point>
+  <point>
+    <name>Терская</name>
+    <district>Моздокский район</district>
+    <id>111220</id>
+  </point>
+  <point>
+    <name>Черноярская</name>
+    <district>Моздокский район</district>
+    <id>111197</id>
+  </point>
+  <point>
+    <name>Веселое</name>
+    <district>Моздокский район</district>
+    <id>111219</id>
+  </point>
+  <point>
+    <name>Виноградное</name>
+    <district>Моздокский район</district>
+    <id>111206</id>
+  </point>
+  <point>
+    <name>Дружба</name>
+    <district>Моздокский район</district>
+    <id>111222</id>
+  </point>
+  <point>
+    <name>Елбаево</name>
+    <district>Моздокский район</district>
+    <id>111198</id>
+  </point>
+  <point>
+    <name>Калининский</name>
+    <district>Моздокский район</district>
+    <id>48632</id>
+  </point>
+  <point>
+    <name>Киевское</name>
+    <district>Моздокский район</district>
+    <id>111215</id>
+  </point>
+  <point>
+    <name>Кизляр</name>
+    <district>Моздокский район</district>
+    <id>111214</id>
+  </point>
+  <point>
+    <name>Комарово</name>
+    <district>Моздокский район</district>
+    <id>111221</id>
+  </point>
+  <point>
+    <name>Кусово</name>
+    <district>Моздокский район</district>
+    <id>111203</id>
+  </point>
+  <point>
+    <name>Луковская</name>
+    <district>Моздокский район</district>
+    <id>48633</id>
+  </point>
+  <point>
+    <name>Луковский</name>
+    <district>Моздокский район</district>
+    <id>167644</id>
+  </point>
+  <point>
+    <name>Малгобек</name>
+    <district>Моздокский район</district>
+    <id>111202</id>
+  </point>
+  <point>
+    <name>Малый Малгобек</name>
+    <district>Моздокский район</district>
+    <id>83992</id>
+  </point>
+  <point>
+    <name>Мирный</name>
+    <district>Моздокский район</district>
+    <id>111211</id>
+  </point>
+  <point>
+    <name>Ново-Георгиевское</name>
+    <district>Моздокский район</district>
+    <id>111217</id>
+  </point>
+  <point>
+    <name>Новоосетинская</name>
+    <district>Моздокский район</district>
+    <id>111199</id>
+  </point>
+  <point>
+    <name>Октябрьское</name>
+    <district>Моздокский район</district>
+    <id>111223</id>
+  </point>
+  <point>
+    <name>Осетинский</name>
+    <district>Моздокский район</district>
+    <id>167643</id>
+  </point>
+  <point>
+    <name>Предгорное</name>
+    <district>Моздокский район</district>
+    <id>111218</id>
+  </point>
+  <point>
+    <name>Раздольное</name>
+    <district>Моздокский район</district>
+    <id>111212</id>
+  </point>
+  <point>
+    <name>Садовый</name>
+    <district>Моздокский район</district>
+    <id>111227</id>
+  </point>
+  <point>
+    <name>Советский</name>
+    <district>Моздокский район</district>
+    <id>111210</id>
+  </point>
+  <point>
+    <name>Сухотское</name>
+    <district>Моздокский район</district>
+    <id>111201</id>
+  </point>
+  <point>
+    <name>Троицкое</name>
+    <district>Моздокский район</district>
+    <id>111216</id>
+  </point>
+  <point>
+    <name>Хурикау</name>
+    <district>Моздокский район</district>
+    <id>111207</id>
+  </point>
+  <point>
+    <name>Черноярский</name>
+    <district>Моздокский район</district>
+    <id>111196</id>
+  </point>
+  <point>
+    <name>Батако</name>
+    <district>Правобережный район</district>
+    <id>48641</id>
+  </point>
+  <point>
+    <name>Беслан</name>
+    <district>Правобережный район</district>
+    <id>1540</id>
+  </point>
+  <point>
+    <name>Брут</name>
+    <district>Правобережный район</district>
+    <id>111141</id>
+  </point>
+  <point>
+    <name>Заманкул</name>
+    <district>Правобережный район</district>
+    <id>111200</id>
+  </point>
+  <point>
+    <name>Зилга</name>
+    <district>Правобережный район</district>
+    <id>111126</id>
+  </point>
+  <point>
+    <name>Новый Батако</name>
+    <district>Правобережный район</district>
+    <id>48634</id>
+  </point>
+  <point>
+    <name>Ольгинское</name>
+    <district>Правобережный район</district>
+    <id>111111</id>
+  </point>
+  <point>
+    <name>Раздзог</name>
+    <district>Правобережный район</district>
+    <id>111208</id>
+  </point>
+  <point>
+    <name>Фарн</name>
+    <district>Правобережный район</district>
+    <id>48643</id>
+  </point>
+  <point>
+    <name>Хумалаг</name>
+    <district>Правобережный район</district>
+    <id>8859</id>
+  </point>
+  <point>
+    <name>Цалык</name>
+    <district>Правобережный район</district>
+    <id>111133</id>
+  </point>
+  <point>
+    <name>Алханчурт</name>
+    <district>Пригородный район</district>
+    <id>111123</id>
+  </point>
+  <point>
+    <name>Архонская</name>
+    <district>Пригородный район</district>
+    <id>1185</id>
+  </point>
+  <point>
+    <name>Верхняя Саниба</name>
+    <district>Пригородный район</district>
+    <id>111125</id>
+  </point>
+  <point>
+    <name>Гизель</name>
+    <district>Пригородный район</district>
+    <id>111122</id>
+  </point>
+  <point>
+    <name>Даргавс</name>
+    <district>Пригородный район</district>
+    <id>111134</id>
+  </point>
+  <point>
+    <name>Дачное</name>
+    <district>Пригородный район</district>
+    <id>111106</id>
+  </point>
+  <point>
+    <name>Джимара</name>
+    <district>Пригородный район</district>
+    <id>111142</id>
+  </point>
+  <point>
+    <name>Донгарон</name>
+    <district>Пригородный район</district>
+    <id>111109</id>
+  </point>
+  <point>
+    <name>Ир</name>
+    <district>Пригородный район</district>
+    <id>48651</id>
+  </point>
+  <point>
+    <name>Какадур</name>
+    <district>Пригородный район</district>
+    <id>111144</id>
+  </point>
+  <point>
+    <name>Камбилеевское</name>
+    <district>Пригородный район</district>
+    <id>111107</id>
+  </point>
+  <point>
+    <name>Кармадон</name>
+    <district>Пригородный район</district>
+    <id>111128</id>
+  </point>
+  <point>
+    <name>Кобан</name>
+    <district>Пригородный район</district>
+    <id>111130</id>
+  </point>
+  <point>
+    <name>Комгарон</name>
+    <district>Пригородный район</district>
+    <id>111103</id>
+  </point>
+  <point>
+    <name>Куртат</name>
+    <district>Пригородный район</district>
+    <id>111108</id>
+  </point>
+  <point>
+    <name>Ламардон</name>
+    <district>Пригородный район</district>
+    <id>111145</id>
+  </point>
+  <point>
+    <name>Михайловское</name>
+    <district>Пригородный район</district>
+    <id>111120</id>
+  </point>
+  <point>
+    <name>Нижняя Саниба</name>
+    <district>Пригородный район</district>
+    <id>48655</id>
+  </point>
+  <point>
+    <name>Ногир</name>
+    <district>Пригородный район</district>
+    <id>111119</id>
+  </point>
+  <point>
+    <name>Октябрьское</name>
+    <district>Пригородный район</district>
+    <id>111074</id>
+  </point>
+  <point>
+    <name>Первомайский</name>
+    <district>Пригородный район</district>
+    <id>111121</id>
+  </point>
+  <point>
+    <name>Старая Саниба</name>
+    <district>Пригородный район</district>
+    <id>111124</id>
+  </point>
+  <point>
+    <name>Сунжа</name>
+    <district>Пригородный район</district>
+    <id>111104</id>
+  </point>
+  <point>
+    <name>Тарское</name>
+    <district>Пригородный район</district>
+    <id>111105</id>
+  </point>
+  <point>
+    <name>Тменикау</name>
+    <district>Пригородный район</district>
+    <id>111127</id>
+  </point>
+  <point>
+    <name>Фазикау</name>
+    <district>Пригородный район</district>
+    <id>111143</id>
+  </point>
+  <point>
+    <name>Чермен</name>
+    <district>Пригородный район</district>
+    <id>8996</id>
+  </point>
+</region>

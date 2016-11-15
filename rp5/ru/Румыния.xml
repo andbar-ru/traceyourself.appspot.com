@@ -1,0 +1,1400 @@
+<country name="Румыния" count="233">
+  <point>
+    <name>Бухарест</name>
+    <region>Бухарестский регион</region>
+    <district>Бухарест</district>
+    <id>152617</id>
+  </point>
+  <point>
+    <name>Бухарест / Бэняса (аэропорт)</name>
+    <region>Бухарестский регион</region>
+    <district>Бухарест / Бэняса (аэропорт)</district>
+    <id>8925</id>
+  </point>
+  <point>
+    <name>Бухарест / Филарет</name>
+    <region>Бухарестский регион</region>
+    <district>Бухарест / Филарет</district>
+    <id>8927</id>
+  </point>
+  <point>
+    <name>Бухарест / им. Анри Коанды (аэропорт)</name>
+    <region>Бухарестский регион</region>
+    <district>Бухарест / им. Анри Коанды (аэропорт)</district>
+    <id>8926</id>
+  </point>
+  <point>
+    <name>Буфтя</name>
+    <region>Бухарестский регион</region>
+    <district>Буфтя</district>
+    <id>151981</id>
+  </point>
+  <point>
+    <name>Арад (аэропорт)</name>
+    <region>Западный регион</region>
+    <district>Арад (аэропорт)</district>
+    <id>8694</id>
+  </point>
+  <point>
+    <name>Банлок</name>
+    <region>Западный регион</region>
+    <district>Банлок</district>
+    <id>8763</id>
+  </point>
+  <point>
+    <name>Берзаска</name>
+    <region>Западный регион</region>
+    <district>Берзаска</district>
+    <id>8896</id>
+  </point>
+  <point>
+    <name>Бозовичи</name>
+    <region>Западный регион</region>
+    <district>Бозовичи</district>
+    <id>8878</id>
+  </point>
+  <point>
+    <name>Бокша</name>
+    <region>Западный регион</region>
+    <district>Бокша</district>
+    <id>151983</id>
+  </point>
+  <point>
+    <name>Брад</name>
+    <region>Западный регион</region>
+    <district>Брад</district>
+    <id>8705</id>
+  </point>
+  <point>
+    <name>Варадиа де Мурес</name>
+    <region>Западный регион</region>
+    <district>Варадиа де Мурес</district>
+    <id>170499</id>
+  </point>
+  <point>
+    <name>Гурахонт</name>
+    <region>Западный регион</region>
+    <district>Гурахонт</district>
+    <id>8680</id>
+  </point>
+  <point>
+    <name>Дева</name>
+    <region>Западный регион</region>
+    <district>Дева</district>
+    <id>8727</id>
+  </point>
+  <point>
+    <name>Жимболия</name>
+    <region>Западный регион</region>
+    <district>Жимболия</district>
+    <id>170734</id>
+  </point>
+  <point>
+    <name>Зеринд</name>
+    <region>Западный регион</region>
+    <district>Зеринд</district>
+    <id>8652</id>
+  </point>
+  <point>
+    <name>Зыранд</name>
+    <region>Западный регион</region>
+    <district>Зыранд</district>
+    <id>8665</id>
+  </point>
+  <point>
+    <name>Карансебеш</name>
+    <region>Западный регион</region>
+    <district>Карансебеш</district>
+    <id>8764</id>
+  </point>
+  <point>
+    <name>Кишинеу-Криш</name>
+    <region>Западный регион</region>
+    <district>Кишинеу-Криш</district>
+    <id>8651</id>
+  </point>
+  <point>
+    <name>Кунту</name>
+    <region>Западный регион</region>
+    <district>Кунту</district>
+    <id>8805</id>
+  </point>
+  <point>
+    <name>Лугож</name>
+    <region>Западный регион</region>
+    <district>Лугож</district>
+    <id>8755</id>
+  </point>
+  <point>
+    <name>Лупени</name>
+    <region>Западный регион</region>
+    <district>Лупени</district>
+    <id>152008</id>
+  </point>
+  <point>
+    <name>Молдова-Вече</name>
+    <region>Западный регион</region>
+    <district>Молдова-Вече</district>
+    <id>8894</id>
+  </point>
+  <point>
+    <name>Оравица</name>
+    <region>Западный регион</region>
+    <district>Оравица</district>
+    <id>8832</id>
+  </point>
+  <point>
+    <name>Орэштие</name>
+    <region>Западный регион</region>
+    <district>Орэштие</district>
+    <id>152003</id>
+  </point>
+  <point>
+    <name>Паранг</name>
+    <region>Западный регион</region>
+    <district>Паранг</district>
+    <id>8808</id>
+  </point>
+  <point>
+    <name>Петрила</name>
+    <region>Западный регион</region>
+    <district>Петрила</district>
+    <id>152001</id>
+  </point>
+  <point>
+    <name>Петрошани</name>
+    <region>Западный регион</region>
+    <district>Петрошани</district>
+    <id>8772</id>
+  </point>
+  <point>
+    <name>Пиклиса</name>
+    <region>Западный регион</region>
+    <district>Пиклиса</district>
+    <id>8758</id>
+  </point>
+  <point>
+    <name>Раути</name>
+    <region>Западный регион</region>
+    <district>Раути</district>
+    <id>8752</id>
+  </point>
+  <point>
+    <name>Решица</name>
+    <region>Западный регион</region>
+    <district>Решица</district>
+    <id>151999</id>
+  </point>
+  <point>
+    <name>Семеник</name>
+    <region>Западный регион</region>
+    <district>Семеник</district>
+    <id>170514</id>
+  </point>
+  <point>
+    <name>Сынниколау-Маре</name>
+    <region>Западный регион</region>
+    <district>Сынниколау-Маре</district>
+    <id>8692</id>
+  </point>
+  <point>
+    <name>Тарку</name>
+    <region>Западный регион</region>
+    <district>Тарку</district>
+    <id>170515</id>
+  </point>
+  <point>
+    <name>Тимишоара (аэропорт)</name>
+    <region>Западный регион</region>
+    <district>Тимишоара (аэропорт)</district>
+    <id>507971</id>
+  </point>
+  <point>
+    <name>Тимишоара</name>
+    <region>Западный регион</region>
+    <district>Тимишоара</district>
+    <id>8739</id>
+  </point>
+  <point>
+    <name>Хунедоара</name>
+    <region>Западный регион</region>
+    <district>Хунедоара</district>
+    <id>152010</id>
+  </point>
+  <point>
+    <name>Шириа</name>
+    <region>Западный регион</region>
+    <district>Шириа</district>
+    <id>170497</id>
+  </point>
+  <point>
+    <name>Аврамени</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Аврамени</district>
+    <id>8565</id>
+  </point>
+  <point>
+    <name>Бакэу (аэропорт)</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Бакэу (аэропорт)</district>
+    <id>8661</id>
+  </point>
+  <point>
+    <name>Барнова</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Барнова</district>
+    <id>170732</id>
+  </point>
+  <point>
+    <name>Бирлад</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Бирлад</district>
+    <id>8690</id>
+  </point>
+  <point>
+    <name>Ботошани</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Ботошани</district>
+    <id>8581</id>
+  </point>
+  <point>
+    <name>Бухуши</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Бухуши</district>
+    <id>151980</id>
+  </point>
+  <point>
+    <name>Васлуй</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Васлуй</district>
+    <id>8662</id>
+  </point>
+  <point>
+    <name>Дарабани</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Дарабани</district>
+    <id>170474</id>
+  </point>
+  <point>
+    <name>Дорохой</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Дорохой</district>
+    <id>8573</id>
+  </point>
+  <point>
+    <name>Калимани</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Калимани</district>
+    <id>170489</id>
+  </point>
+  <point>
+    <name>Комэнешти</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Комэнешти</district>
+    <id>152018</id>
+  </point>
+  <point>
+    <name>Корабия</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Корабия</district>
+    <id>152017</id>
+  </point>
+  <point>
+    <name>Котнари</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Котнари</district>
+    <id>8602</id>
+  </point>
+  <point>
+    <name>Кымпулунг-Молдовенеск</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Кымпулунг-Молдовенеск</district>
+    <id>8588</id>
+  </point>
+  <point>
+    <name>Луизика-Калугара</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Луизика-Калугара</district>
+    <id>170493</id>
+  </point>
+  <point>
+    <name>Мойнешти</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Мойнешти</district>
+    <id>152006</id>
+  </point>
+  <point>
+    <name>Негрешти</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Негрешти</district>
+    <id>8626</id>
+  </point>
+  <point>
+    <name>Онешти</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Онешти</district>
+    <id>8679</id>
+  </point>
+  <point>
+    <name>Пашкани</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Пашкани</district>
+    <id>152002</id>
+  </point>
+  <point>
+    <name>Плопени</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Плопени</district>
+    <id>8647</id>
+  </point>
+  <point>
+    <name>Пояна-Стампей</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Пояна-Стампей</district>
+    <id>170488</id>
+  </point>
+  <point>
+    <name>Пьятра-Нямц</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Пьятра-Нямц</district>
+    <id>8624</id>
+  </point>
+  <point>
+    <name>Радаути</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Радаути</district>
+    <id>8571</id>
+  </point>
+  <point>
+    <name>Радашени</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Радашени</district>
+    <id>8599</id>
+  </point>
+  <point>
+    <name>Рарау</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Рарау</district>
+    <id>8596</id>
+  </point>
+  <point>
+    <name>Раусени</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Раусени</district>
+    <id>8590</id>
+  </point>
+  <point>
+    <name>Роман</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Роман</district>
+    <id>8625</id>
+  </point>
+  <point>
+    <name>Слатина</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Слатина</district>
+    <id>151995</id>
+  </point>
+  <point>
+    <name>Станка</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Станка</district>
+    <id>98647</id>
+  </point>
+  <point>
+    <name>Сучава (аэропорт)</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Сучава (аэропорт)</district>
+    <id>507970</id>
+  </point>
+  <point>
+    <name>Сучава</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Сучава</district>
+    <id>8584</id>
+  </point>
+  <point>
+    <name>Тыргу-Нямц</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Тыргу-Нямц</district>
+    <id>8609</id>
+  </point>
+  <point>
+    <name>Тыргу-Окна</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Тыргу-Окна</district>
+    <id>8688</id>
+  </point>
+  <point>
+    <name>Умиреа</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Умиреа</district>
+    <id>8910</id>
+  </point>
+  <point>
+    <name>Филиаши</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Филиаши</district>
+    <id>152014</id>
+  </point>
+  <point>
+    <name>Фэлтичени</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Фэлтичени</district>
+    <id>152015</id>
+  </point>
+  <point>
+    <name>Хуши</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Хуши</district>
+    <id>8650</id>
+  </point>
+  <point>
+    <name>Чахлэу (метеостанция)</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Чахлэу (метеостанция)</district>
+    <id>8623</id>
+  </point>
+  <point>
+    <name>Чахлэу</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Чахлэу</district>
+    <id>8617</id>
+  </point>
+  <point>
+    <name>Яссы (аэропорт)</name>
+    <region>Сев.-Вост. регион</region>
+    <district>Яссы (аэропорт)</district>
+    <id>8618</id>
+  </point>
+  <point>
+    <name>Алешд</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Алешд</district>
+    <id>151989</id>
+  </point>
+  <point>
+    <name>Баишоара</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Баишоара</district>
+    <id>8676</id>
+  </point>
+  <point>
+    <name>Бая-Маре (аэропорт)</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Бая-Маре (аэропорт)</district>
+    <id>507966</id>
+  </point>
+  <point>
+    <name>Бая-Маре</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Бая-Маре</district>
+    <id>8579</id>
+  </point>
+  <point>
+    <name>Бая-Сприе</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Бая-Сприе</district>
+    <id>151987</id>
+  </point>
+  <point>
+    <name>Бистрица</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Бистрица</district>
+    <id>8616</id>
+  </point>
+  <point>
+    <name>Бород</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Бород</district>
+    <id>8619</id>
+  </point>
+  <point>
+    <name>Борша</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Борша</district>
+    <id>151982</id>
+  </point>
+  <point>
+    <name>Владеаса</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Владеаса</district>
+    <id>170492</id>
+  </point>
+  <point>
+    <name>Герла</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Герла</district>
+    <id>152011</id>
+  </point>
+  <point>
+    <name>Деж</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Деж</district>
+    <id>8615</id>
+  </point>
+  <point>
+    <name>Залэу</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Залэу</district>
+    <id>8607</id>
+  </point>
+  <point>
+    <name>Инеу</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Инеу</district>
+    <id>8585</id>
+  </point>
+  <point>
+    <name>Карей</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Карей</district>
+    <id>151978</id>
+  </point>
+  <point>
+    <name>Клуж-Напока (аэропорт)</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Клуж-Напока (аэропорт)</district>
+    <id>507967</id>
+  </point>
+  <point>
+    <name>Клуж-Напока</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Клуж-Напока</district>
+    <id>8637</id>
+  </point>
+  <point>
+    <name>Кымпия-Турзи (авиабаза)</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Кымпия-Турзи (авиабаза)</district>
+    <id>510534</id>
+  </point>
+  <point>
+    <name>Кымпия-Турзий</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Кымпия-Турзий</district>
+    <id>151979</id>
+  </point>
+  <point>
+    <name>Окна-Сугатаг</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Окна-Сугатаг</district>
+    <id>8580</id>
+  </point>
+  <point>
+    <name>Орадя (аэропорт)</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Орадя (аэропорт)</district>
+    <id>8612</id>
+  </point>
+  <point>
+    <name>Петру Гроза</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Петру Гроза</district>
+    <id>170494</id>
+  </point>
+  <point>
+    <name>Салонта</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Салонта</district>
+    <id>151997</id>
+  </point>
+  <point>
+    <name>Сигету-Мармацией</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Сигету-Мармацией</district>
+    <id>8568</id>
+  </point>
+  <point>
+    <name>Стана де Вале</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Стана де Вале</district>
+    <id>170491</id>
+  </point>
+  <point>
+    <name>Супуру</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Супуру</district>
+    <id>8594</id>
+  </point>
+  <point>
+    <name>Сэкуени</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Сэкуени</district>
+    <id>8592</id>
+  </point>
+  <point>
+    <name>Турда</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Турда</district>
+    <id>8654</id>
+  </point>
+  <point>
+    <name>Тыргу-Лэпуш</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Тыргу-Лэпуш</district>
+    <id>170487</id>
+  </point>
+  <point>
+    <name>Холод</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Холод</district>
+    <id>8631</id>
+  </point>
+  <point>
+    <name>Хуедин</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Хуедин</district>
+    <id>8621</id>
+  </point>
+  <point>
+    <name>Штей</name>
+    <region>Сев.-Зап. регион</region>
+    <district>Штей</district>
+    <id>8653</id>
+  </point>
+  <point>
+    <name>Авриг</name>
+    <region>Центр. регион</region>
+    <district>Авриг</district>
+    <id>151988</id>
+  </point>
+  <point>
+    <name>Алба-Юлия</name>
+    <region>Центр. регион</region>
+    <district>Алба-Юлия</district>
+    <id>8706</id>
+  </point>
+  <point>
+    <name>Бараолт</name>
+    <region>Центр. регион</region>
+    <district>Бараолт</district>
+    <id>8713</id>
+  </point>
+  <point>
+    <name>Батош</name>
+    <region>Центр. регион</region>
+    <district>Батош</district>
+    <id>170733</id>
+  </point>
+  <point>
+    <name>Бисока</name>
+    <region>Центр. регион</region>
+    <district>Бисока</district>
+    <id>170507</id>
+  </point>
+  <point>
+    <name>Блаж</name>
+    <region>Центр. регион</region>
+    <district>Блаж</district>
+    <id>8708</id>
+  </point>
+  <point>
+    <name>Боита</name>
+    <region>Центр. регион</region>
+    <district>Боита</district>
+    <id>8759</id>
+  </point>
+  <point>
+    <name>Брашов</name>
+    <region>Центр. регион</region>
+    <district>Брашов</district>
+    <id>8789</id>
+  </point>
+  <point>
+    <name>Быля оз.</name>
+    <region>Центр. регион</region>
+    <district>Быля оз.</district>
+    <id>170735</id>
+  </point>
+  <point>
+    <name>Георгени</name>
+    <region>Центр. регион</region>
+    <district>Георгени</district>
+    <id>152012</id>
+  </point>
+  <point>
+    <name>Думбрэвени</name>
+    <region>Центр. регион</region>
+    <district>Думбрэвени</district>
+    <id>8685</id>
+  </point>
+  <point>
+    <name>Жосени</name>
+    <region>Центр. регион</region>
+    <district>Жосени</district>
+    <id>8643</id>
+  </point>
+  <point>
+    <name>Зэрнешти</name>
+    <region>Центр. регион</region>
+    <district>Зэрнешти</district>
+    <id>151991</id>
+  </point>
+  <point>
+    <name>Интросура-Бузэулуй</name>
+    <region>Центр. регион</region>
+    <district>Интросура-Бузэулуй</district>
+    <id>8747</id>
+  </point>
+  <point>
+    <name>Кодля</name>
+    <region>Центр. регион</region>
+    <district>Кодля</district>
+    <id>152019</id>
+  </point>
+  <point>
+    <name>Куджир</name>
+    <region>Центр. регион</region>
+    <district>Куджир</district>
+    <id>152016</id>
+  </point>
+  <point>
+    <name>Кымпени</name>
+    <region>Центр. регион</region>
+    <district>Кымпени</district>
+    <id>8674</id>
+  </point>
+  <point>
+    <name>Лакаути</name>
+    <region>Центр. регион</region>
+    <district>Лакаути</district>
+    <id>170504</id>
+  </point>
+  <point>
+    <name>Лудуш</name>
+    <region>Центр. регион</region>
+    <district>Лудуш</district>
+    <id>152009</id>
+  </point>
+  <point>
+    <name>Медиаш</name>
+    <region>Центр. регион</region>
+    <district>Медиаш</district>
+    <id>8684</id>
+  </point>
+  <point>
+    <name>Меркуря-Чук</name>
+    <region>Центр. регион</region>
+    <district>Меркуря-Чук</district>
+    <id>8678</id>
+  </point>
+  <point>
+    <name>Одорхею</name>
+    <region>Центр. регион</region>
+    <district>Одорхею</district>
+    <id>8677</id>
+  </point>
+  <point>
+    <name>Палтинис</name>
+    <region>Центр. регион</region>
+    <district>Палтинис</district>
+    <id>8742</id>
+  </point>
+  <point>
+    <name>Пентелеу</name>
+    <region>Центр. регион</region>
+    <district>Пентелеу</district>
+    <id>170505</id>
+  </point>
+  <point>
+    <name>Предял</name>
+    <region>Центр. регион</region>
+    <district>Предял</district>
+    <id>8799</id>
+  </point>
+  <point>
+    <name>Регин</name>
+    <region>Центр. регион</region>
+    <district>Регин</district>
+    <id>152000</id>
+  </point>
+  <point>
+    <name>Розия Монтана</name>
+    <region>Центр. регион</region>
+    <district>Розия Монтана</district>
+    <id>330074</id>
+  </point>
+  <point>
+    <name>Сармашу</name>
+    <region>Центр. регион</region>
+    <district>Сармашу</district>
+    <id>8642</id>
+  </point>
+  <point>
+    <name>Себеш</name>
+    <region>Центр. регион</region>
+    <district>Себеш</district>
+    <id>8728</id>
+  </point>
+  <point>
+    <name>Сибиу (аэропорт)</name>
+    <region>Центр. регион</region>
+    <district>Сибиу (аэропорт)</district>
+    <id>507969</id>
+  </point>
+  <point>
+    <name>Сибиу</name>
+    <region>Центр. регион</region>
+    <district>Сибиу</district>
+    <id>8746</id>
+  </point>
+  <point>
+    <name>Сигишоара</name>
+    <region>Центр. регион</region>
+    <district>Сигишоара</district>
+    <id>151996</id>
+  </point>
+  <point>
+    <name>Сфынту-Георге (метеостанция)</name>
+    <region>Центр. регион</region>
+    <district>Сфынту-Георге (метеостанция)</district>
+    <id>8733</id>
+  </point>
+  <point>
+    <name>Сэчеле</name>
+    <region>Центр. регион</region>
+    <district>Сэчеле</district>
+    <id>151998</id>
+  </point>
+  <point>
+    <name>Топлица</name>
+    <region>Центр. регион</region>
+    <district>Топлица</district>
+    <id>8622</id>
+  </point>
+  <point>
+    <name>Тыргу-Муреш (аэропорт)</name>
+    <region>Центр. регион</region>
+    <district>Тыргу-Муреш (аэропорт)</district>
+    <id>508869</id>
+  </point>
+  <point>
+    <name>Тыргу-Муреш</name>
+    <region>Центр. регион</region>
+    <district>Тыргу-Муреш</district>
+    <id>8659</id>
+  </point>
+  <point>
+    <name>Тыргу-Секуйеск</name>
+    <region>Центр. регион</region>
+    <district>Тыргу-Секуйеск</district>
+    <id>8720</id>
+  </point>
+  <point>
+    <name>Тырнэвени</name>
+    <region>Центр. регион</region>
+    <district>Тырнэвени</district>
+    <id>151992</id>
+  </point>
+  <point>
+    <name>Фундата</name>
+    <region>Центр. регион</region>
+    <district>Фундата</district>
+    <id>8792</id>
+  </point>
+  <point>
+    <name>Фэгэраш</name>
+    <region>Центр. регион</region>
+    <district>Фэгэраш</district>
+    <id>8729</id>
+  </point>
+  <point>
+    <name>Хомород</name>
+    <region>Центр. регион</region>
+    <district>Хомород</district>
+    <id>8712</id>
+  </point>
+  <point>
+    <name>Адамклиси</name>
+    <region>Юго-Вост. регион</region>
+    <district>Адамклиси</district>
+    <id>8964</id>
+  </point>
+  <point>
+    <name>Аджуд</name>
+    <region>Юго-Вост. регион</region>
+    <district>Аджуд</district>
+    <id>8721</id>
+  </point>
+  <point>
+    <name>Бобок (авиабаза)</name>
+    <region>Юго-Вост. регион</region>
+    <district>Бобок (авиабаза)</district>
+    <id>510533</id>
+  </point>
+  <point>
+    <name>Бобоц</name>
+    <region>Юго-Вост. регион</region>
+    <district>Бобоц</district>
+    <id>8824</id>
+  </point>
+  <point>
+    <name>Брэила</name>
+    <region>Юго-Вост. регион</region>
+    <district>Брэила</district>
+    <id>151990</id>
+  </point>
+  <point>
+    <name>Бузэу</name>
+    <region>Юго-Вост. регион</region>
+    <district>Бузэу</district>
+    <id>8866</id>
+  </point>
+  <point>
+    <name>Вишеу</name>
+    <region>Юго-Вост. регион</region>
+    <district>Вишеу</district>
+    <id>8868</id>
+  </point>
+  <point>
+    <name>Галац</name>
+    <region>Юго-Вост. регион</region>
+    <district>Галац</district>
+    <id>8803</id>
+  </point>
+  <point>
+    <name>Горгова</name>
+    <region>Юго-Вост. регион</region>
+    <district>Горгова</district>
+    <id>8831</id>
+  </point>
+  <point>
+    <name>Гура Портитеи</name>
+    <region>Юго-Вост. регион</region>
+    <district>Гура Портитеи</district>
+    <id>170521</id>
+  </point>
+  <point>
+    <name>Когэлничану (аэропорт)</name>
+    <region>Юго-Вост. регион</region>
+    <district>Когэлничану (аэропорт)</district>
+    <id>8971</id>
+  </point>
+  <point>
+    <name>Констанца</name>
+    <region>Юго-Вост. регион</region>
+    <district>Констанца</district>
+    <id>8965</id>
+  </point>
+  <point>
+    <name>Коругеа</name>
+    <region>Юго-Вост. регион</region>
+    <district>Коругеа</district>
+    <id>170520</id>
+  </point>
+  <point>
+    <name>Мангалия</name>
+    <region>Юго-Вост. регион</region>
+    <district>Мангалия</district>
+    <id>8995</id>
+  </point>
+  <point>
+    <name>Махмудия</name>
+    <region>Юго-Вост. регион</region>
+    <district>Махмудия</district>
+    <id>170516</id>
+  </point>
+  <point>
+    <name>Меджидия</name>
+    <region>Юго-Вост. регион</region>
+    <district>Меджидия</district>
+    <id>8949</id>
+  </point>
+  <point>
+    <name>Нэводари</name>
+    <region>Юго-Вост. регион</region>
+    <district>Нэводари</district>
+    <id>152004</id>
+  </point>
+  <point>
+    <name>Патраджеле</name>
+    <region>Юго-Вост. регион</region>
+    <district>Патраджеле</district>
+    <id>8817</id>
+  </point>
+  <point>
+    <name>Рымнику-Сэрат</name>
+    <region>Юго-Вост. регион</region>
+    <district>Рымнику-Сэрат</district>
+    <id>8801</id>
+  </point>
+  <point>
+    <name>Сулина</name>
+    <region>Юго-Вост. регион</region>
+    <district>Сулина</district>
+    <id>8872</id>
+  </point>
+  <point>
+    <name>Сфанту Георге</name>
+    <region>Юго-Вост. регион</region>
+    <district>Сфанту Георге</district>
+    <id>170519</id>
+  </point>
+  <point>
+    <name>Текуч</name>
+    <region>Юго-Вост. регион</region>
+    <district>Текуч</district>
+    <id>8751</id>
+  </point>
+  <point>
+    <name>Тузла (аэропорт)</name>
+    <region>Юго-Вост. регион</region>
+    <district>Тузла (аэропорт)</district>
+    <id>510535</id>
+  </point>
+  <point>
+    <name>Тулча (аэропорт)</name>
+    <region>Юго-Вост. регион</region>
+    <district>Тулча (аэропорт)</district>
+    <id>507972</id>
+  </point>
+  <point>
+    <name>Тулча</name>
+    <region>Юго-Вост. регион</region>
+    <district>Тулча</district>
+    <id>8825</id>
+  </point>
+  <point>
+    <name>Фокшани</name>
+    <region>Юго-Вост. регион</region>
+    <district>Фокшани</district>
+    <id>152013</id>
+  </point>
+  <point>
+    <name>Хыршова</name>
+    <region>Юго-Вост. регион</region>
+    <district>Хыршова</district>
+    <id>8904</id>
+  </point>
+  <point>
+    <name>Чернавода</name>
+    <region>Юго-Вост. регион</region>
+    <district>Чернавода</district>
+    <id>151977</id>
+  </point>
+  <point>
+    <name>Балш</name>
+    <region>Юго-Зап. регион</region>
+    <district>Балш</district>
+    <id>151985</id>
+  </point>
+  <point>
+    <name>Бечет</name>
+    <region>Юго-Зап. регион</region>
+    <district>Бечет</district>
+    <id>8991</id>
+  </point>
+  <point>
+    <name>Биклезу</name>
+    <region>Юго-Зап. регион</region>
+    <district>Биклезу</district>
+    <id>8916</id>
+  </point>
+  <point>
+    <name>Брезой</name>
+    <region>Юго-Зап. регион</region>
+    <district>Брезой</district>
+    <id>8777</id>
+  </point>
+  <point>
+    <name>Бэйлешти</name>
+    <region>Юго-Зап. регион</region>
+    <district>Бэйлешти</district>
+    <id>8950</id>
+  </point>
+  <point>
+    <name>Дробета-Турну-Северин</name>
+    <region>Юго-Зап. регион</region>
+    <district>Дробета-Турну-Северин</district>
+    <id>8912</id>
+  </point>
+  <point>
+    <name>Дрэгэшани</name>
+    <region>Юго-Зап. регион</region>
+    <district>Дрэгэшани</district>
+    <id>8898</id>
+  </point>
+  <point>
+    <name>Калафат</name>
+    <region>Юго-Зап. регион</region>
+    <district>Калафат</district>
+    <id>8972</id>
+  </point>
+  <point>
+    <name>Каракал</name>
+    <region>Юго-Зап. регион</region>
+    <district>Каракал</district>
+    <id>8954</id>
+  </point>
+  <point>
+    <name>Крайова (аэропорт)</name>
+    <region>Юго-Зап. регион</region>
+    <district>Крайова (аэропорт)</district>
+    <id>8943</id>
+  </point>
+  <point>
+    <name>Мотру</name>
+    <region>Юго-Зап. регион</region>
+    <district>Мотру</district>
+    <id>152005</id>
+  </point>
+  <point>
+    <name>Падесу</name>
+    <region>Юго-Зап. регион</region>
+    <district>Падесу</district>
+    <id>8838</id>
+  </point>
+  <point>
+    <name>Половраджи</name>
+    <region>Юго-Зап. регион</region>
+    <district>Половраджи</district>
+    <id>170517</id>
+  </point>
+  <point>
+    <name>Рымнику-Вылча</name>
+    <region>Юго-Зап. регион</region>
+    <district>Рымнику-Вылча</district>
+    <id>8857</id>
+  </point>
+  <point>
+    <name>Сату-Маре (аэропорт)</name>
+    <region>Юго-Зап. регион</region>
+    <district>Сату-Маре (аэропорт)</district>
+    <id>507968</id>
+  </point>
+  <point>
+    <name>Сату-Маре</name>
+    <region>Юго-Зап. регион</region>
+    <district>Сату-Маре</district>
+    <id>8578</id>
+  </point>
+  <point>
+    <name>Слатина</name>
+    <region>Юго-Зап. регион</region>
+    <district>Слатина</district>
+    <id>510012</id>
+  </point>
+  <point>
+    <name>Стрехая</name>
+    <region>Юго-Зап. регион</region>
+    <district>Стрехая</district>
+    <id>13889</id>
+  </point>
+  <point>
+    <name>Тыргу-Жиу</name>
+    <region>Юго-Зап. регион</region>
+    <district>Тыргу-Жиу</district>
+    <id>8835</id>
+  </point>
+  <point>
+    <name>Тыргу-Кэрбунешти</name>
+    <region>Юго-Зап. регион</region>
+    <district>Тыргу-Кэрбунешти</district>
+    <id>8880</id>
+  </point>
+  <point>
+    <name>Тыргу-Логрести</name>
+    <region>Юго-Зап. регион</region>
+    <district>Тыргу-Логрести</district>
+    <id>8881</id>
+  </point>
+  <point>
+    <name>Александрия</name>
+    <region>Южный регион</region>
+    <district>Александрия</district>
+    <id>8973</id>
+  </point>
+  <point>
+    <name>Бэйкой</name>
+    <region>Южный регион</region>
+    <district>Бэйкой</district>
+    <id>151986</id>
+  </point>
+  <point>
+    <name>Виделе</name>
+    <region>Южный регион</region>
+    <district>Виделе</district>
+    <id>8944</id>
+  </point>
+  <point>
+    <name>Гривица</name>
+    <region>Южный регион</region>
+    <district>Гривица</district>
+    <id>8903</id>
+  </point>
+  <point>
+    <name>Гурбанешти</name>
+    <region>Южный регион</region>
+    <district>Гурбанешти</district>
+    <id>8937</id>
+  </point>
+  <point>
+    <name>Дедулешти</name>
+    <region>Южный регион</region>
+    <district>Дедулешти</district>
+    <id>8848</id>
+  </point>
+  <point>
+    <name>Джурджу</name>
+    <region>Южный регион</region>
+    <district>Джурджу</district>
+    <id>8989</id>
+  </point>
+  <point>
+    <name>Дилга</name>
+    <region>Южный регион</region>
+    <district>Дилга</district>
+    <id>8930</id>
+  </point>
+  <point>
+    <name>Зимничеа</name>
+    <region>Южный регион</region>
+    <district>Зимничеа</district>
+    <id>170522</id>
+  </point>
+  <point>
+    <name>Кирияк</name>
+    <region>Южный регион</region>
+    <district>Кирияк</district>
+    <id>8960</id>
+  </point>
+  <point>
+    <name>Куртя-де-Арджеш</name>
+    <region>Южный регион</region>
+    <district>Куртя-де-Арджеш</district>
+    <id>8863</id>
+  </point>
+  <point>
+    <name>Кымпина</name>
+    <region>Южный регион</region>
+    <district>Кымпина</district>
+    <id>8864</id>
+  </point>
+  <point>
+    <name>Кымпулунг</name>
+    <region>Южный регион</region>
+    <district>Кымпулунг</district>
+    <id>8812</id>
+  </point>
+  <point>
+    <name>Кэлэраши</name>
+    <region>Южный регион</region>
+    <district>Кэлэраши</district>
+    <id>8947</id>
+  </point>
+  <point>
+    <name>Миовени</name>
+    <region>Южный регион</region>
+    <district>Миовени</district>
+    <id>152007</id>
+  </point>
+  <point>
+    <name>Олтеница</name>
+    <region>Южный регион</region>
+    <district>Олтеница</district>
+    <id>8962</id>
+  </point>
+  <point>
+    <name>Ому</name>
+    <region>Южный регион</region>
+    <district>Ому</district>
+    <id>8760</id>
+  </point>
+  <point>
+    <name>Питешти</name>
+    <region>Южный регион</region>
+    <district>Питешти</district>
+    <id>8882</id>
+  </point>
+  <point>
+    <name>Плоешти</name>
+    <region>Южный регион</region>
+    <district>Плоешти</district>
+    <id>8891</id>
+  </point>
+  <point>
+    <name>Рошиорий-де-Веде</name>
+    <region>Южный регион</region>
+    <district>Рошиорий-де-Веде</district>
+    <id>8959</id>
+  </point>
+  <point>
+    <name>Рукар</name>
+    <region>Южный регион</region>
+    <district>Рукар</district>
+    <id>8785</id>
+  </point>
+  <point>
+    <name>Сарулешти</name>
+    <region>Южный регион</region>
+    <district>Сарулешти</district>
+    <id>8936</id>
+  </point>
+  <point>
+    <name>Синая</name>
+    <region>Южный регион</region>
+    <district>Синая</district>
+    <id>8816</id>
+  </point>
+  <point>
+    <name>Слобозия</name>
+    <region>Южный регион</region>
+    <district>Слобозия</district>
+    <id>151994</id>
+  </point>
+  <point>
+    <name>Солаколу</name>
+    <region>Южный регион</region>
+    <district>Солаколу</district>
+    <id>8932</id>
+  </point>
+  <point>
+    <name>Стольники</name>
+    <region>Южный регион</region>
+    <district>Стольники</district>
+    <id>8917</id>
+  </point>
+  <point>
+    <name>Титу</name>
+    <region>Южный регион</region>
+    <district>Титу</district>
+    <id>8920</id>
+  </point>
+  <point>
+    <name>Турну-Мэгуреле</name>
+    <region>Южный регион</region>
+    <district>Турну-Мэгуреле</district>
+    <id>8982</id>
+  </point>
+  <point>
+    <name>Тырговиште</name>
+    <region>Южный регион</region>
+    <district>Тырговиште</district>
+    <id>8884</id>
+  </point>
+  <point>
+    <name>Урзичени</name>
+    <region>Южный регион</region>
+    <district>Урзичени</district>
+    <id>8902</id>
+  </point>
+  <point>
+    <name>Фетешти</name>
+    <region>Южный регион</region>
+    <district>Фетешти</district>
+    <id>8942</id>
+  </point>
+  <point>
+    <name>Фундуля</name>
+    <region>Южный регион</region>
+    <district>Фундуля</district>
+    <id>8931</id>
+  </point>
+  <point>
+    <name>Цэндэрей</name>
+    <region>Южный регион</region>
+    <district>Цэндэрей</district>
+    <id>151993</id>
+  </point>
+</country>

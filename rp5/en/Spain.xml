@@ -1,0 +1,644 @@
+<country name="Spain" count="107">
+  <point>
+    <name>Almeria (airport)</name>
+    <region>Andalusia</region>
+    <district>Almeria</district>
+    <id>5801</id>
+  </point>
+  <point>
+    <name>Cadiz</name>
+    <region>Andalusia</region>
+    <district>Cadiz</district>
+    <id>429859</id>
+  </point>
+  <point>
+    <name>Jerez de la Frontera (airport)</name>
+    <region>Andalusia</region>
+    <district>Cadiz</district>
+    <id>5777</id>
+  </point>
+  <point>
+    <name>Rota (airport)</name>
+    <region>Andalusia</region>
+    <district>Cadiz</district>
+    <id>430408</id>
+  </point>
+  <point>
+    <name>Cordoba</name>
+    <region>Andalusia</region>
+    <district>Cordoba</district>
+    <id>5755</id>
+  </point>
+  <point>
+    <name>Cordoba (airport)</name>
+    <region>Andalusia</region>
+    <district>Cordoba</district>
+    <id>508135</id>
+  </point>
+  <point>
+    <name>Granada (airport)</name>
+    <region>Andalusia</region>
+    <district>Granada</district>
+    <id>5759</id>
+  </point>
+  <point>
+    <name>Armilla (airport)</name>
+    <region>Andalusia</region>
+    <district>Granada</district>
+    <id>435738</id>
+  </point>
+  <point>
+    <name>Huelva</name>
+    <region>Andalusia</region>
+    <district>Huelva</district>
+    <id>5751</id>
+  </point>
+  <point>
+    <name>Jaen</name>
+    <region>Andalusia</region>
+    <district>Jaen</district>
+    <id>5758</id>
+  </point>
+  <point>
+    <name>Malaga (airport)</name>
+    <region>Andalusia</region>
+    <district>Malaga</district>
+    <id>5800</id>
+  </point>
+  <point>
+    <name>Seville (airport)</name>
+    <region>Andalusia</region>
+    <district>Seville</district>
+    <id>5752</id>
+  </point>
+  <point>
+    <name>Moron de la Frontera (airport)</name>
+    <region>Andalusia</region>
+    <district>Seville</district>
+    <id>5753</id>
+  </point>
+  <point>
+    <name>Sevilla / El Copero (airbase)</name>
+    <region>Andalusia</region>
+    <district>Seville</district>
+    <id>509559</id>
+  </point>
+  <point>
+    <name>Huesca</name>
+    <region>Aragon</region>
+    <district>Huesca</district>
+    <id>429860</id>
+  </point>
+  <point>
+    <name>Huesca / Pirineos (airport)</name>
+    <region>Aragon</region>
+    <district>Huesca</district>
+    <id>509560</id>
+  </point>
+  <point>
+    <name>Saragossa (airport)</name>
+    <region>Aragon</region>
+    <district>Saragossa</district>
+    <id>5632</id>
+  </point>
+  <point>
+    <name>Teruel</name>
+    <region>Aragon</region>
+    <district>Teruel</district>
+    <id>5697</id>
+  </point>
+  <point>
+    <name>Teruel (airport)</name>
+    <region>Aragon</region>
+    <district>Teruel</district>
+    <id>510532</id>
+  </point>
+  <point>
+    <name>Asturias (airport)</name>
+    <region>Asturias</region>
+    <district>Asturias (airport)</district>
+    <id>508273</id>
+  </point>
+  <point>
+    <name>Musel / Gijon</name>
+    <region>Asturias</region>
+    <district>Musel / Gijon</district>
+    <id>510316</id>
+  </point>
+  <point>
+    <name>Oviedo</name>
+    <region>Asturias</region>
+    <district>Oviedo</district>
+    <id>5558</id>
+  </point>
+  <point>
+    <name>Ibiza / Es Codola (airport)</name>
+    <region>Balearic Islands</region>
+    <district>Ibiza / Es Codola (airport)</district>
+    <id>5743</id>
+  </point>
+  <point>
+    <name>Mahon (airport)</name>
+    <region>Balearic Islands</region>
+    <district>Mahon (airport)</district>
+    <id>5731</id>
+  </point>
+  <point>
+    <name>Palma de Mallorca</name>
+    <region>Balearic Islands</region>
+    <district>Palma de Mallorca</district>
+    <id>5729</id>
+  </point>
+  <point>
+    <name>Palma de Mallorca / Son San Juan (airport)</name>
+    <region>Balearic Islands</region>
+    <district>Palma de Mallorca / Son San Juan (airport)</district>
+    <id>5730</id>
+  </point>
+  <point>
+    <name>Vitoria-Gasteiz (airport)</name>
+    <region>Basque Country</region>
+    <district>Alava</district>
+    <id>5587</id>
+  </point>
+  <point>
+    <name>Bilbao</name>
+    <region>Basque Country</region>
+    <district>Biscay</district>
+    <id>429875</id>
+  </point>
+  <point>
+    <name>Bilbao / Sondika (airport)</name>
+    <region>Basque Country</region>
+    <district>Biscay</district>
+    <id>5564</id>
+  </point>
+  <point>
+    <name>San Sebastian</name>
+    <region>Basque Country</region>
+    <district>Gipuzkoa</district>
+    <id>429874</id>
+  </point>
+  <point>
+    <name>San Sebastian / Fuenterrabia (airport)</name>
+    <region>Basque Country</region>
+    <district>Gipuzkoa</district>
+    <id>5567</id>
+  </point>
+  <point>
+    <name>San Sebastian / Igueldo</name>
+    <region>Basque Country</region>
+    <district>Gipuzkoa</district>
+    <id>5565</id>
+  </point>
+  <point>
+    <name>Las Palmas</name>
+    <region>Canary Islands</region>
+    <district>Las Palmas</district>
+    <id>429873</id>
+  </point>
+  <point>
+    <name>Fuerteventura (airport)</name>
+    <region>Canary Islands</region>
+    <district>Las Palmas</district>
+    <id>10233</id>
+  </point>
+  <point>
+    <name>Gran Canaria / Canary Islands (airport)</name>
+    <region>Canary Islands</region>
+    <district>Las Palmas</district>
+    <id>10231</id>
+  </point>
+  <point>
+    <name>Lanzarote / Playa Honda (airport)</name>
+    <region>Canary Islands</region>
+    <district>Las Palmas</district>
+    <id>10234</id>
+  </point>
+  <point>
+    <name>Santa Cruz de Tenerife</name>
+    <region>Canary Islands</region>
+    <district>Santa Cruz de Tenerife</district>
+    <id>10229</id>
+  </point>
+  <point>
+    <name>La Gomera (airport)</name>
+    <region>Canary Islands</region>
+    <district>Santa Cruz de Tenerife</district>
+    <id>508496</id>
+  </point>
+  <point>
+    <name>La Palma (airport)</name>
+    <region>Canary Islands</region>
+    <district>Santa Cruz de Tenerife</district>
+    <id>10226</id>
+  </point>
+  <point>
+    <name>Los Rodeos (airport)</name>
+    <region>Canary Islands</region>
+    <district>Santa Cruz de Tenerife</district>
+    <id>10228</id>
+  </point>
+  <point>
+    <name>Santa Cruz de Tenerife (airport)</name>
+    <region>Canary Islands</region>
+    <district>Santa Cruz de Tenerife</district>
+    <id>10230</id>
+  </point>
+  <point>
+    <name>El Hierro (airport)</name>
+    <region>Canary Islands</region>
+    <district>Santa Cruz de Tenerife</district>
+    <id>452560</id>
+  </point>
+  <point>
+    <name>Santander</name>
+    <region>Cantabria</region>
+    <district>Santander</district>
+    <id>5560</id>
+  </point>
+  <point>
+    <name>Santander (airport)</name>
+    <region>Cantabria</region>
+    <district>Santander (airport)</district>
+    <id>508137</id>
+  </point>
+  <point>
+    <name>Avila</name>
+    <region>Castile and Leon</region>
+    <district>Avila</district>
+    <id>5655</id>
+  </point>
+  <point>
+    <name>Burgos</name>
+    <region>Castile and Leon</region>
+    <district>Burgos</district>
+    <id>429861</id>
+  </point>
+  <point>
+    <name>Villafria de Burgos (airport)</name>
+    <region>Castile and Leon</region>
+    <district>Burgos</district>
+    <id>5584</id>
+  </point>
+  <point>
+    <name>Leon</name>
+    <region>Castile and Leon</region>
+    <district>Leon</district>
+    <id>429862</id>
+  </point>
+  <point>
+    <name>Leon / La Virgen del Camino (airport)</name>
+    <region>Castile and Leon</region>
+    <district>Leon</district>
+    <id>5580</id>
+  </point>
+  <point>
+    <name>Ponferrada</name>
+    <region>Castile and Leon</region>
+    <district>Leon</district>
+    <id>462864</id>
+  </point>
+  <point>
+    <name>Palencia</name>
+    <region>Castile and Leon</region>
+    <district>Palencia</district>
+    <id>429863</id>
+  </point>
+  <point>
+    <name>Salamanca</name>
+    <region>Castile and Leon</region>
+    <district>Salamanca</district>
+    <id>429864</id>
+  </point>
+  <point>
+    <name>Salamanca / Matacan (airport)</name>
+    <region>Castile and Leon</region>
+    <district>Salamanca</district>
+    <id>5651</id>
+  </point>
+  <point>
+    <name>Segovia</name>
+    <region>Castile and Leon</region>
+    <district>Segovia</district>
+    <id>429865</id>
+  </point>
+  <point>
+    <name>Soria</name>
+    <region>Castile and Leon</region>
+    <district>Soria</district>
+    <id>429866</id>
+  </point>
+  <point>
+    <name>Valladolid</name>
+    <region>Castile and Leon</region>
+    <district>Valladolid</district>
+    <id>5629</id>
+  </point>
+  <point>
+    <name>Valladolid (airport)</name>
+    <region>Castile and Leon</region>
+    <district>Valladolid</district>
+    <id>508134</id>
+  </point>
+  <point>
+    <name>Zamora</name>
+    <region>Castile and Leon</region>
+    <district>Zamora</district>
+    <id>5615</id>
+  </point>
+  <point>
+    <name>Albacete (airport)</name>
+    <region>Castile-La Mancha</region>
+    <district>Albacete</district>
+    <id>5710</id>
+  </point>
+  <point>
+    <name>Ciudad Real</name>
+    <region>Castile-La Mancha</region>
+    <district>Ciudad Real</district>
+    <id>5739</id>
+  </point>
+  <point>
+    <name>Ciudad Real (airbase)</name>
+    <region>Castile-La Mancha</region>
+    <district>Ciudad Real</district>
+    <id>509557</id>
+  </point>
+  <point>
+    <name>Ciudad Real (airport)</name>
+    <region>Castile-La Mancha</region>
+    <district>Ciudad Real</district>
+    <id>508993</id>
+  </point>
+  <point>
+    <name>Cuenca</name>
+    <region>Castile-La Mancha</region>
+    <district>Cuenca</district>
+    <id>5681</id>
+  </point>
+  <point>
+    <name>Guadalajara</name>
+    <region>Castile-La Mancha</region>
+    <district>Guadalajara</district>
+    <id>429867</id>
+  </point>
+  <point>
+    <name>Toledo</name>
+    <region>Castile-La Mancha</region>
+    <district>Toledo</district>
+    <id>5702</id>
+  </point>
+  <point>
+    <name>Barcelona</name>
+    <region>Catalonia</region>
+    <district>Barcelona</district>
+    <id>5639</id>
+  </point>
+  <point>
+    <name>Barcelona (airport)</name>
+    <region>Catalonia</region>
+    <district>Barcelona</district>
+    <id>434629</id>
+  </point>
+  <point>
+    <name>Sabadell (airport)</name>
+    <region>Catalonia</region>
+    <district>Barcelona</district>
+    <id>508977</id>
+  </point>
+  <point>
+    <name>Girona</name>
+    <region>Catalonia</region>
+    <district>Girona</district>
+    <id>429868</id>
+  </point>
+  <point>
+    <name>Girona / Costa Brava (airport)</name>
+    <region>Catalonia</region>
+    <district>Girona</district>
+    <id>5640</id>
+  </point>
+  <point>
+    <name>Lleida</name>
+    <region>Catalonia</region>
+    <district>Lleida</district>
+    <id>5634</id>
+  </point>
+  <point>
+    <name>Lleida-Alguaire (airport)</name>
+    <region>Catalonia</region>
+    <district>Lleida</district>
+    <id>510623</id>
+  </point>
+  <point>
+    <name>Tarragona</name>
+    <region>Catalonia</region>
+    <district>Tarragona</district>
+    <id>429869</id>
+  </point>
+  <point>
+    <name>Reus (airport)</name>
+    <region>Catalonia</region>
+    <district>Tarragona</district>
+    <id>5636</id>
+  </point>
+  <point>
+    <name>Tortosa</name>
+    <region>Catalonia</region>
+    <district>Tarragona</district>
+    <id>5699</id>
+  </point>
+  <point>
+    <name>Ceuta</name>
+    <region>Ceuta</region>
+    <district></district>
+    <id>10271</id>
+  </point>
+  <point>
+    <name>Badajoz (airport)</name>
+    <region>Extremadura</region>
+    <district>Badajoz</district>
+    <id>5737</id>
+  </point>
+  <point>
+    <name>Merida</name>
+    <region>Extremadura</region>
+    <district>Badajoz</district>
+    <id>98665</id>
+  </point>
+  <point>
+    <name>Caceres</name>
+    <region>Extremadura</region>
+    <district>Caceres</district>
+    <id>5701</id>
+  </point>
+  <point>
+    <name>Corunna</name>
+    <region>Galicia</region>
+    <district>La Coruna</district>
+    <id>5548</id>
+  </point>
+  <point>
+    <name>Corunna (airport)</name>
+    <region>Galicia</region>
+    <district>La Coruna</district>
+    <id>508136</id>
+  </point>
+  <point>
+    <name>Santiago de Compostela (airport)</name>
+    <region>Galicia</region>
+    <district>La Coruna</district>
+    <id>5568</id>
+  </point>
+  <point>
+    <name>Lugo</name>
+    <region>Galicia</region>
+    <district>Lugo</district>
+    <id>429870</id>
+  </point>
+  <point>
+    <name>Lugo / Rozas</name>
+    <region>Galicia</region>
+    <district>Lugo</district>
+    <id>5554</id>
+  </point>
+  <point>
+    <name>Ourense</name>
+    <region>Galicia</region>
+    <district>Ourense</district>
+    <id>429871</id>
+  </point>
+  <point>
+    <name>Pontevedra</name>
+    <region>Galicia</region>
+    <district>Pontevedra</district>
+    <id>429872</id>
+  </point>
+  <point>
+    <name>Vigo / Peinador (airport)</name>
+    <region>Galicia</region>
+    <district>Pontevedra</district>
+    <id>5572</id>
+  </point>
+  <point>
+    <name>Logrono (airport)</name>
+    <region>La Rioja</region>
+    <district>Logrono (airport)</district>
+    <id>5590</id>
+  </point>
+  <point>
+    <name>Madrid</name>
+    <region>Madrid</region>
+    <district></district>
+    <id>5668</id>
+  </point>
+  <point>
+    <name>Madrid / Barajas (airport)</name>
+    <region>Madrid</region>
+    <district>Madrid / Barajas (airport)</district>
+    <id>5667</id>
+  </point>
+  <point>
+    <name>Madrid / Cuatro Vientos (airport)</name>
+    <region>Madrid</region>
+    <district>Madrid / Cuatro Vientos (airport)</district>
+    <id>509561</id>
+  </point>
+  <point>
+    <name>Madrid / Getafe (airport)</name>
+    <region>Madrid</region>
+    <district>Madrid / Getafe (airport)</district>
+    <id>508819</id>
+  </point>
+  <point>
+    <name>Torrejon de Ardoz (airport)</name>
+    <region>Madrid</region>
+    <district>Torrejon de Ardoz (airport)</district>
+    <id>509811</id>
+  </point>
+  <point>
+    <name>Colmenar Viejo (airbase)</name>
+    <region>Madrid</region>
+    <district>Colmenar Viejo (airbase)</district>
+    <id>509558</id>
+  </point>
+  <point>
+    <name>Navacerrada</name>
+    <region>Madrid</region>
+    <district>Navacerrada</district>
+    <id>5663</id>
+  </point>
+  <point>
+    <name>Torrejon de Ardoz</name>
+    <region>Madrid</region>
+    <district>Torrejon de Ardoz</district>
+    <id>437794</id>
+  </point>
+  <point>
+    <name>Melilla (airport)</name>
+    <region>Melilla</region>
+    <district>Melilla (airport)</district>
+    <id>10272</id>
+  </point>
+  <point>
+    <name>Murcia</name>
+    <region>Murcia</region>
+    <district></district>
+    <id>5767</id>
+  </point>
+  <point>
+    <name>Alcantarilla (airport)</name>
+    <region>Murcia</region>
+    <district>Alcantarilla (airport)</district>
+    <id>5760</id>
+  </point>
+  <point>
+    <name>San Javier (airport)</name>
+    <region>Murcia</region>
+    <district>San Javier (airport)</district>
+    <id>5773</id>
+  </point>
+  <point>
+    <name>Pamplona (airport)</name>
+    <region>Navarre</region>
+    <district>Pamplona (airport)</district>
+    <id>5593</id>
+  </point>
+  <point>
+    <name>Valencia</name>
+    <region>Valencian Community</region>
+    <district>Valencia</district>
+    <id>5723</id>
+  </point>
+  <point>
+    <name>Alicante</name>
+    <region>Valencian Community</region>
+    <district>Alicante</district>
+    <id>5740</id>
+  </point>
+  <point>
+    <name>Alicante / El Altet (airport)</name>
+    <region>Valencian Community</region>
+    <district>Alicante</district>
+    <id>5742</id>
+  </point>
+  <point>
+    <name>Valencia (airport)</name>
+    <region>Valencian Community</region>
+    <district>Valencia</district>
+    <id>5715</id>
+  </point>
+  <point>
+    <name>Castellon de la Plana</name>
+    <region>Valencian Community</region>
+    <district>Castellon</district>
+    <id>5728</id>
+  </point>
+  <point>
+    <name>Betera / La Malla (airbase)</name>
+    <region>Valencian Community</region>
+    <district>Valencia</district>
+    <id>510821</id>
+  </point>
+</country>

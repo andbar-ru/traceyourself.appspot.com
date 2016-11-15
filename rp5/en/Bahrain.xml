@@ -1,0 +1,38 @@
+<country name="Bahrain" count="6">
+  <point>
+    <name>Manama</name>
+    <region>Capital Governorate</region>
+    <district>Manama</district>
+    <id>151437</id>
+  </point>
+  <point>
+    <name>Sitra</name>
+    <region>Central Governorate</region>
+    <district>Sitra</district>
+    <id>11082</id>
+  </point>
+  <point>
+    <name>Muharraq</name>
+    <region>Muharraq Governorate</region>
+    <district>Muharraq</district>
+    <id>11045</id>
+  </point>
+  <point>
+    <name>Bahrain (airport)</name>
+    <region>Muharraq Governorate</region>
+    <district>Bahrain (airport)</district>
+    <id>13139</id>
+  </point>
+  <point>
+    <name>Malikiya</name>
+    <region>Northern Governorate</region>
+    <district>Malikiya</district>
+    <id>11092</id>
+  </point>
+  <point>
+    <name>Ar Rifa</name>
+    <region>Southern Governorate</region>
+    <district>Ar Rifa</district>
+    <id>11051</id>
+  </point>
+</country>

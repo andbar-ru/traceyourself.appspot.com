@@ -1,0 +1,50 @@
+<country name="Lebanon" count="8">
+  <point>
+    <name>Beirut</name>
+    <region>Beirut</region>
+    <district>Beirut</district>
+    <id>10006</id>
+  </point>
+  <point>
+    <name>Beirut (airport)</name>
+    <region>Beirut</region>
+    <district>Beirut (airport)</district>
+    <id>504598</id>
+  </point>
+  <point>
+    <name>Zahle / Houche Al Oumara</name>
+    <region>Beqaa</region>
+    <district>Zahle / Houche Al Oumara</district>
+    <id>10007</id>
+  </point>
+  <point>
+    <name>Zahleh</name>
+    <region>Beqaa</region>
+    <district>Zahleh</district>
+    <id>152315</id>
+  </point>
+  <point>
+    <name>Baabda</name>
+    <region>Mount Lebanon</region>
+    <district>Baabda</district>
+    <id>292046</id>
+  </point>
+  <point>
+    <name>Nabatiye</name>
+    <region>Nabatiye</region>
+    <district>Nabatiye</district>
+    <id>292047</id>
+  </point>
+  <point>
+    <name>Tripoli</name>
+    <region>North Governorate</region>
+    <district>Tripoli</district>
+    <id>10009</id>
+  </point>
+  <point>
+    <name>Sidon</name>
+    <region>South Governorate</region>
+    <district>Sidon</district>
+    <id>152314</id>
+  </point>
+</country>

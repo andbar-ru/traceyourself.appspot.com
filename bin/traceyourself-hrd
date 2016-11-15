@@ -1,0 +1,24 @@
+#!/bin/bash
+
+APP_DIR="$HOME/GAE/traceyourself-hrd/src"
+APPSERVER="$HOME/Programs/google_appengine/dev_appserver.py"
+if [ $(hostname) = "viki" ]
+then
+	IP="194.85.121.181"
+else # hostname=admin-desktop
+	IP="192.168.52.70"
+fi
+
+cd "$APP_DIR"
+
+COMMAND="$APPSERVER --storage_path ../storage --dev_appserver_log_level=warning --log_level=warning dispatch.yaml app.yaml highmem.yaml"
+
+if [ "$1" = "-p" ]
+then
+	echo "$COMMAND"
+elif [ "$1" = "-i" ]
+then
+	$COMMAND --address="$IP"
+else
+	$COMMAND
+fi

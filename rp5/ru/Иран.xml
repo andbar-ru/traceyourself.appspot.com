@@ -1,0 +1,698 @@
+<country name="Иран" count="116">
+  <point>
+    <name>Ардебиль</name>
+    <region>Ардебиль</region>
+    <district>Ардебиль</district>
+    <id>13005</id>
+  </point>
+  <point>
+    <name>Ардебиль (аэропорт)</name>
+    <region>Ардебиль</region>
+    <district>Ардебиль (аэропорт)</district>
+    <id>508269</id>
+  </point>
+  <point>
+    <name>Парсабад</name>
+    <region>Ардебиль</region>
+    <district>Парсабад</district>
+    <id>13000</id>
+  </point>
+  <point>
+    <name>Бушир</name>
+    <region>Бушир</region>
+    <district>Бушир</district>
+    <id>13063</id>
+  </point>
+  <point>
+    <name>Бандар-э-Дайер</name>
+    <region>Бушир</region>
+    <district>Бандар-э-Дайер</district>
+    <id>170781</id>
+  </point>
+  <point>
+    <name>Бушир (аэропорт)</name>
+    <region>Бушир</region>
+    <district>Бушир (аэропорт)</district>
+    <id>13064</id>
+  </point>
+  <point>
+    <name>Персиан-Галф (аэропорт)</name>
+    <region>Бушир</region>
+    <district>Персиан-Галф (аэропорт)</district>
+    <id>508599</id>
+  </point>
+  <point>
+    <name>Харг (аэропорт)</name>
+    <region>Бушир</region>
+    <district>Харг (аэропорт)</district>
+    <id>13057</id>
+  </point>
+  <point>
+    <name>Ахар</name>
+    <region>Восточный Азербайджан</region>
+    <district>Ахар</district>
+    <id>13003</id>
+  </point>
+  <point>
+    <name>Марага (аэропорт)</name>
+    <region>Восточный Азербайджан</region>
+    <district>Марага (аэропорт)</district>
+    <id>504610</id>
+  </point>
+  <point>
+    <name>Марага</name>
+    <region>Восточный Азербайджан</region>
+    <district>Марага</district>
+    <id>13008</id>
+  </point>
+  <point>
+    <name>Мейане</name>
+    <region>Восточный Азербайджан</region>
+    <district>Мейане</district>
+    <id>170779</id>
+  </point>
+  <point>
+    <name>Сараб</name>
+    <region>Восточный Азербайджан</region>
+    <district>Сараб</district>
+    <id>13006</id>
+  </point>
+  <point>
+    <name>Тебриз (аэропорт)</name>
+    <region>Восточный Азербайджан</region>
+    <district>Тебриз (аэропорт)</district>
+    <id>504612</id>
+  </point>
+  <point>
+    <name>Тебриз</name>
+    <region>Восточный Азербайджан</region>
+    <district>Тебриз</district>
+    <id>13004</id>
+  </point>
+  <point>
+    <name>Решт (аэропорт)</name>
+    <region>Гилян</region>
+    <district>Решт (аэропорт)</district>
+    <id>13010</id>
+  </point>
+  <point>
+    <name>Энзели</name>
+    <region>Гилян</region>
+    <district>Энзели</district>
+    <id>13009</id>
+  </point>
+  <point>
+    <name>Горган (аэропорт)</name>
+    <region>Голестан</region>
+    <district>Горган (аэропорт)</district>
+    <id>504604</id>
+  </point>
+  <point>
+    <name>Горган</name>
+    <region>Голестан</region>
+    <district>Горган</district>
+    <id>13020</id>
+  </point>
+  <point>
+    <name>Кучан</name>
+    <region>Голестан</region>
+    <district>Кучан</district>
+    <id>13022</id>
+  </point>
+  <point>
+    <name>Маравех-Таппех</name>
+    <region>Голестан</region>
+    <district>Маравех-Таппех</district>
+    <id>170780</id>
+  </point>
+  <point>
+    <name>Макко</name>
+    <region>Западный Азербайджан</region>
+    <district>Макко</district>
+    <id>13001</id>
+  </point>
+  <point>
+    <name>Маку (метеостанция)</name>
+    <region>Западный Азербайджан</region>
+    <district>Маку (метеостанция)</district>
+    <id>509787</id>
+  </point>
+  <point>
+    <name>Мохабад</name>
+    <region>Западный Азербайджан</region>
+    <district>Мохабад</district>
+    <id>13012</id>
+  </point>
+  <point>
+    <name>Урмия (аэропорт)</name>
+    <region>Западный Азербайджан</region>
+    <district>Урмия (аэропорт)</district>
+    <id>504613</id>
+  </point>
+  <point>
+    <name>Урмия</name>
+    <region>Западный Азербайджан</region>
+    <district>Урмия</district>
+    <id>13007</id>
+  </point>
+  <point>
+    <name>Хой</name>
+    <region>Западный Азербайджан</region>
+    <district>Хой</district>
+    <id>13002</id>
+  </point>
+  <point>
+    <name>Зенджан</name>
+    <region>Зенджан</region>
+    <district>Зенджан</district>
+    <id>13014</id>
+  </point>
+  <point>
+    <name>Зенджан (аэропорт)</name>
+    <region>Зенджан</region>
+    <district>Зенджан (аэропорт)</district>
+    <id>504605</id>
+  </point>
+  <point>
+    <name>Илам</name>
+    <region>Илам</region>
+    <district>Илам</district>
+    <id>13035</id>
+  </point>
+  <point>
+    <name>Илам (аэропорт)</name>
+    <region>Илам</region>
+    <district>Илам (аэропорт)</district>
+    <id>508456</id>
+  </point>
+  <point>
+    <name>Исфахан</name>
+    <region>Исфахан</region>
+    <district>Исфахан</district>
+    <id>13044</id>
+  </point>
+  <point>
+    <name>Исфахан (аэропорт)</name>
+    <region>Исфахан</region>
+    <district>Исфахан (аэропорт)</district>
+    <id>504607</id>
+  </point>
+  <point>
+    <name>Кашан (аэропорт)</name>
+    <region>Исфахан</region>
+    <district>Кашан (аэропорт)</district>
+    <id>504609</id>
+  </point>
+  <point>
+    <name>Ясоге</name>
+    <region>Исфахан</region>
+    <district>Ясоге</district>
+    <id>13055</id>
+  </point>
+  <point>
+    <name>Кашан</name>
+    <region>Исфахан</region>
+    <district>Кашан</district>
+    <id>13038</id>
+  </point>
+  <point>
+    <name>Хор</name>
+    <region>Исфахан</region>
+    <district>Хор</district>
+    <id>13039</id>
+  </point>
+  <point>
+    <name>Йезд</name>
+    <region>Йезд</region>
+    <district>Йезд</district>
+    <id>13049</id>
+  </point>
+  <point>
+    <name>Йезд (аэропорт)</name>
+    <region>Йезд</region>
+    <district>Йезд (аэропорт)</district>
+    <id>504608</id>
+  </point>
+  <point>
+    <name>Табас</name>
+    <region>Йезд</region>
+    <district>Табас</district>
+    <id>13040</id>
+  </point>
+  <point>
+    <name>Казвин (аэропорт)</name>
+    <region>Казвин</region>
+    <district>Казвин (аэропорт)</district>
+    <id>13015</id>
+  </point>
+  <point>
+    <name>Керман (аэропорт)</name>
+    <region>Керман</region>
+    <district>Керман (аэропорт)</district>
+    <id>13056</id>
+  </point>
+  <point>
+    <name>Бам</name>
+    <region>Керман</region>
+    <district>Бам</district>
+    <id>13061</id>
+  </point>
+  <point>
+    <name>Бафт</name>
+    <region>Керман</region>
+    <district>Бафт</district>
+    <id>13060</id>
+  </point>
+  <point>
+    <name>Кахнудж</name>
+    <region>Керман</region>
+    <district>Кахнудж</district>
+    <id>170782</id>
+  </point>
+  <point>
+    <name>Сиржан</name>
+    <region>Керман</region>
+    <district>Сиржан</district>
+    <id>13059</id>
+  </point>
+  <point>
+    <name>Керманшах (аэропорт)</name>
+    <region>Керманшах</region>
+    <district>Керманшах (аэропорт)</district>
+    <id>13032</id>
+  </point>
+  <point>
+    <name>Касри-Ширин</name>
+    <region>Керманшах</region>
+    <district>Касри-Ширин</district>
+    <id>13031</id>
+  </point>
+  <point>
+    <name>Гач-Сарах-ду-Гундабан (аэропорт)</name>
+    <region>Кохгилуйе и Бойерахмед</region>
+    <district>Гач-Сарах-ду-Гундабан (аэропорт)</district>
+    <id>13054</id>
+  </point>
+  <point>
+    <name>Ясудж (аэропорт)</name>
+    <region>Кохгилуйе и Бойерахмед</region>
+    <district>Ясудж (аэропорт)</district>
+    <id>508753</id>
+  </point>
+  <point>
+    <name>Ясудж</name>
+    <region>Кохгилуйе и Бойерахмед</region>
+    <district>Ясудж</district>
+    <id>170774</id>
+  </point>
+  <point>
+    <name>Кум</name>
+    <region>Кум</region>
+    <district>Кум</district>
+    <id>152422</id>
+  </point>
+  <point>
+    <name>Сагхез</name>
+    <region>Курдистан</region>
+    <district>Сагхез</district>
+    <id>13013</id>
+  </point>
+  <point>
+    <name>Сенендедж (аэропорт)</name>
+    <region>Курдистан</region>
+    <district>Сенендедж (аэропорт)</district>
+    <id>504611</id>
+  </point>
+  <point>
+    <name>Сенендедж</name>
+    <region>Курдистан</region>
+    <district>Сенендедж</district>
+    <id>13026</id>
+  </point>
+  <point>
+    <name>Мелайер (аэропорт)</name>
+    <region>Лурестан</region>
+    <district>Мелайер (аэропорт)</district>
+    <id>509783</id>
+  </point>
+  <point>
+    <name>Хорремабад (аэропорт)</name>
+    <region>Лурестан</region>
+    <district>Хорремабад (аэропорт)</district>
+    <id>508481</id>
+  </point>
+  <point>
+    <name>Хорремабад</name>
+    <region>Лурестан</region>
+    <district>Хорремабад</district>
+    <id>13036</id>
+  </point>
+  <point>
+    <name>Бабулсар (AWS)</name>
+    <region>Мазендеран</region>
+    <district>Бабулсар (AWS)</district>
+    <id>13018</id>
+  </point>
+  <point>
+    <name>Даште-Наз (аэропорт)</name>
+    <region>Мазендеран</region>
+    <district>Даште-Наз (аэропорт)</district>
+    <id>508357</id>
+  </point>
+  <point>
+    <name>Каэмшехр / Гаракхиль</name>
+    <region>Мазендеран</region>
+    <district>Каэмшехр / Гаракхиль</district>
+    <id>13019</id>
+  </point>
+  <point>
+    <name>Ноушехр (аэропорт)</name>
+    <region>Мазендеран</region>
+    <district>Ноушехр (аэропорт)</district>
+    <id>508581</id>
+  </point>
+  <point>
+    <name>Ношахр</name>
+    <region>Мазендеран</region>
+    <district>Ношахр</district>
+    <id>13017</id>
+  </point>
+  <point>
+    <name>Рамсар (аэропорт)</name>
+    <region>Мазендеран</region>
+    <district>Рамсар (аэропорт)</district>
+    <id>13016</id>
+  </point>
+  <point>
+    <name>Сари</name>
+    <region>Мазендеран</region>
+    <district>Сари</district>
+    <id>170844</id>
+  </point>
+  <point>
+    <name>Боджнурд (аэропорт)</name>
+    <region>Северный Хорасан</region>
+    <district>Боджнурд (аэропорт)</district>
+    <id>13011</id>
+  </point>
+  <point>
+    <name>Семнан (аэропорт)</name>
+    <region>Семнан</region>
+    <district>Семнан (аэропорт)</district>
+    <id>13028</id>
+  </point>
+  <point>
+    <name>Шехруд</name>
+    <region>Семнан</region>
+    <district>Шехруд</district>
+    <id>13021</id>
+  </point>
+  <point>
+    <name>Заболь (аэропорт)</name>
+    <region>Систан и Белуджистан</region>
+    <district>Заболь (аэропорт)</district>
+    <id>13051</id>
+  </point>
+  <point>
+    <name>Захедан (аэропорт)</name>
+    <region>Систан и Белуджистан</region>
+    <district>Захедан (аэропорт)</district>
+    <id>13062</id>
+  </point>
+  <point>
+    <name>Ираншахр (аэропорт)</name>
+    <region>Систан и Белуджистан</region>
+    <district>Ираншахр (аэропорт)</district>
+    <id>504606</id>
+  </point>
+  <point>
+    <name>Ираншахр</name>
+    <region>Систан и Белуджистан</region>
+    <district>Ираншахр</district>
+    <id>13068</id>
+  </point>
+  <point>
+    <name>Конарак</name>
+    <region>Систан и Белуджистан</region>
+    <district>Конарак</district>
+    <id>13074</id>
+  </point>
+  <point>
+    <name>Сараван</name>
+    <region>Систан и Белуджистан</region>
+    <district>Сараван</district>
+    <id>13067</id>
+  </point>
+  <point>
+    <name>Чахбехар (аэропорт)</name>
+    <region>Систан и Белуджистан</region>
+    <district>Чахбехар (аэропорт)</district>
+    <id>13075</id>
+  </point>
+  <point>
+    <name>Тегеран / Мехрабад (аэропорт)</name>
+    <region>Тегеран</region>
+    <district>Тегеран / Мехрабад (аэропорт)</district>
+    <id>13027</id>
+  </point>
+  <point>
+    <name>Ахмадабад / Имам Хомейни (аэропорт)</name>
+    <region>Тегеран</region>
+    <district>Ахмадабад / Имам Хомейни (аэропорт)</district>
+    <id>508457</id>
+  </point>
+  <point>
+    <name>Кередж</name>
+    <region>Тегеран</region>
+    <district>Кередж</district>
+    <id>152423</id>
+  </point>
+  <point>
+    <name>Кередж / Пайам (аэропорт)</name>
+    <region>Тегеран</region>
+    <district>Кередж / Пайам (аэропорт)</district>
+    <id>509582</id>
+  </point>
+  <point>
+    <name>Абадех (аэропорт)</name>
+    <region>Фарс</region>
+    <district>Абадех (аэропорт)</district>
+    <id>13048</id>
+  </point>
+  <point>
+    <name>Фаса (аэропорт)</name>
+    <region>Фарс</region>
+    <district>Фаса (аэропорт)</district>
+    <id>504614</id>
+  </point>
+  <point>
+    <name>Фаса</name>
+    <region>Фарс</region>
+    <district>Фаса</district>
+    <id>13065</id>
+  </point>
+  <point>
+    <name>Шираз (аэропорт)</name>
+    <region>Фарс</region>
+    <district>Шираз (аэропорт)</district>
+    <id>13058</id>
+  </point>
+  <point>
+    <name>Хамадан</name>
+    <region>Хамадан</region>
+    <district>Хамадан</district>
+    <id>13033</id>
+  </point>
+  <point>
+    <name>Хамадан (аэропорт)</name>
+    <region>Хамадан</region>
+    <district>Хамадан (аэропорт)</district>
+    <id>508432</id>
+  </point>
+  <point>
+    <name>Кашмар</name>
+    <region>Хорасан-Резави</region>
+    <district>Кашмар</district>
+    <id>13030</id>
+  </point>
+  <point>
+    <name>Мешхед (аэропорт)</name>
+    <region>Хорасан-Резави</region>
+    <district>Мешхед (аэропорт)</district>
+    <id>13025</id>
+  </point>
+  <point>
+    <name>Саракхс</name>
+    <region>Хорасан-Резави</region>
+    <district>Саракхс</district>
+    <id>13023</id>
+  </point>
+  <point>
+    <name>Себзевар</name>
+    <region>Хорасан-Резави</region>
+    <district>Себзевар</district>
+    <id>13024</id>
+  </point>
+  <point>
+    <name>Серахс (аэропорт)</name>
+    <region>Хорасан-Резави</region>
+    <district>Серахс (аэропорт)</district>
+    <id>509583</id>
+  </point>
+  <point>
+    <name>Торбат Хыдарих</name>
+    <region>Хорасан-Резави</region>
+    <district>Торбат Хыдарих</district>
+    <id>13029</id>
+  </point>
+  <point>
+    <name>Абу-Муса</name>
+    <region>Хормозган</region>
+    <district>Абу-Муса</district>
+    <id>13072</id>
+  </point>
+  <point>
+    <name>Бандар Ленгех (аэропорт)</name>
+    <region>Хормозган</region>
+    <district>Бандар Ленгех (аэропорт)</district>
+    <id>13070</id>
+  </point>
+  <point>
+    <name>Бендер-Аббас (аэропорт)</name>
+    <region>Хормозган</region>
+    <district>Бендер-Аббас (аэропорт)</district>
+    <id>13066</id>
+  </point>
+  <point>
+    <name>Джаск (аэропорт)</name>
+    <region>Хормозган</region>
+    <district>Джаск (аэропорт)</district>
+    <id>13073</id>
+  </point>
+  <point>
+    <name>Киш (аэропорт)</name>
+    <region>Хормозган</region>
+    <district>Киш (аэропорт)</district>
+    <id>508486</id>
+  </point>
+  <point>
+    <name>Киш</name>
+    <region>Хормозган</region>
+    <district>Киш</district>
+    <id>13069</id>
+  </point>
+  <point>
+    <name>о. Абу-Муса (аэропорт)</name>
+    <region>Хормозган</region>
+    <district>о. Абу-Муса (аэропорт)</district>
+    <id>509578</id>
+  </point>
+  <point>
+    <name>Сири (аэропорт)</name>
+    <region>Хормозган</region>
+    <district>Сири (аэропорт)</district>
+    <id>509580</id>
+  </point>
+  <point>
+    <name>Сири</name>
+    <region>Хормозган</region>
+    <district>Сири</district>
+    <id>13071</id>
+  </point>
+  <point>
+    <name>Абадан (аэропорт)</name>
+    <region>Хузестан</region>
+    <district>Абадан (аэропорт)</district>
+    <id>13052</id>
+  </point>
+  <point>
+    <name>Али-Гударз</name>
+    <region>Хузестан</region>
+    <district>Али-Гударз</district>
+    <id>13037</id>
+  </point>
+  <point>
+    <name>Ахваз (аэропорт)</name>
+    <region>Хузестан</region>
+    <district>Ахваз (аэропорт)</district>
+    <id>504602</id>
+  </point>
+  <point>
+    <name>Ахваз</name>
+    <region>Хузестан</region>
+    <district>Ахваз</district>
+    <id>13046</id>
+  </point>
+  <point>
+    <name>Дизфуль (аэропорт)</name>
+    <region>Хузестан</region>
+    <district>Дизфуль (аэропорт)</district>
+    <id>509577</id>
+  </point>
+  <point>
+    <name>Месджеде-Солейман (аэропорт)</name>
+    <region>Хузестан</region>
+    <district>Месджеде-Солейман (аэропорт)</district>
+    <id>13047</id>
+  </point>
+  <point>
+    <name>Омидиех (аэропорт)</name>
+    <region>Хузестан</region>
+    <district>Омидиех (аэропорт)</district>
+    <id>13053</id>
+  </point>
+  <point>
+    <name>Сафи-Абад-Дезфул</name>
+    <region>Хузестан</region>
+    <district>Сафи-Абад-Дезфул</district>
+    <id>13042</id>
+  </point>
+  <point>
+    <name>Эрак</name>
+    <region>Центральный (Меркези)</region>
+    <district>Эрак</district>
+    <id>13034</id>
+  </point>
+  <point>
+    <name>Шехре-Корд (аэропорт)</name>
+    <region>Чехармехаль и Бахтиария</region>
+    <district>Шехре-Корд (аэропорт)</district>
+    <id>504615</id>
+  </point>
+  <point>
+    <name>Шехре-Корд</name>
+    <region>Чехармехаль и Бахтиария</region>
+    <district>Шехре-Корд</district>
+    <id>13043</id>
+  </point>
+  <point>
+    <name>Бирдженд (аэропорт)</name>
+    <region>Южный Хорасан</region>
+    <district>Бирдженд (аэропорт)</district>
+    <id>504603</id>
+  </point>
+  <point>
+    <name>Бирдженд</name>
+    <region>Южный Хорасан</region>
+    <district>Бирдженд</district>
+    <id>13045</id>
+  </point>
+  <point>
+    <name>Гонабад (аэропорт)</name>
+    <region>Южный Хорасан</region>
+    <district>Гонабад (аэропорт)</district>
+    <id>509584</id>
+  </point>
+  <point>
+    <name>Нехбандан</name>
+    <region>Южный Хорасан</region>
+    <district>Нехбандан</district>
+    <id>13050</id>
+  </point>
+  <point>
+    <name>Фердус</name>
+    <region>Южный Хорасан</region>
+    <district>Фердус</district>
+    <id>13041</id>
+  </point>
+</country>

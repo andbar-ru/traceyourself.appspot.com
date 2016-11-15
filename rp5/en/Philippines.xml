@@ -1,0 +1,422 @@
+<country name="Philippines" count="70">
+  <point>
+    <name>Cotabato</name>
+    <region>Autonomous Region in Muslim Mindanao</region>
+    <district>Cotabato</district>
+    <id>196240</id>
+  </point>
+  <point>
+    <name>Isabela</name>
+    <region>Autonomous Region in Muslim Mindanao</region>
+    <district>Isabela</district>
+    <id>191013</id>
+  </point>
+  <point>
+    <name>Daet</name>
+    <region>Bicol Region</region>
+    <district>Daet</district>
+    <id>196215</id>
+  </point>
+  <point>
+    <name>Legazpi</name>
+    <region>Bicol Region</region>
+    <district>Legazpi</district>
+    <id>190959</id>
+  </point>
+  <point>
+    <name>Masbate</name>
+    <region>Bicol Region</region>
+    <district>Masbate</district>
+    <id>196223</id>
+  </point>
+  <point>
+    <name>Naga</name>
+    <region>Bicol Region</region>
+    <district>Naga</district>
+    <id>470337</id>
+  </point>
+  <point>
+    <name>Virac</name>
+    <region>Bicol Region</region>
+    <district>Virac</district>
+    <id>196217</id>
+  </point>
+  <point>
+    <name>Basco</name>
+    <region>Cagayan Valley</region>
+    <district>Basco</district>
+    <id>190993</id>
+  </point>
+  <point>
+    <name>Calayan</name>
+    <region>Cagayan Valley</region>
+    <district>Calayan</district>
+    <id>196187</id>
+  </point>
+  <point>
+    <name>Itbayat</name>
+    <region>Cagayan Valley</region>
+    <district>Itbayat</district>
+    <id>196186</id>
+  </point>
+  <point>
+    <name>San Antonio de los Banos (airport)</name>
+    <region>Cagayan Valley</region>
+    <district>San Antonio de los Banos (airport)</district>
+    <id>348503</id>
+  </point>
+  <point>
+    <name>Tuguegarao</name>
+    <region>Cagayan Valley</region>
+    <district>Tuguegarao</district>
+    <id>196192</id>
+  </point>
+  <point>
+    <name>Alabat</name>
+    <region>Calabarzon Region</region>
+    <district>Alabat</district>
+    <id>196212</id>
+  </point>
+  <point>
+    <name>Ambulong</name>
+    <region>Calabarzon Region</region>
+    <district>Ambulong</district>
+    <id>196209</id>
+  </point>
+  <point>
+    <name>Batangas</name>
+    <region>Calabarzon Region</region>
+    <district>Batangas</district>
+    <id>191216</id>
+  </point>
+  <point>
+    <name>Calamba</name>
+    <region>Calabarzon Region</region>
+    <district>Calamba</district>
+    <id>470338</id>
+  </point>
+  <point>
+    <name>Tayabas</name>
+    <region>Calabarzon Region</region>
+    <district>Tayabas</district>
+    <id>196205</id>
+  </point>
+  <point>
+    <name>Infanta</name>
+    <region>Capital Region</region>
+    <district>Infanta</district>
+    <id>196211</id>
+  </point>
+  <point>
+    <name>Manila</name>
+    <region>Capital Region</region>
+    <district>Manila</district>
+    <id>196184</id>
+  </point>
+  <point>
+    <name>Ninoy (airport)</name>
+    <region>Capital Region</region>
+    <district>Ninoy (airport)</district>
+    <id>196207</id>
+  </point>
+  <point>
+    <name>Sangley Point</name>
+    <region>Capital Region</region>
+    <district>Sangley Point</district>
+    <id>196206</id>
+  </point>
+  <point>
+    <name>Science Garden</name>
+    <region>Capital Region</region>
+    <district>Science Garden</district>
+    <id>196208</id>
+  </point>
+  <point>
+    <name>Tanay (weather station)</name>
+    <region>Capital Region</region>
+    <district>Tanay (weather station)</district>
+    <id>510033</id>
+  </point>
+  <point>
+    <name>Butuan</name>
+    <region>Caraga</region>
+    <district>Butuan</district>
+    <id>196243</id>
+  </point>
+  <point>
+    <name>Guiuan</name>
+    <region>Caraga</region>
+    <district>Guiuan</district>
+    <id>196228</id>
+  </point>
+  <point>
+    <name>Maasin</name>
+    <region>Caraga</region>
+    <district>Maasin</district>
+    <id>196236</id>
+  </point>
+  <point>
+    <name>San Jose</name>
+    <region>Caraga</region>
+    <district>San Jose</district>
+    <id>191887</id>
+  </point>
+  <point>
+    <name>Surigao</name>
+    <region>Caraga</region>
+    <district>Surigao</district>
+    <id>196237</id>
+  </point>
+  <point>
+    <name>Tagbilaran</name>
+    <region>Caraga</region>
+    <district>Tagbilaran</district>
+    <id>196233</id>
+  </point>
+  <point>
+    <name>Baler (airport)</name>
+    <region>Central Luzon</region>
+    <district>Baler (airport)</district>
+    <id>508764</id>
+  </point>
+  <point>
+    <name>Baler (radar)</name>
+    <region>Central Luzon</region>
+    <district>Baler (radar)</district>
+    <id>196185</id>
+  </point>
+  <point>
+    <name>Casiguran</name>
+    <region>Central Luzon</region>
+    <district>Casiguran</district>
+    <id>196203</id>
+  </point>
+  <point>
+    <name>San Fernando</name>
+    <region>Central Luzon</region>
+    <district>San Fernando</district>
+    <id>191123</id>
+  </point>
+  <point>
+    <name>Aparri</name>
+    <region>Cordillera Administrative Region</region>
+    <district>Aparri</district>
+    <id>196191</id>
+  </point>
+  <point>
+    <name>Baguio</name>
+    <region>Cordillera Administrative Region</region>
+    <district>Baguio</district>
+    <id>196200</id>
+  </point>
+  <point>
+    <name>Bangued</name>
+    <region>Cordillera Administrative Region</region>
+    <district>Bangued</district>
+    <id>192453</id>
+  </point>
+  <point>
+    <name>Laoag (airport)</name>
+    <region>Cordillera Administrative Region</region>
+    <district>Laoag (airport)</district>
+    <id>196189</id>
+  </point>
+  <point>
+    <name>Vigan</name>
+    <region>Cordillera Administrative Region</region>
+    <district>Vigan</district>
+    <id>196188</id>
+  </point>
+  <point>
+    <name>Davao (airport)</name>
+    <region>Davao</region>
+    <district>Davao (airport)</district>
+    <id>196244</id>
+  </point>
+  <point>
+    <name>Borongan</name>
+    <region>Eastern Visayas</region>
+    <district>Borongan</district>
+    <id>196227</id>
+  </point>
+  <point>
+    <name>Catarman</name>
+    <region>Eastern Visayas</region>
+    <district>Catarman</district>
+    <id>196224</id>
+  </point>
+  <point>
+    <name>Catbalogan</name>
+    <region>Eastern Visayas</region>
+    <district>Catbalogan</district>
+    <id>196225</id>
+  </point>
+  <point>
+    <name>Mactan (airport)</name>
+    <region>Eastern Visayas</region>
+    <district>Mactan (airport)</district>
+    <id>196235</id>
+  </point>
+  <point>
+    <name>Naval</name>
+    <region>Eastern Visayas</region>
+    <district>Naval</district>
+    <id>190964</id>
+  </point>
+  <point>
+    <name>Tacloban</name>
+    <region>Eastern Visayas</region>
+    <district>Tacloban</district>
+    <id>196226</id>
+  </point>
+  <point>
+    <name>Cabanatuan</name>
+    <region>Ilocos Region</region>
+    <district>Cabanatuan</district>
+    <id>196202</id>
+  </point>
+  <point>
+    <name>Clark (airport)</name>
+    <region>Ilocos Region</region>
+    <district>Clark (airport)</district>
+    <id>196199</id>
+  </point>
+  <point>
+    <name>Dagupan</name>
+    <region>Ilocos Region</region>
+    <district>Dagupan</district>
+    <id>196197</id>
+  </point>
+  <point>
+    <name>Iba</name>
+    <region>Ilocos Region</region>
+    <district>Iba</district>
+    <id>196196</id>
+  </point>
+  <point>
+    <name>San Fernando</name>
+    <region>Ilocos Region</region>
+    <district>San Fernando</district>
+    <id>470339</id>
+  </point>
+  <point>
+    <name>Subic Bay (airport)</name>
+    <region>Ilocos Region</region>
+    <district>Subic Bay (airport)</district>
+    <id>196204</id>
+  </point>
+  <point>
+    <name>Calapan</name>
+    <region>Mimaropa Region</region>
+    <district>Calapan</district>
+    <id>192613</id>
+  </point>
+  <point>
+    <name>San Jose</name>
+    <region>Mimaropa Region</region>
+    <district>San Jose</district>
+    <id>196220</id>
+  </point>
+  <point>
+    <name>Cagayan de Oro</name>
+    <region>Northern Mindanao</region>
+    <district>Cagayan de Oro</district>
+    <id>196242</id>
+  </point>
+  <point>
+    <name>Hinatuan</name>
+    <region>Northern Mindanao</region>
+    <district>Hinatuan</district>
+    <id>196245</id>
+  </point>
+  <point>
+    <name>Loombah</name>
+    <region>Northern Mindanao</region>
+    <district>Loombah</district>
+    <id>196241</id>
+  </point>
+  <point>
+    <name>Malaybalay</name>
+    <region>Northern Mindanao</region>
+    <district>Malaybalay</district>
+    <id>193312</id>
+  </point>
+  <point>
+    <name>General Santos</name>
+    <region>Soccsksargen</region>
+    <district>General Santos</district>
+    <id>196249</id>
+  </point>
+  <point>
+    <name>General Santos (airport)</name>
+    <region>Soccsksargen</region>
+    <district>General Santos (airport)</district>
+    <id>510055</id>
+  </point>
+  <point>
+    <name>Kidapawan</name>
+    <region>Soccsksargen</region>
+    <district>Kidapawan</district>
+    <id>194388</id>
+  </point>
+  <point>
+    <name>Koronadal</name>
+    <region>Soccsksargen</region>
+    <district>Koronadal</district>
+    <id>470336</id>
+  </point>
+  <point>
+    <name>Cuyo</name>
+    <region>Western Visayas</region>
+    <district>Cuyo</district>
+    <id>196230</id>
+  </point>
+  <point>
+    <name>General Santos / Tambler (airport)</name>
+    <region>Western Visayas</region>
+    <district>General Santos / Tambler (airport)</district>
+    <id>196221</id>
+  </point>
+  <point>
+    <name>Iloilo</name>
+    <region>Western Visayas</region>
+    <district>Iloilo</district>
+    <id>196231</id>
+  </point>
+  <point>
+    <name>Kalibo</name>
+    <region>Western Visayas</region>
+    <district>Kalibo</district>
+    <id>191102</id>
+  </point>
+  <point>
+    <name>Puerto Princesa</name>
+    <region>Western Visayas</region>
+    <district>Puerto Princesa</district>
+    <id>196229</id>
+  </point>
+  <point>
+    <name>Roxas</name>
+    <region>Western Visayas</region>
+    <district>Roxas</district>
+    <id>196222</id>
+  </point>
+  <point>
+    <name>Zamboanga (airport)</name>
+    <region>Zamboanga</region>
+    <district>Zamboanga (airport)</district>
+    <id>196248</id>
+  </point>
+  <point>
+    <name>Dipolog</name>
+    <region>Zamboanga</region>
+    <district>Dipolog</district>
+    <id>196239</id>
+  </point>
+  <point>
+    <name>Dumaguete</name>
+    <region>Zamboanga</region>
+    <district>Dumaguete</district>
+    <id>196232</id>
+  </point>
+</country>

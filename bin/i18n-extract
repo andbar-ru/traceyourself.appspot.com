@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ~/GAE/traceyourself-hrd/src
+pybabel extract -k _lazy --no-wrap -F babel.cfg -o ./locale/messages.pot ./

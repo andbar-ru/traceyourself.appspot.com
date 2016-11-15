@@ -1,0 +1,136 @@
+application: traceyourself-hrd
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+# libraries {{{1
+libraries:
+- name: lxml
+  version: latest
+- name: markupsafe
+  version: latest
+- name: webapp2
+  version: latest
+- name: setuptools
+  version: latest
+
+# builtins {{{1
+builtins:
+- remote_api: on
+- appstats: on
+#- datastore_admin: on
+
+# admin_console {{{1
+admin_console:
+  pages:
+  - name: Appstats
+    url: /_ah/stats
+
+# handlers {{{1
+handlers:
+# static {{{2
+- url: /favicon\.ico
+  static_files: static/favicon.ico
+  upload: static/favicon.ico
+
+- url: /static
+  static_dir: static
+
+- url: /css
+  static_dir: css
+
+- url: /js
+  static_dir: js
+
+- url: /img
+  static_dir: img
+
+- url: /doc
+  static_dir: doc
+
+- url: /htc
+  static_dir: htc
+  mime_type: text/x-component
+
+- url: /assets
+  static_dir: assets
+
+
+# Application {{{2
+# not index.app {{{3
+- url: /backends/.*
+  script: backends.app
+  login: admin
+  
+- url: /tasks/.*
+  script: tasks.app
+  login: admin
+
+- url: /show_common_data
+  script: show_common_data.app
+  login: admin
+
+- url: /info/.*
+  script: info.app
+  login: admin
+
+- url: /download_data
+  script: download_data.app
+  login: admin
+
+- url: /upload_data
+  script: upload_data.app
+  login: admin
+
+- url: /delete_data/.*
+  script: delete_data.app
+  login: admin
+
+- url: /update_model
+  script: update_model.app
+  login: admin
+
+- url: /quickfix/.*
+  script: quickfix.app
+  login: admin
+
+- url: /test.*
+  script: test.app
+  login: admin
+
+# Время последней загрузки приложения
+- url: /update_timestamp
+  script: update_timestamp.app
+  login: admin
+
+# index.app {{{3
+- url: /
+  script: index.app
+
+- url: /contacts
+  script: index.app
+
+- url: /prof
+  script: index.app
+
+- url: /prof/fill_data
+  script: index.app
+
+- url: /analysis
+  script: index.app
+- url: /analysis_test
+  script: index.app
+- url: /analysis_saved
+  script: index.app
+# для просмотра данных других пользователей
+- url: /analysis/.*
+  script: index.app
+  login: admin
+
+- url: /get_regions
+  script: index.app
+- url: /get_districts
+  script: index.app
+- url: /get_localities
+  script: index.app

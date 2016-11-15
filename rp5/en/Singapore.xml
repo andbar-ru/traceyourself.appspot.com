@@ -1,0 +1,530 @@
+<country name="Singapore" count="88">
+  <point>
+    <name>Bukit Merah</name>
+    <region>Central Region</region>
+    <district>Bukit Merah</district>
+    <id>337436</id>
+  </point>
+  <point>
+    <name>Chinatown</name>
+    <region>Central Region</region>
+    <district>Chinatown</district>
+    <id>348119</id>
+  </point>
+  <point>
+    <name>Depot Road</name>
+    <region>Central Region</region>
+    <district>Depot Road</district>
+    <id>348122</id>
+  </point>
+  <point>
+    <name>Habourfront / Telok Blangah</name>
+    <region>Central Region</region>
+    <district>Habourfront / Telok Blangah</district>
+    <id>348123</id>
+  </point>
+  <point>
+    <name>Hill Street</name>
+    <region>Central Region</region>
+    <district>Hill Street</district>
+    <id>348118</id>
+  </point>
+  <point>
+    <name>Kampong Glam / Beach Road</name>
+    <region>Central Region</region>
+    <district>Kampong Glam / Beach Road</district>
+    <id>348133</id>
+  </point>
+  <point>
+    <name>Lavender / Jalan Besar</name>
+    <region>Central Region</region>
+    <district>Lavender / Jalan Besar</district>
+    <id>348137</id>
+  </point>
+  <point>
+    <name>Little India</name>
+    <region>Central Region</region>
+    <district>Little India</district>
+    <id>348149</id>
+  </point>
+  <point>
+    <name>Marina / Esplanade</name>
+    <region>Central Region</region>
+    <district>Marina / Esplanade</district>
+    <id>348157</id>
+  </point>
+  <point>
+    <name>Marina South</name>
+    <region>Central Region</region>
+    <district>Marina South</district>
+    <id>348156</id>
+  </point>
+  <point>
+    <name>Orchard Road</name>
+    <region>Central Region</region>
+    <district>Orchard Road</district>
+    <id>348158</id>
+  </point>
+  <point>
+    <name>Outram Road / Tiong Bahru</name>
+    <region>Central Region</region>
+    <district>Outram Road / Tiong Bahru</district>
+    <id>348166</id>
+  </point>
+  <point>
+    <name>Prince Edward / Anson Road</name>
+    <region>Central Region</region>
+    <district>Prince Edward / Anson Road</district>
+    <id>348168</id>
+  </point>
+  <point>
+    <name>Queenstown</name>
+    <region>Central Region</region>
+    <district>Queenstown</district>
+    <id>348170</id>
+  </point>
+  <point>
+    <name>Raffles Place</name>
+    <region>Central Region</region>
+    <district>Raffles Place</district>
+    <id>348088</id>
+  </point>
+  <point>
+    <name>Robinson Road / Shenton Way</name>
+    <region>Central Region</region>
+    <district>Robinson Road / Shenton Way</district>
+    <id>348095</id>
+  </point>
+  <point>
+    <name>Rochor</name>
+    <region>Central Region</region>
+    <district>Rochor</district>
+    <id>348086</id>
+  </point>
+  <point>
+    <name>Tanglin</name>
+    <region>Central Region</region>
+    <district>Tanglin</district>
+    <id>348098</id>
+  </point>
+  <point>
+    <name>Tanjong Pagar</name>
+    <region>Central Region</region>
+    <district>Tanjong Pagar</district>
+    <id>348112</id>
+  </point>
+  <point>
+    <name>Bedok</name>
+    <region>East Region</region>
+    <district>Bedok</district>
+    <id>348082</id>
+  </point>
+  <point>
+    <name>Bedok / Chai Chee</name>
+    <region>East Region</region>
+    <district>Bedok / Chai Chee</district>
+    <id>348113</id>
+  </point>
+  <point>
+    <name>Changi Coast</name>
+    <region>East Region</region>
+    <district>Changi Coast</district>
+    <id>348115</id>
+  </point>
+  <point>
+    <name>Kallang / Geylang</name>
+    <region>East Region</region>
+    <district>Kallang / Geylang</district>
+    <id>348116</id>
+  </point>
+  <point>
+    <name>Katong / Joo Chiat</name>
+    <region>East Region</region>
+    <district>Katong / Joo Chiat</district>
+    <id>348117</id>
+  </point>
+  <point>
+    <name>Katong / Tanjong Rhu</name>
+    <region>East Region</region>
+    <district>Katong / Tanjong Rhu</district>
+    <id>348120</id>
+  </point>
+  <point>
+    <name>Kembangan</name>
+    <region>East Region</region>
+    <district>Kembangan</district>
+    <id>348121</id>
+  </point>
+  <point>
+    <name>Loyang</name>
+    <region>East Region</region>
+    <district>Loyang</district>
+    <id>348124</id>
+  </point>
+  <point>
+    <name>Marine Parade</name>
+    <region>East Region</region>
+    <district>Marine Parade</district>
+    <id>348128</id>
+  </point>
+  <point>
+    <name>Pasir Ris</name>
+    <region>East Region</region>
+    <district>Pasir Ris</district>
+    <id>348129</id>
+  </point>
+  <point>
+    <name>Paya Lebar / Geylang Serai</name>
+    <region>East Region</region>
+    <district>Paya Lebar / Geylang Serai</district>
+    <id>348130</id>
+  </point>
+  <point>
+    <name>Pulau Tekong Besar</name>
+    <region>East Region</region>
+    <district>Pulau Tekong Besar</district>
+    <id>348125</id>
+  </point>
+  <point>
+    <name>Pulau Tekong Kechil</name>
+    <region>East Region</region>
+    <district>Pulau Tekong Kechil</district>
+    <id>348126</id>
+  </point>
+  <point>
+    <name>Pulau Ubin</name>
+    <region>East Region</region>
+    <district>Pulau Ubin</district>
+    <id>348127</id>
+  </point>
+  <point>
+    <name>Siglap</name>
+    <region>East Region</region>
+    <district>Siglap</district>
+    <id>348131</id>
+  </point>
+  <point>
+    <name>Singapore (airport)</name>
+    <region>East Region</region>
+    <district>Singapore (airport)</district>
+    <id>338276</id>
+  </point>
+  <point>
+    <name>Singapore Expo</name>
+    <region>East Region</region>
+    <district>Singapore Expo</district>
+    <id>348132</id>
+  </point>
+  <point>
+    <name>Stadium</name>
+    <region>East Region</region>
+    <district>Stadium</district>
+    <id>348134</id>
+  </point>
+  <point>
+    <name>Tampines / Simei</name>
+    <region>East Region</region>
+    <district>Tampines / Simei</district>
+    <id>348135</id>
+  </point>
+  <point>
+    <name>Bukit Panjang</name>
+    <region>North Region</region>
+    <district>Bukit Panjang</district>
+    <id>348136</id>
+  </point>
+  <point>
+    <name>Bukit Timah</name>
+    <region>North Region</region>
+    <district>Bukit Timah</district>
+    <id>348139</id>
+  </point>
+  <point>
+    <name>Bukit Timah / Stevens Road</name>
+    <region>North Region</region>
+    <district>Bukit Timah / Stevens Road</district>
+    <id>348140</id>
+  </point>
+  <point>
+    <name>Bukit Timah Hill</name>
+    <region>North Region</region>
+    <district>Bukit Timah Hill</district>
+    <id>348138</id>
+  </point>
+  <point>
+    <name>Choa Chu Kang</name>
+    <region>North Region</region>
+    <district>Choa Chu Kang</district>
+    <id>348147</id>
+  </point>
+  <point>
+    <name>Neo Tiew / Kranji</name>
+    <region>North Region</region>
+    <district>Neo Tiew / Kranji</district>
+    <id>348142</id>
+  </point>
+  <point>
+    <name>Sector 77</name>
+    <region>North Region</region>
+    <district>Sector 77</district>
+    <id>348143</id>
+  </point>
+  <point>
+    <name>Sembawang</name>
+    <region>North Region</region>
+    <district>Sembawang</district>
+    <id>348144</id>
+  </point>
+  <point>
+    <name>Sungei Kadut</name>
+    <region>North Region</region>
+    <district>Sungei Kadut</district>
+    <id>348141</id>
+  </point>
+  <point>
+    <name>Thomson Road</name>
+    <region>North Region</region>
+    <district>Thomson Road</district>
+    <id>348145</id>
+  </point>
+  <point>
+    <name>Woodlands</name>
+    <region>North Region</region>
+    <district>Woodlands</district>
+    <id>348083</id>
+  </point>
+  <point>
+    <name>Yishun</name>
+    <region>North Region</region>
+    <district>Yishun</district>
+    <id>348148</id>
+  </point>
+  <point>
+    <name>Balestier / Bendemeer</name>
+    <region>Northeast Region</region>
+    <district>Balestier / Bendemeer</district>
+    <id>348150</id>
+  </point>
+  <point>
+    <name>Bishan</name>
+    <region>Northeast Region</region>
+    <district>Bishan</district>
+    <id>348151</id>
+  </point>
+  <point>
+    <name>Geylang Bahru</name>
+    <region>Northeast Region</region>
+    <district>Geylang Bahru</district>
+    <id>348153</id>
+  </point>
+  <point>
+    <name>Hougang</name>
+    <region>Northeast Region</region>
+    <district>Hougang</district>
+    <id>348084</id>
+  </point>
+  <point>
+    <name>Hougang / Serangoon</name>
+    <region>Northeast Region</region>
+    <district>Hougang / Serangoon</district>
+    <id>348154</id>
+  </point>
+  <point>
+    <name>MacPherson Road</name>
+    <region>Northeast Region</region>
+    <district>MacPherson Road</district>
+    <id>348155</id>
+  </point>
+  <point>
+    <name>Nee Soon</name>
+    <region>Northeast Region</region>
+    <district>Nee Soon</district>
+    <id>348159</id>
+  </point>
+  <point>
+    <name>Novena</name>
+    <region>Northeast Region</region>
+    <district>Novena</district>
+    <id>348160</id>
+  </point>
+  <point>
+    <name>Paya Lebar (airbase)</name>
+    <region>Northeast Region</region>
+    <district>Paya Lebar (airbase)</district>
+    <id>508596</id>
+  </point>
+  <point>
+    <name>Paya Lebar (airport)</name>
+    <region>Northeast Region</region>
+    <district>Paya Lebar (airport)</district>
+    <id>348161</id>
+  </point>
+  <point>
+    <name>Potong Pasir Housing Estate</name>
+    <region>Northeast Region</region>
+    <district>Potong Pasir Housing Estate</district>
+    <id>348162</id>
+  </point>
+  <point>
+    <name>Punggol</name>
+    <region>Northeast Region</region>
+    <district>Punggol</district>
+    <id>348163</id>
+  </point>
+  <point>
+    <name>Seletar (airport)</name>
+    <region>Northeast Region</region>
+    <district>Seletar (airport)</district>
+    <id>348164</id>
+  </point>
+  <point>
+    <name>Sengkang / Buangkok</name>
+    <region>Northeast Region</region>
+    <district>Sengkang / Buangkok</district>
+    <id>348165</id>
+  </point>
+  <point>
+    <name>Serangoon</name>
+    <region>Northeast Region</region>
+    <district>Serangoon</district>
+    <id>348167</id>
+  </point>
+  <point>
+    <name>Toa Payoh</name>
+    <region>Northeast Region</region>
+    <district>Toa Payoh</district>
+    <id>348152</id>
+  </point>
+  <point>
+    <name>Woodleigh</name>
+    <region>Northeast Region</region>
+    <district>Woodleigh</district>
+    <id>348169</id>
+  </point>
+  <point>
+    <name>Yio Chu Kang</name>
+    <region>Northeast Region</region>
+    <district>Yio Chu Kang</district>
+    <id>348087</id>
+  </point>
+  <point>
+    <name>Bukit Timah / Farrer Road</name>
+    <region>West Region</region>
+    <district>Bukit Timah / Farrer Road</district>
+    <id>348089</id>
+  </point>
+  <point>
+    <name>Clementi</name>
+    <region>West Region</region>
+    <district>Clementi</district>
+    <id>348090</id>
+  </point>
+  <point>
+    <name>Dover / Buona Vista</name>
+    <region>West Region</region>
+    <district>Dover / Buona Vista</district>
+    <id>348092</id>
+  </point>
+  <point>
+    <name>Hillview</name>
+    <region>West Region</region>
+    <district>Hillview</district>
+    <id>348093</id>
+  </point>
+  <point>
+    <name>Holland Road / Ghim Moh</name>
+    <region>West Region</region>
+    <district>Holland Road / Ghim Moh</district>
+    <id>348094</id>
+  </point>
+  <point>
+    <name>Jurong / Joo Koon</name>
+    <region>West Region</region>
+    <district>Jurong / Joo Koon</district>
+    <id>348099</id>
+  </point>
+  <point>
+    <name>Jurong / Tuas</name>
+    <region>West Region</region>
+    <district>Jurong / Tuas</district>
+    <id>348102</id>
+  </point>
+  <point>
+    <name>Jurong East</name>
+    <region>West Region</region>
+    <district>Jurong East</district>
+    <id>348096</id>
+  </point>
+  <point>
+    <name>Jurong West</name>
+    <region>West Region</region>
+    <district>Jurong West</district>
+    <id>348085</id>
+  </point>
+  <point>
+    <name>Lim Chu Kang</name>
+    <region>West Region</region>
+    <district>Lim Chu Kang</district>
+    <id>348103</id>
+  </point>
+  <point>
+    <name>Pasir Panjang</name>
+    <region>West Region</region>
+    <district>Pasir Panjang</district>
+    <id>348104</id>
+  </point>
+  <point>
+    <name>Pulau Bukom Kechil</name>
+    <region>West Region</region>
+    <district>Pulau Bukom Kechil</district>
+    <id>348105</id>
+  </point>
+  <point>
+    <name>Pulau Busing</name>
+    <region>West Region</region>
+    <district>Pulau Busing</district>
+    <id>348106</id>
+  </point>
+  <point>
+    <name>Pulau Damar Laut</name>
+    <region>West Region</region>
+    <district>Pulau Damar Laut</district>
+    <id>348110</id>
+  </point>
+  <point>
+    <name>Pulau Pesek</name>
+    <region>West Region</region>
+    <district>Pulau Pesek</district>
+    <id>348100</id>
+  </point>
+  <point>
+    <name>Pulau Sakeng</name>
+    <region>West Region</region>
+    <district>Pulau Sakeng</district>
+    <id>348107</id>
+  </point>
+  <point>
+    <name>Pulau Sakra</name>
+    <region>West Region</region>
+    <district>Pulau Sakra</district>
+    <id>348101</id>
+  </point>
+  <point>
+    <name>Pulau Sebarok</name>
+    <region>West Region</region>
+    <district>Pulau Sebarok</district>
+    <id>348108</id>
+  </point>
+  <point>
+    <name>Taman Jurong</name>
+    <region>West Region</region>
+    <district>Taman Jurong</district>
+    <id>348109</id>
+  </point>
+  <point>
+    <name>Tengah</name>
+    <region>West Region</region>
+    <district>Tengah</district>
+    <id>348111</id>
+  </point>
+</country>

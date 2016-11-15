@@ -1,0 +1,218 @@
+<country name="Замбия" count="36">
+  <point>
+    <name>Лундази</name>
+    <region>Восточная провинция</region>
+    <district>Лундази</district>
+    <id>11054</id>
+  </point>
+  <point>
+    <name>Мсекера</name>
+    <region>Восточная провинция</region>
+    <district>Мсекера</district>
+    <id>11052</id>
+  </point>
+  <point>
+    <name>Чипата</name>
+    <region>Восточная провинция</region>
+    <district>Чипата</district>
+    <id>11053</id>
+  </point>
+  <point>
+    <name>Кабомпо</name>
+    <region>Западная провинция</region>
+    <district>Кабомпо</district>
+    <id>11046</id>
+  </point>
+  <point>
+    <name>Каома</name>
+    <region>Западная провинция</region>
+    <district>Каома</district>
+    <id>11063</id>
+  </point>
+  <point>
+    <name>Лупаки</name>
+    <region>Западная провинция</region>
+    <district>Лупаки</district>
+    <id>510214</id>
+  </point>
+  <point>
+    <name>Монгу</name>
+    <region>Западная провинция</region>
+    <district>Монгу</district>
+    <id>11062</id>
+  </point>
+  <point>
+    <name>Сенанга</name>
+    <region>Западная провинция</region>
+    <district>Сенанга</district>
+    <id>11079</id>
+  </point>
+  <point>
+    <name>Кафиронда</name>
+    <region>Коппербелт</region>
+    <district>Кафиронда</district>
+    <id>11049</id>
+  </point>
+  <point>
+    <name>Китве-Нкана</name>
+    <region>Коппербелт</region>
+    <district>Китве-Нкана</district>
+    <id>152455</id>
+  </point>
+  <point>
+    <name>Муфулира</name>
+    <region>Коппербелт</region>
+    <district>Муфулира</district>
+    <id>152453</id>
+  </point>
+  <point>
+    <name>Ндола (аэропорт)</name>
+    <region>Коппербелт</region>
+    <district>Ндола (аэропорт)</district>
+    <id>510095</id>
+  </point>
+  <point>
+    <name>Ндола</name>
+    <region>Коппербелт</region>
+    <district>Ндола</district>
+    <id>11048</id>
+  </point>
+  <point>
+    <name>Чингола</name>
+    <region>Коппербелт</region>
+    <district>Чингола</district>
+    <id>152454</id>
+  </point>
+  <point>
+    <name>Кавамбва</name>
+    <region>Луапула</region>
+    <district>Кавамбва</district>
+    <id>11030</id>
+  </point>
+  <point>
+    <name>Манса</name>
+    <region>Луапула</region>
+    <district>Манса</district>
+    <id>11036</id>
+  </point>
+  <point>
+    <name>Лусака (аэропорт)</name>
+    <region>Лусака</region>
+    <district>Лусака (аэропорт)</district>
+    <id>11068</id>
+  </point>
+  <point>
+    <name>Кафуэ-Полдер</name>
+    <region>Лусака</region>
+    <district>Кафуэ-Полдер</district>
+    <id>11065</id>
+  </point>
+  <point>
+    <name>Лусака / Кеннет-Каунда (аэропорт)</name>
+    <region>Лусака</region>
+    <district>Лусака / Кеннет-Каунда (аэропорт)</district>
+    <id>510094</id>
+  </point>
+  <point>
+    <name>Маунт-Макулу</name>
+    <region>Лусака</region>
+    <district>Маунт-Макулу</district>
+    <id>11069</id>
+  </point>
+  <point>
+    <name>Исока</name>
+    <region>Северная провинция</region>
+    <district>Исока</district>
+    <id>11040</id>
+  </point>
+  <point>
+    <name>Касама</name>
+    <region>Северная провинция</region>
+    <district>Касама</district>
+    <id>11037</id>
+  </point>
+  <point>
+    <name>Мбала</name>
+    <region>Северная провинция</region>
+    <district>Мбала</district>
+    <id>11031</id>
+  </point>
+  <point>
+    <name>Мисамфу</name>
+    <region>Северная провинция</region>
+    <district>Мисамфу</district>
+    <id>11038</id>
+  </point>
+  <point>
+    <name>Мпика</name>
+    <region>Северная провинция</region>
+    <district>Мпика</district>
+    <id>11039</id>
+  </point>
+  <point>
+    <name>Замбези</name>
+    <region>Северо-Западная провинция</region>
+    <district>Замбези</district>
+    <id>11044</id>
+  </point>
+  <point>
+    <name>Мвинилунга</name>
+    <region>Северо-Западная провинция</region>
+    <district>Мвинилунга</district>
+    <id>11035</id>
+  </point>
+  <point>
+    <name>Солвези</name>
+    <region>Северо-Западная провинция</region>
+    <district>Солвези</district>
+    <id>11047</id>
+  </point>
+  <point>
+    <name>Кабве-Агрик</name>
+    <region>Центральная провинция</region>
+    <district>Кабве-Агрик</district>
+    <id>11066</id>
+  </point>
+  <point>
+    <name>Кабве</name>
+    <region>Центральная провинция</region>
+    <district>Кабве</district>
+    <id>11067</id>
+  </point>
+  <point>
+    <name>Луаншья</name>
+    <region>Центральная провинция</region>
+    <district>Луаншья</district>
+    <id>152452</id>
+  </point>
+  <point>
+    <name>Мумбва</name>
+    <region>Центральная провинция</region>
+    <district>Мумбва</district>
+    <id>11064</id>
+  </point>
+  <point>
+    <name>Серенье</name>
+    <region>Центральная провинция</region>
+    <district>Серенье</district>
+    <id>11050</id>
+  </point>
+  <point>
+    <name>Ливингстон (аэропорт)</name>
+    <region>Южная провинция</region>
+    <district>Ливингстон (аэропорт)</district>
+    <id>510093</id>
+  </point>
+  <point>
+    <name>Ливингстон</name>
+    <region>Южная провинция</region>
+    <district>Ливингстон</district>
+    <id>11081</id>
+  </point>
+  <point>
+    <name>Чома</name>
+    <region>Южная провинция</region>
+    <district>Чома</district>
+    <id>11083</id>
+  </point>
+</country>

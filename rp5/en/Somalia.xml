@@ -1,0 +1,50 @@
+<country name="Somalia" count="8">
+  <point>
+    <name>Kismayo</name>
+    <region>Azania</region>
+    <district>Kismayo</district>
+    <id>510009</id>
+  </point>
+  <point>
+    <name>Galkacyo</name>
+    <region>Galmudug</region>
+    <district>Galkacyo</district>
+    <id>10618</id>
+  </point>
+  <point>
+    <name>Adado</name>
+    <region>Himan and Heeb</region>
+    <district>Adado</district>
+    <id>510010</id>
+  </point>
+  <point>
+    <name>Las Anod</name>
+    <region>Khatumo</region>
+    <district>Las Anod</district>
+    <id>10613</id>
+  </point>
+  <point>
+    <name>Badhan</name>
+    <region>Maakhir</region>
+    <district>Badhan</district>
+    <id>256171</id>
+  </point>
+  <point>
+    <name>Garoowe</name>
+    <region>Puntland</region>
+    <district>Garoowe</district>
+    <id>256170</id>
+  </point>
+  <point>
+    <name>Hargeisa</name>
+    <region>Somaliland</region>
+    <district>Hargeisa</district>
+    <id>10610</id>
+  </point>
+  <point>
+    <name>Mogadishu</name>
+    <region>Transitional Federal Government</region>
+    <district>Mogadishu</district>
+    <id>10625</id>
+  </point>
+</country>

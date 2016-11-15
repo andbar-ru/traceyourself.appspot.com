@@ -1,0 +1,686 @@
+<country name="Хорватия" count="114">
+  <point>
+    <name>Беловар</name>
+    <region>Беловарско-Билогорская жупания</region>
+    <district>Беловар</district>
+    <id>8436</id>
+  </point>
+  <point>
+    <name>Билогора</name>
+    <region>Беловарско-Билогорская жупания</region>
+    <district>Билогора</district>
+    <id>8437</id>
+  </point>
+  <point>
+    <name>Гарешница</name>
+    <region>Беловарско-Билогорская жупания</region>
+    <district>Гарешница</district>
+    <id>151650</id>
+  </point>
+  <point>
+    <name>Дарувар</name>
+    <region>Беловарско-Билогорская жупания</region>
+    <district>Дарувар</district>
+    <id>8438</id>
+  </point>
+  <point>
+    <name>Нова-Градишка</name>
+    <region>Бродско-Посавская жупания</region>
+    <district>Нова-Градишка</district>
+    <id>151637</id>
+  </point>
+  <point>
+    <name>Славонски-Брод</name>
+    <region>Бродско-Посавская жупания</region>
+    <district>Славонски-Брод</district>
+    <id>8473</id>
+  </point>
+  <point>
+    <name>Вараждин</name>
+    <region>Вараждинская жупания</region>
+    <district>Вараждин</district>
+    <id>8431</id>
+  </point>
+  <point>
+    <name>Иванец</name>
+    <region>Вараждинская жупания</region>
+    <district>Иванец</district>
+    <id>151643</id>
+  </point>
+  <point>
+    <name>Вировитица</name>
+    <region>Вировитицко-Подравская жупания</region>
+    <district>Вировитица</district>
+    <id>151654</id>
+  </point>
+  <point>
+    <name>Слатина</name>
+    <region>Вировитицко-Подравская жупания</region>
+    <district>Слатина</district>
+    <id>151629</id>
+  </point>
+  <point>
+    <name>Вуковар</name>
+    <region>Вуковарско-Сремская жупания</region>
+    <district>Вуковар</district>
+    <id>151651</id>
+  </point>
+  <point>
+    <name>Винковцы</name>
+    <region>Вуковарско-Сремская жупания</region>
+    <district>Винковцы</district>
+    <id>151655</id>
+  </point>
+  <point>
+    <name>Градиште</name>
+    <region>Вуковарско-Сремская жупания</region>
+    <district>Градиште</district>
+    <id>8479</id>
+  </point>
+  <point>
+    <name>Жупанья</name>
+    <region>Вуковарско-Сремская жупания</region>
+    <district>Жупанья</district>
+    <id>151645</id>
+  </point>
+  <point>
+    <name>Дубровник / Горица</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Дубровник / Горица</district>
+    <id>8538</id>
+  </point>
+  <point>
+    <name>Дубровник / Чилипи (аэропорт)</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Дубровник / Чилипи (аэропорт)</district>
+    <id>8542</id>
+  </point>
+  <point>
+    <name>Корчула</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Корчула</district>
+    <id>141651</id>
+  </point>
+  <point>
+    <name>Плоче</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Плоче</district>
+    <id>8536</id>
+  </point>
+  <point>
+    <name>Колочеп</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Колочеп</district>
+    <id>141650</id>
+  </point>
+  <point>
+    <name>Ластово</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Ластово</district>
+    <id>8513</id>
+  </point>
+  <point>
+    <name>Млет</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Млет</district>
+    <id>141653</id>
+  </point>
+  <point>
+    <name>Млини</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Млини</district>
+    <id>141647</id>
+  </point>
+  <point>
+    <name>Слано</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Слано</district>
+    <id>141660</id>
+  </point>
+  <point>
+    <name>Цавтат</name>
+    <region>Дубровницко-Неретванская жупания</region>
+    <district>Цавтат</district>
+    <id>141664</id>
+  </point>
+  <point>
+    <name>Загреб / Плесо (аэропорт)</name>
+    <region>Загреб</region>
+    <district>Загреб / Плесо (аэропорт)</district>
+    <id>8417</id>
+  </point>
+  <point>
+    <name>Велика Горица</name>
+    <region>Загреб</region>
+    <district>Велика Горица</district>
+    <id>151656</id>
+  </point>
+  <point>
+    <name>Врбовец</name>
+    <region>Загреб</region>
+    <district>Врбовец</district>
+    <id>151653</id>
+  </point>
+  <point>
+    <name>Загреб / Максимир</name>
+    <region>Загреб</region>
+    <district>Загреб / Максимир</district>
+    <id>8415</id>
+  </point>
+  <point>
+    <name>Запрешич</name>
+    <region>Загреб</region>
+    <district>Запрешич</district>
+    <id>151644</id>
+  </point>
+  <point>
+    <name>Самобор</name>
+    <region>Загреб</region>
+    <district>Самобор</district>
+    <id>151631</id>
+  </point>
+  <point>
+    <name>Ястребарско</name>
+    <region>Загреб</region>
+    <district>Ястребарско</district>
+    <id>151628</id>
+  </point>
+  <point>
+    <name>Дуго Село</name>
+    <region>Загребская жупания</region>
+    <district>Дуго Село</district>
+    <id>151646</id>
+  </point>
+  <point>
+    <name>Загреб / Гриц</name>
+    <region>Загребская жупания</region>
+    <district>Загреб / Гриц</district>
+    <id>8414</id>
+  </point>
+  <point>
+    <name>Пунтиярка</name>
+    <region>Загребская жупания</region>
+    <district>Пунтиярка</district>
+    <id>8408</id>
+  </point>
+  <point>
+    <name>Задар / Земуник (аэропорт)</name>
+    <region>Задарская жупания</region>
+    <district>Задар / Земуник (аэропорт)</district>
+    <id>8488</id>
+  </point>
+  <point>
+    <name>Биоград-на-Мору</name>
+    <region>Задарская жупания</region>
+    <district>Биоград-на-Мору</district>
+    <id>151659</id>
+  </point>
+  <point>
+    <name>Задар / Пунтамика</name>
+    <region>Задарская жупания</region>
+    <district>Задар / Пунтамика</district>
+    <id>8485</id>
+  </point>
+  <point>
+    <name>Новиград</name>
+    <region>Задарская жупания</region>
+    <district>Новиград</district>
+    <id>141648</id>
+  </point>
+  <point>
+    <name>Вела-Сестрица</name>
+    <region>Задарская жупания</region>
+    <district>Вела-Сестрица</district>
+    <id>8483</id>
+  </point>
+  <point>
+    <name>Градак</name>
+    <region>Задарская жупания</region>
+    <district>Градак</district>
+    <id>8489</id>
+  </point>
+  <point>
+    <name>Паг</name>
+    <region>Задарская жупания</region>
+    <district>Паг</district>
+    <id>141654</id>
+  </point>
+  <point>
+    <name>Плат</name>
+    <region>Задарская жупания</region>
+    <district>Плат</district>
+    <id>141656</id>
+  </point>
+  <point>
+    <name>Буйе</name>
+    <region>Истрийская жупания</region>
+    <district>Буйе</district>
+    <id>151658</id>
+  </point>
+  <point>
+    <name>Врсар</name>
+    <region>Истрийская жупания</region>
+    <district>Врсар</district>
+    <id>141641</id>
+  </point>
+  <point>
+    <name>Лабин</name>
+    <region>Истрийская жупания</region>
+    <district>Лабин</district>
+    <id>151639</id>
+  </point>
+  <point>
+    <name>Медулин</name>
+    <region>Истрийская жупания</region>
+    <district>Медулин</district>
+    <id>141646</id>
+  </point>
+  <point>
+    <name>Пазин</name>
+    <region>Истрийская жупания</region>
+    <district>Пазин</district>
+    <id>8458</id>
+  </point>
+  <point>
+    <name>Пореч</name>
+    <region>Истрийская жупания</region>
+    <district>Пореч</district>
+    <id>8451</id>
+  </point>
+  <point>
+    <name>Пула (аэропорт)</name>
+    <region>Истрийская жупания</region>
+    <district>Пула (аэропорт)</district>
+    <id>8457</id>
+  </point>
+  <point>
+    <name>Рабац</name>
+    <region>Истрийская жупания</region>
+    <district>Рабац</district>
+    <id>141658</id>
+  </point>
+  <point>
+    <name>Ровинь</name>
+    <region>Истрийская жупания</region>
+    <district>Ровинь</district>
+    <id>8455</id>
+  </point>
+  <point>
+    <name>Умаг</name>
+    <region>Истрийская жупания</region>
+    <district>Умаг</district>
+    <id>141663</id>
+  </point>
+  <point>
+    <name>Карловац</name>
+    <region>Карловацкая	жупания</region>
+    <district>Карловац</district>
+    <id>8403</id>
+  </point>
+  <point>
+    <name>Огулин</name>
+    <region>Карловацкая	жупания</region>
+    <district>Огулин</district>
+    <id>8469</id>
+  </point>
+  <point>
+    <name>Копривница</name>
+    <region>Копривницко-Крижевацкая	жупания</region>
+    <district>Копривница</district>
+    <id>151641</id>
+  </point>
+  <point>
+    <name>Крижевцы</name>
+    <region>Копривницко-Крижевацкая	жупания</region>
+    <district>Крижевцы</district>
+    <id>8435</id>
+  </point>
+  <point>
+    <name>Крапина</name>
+    <region>Крапинско-Загорская	жупания</region>
+    <district>Крапина</district>
+    <id>8406</id>
+  </point>
+  <point>
+    <name>Госпич</name>
+    <region>Лицко-Сеньская жупания</region>
+    <district>Госпич</district>
+    <id>8472</id>
+  </point>
+  <point>
+    <name>Завизан</name>
+    <region>Лицко-Сеньская жупания</region>
+    <district>Завизан</district>
+    <id>8465</id>
+  </point>
+  <point>
+    <name>Сень</name>
+    <region>Лицко-Сеньская жупания</region>
+    <district>Сень</district>
+    <id>8464</id>
+  </point>
+  <point>
+    <name>Чаковец</name>
+    <region>Меджимурская жупания</region>
+    <district>Чаковец</district>
+    <id>212411</id>
+  </point>
+  <point>
+    <name>Осиек / Спа</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Осиек / Спа</district>
+    <id>8439</id>
+  </point>
+  <point>
+    <name>Бели-Манастир</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Бели-Манастир</district>
+    <id>151661</id>
+  </point>
+  <point>
+    <name>Осиек / Клиса (аэропорт)</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Осиек / Клиса (аэропорт)</district>
+    <id>8449</id>
+  </point>
+  <point>
+    <name>Осиек / Чепин (аэропорт)</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Осиек / Чепин (аэропорт)</district>
+    <id>8443</id>
+  </point>
+  <point>
+    <name>Белишце</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Белишце</district>
+    <id>151660</id>
+  </point>
+  <point>
+    <name>Валпово</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Валпово</district>
+    <id>151657</id>
+  </point>
+  <point>
+    <name>Джяково</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Джяково</district>
+    <id>151648</id>
+  </point>
+  <point>
+    <name>Доньи Михольяц</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Доньи Михольяц</district>
+    <id>151647</id>
+  </point>
+  <point>
+    <name>Нашице</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Нашице</district>
+    <id>151638</id>
+  </point>
+  <point>
+    <name>Осиек / Зелено Поле</name>
+    <region>Осиецко-Бараньская жупания</region>
+    <district>Осиек / Зелено Поле</district>
+    <id>8445</id>
+  </point>
+  <point>
+    <name>Пожега</name>
+    <region>Пожежско-Славонская жупания</region>
+    <district>Пожега</district>
+    <id>151632</id>
+  </point>
+  <point>
+    <name>Пакрац</name>
+    <region>Пожежско-Славонская жупания</region>
+    <district>Пакрац</district>
+    <id>151634</id>
+  </point>
+  <point>
+    <name>Врбовско</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Врбовско</district>
+    <id>151652</id>
+  </point>
+  <point>
+    <name>Делнице</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Делнице</district>
+    <id>151649</id>
+  </point>
+  <point>
+    <name>Кральевица</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Кральевица</district>
+    <id>141643</id>
+  </point>
+  <point>
+    <name>Крк</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Крк</district>
+    <id>141652</id>
+  </point>
+  <point>
+    <name>Лорван / Мошченичка Драга</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Лорван / Мошченичка Драга</district>
+    <id>141644</id>
+  </point>
+  <point>
+    <name>Лошинь (аэропорт)</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Лошинь (аэропорт)</district>
+    <id>508948</id>
+  </point>
+  <point>
+    <name>Мали-Лосины</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Мали-Лосины</district>
+    <id>8459</id>
+  </point>
+  <point>
+    <name>Малинска</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Малинска</district>
+    <id>141645</id>
+  </point>
+  <point>
+    <name>Опатия</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Опатия</district>
+    <id>141655</id>
+  </point>
+  <point>
+    <name>Парг</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Парг</district>
+    <id>8400</id>
+  </point>
+  <point>
+    <name>Раб</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Раб</district>
+    <id>8462</id>
+  </point>
+  <point>
+    <name>Риека / Козала</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Риека / Козала</district>
+    <id>8396</id>
+  </point>
+  <point>
+    <name>Риека / Омишаль (аэропорт)</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Риека / Омишаль (аэропорт)</district>
+    <id>8127</id>
+  </point>
+  <point>
+    <name>Селце</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Селце</district>
+    <id>141659</id>
+  </point>
+  <point>
+    <name>Цриквеница</name>
+    <region>Приморско-Горанская жупания</region>
+    <district>Цриквеница</district>
+    <id>8461</id>
+  </point>
+  <point>
+    <name>Сисак</name>
+    <region>Сисацко-Мославинская жупания</region>
+    <district>Сисак</district>
+    <id>8420</id>
+  </point>
+  <point>
+    <name>Кутина</name>
+    <region>Сисацко-Мославинская жупания</region>
+    <district>Кутина</district>
+    <id>151640</id>
+  </point>
+  <point>
+    <name>Новска</name>
+    <region>Сисацко-Мославинская жупания</region>
+    <district>Новска</district>
+    <id>151636</id>
+  </point>
+  <point>
+    <name>Петринья</name>
+    <region>Сисацко-Мославинская жупания</region>
+    <district>Петринья</district>
+    <id>151633</id>
+  </point>
+  <point>
+    <name>Сплит / Ресник (аэропорт)</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Сплит / Ресник (аэропорт)</district>
+    <id>8505</id>
+  </point>
+  <point>
+    <name>Бол / Брач (аэропорт)</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Бол / Брач (аэропорт)</district>
+    <id>510048</id>
+  </point>
+  <point>
+    <name>Брела</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Брела</district>
+    <id>141639</id>
+  </point>
+  <point>
+    <name>Макарска</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Макарска</district>
+    <id>8516</id>
+  </point>
+  <point>
+    <name>Башка-Вода</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Башка-Вода</district>
+    <id>141638</id>
+  </point>
+  <point>
+    <name>Брач</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Брач</district>
+    <id>141649</id>
+  </point>
+  <point>
+    <name>Дрвеник</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Дрвеник</district>
+    <id>141642</id>
+  </point>
+  <point>
+    <name>Имотски</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Имотски</district>
+    <id>8531</id>
+  </point>
+  <point>
+    <name>Каштела</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Каштела</district>
+    <id>151642</id>
+  </point>
+  <point>
+    <name>Комижа</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Комижа</district>
+    <id>8497</id>
+  </point>
+  <point>
+    <name>Омиш</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Омиш</district>
+    <id>151635</id>
+  </point>
+  <point>
+    <name>Палагруза</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Палагруза</district>
+    <id>8502</id>
+  </point>
+  <point>
+    <name>Подгора</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Подгора</district>
+    <id>141657</id>
+  </point>
+  <point>
+    <name>Синь</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Синь</district>
+    <id>151630</id>
+  </point>
+  <point>
+    <name>Сплит / Марьян</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Сплит / Марьян</district>
+    <id>8507</id>
+  </point>
+  <point>
+    <name>Супетар</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Супетар</district>
+    <id>141678</id>
+  </point>
+  <point>
+    <name>Трогир</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Трогир</district>
+    <id>141661</id>
+  </point>
+  <point>
+    <name>Тучепи</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Тучепи</district>
+    <id>141662</id>
+  </point>
+  <point>
+    <name>Хвар</name>
+    <region>Сплитско-Далматинская жупания</region>
+    <district>Хвар</district>
+    <id>8512</id>
+  </point>
+  <point>
+    <name>Шибеник</name>
+    <region>Шибенско-Книнская жупания</region>
+    <district>Шибеник</district>
+    <id>8495</id>
+  </point>
+  <point>
+    <name>Водице</name>
+    <region>Шибенско-Книнская жупания</region>
+    <district>Водице</district>
+    <id>141640</id>
+  </point>
+  <point>
+    <name>Книн</name>
+    <region>Шибенско-Книнская жупания</region>
+    <district>Книн</district>
+    <id>8501</id>
+  </point>
+</country>

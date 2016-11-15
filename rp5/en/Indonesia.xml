@@ -1,0 +1,836 @@
+<country name="Indonesia" count="139">
+  <point>
+    <name>Banda Aceh</name>
+    <region>Aceh</region>
+    <district>Banda Aceh</district>
+    <id>348425</id>
+  </point>
+  <point>
+    <name>Banda Aceh / Blangbintang (airport)</name>
+    <region>Aceh</region>
+    <district>Banda Aceh / Blangbintang (airport)</district>
+    <id>337596</id>
+  </point>
+  <point>
+    <name>Lhokseumawe / Malikus</name>
+    <region>Aceh</region>
+    <district>Lhokseumawe / Malikus</district>
+    <id>337597</id>
+  </point>
+  <point>
+    <name>Meulaboh / Cut Nyak Dhien (airport)</name>
+    <region>Aceh</region>
+    <district>Meulaboh / Cut Nyak Dhien (airport)</district>
+    <id>337595</id>
+  </point>
+  <point>
+    <name>Sabang / Cut Bau</name>
+    <region>Aceh</region>
+    <district>Sabang / Cut Bau</district>
+    <id>337598</id>
+  </point>
+  <point>
+    <name>Denpasar</name>
+    <region>Bali</region>
+    <district>Denpasar</district>
+    <id>348429</id>
+  </point>
+  <point>
+    <name>Denpasar / Ngurah-Rai (airport)</name>
+    <region>Bali</region>
+    <district>Denpasar / Ngurah-Rai (airport)</district>
+    <id>337522</id>
+  </point>
+  <point>
+    <name>Ngurah Rai (airport)</name>
+    <region>Bali</region>
+    <district>Ngurah Rai (airport)</district>
+    <id>508574</id>
+  </point>
+  <point>
+    <name>Pangkal Pinang</name>
+    <region>Bangka-Belitung</region>
+    <district>Pangkal Pinang</district>
+    <id>337579</id>
+  </point>
+  <point>
+    <name>Serang</name>
+    <region>Banten</region>
+    <district>Serang</district>
+    <id>337557</id>
+  </point>
+  <point>
+    <name>Bengkulu / Padangkemiling (airport)</name>
+    <region>Bengkulu</region>
+    <district>Bengkulu / Padangkemiling (airport)</district>
+    <id>337577</id>
+  </point>
+  <point>
+    <name>Kerinci / Depati Parbo (airport)</name>
+    <region>Bengkulu</region>
+    <district>Kerinci / Depati Parbo (airport)</district>
+    <id>337581</id>
+  </point>
+  <point>
+    <name>Achmad Yani (airport)</name>
+    <region>Central Java</region>
+    <district>Achmad Yani (airport)</district>
+    <id>508251</id>
+  </point>
+  <point>
+    <name>Adi Sumarmo (airport)</name>
+    <region>Central Java</region>
+    <district>Adi Sumarmo (airport)</district>
+    <id>510382</id>
+  </point>
+  <point>
+    <name>Cilacap</name>
+    <region>Central Java</region>
+    <district>Cilacap</district>
+    <id>337548</id>
+  </point>
+  <point>
+    <name>Semarang</name>
+    <region>Central Java</region>
+    <district>Semarang</district>
+    <id>337547</id>
+  </point>
+  <point>
+    <name>Semarang / Ahmadyani (airport)</name>
+    <region>Central Java</region>
+    <district>Semarang / Ahmadyani (airport)</district>
+    <id>337546</id>
+  </point>
+  <point>
+    <name>Tegal</name>
+    <region>Central Java</region>
+    <district>Tegal</district>
+    <id>337549</id>
+  </point>
+  <point>
+    <name>Iskandar (airport)</name>
+    <region>Central Kalimantan</region>
+    <district>Iskandar (airport)</district>
+    <id>337561</id>
+  </point>
+  <point>
+    <name>Muara teweh / Beringi</name>
+    <region>Central Kalimantan</region>
+    <district>Muara teweh / Beringi</district>
+    <id>337565</id>
+  </point>
+  <point>
+    <name>Palangkaraya</name>
+    <region>Central Kalimantan</region>
+    <district>Palangkaraya</district>
+    <id>348432</id>
+  </point>
+  <point>
+    <name>Palangkaraya / Panarung (airport)</name>
+    <region>Central Kalimantan</region>
+    <district>Palangkaraya / Panarung (airport)</district>
+    <id>337560</id>
+  </point>
+  <point>
+    <name>Luwuk / Bubung</name>
+    <region>Central Sulawesi</region>
+    <district>Luwuk / Bubung</district>
+    <id>337531</id>
+  </point>
+  <point>
+    <name>Palu</name>
+    <region>Central Sulawesi</region>
+    <district>Palu</district>
+    <id>348436</id>
+  </point>
+  <point>
+    <name>Palu / Mutiara (airport)</name>
+    <region>Central Sulawesi</region>
+    <district>Palu / Mutiara (airport)</district>
+    <id>337532</id>
+  </point>
+  <point>
+    <name>Poso / Kasiguncu</name>
+    <region>Central Sulawesi</region>
+    <district>Poso / Kasiguncu</district>
+    <id>337530</id>
+  </point>
+  <point>
+    <name>Toli-toli / Lalos</name>
+    <region>Central Sulawesi</region>
+    <district>Toli-toli / Lalos</district>
+    <id>337534</id>
+  </point>
+  <point>
+    <name>Banyuwangi</name>
+    <region>East Java</region>
+    <district>Banyuwangi</district>
+    <id>337540</id>
+  </point>
+  <point>
+    <name>Juanda (airport)</name>
+    <region>East Java</region>
+    <district>Juanda (airport)</district>
+    <id>508471</id>
+  </point>
+  <point>
+    <name>Kalianget Madura Island</name>
+    <region>East Java</region>
+    <district>Kalianget Madura Island</district>
+    <id>337541</id>
+  </point>
+  <point>
+    <name>Sangkapura / Bawean</name>
+    <region>East Java</region>
+    <district>Sangkapura / Bawean</district>
+    <id>337545</id>
+  </point>
+  <point>
+    <name>Surabaya</name>
+    <region>East Java</region>
+    <district>Surabaya</district>
+    <id>337544</id>
+  </point>
+  <point>
+    <name>Surabaya / Juanda (airport)</name>
+    <region>East Java</region>
+    <district>Surabaya / Juanda (airport)</district>
+    <id>337543</id>
+  </point>
+  <point>
+    <name>Surabaya / Perak</name>
+    <region>East Java</region>
+    <district>Surabaya / Perak</district>
+    <id>337542</id>
+  </point>
+  <point>
+    <name>Balikpapan (airport)</name>
+    <region>East Kalimantan</region>
+    <district>Balikpapan (airport)</district>
+    <id>337562</id>
+  </point>
+  <point>
+    <name>Kalimarau (airport)</name>
+    <region>East Kalimantan</region>
+    <district>Kalimarau (airport)</district>
+    <id>337571</id>
+  </point>
+  <point>
+    <name>Long Bawan (airport)</name>
+    <region>East Kalimantan</region>
+    <district>Long Bawan (airport)</district>
+    <id>337574</id>
+  </point>
+  <point>
+    <name>Samarinda</name>
+    <region>East Kalimantan</region>
+    <district>Samarinda</district>
+    <id>348434</id>
+  </point>
+  <point>
+    <name>Samarinda (airport)</name>
+    <region>East Kalimantan</region>
+    <district>Samarinda (airport)</district>
+    <id>337564</id>
+  </point>
+  <point>
+    <name>Tanjung selor / Tanju</name>
+    <region>East Kalimantan</region>
+    <district>Tanjung selor / Tanju</district>
+    <id>337572</id>
+  </point>
+  <point>
+    <name>Tarakan / Juwata</name>
+    <region>East Kalimantan</region>
+    <district>Tarakan / Juwata</district>
+    <id>337573</id>
+  </point>
+  <point>
+    <name>Alor / Mali Kalahahi</name>
+    <region>East Nusa Tenggara</region>
+    <district>Alor / Mali Kalahahi</district>
+    <id>337515</id>
+  </point>
+  <point>
+    <name>Kupang / Eltari (airport)</name>
+    <region>East Nusa Tenggara</region>
+    <district>Kupang / Eltari (airport)</district>
+    <id>337513</id>
+  </point>
+  <point>
+    <name>Larantuka / Gewayanta</name>
+    <region>East Nusa Tenggara</region>
+    <district>Larantuka / Gewayanta</district>
+    <id>337516</id>
+  </point>
+  <point>
+    <name>Maumere / Wai Oti</name>
+    <region>East Nusa Tenggara</region>
+    <district>Maumere / Wai Oti</district>
+    <id>337517</id>
+  </point>
+  <point>
+    <name>Rote / Baa</name>
+    <region>East Nusa Tenggara</region>
+    <district>Rote / Baa</district>
+    <id>337512</id>
+  </point>
+  <point>
+    <name>Ruteng / Satartacik</name>
+    <region>East Nusa Tenggara</region>
+    <district>Ruteng / Satartacik</district>
+    <id>337518</id>
+  </point>
+  <point>
+    <name>Sabu / Tardamu</name>
+    <region>East Nusa Tenggara</region>
+    <district>Sabu / Tardamu</district>
+    <id>337511</id>
+  </point>
+  <point>
+    <name>Waingapu / Mau hau</name>
+    <region>East Nusa Tenggara</region>
+    <district>Waingapu / Mau hau</district>
+    <id>337514</id>
+  </point>
+  <point>
+    <name>Gorontalo</name>
+    <region>Gorontalo</region>
+    <district>Gorontalo</district>
+    <id>337533</id>
+  </point>
+  <point>
+    <name>Jakarta</name>
+    <region>Jakarta</region>
+    <district>Jakarta</district>
+    <id>337394</id>
+  </point>
+  <point>
+    <name>Halim Perdanakusuma (airport)</name>
+    <region>Jakarta</region>
+    <district>Halim Perdanakusuma (airport)</district>
+    <id>508934</id>
+  </point>
+  <point>
+    <name>Jakarta / Observatory</name>
+    <region>Jakarta</region>
+    <district>Jakarta / Observatory</district>
+    <id>337554</id>
+  </point>
+  <point>
+    <name>Jakarta / Soekarno-Hatta (airport)</name>
+    <region>Jakarta</region>
+    <district>Jakarta / Soekarno-Hatta (airport)</district>
+    <id>337553</id>
+  </point>
+  <point>
+    <name>Curug / Budiarto</name>
+    <region>Jakarta</region>
+    <district>Curug / Budiarto</district>
+    <id>337556</id>
+  </point>
+  <point>
+    <name>Jakarta / Tanjung Priok</name>
+    <region>Jakarta</region>
+    <district>Jakarta / Tanjung Priok</district>
+    <id>337555</id>
+  </point>
+  <point>
+    <name>Jambi / Sultan Thaha (airport)</name>
+    <region>Jambi</region>
+    <district>Jambi / Sultan Thaha (airport)</district>
+    <id>337582</id>
+  </point>
+  <point>
+    <name>Bandar Lampung</name>
+    <region>Lampung</region>
+    <district>Bandar Lampung</district>
+    <id>348426</id>
+  </point>
+  <point>
+    <name>Tanjung Karang</name>
+    <region>Lampung</region>
+    <district>Tanjung Karang</district>
+    <id>337576</id>
+  </point>
+  <point>
+    <name>Tanjung pandan / Bulu</name>
+    <region>Lampung</region>
+    <district>Tanjung pandan / Bulu</district>
+    <id>337578</id>
+  </point>
+  <point>
+    <name>Amahai</name>
+    <region>Maluku</region>
+    <district>Amahai</district>
+    <id>337495</id>
+  </point>
+  <point>
+    <name>Ambon</name>
+    <region>Maluku</region>
+    <district>Ambon</district>
+    <id>348440</id>
+  </point>
+  <point>
+    <name>Ambon / Pattimura (airport)</name>
+    <region>Maluku</region>
+    <district>Ambon / Pattimura (airport)</district>
+    <id>337494</id>
+  </point>
+  <point>
+    <name>Geser</name>
+    <region>Maluku</region>
+    <district>Geser</district>
+    <id>337493</id>
+  </point>
+  <point>
+    <name>Namlea (airport)</name>
+    <region>Maluku</region>
+    <district>Namlea (airport)</district>
+    <id>510429</id>
+  </point>
+  <point>
+    <name>Neira</name>
+    <region>Maluku</region>
+    <district>Neira</district>
+    <id>337490</id>
+  </point>
+  <point>
+    <name>Saumlaki / Olilit</name>
+    <region>Maluku</region>
+    <district>Saumlaki / Olilit</district>
+    <id>337486</id>
+  </point>
+  <point>
+    <name>Tual / Dumatubun</name>
+    <region>Maluku</region>
+    <district>Tual / Dumatubun</district>
+    <id>337488</id>
+  </point>
+  <point>
+    <name>Galela / Gamarmalamu</name>
+    <region>North Maluku</region>
+    <district>Galela / Gamarmalamu</district>
+    <id>337509</id>
+  </point>
+  <point>
+    <name>Labuha / Oesman Sadik</name>
+    <region>North Maluku</region>
+    <district>Labuha / Oesman Sadik</district>
+    <id>337507</id>
+  </point>
+  <point>
+    <name>Sanana</name>
+    <region>North Maluku</region>
+    <district>Sanana</district>
+    <id>337501</id>
+  </point>
+  <point>
+    <name>Ternate</name>
+    <region>North Maluku</region>
+    <district>Ternate</district>
+    <id>337508</id>
+  </point>
+  <point>
+    <name>Bitung</name>
+    <region>North Sulawesi</region>
+    <district>Bitung</district>
+    <id>337535</id>
+  </point>
+  <point>
+    <name>Manado</name>
+    <region>North Sulawesi</region>
+    <district>Manado</district>
+    <id>348435</id>
+  </point>
+  <point>
+    <name>Manado / Sam Ratulangi (airport)</name>
+    <region>North Sulawesi</region>
+    <district>Manado / Sam Ratulangi (airport)</district>
+    <id>337536</id>
+  </point>
+  <point>
+    <name>Naha / Tahuna</name>
+    <region>North Sulawesi</region>
+    <district>Naha / Tahuna</district>
+    <id>337537</id>
+  </point>
+  <point>
+    <name>Gunungsitoli (airport)</name>
+    <region>North Sumatra</region>
+    <district>Gunungsitoli (airport)</district>
+    <id>337591</id>
+  </point>
+  <point>
+    <name>Medan</name>
+    <region>North Sumatra</region>
+    <district>Medan</district>
+    <id>337593</id>
+  </point>
+  <point>
+    <name>Medan / Belawan</name>
+    <region>North Sumatra</region>
+    <district>Medan / Belawan</district>
+    <id>337594</id>
+  </point>
+  <point>
+    <name>Sibolga / Pinangsori</name>
+    <region>North Sumatra</region>
+    <district>Sibolga / Pinangsori</district>
+    <id>337592</id>
+  </point>
+  <point>
+    <name>Biak / Frans Kaisiepo</name>
+    <region>Papua</region>
+    <district>Biak / Frans Kaisiepo</district>
+    <id>337504</id>
+  </point>
+  <point>
+    <name>Enarotali</name>
+    <region>Papua</region>
+    <district>Enarotali</district>
+    <id>337491</id>
+  </point>
+  <point>
+    <name>Jayapura</name>
+    <region>Papua</region>
+    <district>Jayapura</district>
+    <id>348445</id>
+  </point>
+  <point>
+    <name>Jayapura (weather station)</name>
+    <region>Papua</region>
+    <district>Jayapura (weather station)</district>
+    <id>337496</id>
+  </point>
+  <point>
+    <name>Jayapura / Sentani</name>
+    <region>Papua</region>
+    <district>Jayapura / Sentani</district>
+    <id>337497</id>
+  </point>
+  <point>
+    <name>Merauke / Mopah</name>
+    <region>Papua</region>
+    <district>Merauke / Mopah</district>
+    <id>337485</id>
+  </point>
+  <point>
+    <name>Nabire</name>
+    <region>Papua</region>
+    <district>Nabire</district>
+    <id>337499</id>
+  </point>
+  <point>
+    <name>Sarmi / Mararena</name>
+    <region>Papua</region>
+    <district>Sarmi / Mararena</district>
+    <id>337502</id>
+  </point>
+  <point>
+    <name>Serui / Sujarwo Condronegoro (airport)</name>
+    <region>Papua</region>
+    <district>Serui / Sujarwo Condronegoro (airport)</district>
+    <id>337503</id>
+  </point>
+  <point>
+    <name>Tanah Merah</name>
+    <region>Papua</region>
+    <district>Tanah Merah</district>
+    <id>337487</id>
+  </point>
+  <point>
+    <name>Timika</name>
+    <region>Papua</region>
+    <district>Timika</district>
+    <id>337489</id>
+  </point>
+  <point>
+    <name>Timika / Moses Kilangin (airport)</name>
+    <region>Papua</region>
+    <district>Timika / Moses Kilangin (airport)</district>
+    <id>510828</id>
+  </point>
+  <point>
+    <name>Wamena</name>
+    <region>Papua</region>
+    <district>Wamena</district>
+    <id>337498</id>
+  </point>
+  <point>
+    <name>Japura (airport)</name>
+    <region>Riau</region>
+    <district>Japura (airport)</district>
+    <id>337584</id>
+  </point>
+  <point>
+    <name>Pekanbaru / Simpangt (airport)</name>
+    <region>Riau</region>
+    <district>Pekanbaru / Simpangt (airport)</district>
+    <id>337588</id>
+  </point>
+  <point>
+    <name>Batam / Hang Nadim (airport)</name>
+    <region>Riau Islands Province</region>
+    <district>Batam / Hang Nadim (airport)</district>
+    <id>337590</id>
+  </point>
+  <point>
+    <name>Hang Nadim (airport)</name>
+    <region>Riau Islands Province</region>
+    <district>Hang Nadim (airport)</district>
+    <id>508436</id>
+  </point>
+  <point>
+    <name>Ranai</name>
+    <region>Riau Islands Province</region>
+    <district>Ranai</district>
+    <id>337586</id>
+  </point>
+  <point>
+    <name>Singkep / Dabo</name>
+    <region>Riau Islands Province</region>
+    <district>Singkep / Dabo</district>
+    <id>337583</id>
+  </point>
+  <point>
+    <name>Tanjung Pinang</name>
+    <region>Riau Islands Province</region>
+    <district>Tanjung Pinang</district>
+    <id>348427</id>
+  </point>
+  <point>
+    <name>Tanjung Pinang / Kijang (airport)</name>
+    <region>Riau Islands Province</region>
+    <district>Tanjung Pinang / Kijang (airport)</district>
+    <id>337589</id>
+  </point>
+  <point>
+    <name>Tarempa</name>
+    <region>Riau Islands Province</region>
+    <district>Tarempa</district>
+    <id>337587</id>
+  </point>
+  <point>
+    <name>Bau-Bau / Beto Ambiri</name>
+    <region>South East Sulawesi</region>
+    <district>Bau-Bau / Beto Ambiri</district>
+    <id>337523</id>
+  </point>
+  <point>
+    <name>Kendari</name>
+    <region>South East Sulawesi</region>
+    <district>Kendari</district>
+    <id>348438</id>
+  </point>
+  <point>
+    <name>Kendari / Wolter Monginsidi (airport)</name>
+    <region>South East Sulawesi</region>
+    <district>Kendari / Wolter Monginsidi (airport)</district>
+    <id>337526</id>
+  </point>
+  <point>
+    <name>Kolaka / Pomala</name>
+    <region>South East Sulawesi</region>
+    <district>Kolaka / Pomala</district>
+    <id>337527</id>
+  </point>
+  <point>
+    <name>Banjarmasin</name>
+    <region>South Kalimantan</region>
+    <district>Banjarmasin</district>
+    <id>348433</id>
+  </point>
+  <point>
+    <name>Banjarmasin / Syamsudin Noor (airport)</name>
+    <region>South Kalimantan</region>
+    <district>Banjarmasin / Syamsudin Noor (airport)</district>
+    <id>337559</id>
+  </point>
+  <point>
+    <name>Kota baru / Stagen</name>
+    <region>South Kalimantan</region>
+    <district>Kota baru / Stagen</district>
+    <id>337558</id>
+  </point>
+  <point>
+    <name>Andi Jemma (airport)</name>
+    <region>South Sulawesi</region>
+    <district>Andi Jemma (airport)</district>
+    <id>337528</id>
+  </point>
+  <point>
+    <name>Makassar</name>
+    <region>South Sulawesi</region>
+    <district>Makassar</district>
+    <id>348437</id>
+  </point>
+  <point>
+    <name>Ujang pandang / Paote</name>
+    <region>South Sulawesi</region>
+    <district>Ujang pandang / Paote</district>
+    <id>337524</id>
+  </point>
+  <point>
+    <name>Ujung Pandang (airport)</name>
+    <region>South Sulawesi</region>
+    <district>Ujung Pandang (airport)</district>
+    <id>337525</id>
+  </point>
+  <point>
+    <name>Palembang / Sultan Mahmud Badaruddin (airport)</name>
+    <region>South Sumatra</region>
+    <district>Palembang / Sultan Mahmud Badaruddin (airport)</district>
+    <id>337580</id>
+  </point>
+  <point>
+    <name>Bandung / Husein (airport)</name>
+    <region>West Java</region>
+    <district>Bandung / Husein (airport)</district>
+    <id>337551</id>
+  </point>
+  <point>
+    <name>Cirebon / Jatiwangi</name>
+    <region>West Java</region>
+    <district>Cirebon / Jatiwangi</district>
+    <id>337550</id>
+  </point>
+  <point>
+    <name>Citeko / Puncak</name>
+    <region>West Java</region>
+    <district>Citeko / Puncak</district>
+    <id>337552</id>
+  </point>
+  <point>
+    <name>Ketapang / Rahadi usm</name>
+    <region>West Kalimantan</region>
+    <district>Ketapang / Rahadi usm</district>
+    <id>337563</id>
+  </point>
+  <point>
+    <name>Nangapinoh</name>
+    <region>West Kalimantan</region>
+    <district>Nangapinoh</district>
+    <id>337569</id>
+  </point>
+  <point>
+    <name>Paloh</name>
+    <region>West Kalimantan</region>
+    <district>Paloh</district>
+    <id>337570</id>
+  </point>
+  <point>
+    <name>Pangsuma (airport)</name>
+    <region>West Kalimantan</region>
+    <district>Pangsuma (airport)</district>
+    <id>337567</id>
+  </point>
+  <point>
+    <name>Pontianak</name>
+    <region>West Kalimantan</region>
+    <district>Pontianak</district>
+    <id>348431</id>
+  </point>
+  <point>
+    <name>Pontianak / Supadio (airport)</name>
+    <region>West Kalimantan</region>
+    <district>Pontianak / Supadio (airport)</district>
+    <id>337566</id>
+  </point>
+  <point>
+    <name>Sintang</name>
+    <region>West Kalimantan</region>
+    <district>Sintang</district>
+    <id>337568</id>
+  </point>
+  <point>
+    <name>Sri Aman (airport)</name>
+    <region>West Kalimantan</region>
+    <district>Sri Aman (airport)</district>
+    <id>509617</id>
+  </point>
+  <point>
+    <name>Bima (airport)</name>
+    <region>West Nusa Tenggara</region>
+    <district>Bima (airport)</district>
+    <id>337519</id>
+  </point>
+  <point>
+    <name>Lombok (airport)</name>
+    <region>West Nusa Tenggara</region>
+    <district>Lombok (airport)</district>
+    <id>508514</id>
+  </point>
+  <point>
+    <name>Mataram</name>
+    <region>West Nusa Tenggara</region>
+    <district>Mataram</district>
+    <id>348430</id>
+  </point>
+  <point>
+    <name>Mataram / Selaparang (airport)</name>
+    <region>West Nusa Tenggara</region>
+    <district>Mataram / Selaparang (airport)</district>
+    <id>337521</id>
+  </point>
+  <point>
+    <name>Sumbawa Besar / Brang Bidji (airport)</name>
+    <region>West Nusa Tenggara</region>
+    <district>Sumbawa Besar / Brang Bidji (airport)</district>
+    <id>337520</id>
+  </point>
+  <point>
+    <name>Fak-fak / Torea</name>
+    <region>West Papua</region>
+    <district>Fak-fak / Torea</district>
+    <id>337500</id>
+  </point>
+  <point>
+    <name>Kaimana / Utarom</name>
+    <region>West Papua</region>
+    <district>Kaimana / Utarom</district>
+    <id>337492</id>
+  </point>
+  <point>
+    <name>Manokwari</name>
+    <region>West Papua</region>
+    <district>Manokwari</district>
+    <id>337505</id>
+  </point>
+  <point>
+    <name>Sorong / Jefman</name>
+    <region>West Papua</region>
+    <district>Sorong / Jefman</district>
+    <id>337506</id>
+  </point>
+  <point>
+    <name>Majene</name>
+    <region>West Sulawesi</region>
+    <district>Majene</district>
+    <id>337529</id>
+  </point>
+  <point>
+    <name>Mamuju</name>
+    <region>West Sulawesi</region>
+    <district>Mamuju</district>
+    <id>348439</id>
+  </point>
+  <point>
+    <name>Minangkabau (airport)</name>
+    <region>West Sumatra</region>
+    <district>Minangkabau (airport)</district>
+    <id>508545</id>
+  </point>
+  <point>
+    <name>Padang / Tabing (airport)</name>
+    <region>West Sumatra</region>
+    <district>Padang / Tabing (airport)</district>
+    <id>337585</id>
+  </point>
+  <point>
+    <name>Yogyakarta</name>
+    <region>Yogyakarta</region>
+    <district>Yogyakarta</district>
+    <id>348428</id>
+  </point>
+</country>

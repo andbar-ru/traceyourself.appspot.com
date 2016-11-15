@@ -1,0 +1,458 @@
+<country name="Denmark" count="76">
+  <point>
+    <name>Copenhagen</name>
+    <region>Capital Region</region>
+    <district>Copenhagen</district>
+    <id>4274</id>
+  </point>
+  <point>
+    <name>Copenhagen / Kastrup (airport)</name>
+    <region>Capital Region</region>
+    <district>Copenhagen / Kastrup (airport)</district>
+    <id>4269</id>
+  </point>
+  <point>
+    <name>Drogden</name>
+    <region>Capital Region</region>
+    <district>Drogden</district>
+    <id>4275</id>
+  </point>
+  <point>
+    <name>Hammershus</name>
+    <region>Capital Region</region>
+    <district>Hammershus</district>
+    <id>4286</id>
+  </point>
+  <point>
+    <name>Hillerod</name>
+    <region>Capital Region</region>
+    <district>Hillerod</district>
+    <id>180862</id>
+  </point>
+  <point>
+    <name>Nakkehoved</name>
+    <region>Capital Region</region>
+    <district>Nakkehoved</district>
+    <id>4251</id>
+  </point>
+  <point>
+    <name>Nexoe Vest</name>
+    <region>Capital Region</region>
+    <district>Nexoe Vest</district>
+    <id>510402</id>
+  </point>
+  <point>
+    <name>Ronne (airport)</name>
+    <region>Capital Region</region>
+    <district>Ronne (airport)</district>
+    <id>4279</id>
+  </point>
+  <point>
+    <name>Sjaelsmark</name>
+    <region>Capital Region</region>
+    <district>Sjaelsmark</district>
+    <id>510542</id>
+  </point>
+  <point>
+    <name>Århus Syd</name>
+    <region>Central Jutland Region</region>
+    <district>Århus Syd</district>
+    <id>510398</id>
+  </point>
+  <point>
+    <name>Borris</name>
+    <region>Central Jutland Region</region>
+    <district>Borris</district>
+    <id>510337</id>
+  </point>
+  <point>
+    <name>Foulum</name>
+    <region>Central Jutland Region</region>
+    <district>Foulum</district>
+    <id>4158</id>
+  </point>
+  <point>
+    <name>Hald</name>
+    <region>Central Jutland Region</region>
+    <district>Hald</district>
+    <id>510396</id>
+  </point>
+  <point>
+    <name>Horsens / Bygholm</name>
+    <region>Central Jutland Region</region>
+    <district>Horsens / Bygholm</district>
+    <id>510338</id>
+  </point>
+  <point>
+    <name>Hvide Sande</name>
+    <region>Central Jutland Region</region>
+    <district>Hvide Sande</district>
+    <id>4136</id>
+  </point>
+  <point>
+    <name>Isenvad</name>
+    <region>Central Jutland Region</region>
+    <district>Isenvad</district>
+    <id>510537</id>
+  </point>
+  <point>
+    <name>Karup (airport)</name>
+    <region>Central Jutland Region</region>
+    <district>Karup (airport)</district>
+    <id>4139</id>
+  </point>
+  <point>
+    <name>Mejrup</name>
+    <region>Central Jutland Region</region>
+    <district>Mejrup</district>
+    <id>510536</id>
+  </point>
+  <point>
+    <name>Oedum</name>
+    <region>Central Jutland Region</region>
+    <district>Oedum</district>
+    <id>510336</id>
+  </point>
+  <point>
+    <name>Sletterhage (cape)</name>
+    <region>Central Jutland Region</region>
+    <district>Sletterhage (cape)</district>
+    <id>510538</id>
+  </point>
+  <point>
+    <name>Stauning (airport)</name>
+    <region>Central Jutland Region</region>
+    <district>Stauning (airport)</district>
+    <id>4154</id>
+  </point>
+  <point>
+    <name>Thyboron</name>
+    <region>Central Jutland Region</region>
+    <district>Thyboron</district>
+    <id>4132</id>
+  </point>
+  <point>
+    <name>Tirstrup (airport)</name>
+    <region>Central Jutland Region</region>
+    <district>Tirstrup (airport)</district>
+    <id>4162</id>
+  </point>
+  <point>
+    <name>Viborg</name>
+    <region>Central Jutland Region</region>
+    <district>Viborg</district>
+    <id>4219</id>
+  </point>
+  <point>
+    <name>Akraberg</name>
+    <region>Faroe Islands</region>
+    <district>Akraberg</district>
+    <id>4095</id>
+  </point>
+  <point>
+    <name>Kirkja</name>
+    <region>Faroe Islands</region>
+    <district>Kirkja</district>
+    <id>152532</id>
+  </point>
+  <point>
+    <name>Mykines</name>
+    <region>Faroe Islands</region>
+    <district>Mykines</district>
+    <id>509859</id>
+  </point>
+  <point>
+    <name>Sorvags / Vagar (airport)</name>
+    <region>Faroe Islands</region>
+    <district>Sorvags / Vagar (airport)</district>
+    <id>4096</id>
+  </point>
+  <point>
+    <name>Torshavn</name>
+    <region>Faroe Islands</region>
+    <district>Torshavn</district>
+    <id>4102</id>
+  </point>
+  <point>
+    <name>Aalborg (airport)</name>
+    <region>North Jutland Region</region>
+    <district>Aalborg (airport)</district>
+    <id>4110</id>
+  </point>
+  <point>
+    <name>Alestrup</name>
+    <region>North Jutland Region</region>
+    <district>Alestrup</district>
+    <id>510397</id>
+  </point>
+  <point>
+    <name>Anholt</name>
+    <region>North Jutland Region</region>
+    <district>Anholt</district>
+    <id>4168</id>
+  </point>
+  <point>
+    <name>Silstrup</name>
+    <region>North Jutland Region</region>
+    <district>Silstrup</district>
+    <id>510510</id>
+  </point>
+  <point>
+    <name>Sindal (airport)</name>
+    <region>North Jutland Region</region>
+    <district>Sindal (airport)</district>
+    <id>508983</id>
+  </point>
+  <point>
+    <name>Skagen</name>
+    <region>North Jutland Region</region>
+    <district>Skagen</district>
+    <id>4120</id>
+  </point>
+  <point>
+    <name>Stenhøj</name>
+    <region>North Jutland Region</region>
+    <district>Stenhøj</district>
+    <id>510395</id>
+  </point>
+  <point>
+    <name>Tylstrup</name>
+    <region>North Jutland Region</region>
+    <district>Tylstrup</district>
+    <id>510335</id>
+  </point>
+  <point>
+    <name>Ekofisk (platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>Ekofisk (platform)</district>
+    <id>509762</id>
+  </point>
+  <point>
+    <name>Gorm C Helideck (plaftorm)</name>
+    <region>North Sea oil platforms</region>
+    <district>Gorm C Helideck (plaftorm)</district>
+    <id>509717</id>
+  </point>
+  <point>
+    <name>Halfdan A Helideck (plaftorm)</name>
+    <region>North Sea oil platforms</region>
+    <district>Halfdan A Helideck (plaftorm)</district>
+    <id>509718</id>
+  </point>
+  <point>
+    <name>Harald Helideck (plaftorm)</name>
+    <region>North Sea oil platforms</region>
+    <district>Harald Helideck (plaftorm)</district>
+    <id>509719</id>
+  </point>
+  <point>
+    <name>Tyra E Helideck (plaftorm)</name>
+    <region>North Sea oil platforms</region>
+    <district>Tyra E Helideck (plaftorm)</district>
+    <id>509720</id>
+  </point>
+  <point>
+    <name>Tyra West (oil platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>Tyra West (oil platform)</district>
+    <id>4104</id>
+  </point>
+  <point>
+    <name>Valhall (Platform)</name>
+    <region>North Sea oil platforms</region>
+    <district>Valhall (Platform)</district>
+    <id>510090</id>
+  </point>
+  <point>
+    <name>Aarslev</name>
+    <region>Region of Southern Denmark</region>
+    <district>Aarslev</district>
+    <id>510339</id>
+  </point>
+  <point>
+    <name>Askov</name>
+    <region>Region of Southern Denmark</region>
+    <district>Askov</district>
+    <id>510540</id>
+  </point>
+  <point>
+    <name>Billund (airport)</name>
+    <region>Region of Southern Denmark</region>
+    <district>Billund (airport)</district>
+    <id>4181</id>
+  </point>
+  <point>
+    <name>Blavand</name>
+    <region>Region of Southern Denmark</region>
+    <district>Blavand</district>
+    <id>4173</id>
+  </point>
+  <point>
+    <name>Esbjerg (airport)</name>
+    <region>Region of Southern Denmark</region>
+    <district>Esbjerg (airport)</district>
+    <id>4170</id>
+  </point>
+  <point>
+    <name>Horns Rev A Helideck (AWS)</name>
+    <region>Region of Southern Denmark</region>
+    <district>Horns Rev A Helideck (AWS)</district>
+    <id>509008</id>
+  </point>
+  <point>
+    <name>Horns Rev B Helideck (AWS)</name>
+    <region>Region of Southern Denmark</region>
+    <district>Horns Rev B Helideck (AWS)</district>
+    <id>509007</id>
+  </point>
+  <point>
+    <name>Kegnaes</name>
+    <region>Region of Southern Denmark</region>
+    <district>Kegnaes</district>
+    <id>4211</id>
+  </point>
+  <point>
+    <name>Odense / Beldringe (airport)</name>
+    <region>Region of Southern Denmark</region>
+    <district>Odense / Beldringe (airport)</district>
+    <id>4212</id>
+  </point>
+  <point>
+    <name>Omo</name>
+    <region>Region of Southern Denmark</region>
+    <district>Omo</district>
+    <id>4236</id>
+  </point>
+  <point>
+    <name>Romo Island</name>
+    <region>Region of Southern Denmark</region>
+    <district>Romo Island</district>
+    <id>4176</id>
+  </point>
+  <point>
+    <name>Sonderborg (airport)</name>
+    <region>Region of Southern Denmark</region>
+    <district>Sonderborg (airport)</district>
+    <id>4210</id>
+  </point>
+  <point>
+    <name>Sydfyns (airport)</name>
+    <region>Region of Southern Denmark</region>
+    <district>Sydfyns (airport)</district>
+    <id>4217</id>
+  </point>
+  <point>
+    <name>Torö</name>
+    <region>Region of Southern Denmark</region>
+    <district>Torö</district>
+    <id>510399</id>
+  </point>
+  <point>
+    <name>Vamdrup (airport)</name>
+    <region>Region of Southern Denmark</region>
+    <district>Vamdrup (airport)</district>
+    <id>4185</id>
+  </point>
+  <point>
+    <name>Vejle</name>
+    <region>Region of Southern Denmark</region>
+    <district>Vejle</district>
+    <id>12807</id>
+  </point>
+  <point>
+    <name>Vester Vedsted</name>
+    <region>Region of Southern Denmark</region>
+    <district>Vester Vedsted</district>
+    <id>510539</id>
+  </point>
+  <point>
+    <name>Vojens / Skrydstrup (airport)</name>
+    <region>Region of Southern Denmark</region>
+    <district>Vojens / Skrydstrup (airport)</district>
+    <id>4186</id>
+  </point>
+  <point>
+    <name>Abed</name>
+    <region>Zealand</region>
+    <district>Abed</district>
+    <id>510400</id>
+  </point>
+  <point>
+    <name>Avno</name>
+    <region>Zealand</region>
+    <district>Avno</district>
+    <id>4234</id>
+  </point>
+  <point>
+    <name>Brandelev</name>
+    <region>Zealand</region>
+    <district>Brandelev</district>
+    <id>510343</id>
+  </point>
+  <point>
+    <name>Flakkebjerg</name>
+    <region>Zealand</region>
+    <district>Flakkebjerg</district>
+    <id>510541</id>
+  </point>
+  <point>
+    <name>Gedser Odde</name>
+    <region>Zealand</region>
+    <district>Gedser Odde</district>
+    <id>510342</id>
+  </point>
+  <point>
+    <name>Gniben Point</name>
+    <region>Zealand</region>
+    <district>Gniben Point</district>
+    <id>4254</id>
+  </point>
+  <point>
+    <name>Holbaek</name>
+    <region>Zealand</region>
+    <district>Holbaek</district>
+    <id>4238</id>
+  </point>
+  <point>
+    <name>Langoe</name>
+    <region>Zealand</region>
+    <district>Langoe</district>
+    <id>510341</id>
+  </point>
+  <point>
+    <name>Roskilde (airport)</name>
+    <region>Zealand</region>
+    <district>Roskilde (airport)</district>
+    <id>4262</id>
+  </point>
+  <point>
+    <name>Rosnaes</name>
+    <region>Zealand</region>
+    <district>Rosnaes</district>
+    <id>4239</id>
+  </point>
+  <point>
+    <name>Soro</name>
+    <region>Zealand</region>
+    <district>Soro</district>
+    <id>180861</id>
+  </point>
+  <point>
+    <name>Tesseboelle</name>
+    <region>Zealand</region>
+    <district>Tesseboelle</district>
+    <id>510344</id>
+  </point>
+  <point>
+    <name>Tysofte</name>
+    <region>Zealand</region>
+    <district>Tysofte</district>
+    <id>510340</id>
+  </point>
+  <point>
+    <name>Vindebaek</name>
+    <region>Zealand</region>
+    <district>Vindebaek</district>
+    <id>510401</id>
+  </point>
+</country>

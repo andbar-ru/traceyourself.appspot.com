@@ -1,0 +1,722 @@
+<country name="Греция" count="120">
+  <point>
+    <name>Афины</name>
+    <region>Аттика</region>
+    <district>Афины</district>
+    <id>151418</id>
+  </point>
+  <point>
+    <name>Афины / Филадельфия</name>
+    <region>Аттика</region>
+    <district>Афины</district>
+    <id>9673</id>
+  </point>
+  <point>
+    <name>Татой (аэропорт)</name>
+    <region>Аттика</region>
+    <district>Афины</district>
+    <id>9676</id>
+  </point>
+  <point>
+    <name>Эллиникон</name>
+    <region>Аттика</region>
+    <district>Афины</district>
+    <id>9677</id>
+  </point>
+  <point>
+    <name>Афины (аэропорт)</name>
+    <region>Аттика</region>
+    <district>Восточная Аттика</district>
+    <id>508274</id>
+  </point>
+  <point>
+    <name>Паллини</name>
+    <region>Аттика</region>
+    <district>Восточная Аттика</district>
+    <id>12628</id>
+  </point>
+  <point>
+    <name>Элевсин (аэропорт)</name>
+    <region>Аттика</region>
+    <district>Западная Аттика</district>
+    <id>9679</id>
+  </point>
+  <point>
+    <name>Пирей</name>
+    <region>Аттика</region>
+    <district>Пирей</district>
+    <id>12668</id>
+  </point>
+  <point>
+    <name>о. Эгина</name>
+    <region>Аттика</region>
+    <district>Пирей</district>
+    <id>141490</id>
+  </point>
+  <point>
+    <name>Драма</name>
+    <region>Восточная Македония и Фракия</region>
+    <district>Драма</district>
+    <id>12710</id>
+  </point>
+  <point>
+    <name>Кавала</name>
+    <region>Восточная Македония и Фракия</region>
+    <district>Кавала</district>
+    <id>141479</id>
+  </point>
+  <point>
+    <name>Хрисуполи</name>
+    <region>Восточная Македония и Фракия</region>
+    <district>Кавала</district>
+    <id>221796</id>
+  </point>
+  <point>
+    <name>Хрисуполи (аэропорт)</name>
+    <region>Восточная Македония и Фракия</region>
+    <district>Кавала</district>
+    <id>509193</id>
+  </point>
+  <point>
+    <name>Хрисуполи (метеостанция)</name>
+    <region>Восточная Македония и Фракия</region>
+    <district>Кавала</district>
+    <id>9652</id>
+  </point>
+  <point>
+    <name>о. Тасос</name>
+    <region>Восточная Македония и Фракия</region>
+    <district>Кавала</district>
+    <id>141488</id>
+  </point>
+  <point>
+    <name>Ксанти</name>
+    <region>Восточная Македония и Фракия</region>
+    <district>Ксанти</district>
+    <id>222093</id>
+  </point>
+  <point>
+    <name>Комотини</name>
+    <region>Восточная Македония и Фракия</region>
+    <district>Родопи</district>
+    <id>12718</id>
+  </point>
+  <point>
+    <name>Александруполис (аэропорт)</name>
+    <region>Восточная Македония и Фракия</region>
+    <district>Эврос</district>
+    <id>9653</id>
+  </point>
+  <point>
+    <name>Араксос (аэропорт)</name>
+    <region>Западная Греция</region>
+    <district>Ахайя</district>
+    <id>9670</id>
+  </point>
+  <point>
+    <name>Патры</name>
+    <region>Западная Греция</region>
+    <district>Ахайя</district>
+    <id>9671</id>
+  </point>
+  <point>
+    <name>Андравида (аэропорт)</name>
+    <region>Западная Греция</region>
+    <district>Элида</district>
+    <id>9667</id>
+  </point>
+  <point>
+    <name>Пиргос</name>
+    <region>Западная Греция</region>
+    <district>Элида</district>
+    <id>12667</id>
+  </point>
+  <point>
+    <name>Агринион (аэропорт)</name>
+    <region>Западная Греция</region>
+    <district>Этолия и Акарнания</district>
+    <id>9664</id>
+  </point>
+  <point>
+    <name>Агринион</name>
+    <region>Западная Греция</region>
+    <district>Этолия и Акарнания</district>
+    <id>12609</id>
+  </point>
+  <point>
+    <name>Месолонгион</name>
+    <region>Западная Греция</region>
+    <district>Этолия и Акарнания</district>
+    <id>222101</id>
+  </point>
+  <point>
+    <name>Гревена</name>
+    <region>Западная Македония</region>
+    <district>Гревена</district>
+    <id>222102</id>
+  </point>
+  <point>
+    <name>Василица</name>
+    <region>Западная Македония</region>
+    <district>Гревена</district>
+    <id>141477</id>
+  </point>
+  <point>
+    <name>Кастория</name>
+    <region>Западная Македония</region>
+    <district>Кастория</district>
+    <id>9650</id>
+  </point>
+  <point>
+    <name>Козани</name>
+    <region>Западная Македония</region>
+    <district>Козани</district>
+    <id>9654</id>
+  </point>
+  <point>
+    <name>Козани (аэропорт)</name>
+    <region>Западная Македония</region>
+    <district>Козани</district>
+    <id>509742</id>
+  </point>
+  <point>
+    <name>Флорина</name>
+    <region>Западная Македония</region>
+    <district>Флорина</district>
+    <id>9649</id>
+  </point>
+  <point>
+    <name>Закинтос (аэропорт)</name>
+    <region>Ионические острова</region>
+    <district>Закинф</district>
+    <id>141481</id>
+  </point>
+  <point>
+    <name>Китира (аэропорт)</name>
+    <region>Ионические острова</region>
+    <district>Закинф</district>
+    <id>9686</id>
+  </point>
+  <point>
+    <name>Аргостолион</name>
+    <region>Ионические острова</region>
+    <district>Кефалиния и Итака</district>
+    <id>222095</id>
+  </point>
+  <point>
+    <name>Кефалония (аэропорт)</name>
+    <region>Ионические острова</region>
+    <district>Кефалиния и Итака</district>
+    <id>9669</id>
+  </point>
+  <point>
+    <name>Керкира (аэропорт)</name>
+    <region>Ионические острова</region>
+    <district>Корфу</district>
+    <id>9655</id>
+  </point>
+  <point>
+    <name>о. Корфу</name>
+    <region>Ионические острова</region>
+    <district>Корфу</district>
+    <id>141484</id>
+  </point>
+  <point>
+    <name>Лефкас</name>
+    <region>Ионические острова</region>
+    <district>Лефкас</district>
+    <id>222096</id>
+  </point>
+  <point>
+    <name>Превеза / Актион (аэропорт)</name>
+    <region>Ионические острова</region>
+    <district>Лефкас</district>
+    <id>9657</id>
+  </point>
+  <point>
+    <name>Ираклион (аэропорт)</name>
+    <region>Крит</region>
+    <district>Ираклион</district>
+    <id>9690</id>
+  </point>
+  <point>
+    <name>Кастели (аэропорт)</name>
+    <region>Крит</region>
+    <district>Ираклион</district>
+    <id>9695</id>
+  </point>
+  <point>
+    <name>Тимбаки (аэропорт)</name>
+    <region>Крит</region>
+    <district>Ираклион</district>
+    <id>9694</id>
+  </point>
+  <point>
+    <name>Айос-Николаос</name>
+    <region>Крит</region>
+    <district>Ласити</district>
+    <id>222092</id>
+  </point>
+  <point>
+    <name>Иерапетра</name>
+    <region>Крит</region>
+    <district>Ласити</district>
+    <id>9691</id>
+  </point>
+  <point>
+    <name>Сития (аэропорт)</name>
+    <region>Крит</region>
+    <district>Ласити</district>
+    <id>510754</id>
+  </point>
+  <point>
+    <name>Сития</name>
+    <region>Крит</region>
+    <district>Ласити</district>
+    <id>9692</id>
+  </point>
+  <point>
+    <name>Ретимнон</name>
+    <region>Крит</region>
+    <district>Ретимнон</district>
+    <id>9693</id>
+  </point>
+  <point>
+    <name>о. Крит</name>
+    <region>Крит</region>
+    <district>Ретимнон</district>
+    <id>141485</id>
+  </point>
+  <point>
+    <name>Ханья</name>
+    <region>Крит</region>
+    <district>Ханья</district>
+    <id>222091</id>
+  </point>
+  <point>
+    <name>Соуд / Ханья (аэропорт)</name>
+    <region>Крит</region>
+    <district>Ханья</district>
+    <id>9688</id>
+  </point>
+  <point>
+    <name>Нафплион</name>
+    <region>Пелопоннес</region>
+    <district>Арголида</district>
+    <id>12625</id>
+  </point>
+  <point>
+    <name>Месолонгион</name>
+    <region>Пелопоннес</region>
+    <district>Аркадия</district>
+    <id>12623</id>
+  </point>
+  <point>
+    <name>Пелопоннес (полуостров)</name>
+    <region>Пелопоннес</region>
+    <district>Аркадия</district>
+    <id>141491</id>
+  </point>
+  <point>
+    <name>Триполи (аэропорт)</name>
+    <region>Пелопоннес</region>
+    <district>Аркадия</district>
+    <id>9675</id>
+  </point>
+  <point>
+    <name>Триполи</name>
+    <region>Пелопоннес</region>
+    <district>Аркадия</district>
+    <id>12622</id>
+  </point>
+  <point>
+    <name>Коринф</name>
+    <region>Пелопоннес</region>
+    <district>Коринфия</district>
+    <id>12720</id>
+  </point>
+  <point>
+    <name>Лутраки</name>
+    <region>Пелопоннес</region>
+    <district>Коринфия</district>
+    <id>141468</id>
+  </point>
+  <point>
+    <name>Спарта</name>
+    <region>Пелопоннес</region>
+    <district>Лакония</district>
+    <id>222098</id>
+  </point>
+  <point>
+    <name>Каламата (аэропорт)</name>
+    <region>Пелопоннес</region>
+    <district>Мессиния</district>
+    <id>9681</id>
+  </point>
+  <point>
+    <name>Метони</name>
+    <region>Пелопоннес</region>
+    <district>Мессиния</district>
+    <id>9683</id>
+  </point>
+  <point>
+    <name>Лемнос (аэропорт)</name>
+    <region>Северные Эгейские острова</region>
+    <district>Лесбос</district>
+    <id>9660</id>
+  </point>
+  <point>
+    <name>Митилини (аэропорт)</name>
+    <region>Северные Эгейские острова</region>
+    <district>Лесбос</district>
+    <id>9663</id>
+  </point>
+  <point>
+    <name>Самос (аэропорт)</name>
+    <region>Северные Эгейские острова</region>
+    <district>Самос</district>
+    <id>9680</id>
+  </point>
+  <point>
+    <name>Хиос</name>
+    <region>Северные Эгейские острова</region>
+    <district>Хиос</district>
+    <id>222097</id>
+  </point>
+  <point>
+    <name>Хиос (аэропорт)</name>
+    <region>Северные Эгейские острова</region>
+    <district>Хиос</district>
+    <id>9674</id>
+  </point>
+  <point>
+    <name>Кардица</name>
+    <region>Фессалия</region>
+    <district>Кардица</district>
+    <id>222100</id>
+  </point>
+  <point>
+    <name>Лариса (аэропорт)</name>
+    <region>Фессалия</region>
+    <district>Лариса</district>
+    <id>9659</id>
+  </point>
+  <point>
+    <name>Анхиалос (аэропорт)</name>
+    <region>Фессалия</region>
+    <district>Магнисия</district>
+    <id>9662</id>
+  </point>
+  <point>
+    <name>Волос</name>
+    <region>Фессалия</region>
+    <district>Магнисия</district>
+    <id>12614</id>
+  </point>
+  <point>
+    <name>о. Скиатос</name>
+    <region>Фессалия</region>
+    <district>Магнисия</district>
+    <id>141487</id>
+  </point>
+  <point>
+    <name>Скиатос (аэропорт)</name>
+    <region>Фессалия</region>
+    <district>Магнисия</district>
+    <id>508984</id>
+  </point>
+  <point>
+    <name>Трикала</name>
+    <region>Фессалия</region>
+    <district>Трикала</district>
+    <id>9658</id>
+  </point>
+  <point>
+    <name>Кардица</name>
+    <region>Фессалия</region>
+    <district>Трикала</district>
+    <id>12709</id>
+  </point>
+  <point>
+    <name>Алиартос</name>
+    <region>Центральная Греция</region>
+    <district>Беотия</district>
+    <id>9665</id>
+  </point>
+  <point>
+    <name>Ливадия</name>
+    <region>Центральная Греция</region>
+    <district>Беотия</district>
+    <id>12726</id>
+  </point>
+  <point>
+    <name>Парнассос</name>
+    <region>Центральная Греция</region>
+    <district>Беотия</district>
+    <id>141493</id>
+  </point>
+  <point>
+    <name>Танагра (аэропорт)</name>
+    <region>Центральная Греция</region>
+    <district>Беотия</district>
+    <id>9672</id>
+  </point>
+  <point>
+    <name>Амфиса</name>
+    <region>Центральная Греция</region>
+    <district>Фокида</district>
+    <id>222087</id>
+  </point>
+  <point>
+    <name>Десфина</name>
+    <region>Центральная Греция</region>
+    <district>Фокида</district>
+    <id>222150</id>
+  </point>
+  <point>
+    <name>Ламия</name>
+    <region>Центральная Греция</region>
+    <district>Фтиотида</district>
+    <id>9666</id>
+  </point>
+  <point>
+    <name>о. Эвбея</name>
+    <region>Центральная Греция</region>
+    <district>Эвбея</district>
+    <id>141489</id>
+  </point>
+  <point>
+    <name>Скирос (аэропорт)</name>
+    <region>Центральная Греция</region>
+    <district>Эвбея</district>
+    <id>9668</id>
+  </point>
+  <point>
+    <name>Халкида</name>
+    <region>Центральная Греция</region>
+    <district>Эвбея</district>
+    <id>222085</id>
+  </point>
+  <point>
+    <name>Карпенисион</name>
+    <region>Центральная Греция</region>
+    <district>Эвритания</district>
+    <id>222086</id>
+  </point>
+  <point>
+    <name>Верия</name>
+    <region>Центральная Македония</region>
+    <district>Иматия</district>
+    <id>12610</id>
+  </point>
+  <point>
+    <name>Пигадия</name>
+    <region>Центральная Македония</region>
+    <district>Иматия</district>
+    <id>141494</id>
+  </point>
+  <point>
+    <name>Сели</name>
+    <region>Центральная Македония</region>
+    <district>Иматия</district>
+    <id>141495</id>
+  </point>
+  <point>
+    <name>Килкис</name>
+    <region>Центральная Македония</region>
+    <district>Килкис</district>
+    <id>12712</id>
+  </point>
+  <point>
+    <name>Пелла</name>
+    <region>Центральная Македония</region>
+    <district>Пелла</district>
+    <id>222089</id>
+  </point>
+  <point>
+    <name>Ворас</name>
+    <region>Центральная Македония</region>
+    <district>Пелла</district>
+    <id>141478</id>
+  </point>
+  <point>
+    <name>Эдесса</name>
+    <region>Центральная Македония</region>
+    <district>Пелла</district>
+    <id>12727</id>
+  </point>
+  <point>
+    <name>Янница</name>
+    <region>Центральная Македония</region>
+    <district>Пелла</district>
+    <id>12752</id>
+  </point>
+  <point>
+    <name>Катерини</name>
+    <region>Центральная Македония</region>
+    <district>Пиерия</district>
+    <id>141492</id>
+  </point>
+  <point>
+    <name>Салоники (аэропорт)</name>
+    <region>Центральная Македония</region>
+    <district>Салоники</district>
+    <id>9651</id>
+  </point>
+  <point>
+    <name>Серре</name>
+    <region>Центральная Македония</region>
+    <district>Серре</district>
+    <id>9648</id>
+  </point>
+  <point>
+    <name>Ормилия</name>
+    <region>Центральная Македония</region>
+    <district>Халкидики</district>
+    <id>141679</id>
+  </point>
+  <point>
+    <name>Полийирос</name>
+    <region>Центральная Македония</region>
+    <district>Халкидики</district>
+    <id>222088</id>
+  </point>
+  <point>
+    <name>Халкидики</name>
+    <region>Центральная Македония</region>
+    <district>Халкидики</district>
+    <id>141466</id>
+  </point>
+  <point>
+    <name>Арта</name>
+    <region>Эпир</region>
+    <district>Арта</district>
+    <id>9661</id>
+  </point>
+  <point>
+    <name>Превеза</name>
+    <region>Эпир</region>
+    <district>Превеза</district>
+    <id>11377</id>
+  </point>
+  <point>
+    <name>Игуменица</name>
+    <region>Эпир</region>
+    <district>Теспротия</district>
+    <id>12703</id>
+  </point>
+  <point>
+    <name>Янина</name>
+    <region>Эпир</region>
+    <district>Янина</district>
+    <id>12728</id>
+  </point>
+  <point>
+    <name>Янина (аэропорт)</name>
+    <region>Эпир</region>
+    <district>Янина</district>
+    <id>9656</id>
+  </point>
+  <point>
+    <name>Икария (аэропорт)</name>
+    <region>Южные Эгейские острова</region>
+    <district>Додеканес</district>
+    <id>510753</id>
+  </point>
+  <point>
+    <name>Карпатос (аэропорт)</name>
+    <region>Южные Эгейские острова</region>
+    <district>Додеканес</district>
+    <id>9696</id>
+  </point>
+  <point>
+    <name>Кос (аэропорт)</name>
+    <region>Южные Эгейские острова</region>
+    <district>Додеканес</district>
+    <id>9685</id>
+  </point>
+  <point>
+    <name>о. Икария</name>
+    <region>Южные Эгейские острова</region>
+    <district>Додеканес</district>
+    <id>141482</id>
+  </point>
+  <point>
+    <name>Родос (аэропорт)</name>
+    <region>Южные Эгейские острова</region>
+    <district>Додеканес</district>
+    <id>9689</id>
+  </point>
+  <point>
+    <name>Родос</name>
+    <region>Южные Эгейские острова</region>
+    <district>Додеканес</district>
+    <id>222099</id>
+  </point>
+  <point>
+    <name>Миконос (аэропорт)</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>508558</id>
+  </point>
+  <point>
+    <name>Милос</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>9684</id>
+  </point>
+  <point>
+    <name>Наксос</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>9682</id>
+  </point>
+  <point>
+    <name>о. Иос</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>141483</id>
+  </point>
+  <point>
+    <name>о. Миконос</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>141486</id>
+  </point>
+  <point>
+    <name>о. Санторини</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>141480</id>
+  </point>
+  <point>
+    <name>Остров Наксос (аэропорт)</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>508956</id>
+  </point>
+  <point>
+    <name>Парос (аэропорт)</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>508594</id>
+  </point>
+  <point>
+    <name>Санторини (аэропорт)</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>9687</id>
+  </point>
+  <point>
+    <name>Сирос (аэропорт)</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>508699</id>
+  </point>
+  <point>
+    <name>Эрмуполис</name>
+    <region>Южные Эгейские острова</region>
+    <district>Киклады</district>
+    <id>98809</id>
+  </point>
+</country>

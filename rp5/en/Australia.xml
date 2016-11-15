@@ -1,0 +1,1364 @@
+<country name="Australia" count="227">
+  <point>
+    <name>Canberra</name>
+    <region>Australian Capital Territory</region>
+    <district>Canberra</district>
+    <id>337393</id>
+  </point>
+  <point>
+    <name>Canberra (airport)</name>
+    <region>Australian Capital Territory</region>
+    <district>Canberra (airport)</district>
+    <id>337633</id>
+  </point>
+  <point>
+    <name>Heard Island</name>
+    <region>External Territories</region>
+    <district>Heard Island</district>
+    <id>337599</id>
+  </point>
+  <point>
+    <name>Heard Island (the Spit)</name>
+    <region>External Territories</region>
+    <district>Heard Island (the Spit)</district>
+    <id>337624</id>
+  </point>
+  <point>
+    <name>Ballina Byron Gateway (airport)</name>
+    <region>New South Wales</region>
+    <district>Ballina Byron Gateway (airport)</district>
+    <id>510384</id>
+  </point>
+  <point>
+    <name>Bathurst (airport)</name>
+    <region>New South Wales</region>
+    <district>Bathurst (airport)</district>
+    <id>337648</id>
+  </point>
+  <point>
+    <name>Bourke (airport)</name>
+    <region>New South Wales</region>
+    <district>Bourke (airport)</district>
+    <id>337650</id>
+  </point>
+  <point>
+    <name>Broken Hill (airport)</name>
+    <region>New South Wales</region>
+    <district>Broken Hill (airport)</district>
+    <id>337652</id>
+  </point>
+  <point>
+    <name>Casino (airport)</name>
+    <region>New South Wales</region>
+    <district>Casino (airport)</district>
+    <id>510387</id>
+  </point>
+  <point>
+    <name>Cobar (airport)</name>
+    <region>New South Wales</region>
+    <district>Cobar (airport)</district>
+    <id>337649</id>
+  </point>
+  <point>
+    <name>Coffs Harbour (airport)</name>
+    <region>New South Wales</region>
+    <district>Coffs Harbour (airport)</district>
+    <id>508343</id>
+  </point>
+  <point>
+    <name>Coonabarabran (airport)</name>
+    <region>New South Wales</region>
+    <district>Coonabarabran (airport)</district>
+    <id>510388</id>
+  </point>
+  <point>
+    <name>Coonamble (airport)</name>
+    <region>New South Wales</region>
+    <district>Coonamble (airport)</district>
+    <id>510390</id>
+  </point>
+  <point>
+    <name>Dubbo (airport)</name>
+    <region>New South Wales</region>
+    <district>Dubbo (airport)</district>
+    <id>508367</id>
+  </point>
+  <point>
+    <name>Dubbo (AWS)</name>
+    <region>New South Wales</region>
+    <district>Dubbo (AWS)</district>
+    <id>337604</id>
+  </point>
+  <point>
+    <name>Gladstone (airport)</name>
+    <region>New South Wales</region>
+    <district>Gladstone (airport)</district>
+    <id>510267</id>
+  </point>
+  <point>
+    <name>Gosford (AWS)</name>
+    <region>New South Wales</region>
+    <district>Gosford (AWS)</district>
+    <id>510676</id>
+  </point>
+  <point>
+    <name>Grafton (airport)</name>
+    <region>New South Wales</region>
+    <district>Grafton (airport)</district>
+    <id>510248</id>
+  </point>
+  <point>
+    <name>Griffith (airport)</name>
+    <region>New South Wales</region>
+    <district>Griffith (airport)</district>
+    <id>510266</id>
+  </point>
+  <point>
+    <name>Lismore (airport)</name>
+    <region>New South Wales</region>
+    <district>Lismore (airport)</district>
+    <id>510246</id>
+  </point>
+  <point>
+    <name>Lord Howe Island (airport)</name>
+    <region>New South Wales</region>
+    <district>Lord Howe Island (airport)</district>
+    <id>337626</id>
+  </point>
+  <point>
+    <name>Moree (airport)</name>
+    <region>New South Wales</region>
+    <district>Moree (airport)</district>
+    <id>337608</id>
+  </point>
+  <point>
+    <name>Mudgee (airport)</name>
+    <region>New South Wales</region>
+    <district>Mudgee (airport)</district>
+    <id>510306</id>
+  </point>
+  <point>
+    <name>Narrabri (airport)</name>
+    <region>New South Wales</region>
+    <district>Narrabri (airport)</district>
+    <id>510307</id>
+  </point>
+  <point>
+    <name>Narrandera (airport)</name>
+    <region>New South Wales</region>
+    <district>Narrandera (airport)</district>
+    <id>510300</id>
+  </point>
+  <point>
+    <name>Nerriga (AWS)</name>
+    <region>New South Wales</region>
+    <district>Nerriga (AWS)</district>
+    <id>510674</id>
+  </point>
+  <point>
+    <name>Nowra Ran Air Station (airport)</name>
+    <region>New South Wales</region>
+    <district>Nowra Ran Air Station (airport)</district>
+    <id>337647</id>
+  </point>
+  <point>
+    <name>Port Macquarie (airport)</name>
+    <region>New South Wales</region>
+    <district>Port Macquarie (airport)</district>
+    <id>510244</id>
+  </point>
+  <point>
+    <name>Richmond (airbase)</name>
+    <region>New South Wales</region>
+    <district>Richmond (airbase)</district>
+    <id>508625</id>
+  </point>
+  <point>
+    <name>Sydney</name>
+    <region>New South Wales</region>
+    <district>Sydney</district>
+    <id>341385</id>
+  </point>
+  <point>
+    <name>Sydney (airport)</name>
+    <region>New South Wales</region>
+    <district>Sydney (airport)</district>
+    <id>337646</id>
+  </point>
+  <point>
+    <name>Tamworth (airport)</name>
+    <region>New South Wales</region>
+    <district>Tamworth (airport)</district>
+    <id>337603</id>
+  </point>
+  <point>
+    <name>Taree (airport)</name>
+    <region>New South Wales</region>
+    <district>Taree (airport)</district>
+    <id>508703</id>
+  </point>
+  <point>
+    <name>Tibooburra (airport)</name>
+    <region>New South Wales</region>
+    <district>Tibooburra (airport)</district>
+    <id>337610</id>
+  </point>
+  <point>
+    <name>Wagga (airport)</name>
+    <region>New South Wales</region>
+    <district>Wagga (airport)</district>
+    <id>337634</id>
+  </point>
+  <point>
+    <name>Williamtown (aerodrome)</name>
+    <region>New South Wales</region>
+    <district>Williamtown (aerodrome)</district>
+    <id>337645</id>
+  </point>
+  <point>
+    <name>Alice Springs (airport)</name>
+    <region>Northern Territory</region>
+    <district>Alice Springs (airport)</district>
+    <id>337684</id>
+  </point>
+  <point>
+    <name>Cape Fourcroy</name>
+    <region>Northern Territory</region>
+    <district>Cape Fourcroy</district>
+    <id>337714</id>
+  </point>
+  <point>
+    <name>Cape Wessel AWS</name>
+    <region>Northern Territory</region>
+    <district>Cape Wessel AWS</district>
+    <id>337712</id>
+  </point>
+  <point>
+    <name>Centre Island</name>
+    <region>Northern Territory</region>
+    <district>Centre Island</district>
+    <id>337700</id>
+  </point>
+  <point>
+    <name>Croker Island (airport)</name>
+    <region>Northern Territory</region>
+    <district>Croker Island (airport)</district>
+    <id>510666</id>
+  </point>
+  <point>
+    <name>Darwin</name>
+    <region>Northern Territory</region>
+    <district>Darwin</district>
+    <id>341388</id>
+  </point>
+  <point>
+    <name>Darwin (airport)</name>
+    <region>Northern Territory</region>
+    <district>Darwin (airport)</district>
+    <id>337715</id>
+  </point>
+  <point>
+    <name>Gove (airport)</name>
+    <region>Northern Territory</region>
+    <district>Gove (airport)</district>
+    <id>337711</id>
+  </point>
+  <point>
+    <name>Gove (weather station)</name>
+    <region>Northern Territory</region>
+    <district>Gove (weather station)</district>
+    <id>508420</id>
+  </point>
+  <point>
+    <name>Groote Eylandt (airport)</name>
+    <region>Northern Territory</region>
+    <district>Groote Eylandt (airport)</district>
+    <id>510391</id>
+  </point>
+  <point>
+    <name>Jervois</name>
+    <region>Northern Territory</region>
+    <district>Jervois</district>
+    <id>337683</id>
+  </point>
+  <point>
+    <name>Murganella (airstrip)</name>
+    <region>Northern Territory</region>
+    <district>Murganella (airstrip)</district>
+    <id>510667</id>
+  </point>
+  <point>
+    <name>Ngukurr (airport)</name>
+    <region>Northern Territory</region>
+    <district>Ngukurr (airport)</district>
+    <id>510665</id>
+  </point>
+  <point>
+    <name>Noonamah (airstrip)</name>
+    <region>Northern Territory</region>
+    <district>Noonamah (airstrip)</district>
+    <id>510664</id>
+  </point>
+  <point>
+    <name>North East Island</name>
+    <region>Northern Territory</region>
+    <district>North East Island</district>
+    <id>337710</id>
+  </point>
+  <point>
+    <name>Oenpelli (airport)</name>
+    <region>Northern Territory</region>
+    <district>Oenpelli (airport)</district>
+    <id>510668</id>
+  </point>
+  <point>
+    <name>Port Keats Airfield</name>
+    <region>Northern Territory</region>
+    <district>Port Keats Airfield</district>
+    <id>337622</id>
+  </point>
+  <point>
+    <name>Rabbit Flat</name>
+    <region>Northern Territory</region>
+    <district>Rabbit Flat</district>
+    <id>337616</id>
+  </point>
+  <point>
+    <name>Tennant Creek (airport)</name>
+    <region>Northern Territory</region>
+    <district>Tennant Creek (airport)</district>
+    <id>337701</id>
+  </point>
+  <point>
+    <name>Tennant Creek (AWS)</name>
+    <region>Northern Territory</region>
+    <district>Tennant Creek (AWS)</district>
+    <id>508707</id>
+  </point>
+  <point>
+    <name>Tindal / Katherine (airport)</name>
+    <region>Northern Territory</region>
+    <district>Tindal / Katherine (airport)</district>
+    <id>337713</id>
+  </point>
+  <point>
+    <name>Yulara (airport)</name>
+    <region>Northern Territory</region>
+    <district>Yulara (airport)</district>
+    <id>337668</id>
+  </point>
+  <point>
+    <name>Amberley (airbase)</name>
+    <region>Queensland</region>
+    <district>Amberley (airbase)</district>
+    <id>508261</id>
+  </point>
+  <point>
+    <name>Birdsville (airport)</name>
+    <region>Queensland</region>
+    <district>Birdsville (airport)</district>
+    <id>337611</id>
+  </point>
+  <point>
+    <name>Bougainville Reef</name>
+    <region>Queensland</region>
+    <district>Bougainville Reef</district>
+    <id>337618</id>
+  </point>
+  <point>
+    <name>Brisbane</name>
+    <region>Queensland</region>
+    <district>Brisbane</district>
+    <id>341384</id>
+  </point>
+  <point>
+    <name>Brisbane (airport)</name>
+    <region>Queensland</region>
+    <district>Brisbane (airport)</district>
+    <id>337663</id>
+  </point>
+  <point>
+    <name>Bundaberg (airport)</name>
+    <region>Queensland</region>
+    <district>Bundaberg (airport)</district>
+    <id>510268</id>
+  </point>
+  <point>
+    <name>Cairns (airport)</name>
+    <region>Queensland</region>
+    <district>Cairns (airport)</district>
+    <id>337697</id>
+  </point>
+  <point>
+    <name>Camooweal township</name>
+    <region>Queensland</region>
+    <district>Camooweal township</district>
+    <id>337699</id>
+  </point>
+  <point>
+    <name>Cato Island</name>
+    <region>Queensland</region>
+    <district>Cato Island</district>
+    <id>337674</id>
+  </point>
+  <point>
+    <name>Charleville (airport)</name>
+    <region>Queensland</region>
+    <district>Charleville (airport)</district>
+    <id>337667</id>
+  </point>
+  <point>
+    <name>Clermont (airport)</name>
+    <region>Queensland</region>
+    <district>Clermont (airport)</district>
+    <id>510673</id>
+  </point>
+  <point>
+    <name>Cloncurry (airport)</name>
+    <region>Queensland</region>
+    <district>Cloncurry (airport)</district>
+    <id>510389</id>
+  </point>
+  <point>
+    <name>Cooktown (airport)</name>
+    <region>Queensland</region>
+    <district>Cooktown (airport)</district>
+    <id>337620</id>
+  </point>
+  <point>
+    <name>Double Island Point</name>
+    <region>Queensland</region>
+    <district>Double Island Point</district>
+    <id>337662</id>
+  </point>
+  <point>
+    <name>Emerald (airport)</name>
+    <region>Queensland</region>
+    <district>Emerald (airport)</district>
+    <id>337679</id>
+  </point>
+  <point>
+    <name>Flinders Reef</name>
+    <region>Queensland</region>
+    <district>Flinders Reef</district>
+    <id>337695</id>
+  </point>
+  <point>
+    <name>Frederick Reef</name>
+    <region>Queensland</region>
+    <district>Frederick Reef</district>
+    <id>337675</id>
+  </point>
+  <point>
+    <name>Gannet Cay</name>
+    <region>Queensland</region>
+    <district>Gannet Cay</district>
+    <id>429826</id>
+  </point>
+  <point>
+    <name>Gold Coast (airport)</name>
+    <region>Queensland</region>
+    <district>Gold Coast (airport)</district>
+    <id>508417</id>
+  </point>
+  <point>
+    <name>Hamilton Island (airport)</name>
+    <region>Queensland</region>
+    <district>Hamilton Island (airport)</district>
+    <id>508433</id>
+  </point>
+  <point>
+    <name>Holmes Reef</name>
+    <region>Queensland</region>
+    <district>Holmes Reef</district>
+    <id>337696</id>
+  </point>
+  <point>
+    <name>Hughenden (airport)</name>
+    <region>Queensland</region>
+    <district>Hughenden (airport)</district>
+    <id>510247</id>
+  </point>
+  <point>
+    <name>Kingaroy (airport)</name>
+    <region>Queensland</region>
+    <district>Kingaroy (airport)</district>
+    <id>510392</id>
+  </point>
+  <point>
+    <name>Kowanyama (airport)</name>
+    <region>Queensland</region>
+    <district>Kowanyama (airport)</district>
+    <id>337698</id>
+  </point>
+  <point>
+    <name>Lady Elliot Island</name>
+    <region>Queensland</region>
+    <district>Lady Elliot Island</district>
+    <id>337676</id>
+  </point>
+  <point>
+    <name>Lake Julius (AWS)</name>
+    <region>Queensland</region>
+    <district>Lake Julius (AWS)</district>
+    <id>510671</id>
+  </point>
+  <point>
+    <name>Lihou Reef</name>
+    <region>Queensland</region>
+    <district>Lihou Reef</district>
+    <id>337693</id>
+  </point>
+  <point>
+    <name>Lihou Reef Lighthouse</name>
+    <region>Queensland</region>
+    <district>Lihou Reef Lighthouse</district>
+    <id>510669</id>
+  </point>
+  <point>
+    <name>Longreach (airport)</name>
+    <region>Queensland</region>
+    <district>Longreach (airport)</district>
+    <id>337680</id>
+  </point>
+  <point>
+    <name>Mackay (airport)</name>
+    <region>Queensland</region>
+    <district>Mackay (airport)</district>
+    <id>337678</id>
+  </point>
+  <point>
+    <name>Marion Reef</name>
+    <region>Queensland</region>
+    <district>Marion Reef</district>
+    <id>337692</id>
+  </point>
+  <point>
+    <name>Moore Reef</name>
+    <region>Queensland</region>
+    <district>Moore Reef</district>
+    <id>337617</id>
+  </point>
+  <point>
+    <name>Mount Isa (airport)</name>
+    <region>Queensland</region>
+    <district>Mount Isa (airport)</district>
+    <id>337682</id>
+  </point>
+  <point>
+    <name>New May Downs</name>
+    <region>Queensland</region>
+    <district>New May Downs</district>
+    <id>510672</id>
+  </point>
+  <point>
+    <name>Norman Reef</name>
+    <region>Queensland</region>
+    <district>Norman Reef</district>
+    <id>337619</id>
+  </point>
+  <point>
+    <name>Normanton (airport)</name>
+    <region>Queensland</region>
+    <district>Normanton (airport)</district>
+    <id>510393</id>
+  </point>
+  <point>
+    <name>Oakey (airport)</name>
+    <region>Queensland</region>
+    <district>Oakey (airport)</district>
+    <id>337664</id>
+  </point>
+  <point>
+    <name>Proserpine / Whitsunday Coast (airport)</name>
+    <region>Queensland</region>
+    <district>Proserpine / Whitsunday Coast (airport)</district>
+    <id>510385</id>
+  </point>
+  <point>
+    <name>Richmond (airport)</name>
+    <region>Queensland</region>
+    <district>Richmond (airport)</district>
+    <id>337681</id>
+  </point>
+  <point>
+    <name>Rockhampton (airport)</name>
+    <region>Queensland</region>
+    <district>Rockhampton (airport)</district>
+    <id>337677</id>
+  </point>
+  <point>
+    <name>Roma (airport)</name>
+    <region>Queensland</region>
+    <district>Roma (airport)</district>
+    <id>337666</id>
+  </point>
+  <point>
+    <name>Scherger (airbase)</name>
+    <region>Queensland</region>
+    <district>Scherger (airbase)</district>
+    <id>510250</id>
+  </point>
+  <point>
+    <name>Stanthorpe</name>
+    <region>Queensland</region>
+    <district>Stanthorpe</district>
+    <id>337665</id>
+  </point>
+  <point>
+    <name>Thargomindah (airport)</name>
+    <region>Queensland</region>
+    <district>Thargomindah (airport)</district>
+    <id>337609</id>
+  </point>
+  <point>
+    <name>Townsville (airport)</name>
+    <region>Queensland</region>
+    <district>Townsville (airport)</district>
+    <id>337694</id>
+  </point>
+  <point>
+    <name>Urandangi (aerodrome)</name>
+    <region>Queensland</region>
+    <district>Urandangi (aerodrome)</district>
+    <id>510670</id>
+  </point>
+  <point>
+    <name>Weipa (airport)</name>
+    <region>Queensland</region>
+    <district>Weipa (airport)</district>
+    <id>337709</id>
+  </point>
+  <point>
+    <name>Willis Island</name>
+    <region>Queensland</region>
+    <district>Willis Island</district>
+    <id>337691</id>
+  </point>
+  <point>
+    <name>Adelaide</name>
+    <region>South Australia</region>
+    <district>Adelaide</district>
+    <id>341387</id>
+  </point>
+  <point>
+    <name>Adelaide (airport)</name>
+    <region>South Australia</region>
+    <district>Adelaide (airport)</district>
+    <id>337653</id>
+  </point>
+  <point>
+    <name>Ceduna (airport)</name>
+    <region>South Australia</region>
+    <district>Ceduna (airport)</district>
+    <id>337655</id>
+  </point>
+  <point>
+    <name>Coober Pedy (airport)</name>
+    <region>South Australia</region>
+    <district>Coober Pedy (airport)</district>
+    <id>337614</id>
+  </point>
+  <point>
+    <name>Leigh Creek (airport)</name>
+    <region>South Australia</region>
+    <district>Leigh Creek (airport)</district>
+    <id>510265</id>
+  </point>
+  <point>
+    <name>Marree (airport)</name>
+    <region>South Australia</region>
+    <district>Marree (airport)</district>
+    <id>337613</id>
+  </point>
+  <point>
+    <name>Moomba (airport)</name>
+    <region>South Australia</region>
+    <district>Moomba (airport)</district>
+    <id>337612</id>
+  </point>
+  <point>
+    <name>Mount Gambier (airport)</name>
+    <region>South Australia</region>
+    <district>Mount Gambier (airport)</district>
+    <id>337642</id>
+  </point>
+  <point>
+    <name>Neptune Island</name>
+    <region>South Australia</region>
+    <district>Neptune Island</district>
+    <id>337643</id>
+  </point>
+  <point>
+    <name>Nullarbor</name>
+    <region>South Australia</region>
+    <district>Nullarbor</district>
+    <id>337656</id>
+  </point>
+  <point>
+    <name>Olympic Dam (airport)</name>
+    <region>South Australia</region>
+    <district>Olympic Dam (airport)</district>
+    <id>510264</id>
+  </point>
+  <point>
+    <name>Parndana</name>
+    <region>South Australia</region>
+    <district>Parndana</district>
+    <id>510236</id>
+  </point>
+  <point>
+    <name>Portland (AWS)</name>
+    <region>South Australia</region>
+    <district>Portland (AWS)</district>
+    <id>510227</id>
+  </point>
+  <point>
+    <name>Whyalla (airport)</name>
+    <region>South Australia</region>
+    <district>Whyalla (airport)</district>
+    <id>508747</id>
+  </point>
+  <point>
+    <name>Woomera (airport)</name>
+    <region>South Australia</region>
+    <district>Woomera (airport)</district>
+    <id>337654</id>
+  </point>
+  <point>
+    <name>Cape Grim Baps</name>
+    <region>Tasmania</region>
+    <district>Cape Grim Baps</district>
+    <id>337631</id>
+  </point>
+  <point>
+    <name>Cape Sorell</name>
+    <region>Tasmania</region>
+    <district>Cape Sorell</district>
+    <id>337629</id>
+  </point>
+  <point>
+    <name>Dennes Point</name>
+    <region>Tasmania</region>
+    <district>Dennes Point</district>
+    <id>510675</id>
+  </point>
+  <point>
+    <name>Dunalley (Stroud Point)</name>
+    <region>Tasmania</region>
+    <district>Dunalley (Stroud Point)</district>
+    <id>510234</id>
+  </point>
+  <point>
+    <name>Eddystone Point</name>
+    <region>Tasmania</region>
+    <district>Eddystone Point</district>
+    <id>337627</id>
+  </point>
+  <point>
+    <name>Hobart</name>
+    <region>Tasmania</region>
+    <district>Hobart</district>
+    <id>341386</id>
+  </point>
+  <point>
+    <name>Hobart (airport)</name>
+    <region>Tasmania</region>
+    <district>Hobart (airport)</district>
+    <id>337628</id>
+  </point>
+  <point>
+    <name>King Island (airport)</name>
+    <region>Tasmania</region>
+    <district>King Island (airport)</district>
+    <id>337640</id>
+  </point>
+  <point>
+    <name>Launceston (airport)</name>
+    <region>Tasmania</region>
+    <district>Launceston (airport)</district>
+    <id>337600</id>
+  </point>
+  <point>
+    <name>Low Rocky Point AWS</name>
+    <region>Tasmania</region>
+    <district>Low Rocky Point AWS</district>
+    <id>337601</id>
+  </point>
+  <point>
+    <name>Macquarie Island</name>
+    <region>Tasmania</region>
+    <district>Macquarie Island</district>
+    <id>337623</id>
+  </point>
+  <point>
+    <name>Strahan (airport)</name>
+    <region>Tasmania</region>
+    <district>Strahan (airport)</district>
+    <id>337630</id>
+  </point>
+  <point>
+    <name>Albury (Airport)</name>
+    <region>Victoria</region>
+    <district>Albury (Airport)</district>
+    <id>510168</id>
+  </point>
+  <point>
+    <name>Avalon (airport)</name>
+    <region>Victoria</region>
+    <district>Avalon (airport)</district>
+    <id>508278</id>
+  </point>
+  <point>
+    <name>Cape Otway Lighthouse</name>
+    <region>Victoria</region>
+    <district>Cape Otway Lighthouse</district>
+    <id>337641</id>
+  </point>
+  <point>
+    <name>Cooma Snowy Mountains (airport)</name>
+    <region>Victoria</region>
+    <district>Cooma Snowy Mountains (airport)</district>
+    <id>510249</id>
+  </point>
+  <point>
+    <name>East Sale Aerodrome</name>
+    <region>Victoria</region>
+    <district>East Sale Aerodrome</district>
+    <id>337635</id>
+  </point>
+  <point>
+    <name>Edenhope (airport)</name>
+    <region>Victoria</region>
+    <district>Edenhope (airport)</district>
+    <id>510735</id>
+  </point>
+  <point>
+    <name>Essendon (airport)</name>
+    <region>Victoria</region>
+    <district>Essendon (airport)</district>
+    <id>510292</id>
+  </point>
+  <point>
+    <name>Green Cape (AWS)</name>
+    <region>Victoria</region>
+    <district>Green Cape (AWS)</district>
+    <id>510235</id>
+  </point>
+  <point>
+    <name>Horsham (airport)</name>
+    <region>Victoria</region>
+    <district>Horsham (airport)</district>
+    <id>337602</id>
+  </point>
+  <point>
+    <name>Laverton (airport)</name>
+    <region>Victoria</region>
+    <district>Laverton (airport)</district>
+    <id>337639</id>
+  </point>
+  <point>
+    <name>Mallacoota</name>
+    <region>Victoria</region>
+    <district>Mallacoota</district>
+    <id>337632</id>
+  </point>
+  <point>
+    <name>Melbourne</name>
+    <region>Victoria</region>
+    <district>Melbourne</district>
+    <id>341382</id>
+  </point>
+  <point>
+    <name>Melbourne (airport)</name>
+    <region>Victoria</region>
+    <district>Melbourne (airport)</district>
+    <id>337638</id>
+  </point>
+  <point>
+    <name>Merimbula (airport)</name>
+    <region>Victoria</region>
+    <district>Merimbula (airport)</district>
+    <id>510245</id>
+  </point>
+  <point>
+    <name>Mildura (airport)</name>
+    <region>Victoria</region>
+    <district>Mildura (airport)</district>
+    <id>337651</id>
+  </point>
+  <point>
+    <name>Shepparton (airport)</name>
+    <region>Victoria</region>
+    <district>Shepparton (airport)</district>
+    <id>337637</id>
+  </point>
+  <point>
+    <name>Thredbo (AWS)</name>
+    <region>Victoria</region>
+    <district>Thredbo (AWS)</district>
+    <id>510647</id>
+  </point>
+  <point>
+    <name>Wangaratta (airport)</name>
+    <region>Victoria</region>
+    <district>Wangaratta (airport)</district>
+    <id>508737</id>
+  </point>
+  <point>
+    <name>Wilsons Promontory</name>
+    <region>Victoria</region>
+    <district>Wilsons Promontory</district>
+    <id>337636</id>
+  </point>
+  <point>
+    <name>Abrolhos Island</name>
+    <region>Western Australia</region>
+    <district>Abrolhos Island</district>
+    <id>510736</id>
+  </point>
+  <point>
+    <name>Adele Island</name>
+    <region>Western Australia</region>
+    <district>Adele Island</district>
+    <id>337704</id>
+  </point>
+  <point>
+    <name>Albany (airport)</name>
+    <region>Western Australia</region>
+    <district>Albany (airport)</district>
+    <id>337644</id>
+  </point>
+  <point>
+    <name>Argyle (airport)</name>
+    <region>Western Australia</region>
+    <district>Argyle (airport)</district>
+    <id>510383</id>
+  </point>
+  <point>
+    <name>Badgingarra</name>
+    <region>Western Australia</region>
+    <district>Badgingarra</district>
+    <id>510242</id>
+  </point>
+  <point>
+    <name>Barrow Island (airport)</name>
+    <region>Western Australia</region>
+    <district>Barrow Island (airport)</district>
+    <id>510386</id>
+  </point>
+  <point>
+    <name>Bedout Island</name>
+    <region>Western Australia</region>
+    <district>Bedout Island</district>
+    <id>337688</id>
+  </point>
+  <point>
+    <name>Bridgetown</name>
+    <region>Western Australia</region>
+    <district>Bridgetown</district>
+    <id>510232</id>
+  </point>
+  <point>
+    <name>Broome (airport)</name>
+    <region>Western Australia</region>
+    <district>Broome (airport)</district>
+    <id>337707</id>
+  </point>
+  <point>
+    <name>Browse Island (AWS)</name>
+    <region>Western Australia</region>
+    <district>Browse Island (AWS)</district>
+    <id>337716</id>
+  </point>
+  <point>
+    <name>Bunbury (airport)</name>
+    <region>Western Australia</region>
+    <district>Bunbury (airport)</district>
+    <id>510469</id>
+  </point>
+  <point>
+    <name>Busselton (airport)</name>
+    <region>Western Australia</region>
+    <district>Busselton (airport)</district>
+    <id>510766</id>
+  </point>
+  <point>
+    <name>Cape Leeuwin</name>
+    <region>Western Australia</region>
+    <district>Cape Leeuwin</district>
+    <id>337661</id>
+  </point>
+  <point>
+    <name>Cape Naturaliste Lighthouse</name>
+    <region>Western Australia</region>
+    <district>Cape Naturaliste Lighthouse</district>
+    <id>510758</id>
+  </point>
+  <point>
+    <name>Carnarvon (airport)</name>
+    <region>Western Australia</region>
+    <district>Carnarvon (airport)</district>
+    <id>337690</id>
+  </point>
+  <point>
+    <name>Cunderdin (airport)</name>
+    <region>Western Australia</region>
+    <district>Cunderdin (airport)</district>
+    <id>510768</id>
+  </point>
+  <point>
+    <name>Curtin (airbase)</name>
+    <region>Western Australia</region>
+    <district>Curtin (airbase)</district>
+    <id>508353</id>
+  </point>
+  <point>
+    <name>Cygnet Bay</name>
+    <region>Western Australia</region>
+    <district>Cygnet Bay</district>
+    <id>337708</id>
+  </point>
+  <point>
+    <name>Derby (airport)</name>
+    <region>Western Australia</region>
+    <district>Derby (airport)</district>
+    <id>337621</id>
+  </point>
+  <point>
+    <name>Dwellingup</name>
+    <region>Western Australia</region>
+    <district>Dwellingup</district>
+    <id>510761</id>
+  </point>
+  <point>
+    <name>Esperance</name>
+    <region>Western Australia</region>
+    <district>Esperance</district>
+    <id>337658</id>
+  </point>
+  <point>
+    <name>Esperance (Airport)</name>
+    <region>Western Australia</region>
+    <district>Esperance (Airport)</district>
+    <id>510167</id>
+  </point>
+  <point>
+    <name>Eucla</name>
+    <region>Western Australia</region>
+    <district>Eucla</district>
+    <id>337657</id>
+  </point>
+  <point>
+    <name>Fitzroy Crossing (airport)</name>
+    <region>Western Australia</region>
+    <district>Fitzroy Crossing (airport)</district>
+    <id>337706</id>
+  </point>
+  <point>
+    <name>Forrest</name>
+    <region>Western Australia</region>
+    <district>Forrest</district>
+    <id>337605</id>
+  </point>
+  <point>
+    <name>Forrest (airport)</name>
+    <region>Western Australia</region>
+    <district>Forrest (airport)</district>
+    <id>508397</id>
+  </point>
+  <point>
+    <name>Geraldton (airport)</name>
+    <region>Western Australia</region>
+    <district>Geraldton (airport)</district>
+    <id>337673</id>
+  </point>
+  <point>
+    <name>Giles meteorologica</name>
+    <region>Western Australia</region>
+    <district>Giles meteorologica</district>
+    <id>337669</id>
+  </point>
+  <point>
+    <name>Gingin (airport)</name>
+    <region>Western Australia</region>
+    <district>Gingin (airport)</district>
+    <id>510767</id>
+  </point>
+  <point>
+    <name>Gooseberry Hill</name>
+    <region>Western Australia</region>
+    <district>Gooseberry Hill</district>
+    <id>510239</id>
+  </point>
+  <point>
+    <name>Halls Creek (airport)</name>
+    <region>Western Australia</region>
+    <district>Halls Creek (airport)</district>
+    <id>337703</id>
+  </point>
+  <point>
+    <name>Hopetoun (AWS)</name>
+    <region>Western Australia</region>
+    <district>Hopetoun (AWS)</district>
+    <id>510231</id>
+  </point>
+  <point>
+    <name>Jacup</name>
+    <region>Western Australia</region>
+    <district>Jacup</district>
+    <id>510230</id>
+  </point>
+  <point>
+    <name>Jandakot (airport)</name>
+    <region>Western Australia</region>
+    <district>Jandakot (airport)</district>
+    <id>508465</id>
+  </point>
+  <point>
+    <name>Kalamunda Bickley</name>
+    <region>Western Australia</region>
+    <district>Kalamunda Bickley</district>
+    <id>510765</id>
+  </point>
+  <point>
+    <name>Kalgoorlie-boulder (airport)</name>
+    <region>Western Australia</region>
+    <district>Kalgoorlie-boulder (airport)</district>
+    <id>337659</id>
+  </point>
+  <point>
+    <name>Kalumburu (airport)</name>
+    <region>Western Australia</region>
+    <district>Kalumburu (airport)</district>
+    <id>510815</id>
+  </point>
+  <point>
+    <name>Karratha (airport)</name>
+    <region>Western Australia</region>
+    <district>Karratha (airport)</district>
+    <id>510812</id>
+  </point>
+  <point>
+    <name>Katanning</name>
+    <region>Western Australia</region>
+    <district>Katanning</district>
+    <id>510237</id>
+  </point>
+  <point>
+    <name>Kununurra (airport)</name>
+    <region>Western Australia</region>
+    <district>Kununurra (airport)</district>
+    <id>337702</id>
+  </point>
+  <point>
+    <name>Lake grace</name>
+    <region>Western Australia</region>
+    <district>Lake grace</district>
+    <id>337606</id>
+  </point>
+  <point>
+    <name>Laverton (airport)</name>
+    <region>Western Australia</region>
+    <district>Laverton (airport)</district>
+    <id>337670</id>
+  </point>
+  <point>
+    <name>Learmonth (airport)</name>
+    <region>Western Australia</region>
+    <district>Learmonth (airport)</district>
+    <id>337689</id>
+  </point>
+  <point>
+    <name>Legendre Island</name>
+    <region>Western Australia</region>
+    <district>Legendre Island</district>
+    <id>510283</id>
+  </point>
+  <point>
+    <name>Leinster (airport)</name>
+    <region>Western Australia</region>
+    <district>Leinster (airport)</district>
+    <id>337615</id>
+  </point>
+  <point>
+    <name>Leonora (airport)</name>
+    <region>Western Australia</region>
+    <district>Leonora (airport)</district>
+    <id>510814</id>
+  </point>
+  <point>
+    <name>Mandurah</name>
+    <region>Western Australia</region>
+    <district>Mandurah</district>
+    <id>510241</id>
+  </point>
+  <point>
+    <name>Marble Bar</name>
+    <region>Western Australia</region>
+    <district>Marble Bar</district>
+    <id>510233</id>
+  </point>
+  <point>
+    <name>Mardie (airport)</name>
+    <region>Western Australia</region>
+    <district>Mardie (airport)</district>
+    <id>510284</id>
+  </point>
+  <point>
+    <name>Meekatharra (airport)</name>
+    <region>Western Australia</region>
+    <district>Meekatharra (airport)</district>
+    <id>337671</id>
+  </point>
+  <point>
+    <name>Morawa (airport)</name>
+    <region>Western Australia</region>
+    <district>Morawa (airport)</district>
+    <id>510243</id>
+  </point>
+  <point>
+    <name>Mount Lawley / Perth</name>
+    <region>Western Australia</region>
+    <district>Mount Lawley / Perth</district>
+    <id>510760</id>
+  </point>
+  <point>
+    <name>Mount Magnet (airport)</name>
+    <region>Western Australia</region>
+    <district>Mount Magnet (airport)</district>
+    <id>337672</id>
+  </point>
+  <point>
+    <name>Munglinup West</name>
+    <region>Western Australia</region>
+    <district>Munglinup West</district>
+    <id>510228</id>
+  </point>
+  <point>
+    <name>Newdegate Research Station</name>
+    <region>Western Australia</region>
+    <district>Newdegate Research Station</district>
+    <id>510238</id>
+  </point>
+  <point>
+    <name>Newman (airport)</name>
+    <region>Western Australia</region>
+    <district>Newman (airport)</district>
+    <id>337686</id>
+  </point>
+  <point>
+    <name>Norseman (airport)</name>
+    <region>Western Australia</region>
+    <district>Norseman (airport)</district>
+    <id>510769</id>
+  </point>
+  <point>
+    <name>North Walpole</name>
+    <region>Western Australia</region>
+    <district>North Walpole</district>
+    <id>510770</id>
+  </point>
+  <point>
+    <name>Onslow (airport)</name>
+    <region>Western Australia</region>
+    <district>Onslow (airport)</district>
+    <id>510763</id>
+  </point>
+  <point>
+    <name>Paraburdoo (airport)</name>
+    <region>Western Australia</region>
+    <district>Paraburdoo (airport)</district>
+    <id>510394</id>
+  </point>
+  <point>
+    <name>Pearce (airbase)</name>
+    <region>Western Australia</region>
+    <district>Pearce (airbase)</district>
+    <id>508598</id>
+  </point>
+  <point>
+    <name>Perth</name>
+    <region>Western Australia</region>
+    <district>Perth</district>
+    <id>341383</id>
+  </point>
+  <point>
+    <name>Perth (airport)</name>
+    <region>Western Australia</region>
+    <district>Perth (airport)</district>
+    <id>337660</id>
+  </point>
+  <point>
+    <name>Port Hedland (airport)</name>
+    <region>Western Australia</region>
+    <district>Port Hedland (airport)</district>
+    <id>337687</id>
+  </point>
+  <point>
+    <name>Roebourne (airport)</name>
+    <region>Western Australia</region>
+    <district>Roebourne (airport)</district>
+    <id>510757</id>
+  </point>
+  <point>
+    <name>Rottnest Island</name>
+    <region>Western Australia</region>
+    <district>Rottnest Island</district>
+    <id>510759</id>
+  </point>
+  <point>
+    <name>Rowley Shoals AWS</name>
+    <region>Western Australia</region>
+    <district>Rowley Shoals AWS</district>
+    <id>337705</id>
+  </point>
+  <point>
+    <name>Salmon Gums Res.stn</name>
+    <region>Western Australia</region>
+    <district>Salmon Gums Res.stn</district>
+    <id>510229</id>
+  </point>
+  <point>
+    <name>Shark Bay (airport)</name>
+    <region>Western Australia</region>
+    <district>Shark Bay (airport)</district>
+    <id>510764</id>
+  </point>
+  <point>
+    <name>Southern Cross Airfield</name>
+    <region>Western Australia</region>
+    <district>Southern Cross Airfield</district>
+    <id>337607</id>
+  </point>
+  <point>
+    <name>Swanbourne</name>
+    <region>Western Australia</region>
+    <district>Swanbourne</district>
+    <id>510240</id>
+  </point>
+  <point>
+    <name>Telfer (airport)</name>
+    <region>Western Australia</region>
+    <district>Telfer (airport)</district>
+    <id>337685</id>
+  </point>
+  <point>
+    <name>Troughton Island (airport)</name>
+    <region>Western Australia</region>
+    <district>Troughton Island (airport)</district>
+    <id>337717</id>
+  </point>
+  <point>
+    <name>West Roebuck</name>
+    <region>Western Australia</region>
+    <district>West Roebuck</district>
+    <id>510813</id>
+  </point>
+  <point>
+    <name>Wyndham (airport)</name>
+    <region>Western Australia</region>
+    <district>Wyndham (airport)</district>
+    <id>510762</id>
+  </point>
+</country>

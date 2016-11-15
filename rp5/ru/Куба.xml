@@ -1,0 +1,338 @@
+<country name="Куба" count="56">
+  <point>
+    <name>Артемиса</name>
+    <region>Артемиса</region>
+    <district>Артемиса</district>
+    <id>212606</id>
+  </point>
+  <point>
+    <name>Баия-Хонда</name>
+    <region>Артемиса</region>
+    <district>Баия-Хонда</district>
+    <id>348529</id>
+  </point>
+  <point>
+    <name>Кайбарьен</name>
+    <region>Вилья-Клара</region>
+    <district>Кайбарьен</district>
+    <id>348535</id>
+  </point>
+  <point>
+    <name>Кайо-Санта-Мария</name>
+    <region>Вилья-Клара</region>
+    <district>Кайо-Санта-Мария</district>
+    <id>13773</id>
+  </point>
+  <point>
+    <name>Санта-Клара</name>
+    <region>Вилья-Клара</region>
+    <district>Санта-Клара</district>
+    <id>212618</id>
+  </point>
+  <point>
+    <name>Эль-Ябу</name>
+    <region>Вилья-Клара</region>
+    <district>Эль-Ябу</district>
+    <id>348525</id>
+  </point>
+  <point>
+    <name>Гавана</name>
+    <region>Гавана</region>
+    <district>Гавана</district>
+    <id>151416</id>
+  </point>
+  <point>
+    <name>Батабано</name>
+    <region>Гавана</region>
+    <district>Батабано</district>
+    <id>152349</id>
+  </point>
+  <point>
+    <name>Сан-Антонио-де-лос-Баньос (аэропорт)</name>
+    <region>Гавана</region>
+    <district>Сан-Антонио-де-лос-Баньос (аэропорт)</district>
+    <id>348531</id>
+  </point>
+  <point>
+    <name>Санта-Мария-дель-Мар</name>
+    <region>Гавана</region>
+    <district>Санта-Мария-дель-Мар</district>
+    <id>13779</id>
+  </point>
+  <point>
+    <name>Алькисар</name>
+    <region>Гавана</region>
+    <district>Алькисар</district>
+    <id>152351</id>
+  </point>
+  <point>
+    <name>Баута</name>
+    <region>Гавана</region>
+    <district>Баута</district>
+    <id>152348</id>
+  </point>
+  <point>
+    <name>Гуинес</name>
+    <region>Гавана</region>
+    <district>Гуинес</district>
+    <id>152346</id>
+  </point>
+  <point>
+    <name>Тарара</name>
+    <region>Гавана</region>
+    <district>Тарара</district>
+    <id>152344</id>
+  </point>
+  <point>
+    <name>Баямо</name>
+    <region>Гранма</region>
+    <district>Баямо</district>
+    <id>152347</id>
+  </point>
+  <point>
+    <name>Контрамаэстрэ</name>
+    <region>Гранма</region>
+    <district>Контрамаэстрэ</district>
+    <id>348541</id>
+  </point>
+  <point>
+    <name>Мансанильо / Сьерра-Маэстра (аэропорт)</name>
+    <region>Гранма</region>
+    <district>Мансанильо / Сьерра-Маэстра (аэропорт)</district>
+    <id>509575</id>
+  </point>
+  <point>
+    <name>Гуантанамо</name>
+    <region>Гуантанамо</region>
+    <district>Гуантанамо</district>
+    <id>212628</id>
+  </point>
+  <point>
+    <name>Ливард-Поинт-Филд (аэропорт)</name>
+    <region>Гуантанамо</region>
+    <district>Ливард-Поинт-Филд (аэропорт)</district>
+    <id>508507</id>
+  </point>
+  <point>
+    <name>Пунта-де-Маиси</name>
+    <region>Гуантанамо</region>
+    <district>Пунта-де-Маиси</district>
+    <id>348543</id>
+  </point>
+  <point>
+    <name>Хосе-Марти (аэропорт)</name>
+    <region>Гуантанамо</region>
+    <district>Хосе-Марти (аэропорт)</district>
+    <id>348523</id>
+  </point>
+  <point>
+    <name>Баракоа</name>
+    <region>Гуантанамо</region>
+    <district>Баракоа</district>
+    <id>152350</id>
+  </point>
+  <point>
+    <name>Камагуэй (аэропорт)</name>
+    <region>Камагуэй</region>
+    <district>Камагуэй (аэропорт)</district>
+    <id>212622</id>
+  </point>
+  <point>
+    <name>Кабо-Круз</name>
+    <region>Камагуэй</region>
+    <district>Кабо-Круз</district>
+    <id>348540</id>
+  </point>
+  <point>
+    <name>Камагуэй</name>
+    <region>Камагуэй</region>
+    <district>Камагуэй</district>
+    <id>348538</id>
+  </point>
+  <point>
+    <name>Санта-Крус-дель-Сур</name>
+    <region>Камагуэй</region>
+    <district>Санта-Крус-дель-Сур</district>
+    <id>348536</id>
+  </point>
+  <point>
+    <name>Санта-Лючия</name>
+    <region>Камагуэй</region>
+    <district>Санта-Лючия</district>
+    <id>13778</id>
+  </point>
+  <point>
+    <name>Лас-Тунас</name>
+    <region>Лас-Тунас</region>
+    <district>Лас-Тунас</district>
+    <id>212627</id>
+  </point>
+  <point>
+    <name>Лас-Тунас (аэропорт)</name>
+    <region>Лас-Тунас</region>
+    <district>Лас-Тунас (аэропорт)</district>
+    <id>510152</id>
+  </point>
+  <point>
+    <name>Пуэрто-Падре</name>
+    <region>Лас-Тунас</region>
+    <district>Пуэрто-Падре</district>
+    <id>348539</id>
+  </point>
+  <point>
+    <name>Сан-Хосе-де-лас-Лахас</name>
+    <region>Майябеке</region>
+    <district>Сан-Хосе-де-лас-Лахас</district>
+    <id>212611</id>
+  </point>
+  <point>
+    <name>Матансас</name>
+    <region>Матансас</region>
+    <district>Матансас</district>
+    <id>152345</id>
+  </point>
+  <point>
+    <name>Варадеро</name>
+    <region>Матансас</region>
+    <district>Варадеро</district>
+    <id>13775</id>
+  </point>
+  <point>
+    <name>Варадеро (аэропорт)</name>
+    <region>Матансас</region>
+    <district>Варадеро (аэропорт)</district>
+    <id>348524</id>
+  </point>
+  <point>
+    <name>Плайя-Гирон</name>
+    <region>Матансас</region>
+    <district>Плайя-Гирон</district>
+    <id>348532</id>
+  </point>
+  <point>
+    <name>Парк-Монтемар</name>
+    <region>Матансас</region>
+    <district>Парк-Монтемар</district>
+    <id>13777</id>
+  </point>
+  <point>
+    <name>Ольгин</name>
+    <region>Ольгин</region>
+    <district>Ольгин</district>
+    <id>13776</id>
+  </point>
+  <point>
+    <name>Кабо Лукреция</name>
+    <region>Ольгин</region>
+    <district>Кабо Лукреция</district>
+    <id>348526</id>
+  </point>
+  <point>
+    <name>Ольгин / Франк-Пайс (аэропорт)</name>
+    <region>Ольгин</region>
+    <district>Ольгин / Франк-Пайс (аэропорт)</district>
+    <id>508399</id>
+  </point>
+  <point>
+    <name>Пунта-Лукреция</name>
+    <region>Ольгин</region>
+    <district>Пунта-Лукреция</district>
+    <id>348542</id>
+  </point>
+  <point>
+    <name>Кайо-Ларго</name>
+    <region>Остров Хувентуд</region>
+    <district>Кайо-Ларго</district>
+    <id>13772</id>
+  </point>
+  <point>
+    <name>Ларго-дель-Сур / Вило-Акунья (аэропорт)</name>
+    <region>Остров Хувентуд</region>
+    <district>Ларго-дель-Сур / Вило-Акунья (аэропорт)</district>
+    <id>348522</id>
+  </point>
+  <point>
+    <name>Ларго-дель-Сур / Вило Акунья (аэропорт)</name>
+    <region>Остров Хувентуд</region>
+    <district>Ларго-дель-Сур / Вило Акунья (аэропорт)</district>
+    <id>508731</id>
+  </point>
+  <point>
+    <name>Нуэва-Херона</name>
+    <region>Остров Хувентуд</region>
+    <district>Нуэва-Херона</district>
+    <id>212629</id>
+  </point>
+  <point>
+    <name>Пунта-дель-Эсте</name>
+    <region>Остров Хувентуд</region>
+    <district>Пунта-дель-Эсте</district>
+    <id>348530</id>
+  </point>
+  <point>
+    <name>Пинар-дель-Рио</name>
+    <region>Пинар-дель-Рио</region>
+    <district>Пинар-дель-Рио</district>
+    <id>212605</id>
+  </point>
+  <point>
+    <name>Санкти-Спиритус</name>
+    <region>Санкти-Спиритус</region>
+    <district>Санкти-Спиритус</district>
+    <id>212619</id>
+  </point>
+  <point>
+    <name>Тринидад</name>
+    <region>Санкти-Спиритус</region>
+    <district>Тринидад</district>
+    <id>13782</id>
+  </point>
+  <point>
+    <name>Сантьяго-де-Куба</name>
+    <region>Сантьяго-де-Куба</region>
+    <district>Сантьяго-де-Куба</district>
+    <id>13780</id>
+  </point>
+  <point>
+    <name>Сантьяго-де-Куба (аэропорт)</name>
+    <region>Сантьяго-де-Куба</region>
+    <district>Сантьяго-де-Куба (аэропорт)</district>
+    <id>507932</id>
+  </point>
+  <point>
+    <name>Сьего-де-Авила</name>
+    <region>Сьего-де-Авила</region>
+    <district>Сьего-де-Авила</district>
+    <id>212621</id>
+  </point>
+  <point>
+    <name>Джукаро</name>
+    <region>Сьего-де-Авила</region>
+    <district>Джукаро</district>
+    <id>348534</id>
+  </point>
+  <point>
+    <name>Кайо-Гильермо</name>
+    <region>Сьего-де-Авила</region>
+    <district>Кайо-Гильермо</district>
+    <id>13771</id>
+  </point>
+  <point>
+    <name>Кайо-Коко</name>
+    <region>Сьего-де-Авила</region>
+    <district>Кайо-Коко</district>
+    <id>13770</id>
+  </point>
+  <point>
+    <name>Сьенфуэгос / Лас-Виллас (аэропорт)</name>
+    <region>Сьенфуэгос</region>
+    <district>Сьенфуэгос / Лас-Виллас (аэропорт)</district>
+    <id>13781</id>
+  </point>
+  <point>
+    <name>Сьенфуэгос (аэропорт)</name>
+    <region>Сьенфуэгос</region>
+    <district>Сьенфуэгос (аэропорт)</district>
+    <id>348533</id>
+  </point>
+</country>

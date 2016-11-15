@@ -1,0 +1,278 @@
+<country name="Ireland" count="46">
+  <point>
+    <name>Carlow</name>
+    <region>Carlow</region>
+    <district>Carlow</district>
+    <id>212435</id>
+  </point>
+  <point>
+    <name>Carlow / Oak Park</name>
+    <region>Carlow</region>
+    <district>Carlow / Oak Park</district>
+    <id>151370</id>
+  </point>
+  <point>
+    <name>Cavan</name>
+    <region>Cavan</region>
+    <district>Cavan</district>
+    <id>212434</id>
+  </point>
+  <point>
+    <name>Ennis</name>
+    <region>Clare</region>
+    <district>Ennis</district>
+    <id>212444</id>
+  </point>
+  <point>
+    <name>Limerick / Shannon (airport)</name>
+    <region>Clare</region>
+    <district>Limerick / Shannon (airport)</district>
+    <id>3673</id>
+  </point>
+  <point>
+    <name>Cork (airport)</name>
+    <region>Cork</region>
+    <district>Cork (airport)</district>
+    <id>3666</id>
+  </point>
+  <point>
+    <name>Roches Point</name>
+    <region>Cork</region>
+    <district>Roches Point</district>
+    <id>3662</id>
+  </point>
+  <point>
+    <name>Sherkin Island</name>
+    <region>Cork</region>
+    <district>Sherkin Island</district>
+    <id>170699</id>
+  </point>
+  <point>
+    <name>Finner</name>
+    <region>Donegal</region>
+    <district>Finner</district>
+    <id>3727</id>
+  </point>
+  <point>
+    <name>Lifford</name>
+    <region>Donegal</region>
+    <district>Lifford</district>
+    <id>212428</id>
+  </point>
+  <point>
+    <name>Malin Head</name>
+    <region>Donegal</region>
+    <district>Malin Head</district>
+    <id>3745</id>
+  </point>
+  <point>
+    <name>Dublin (airport)</name>
+    <region>Dublin</region>
+    <district>Dublin (airport)</district>
+    <id>3685</id>
+  </point>
+  <point>
+    <name>Casement</name>
+    <region>Dublin</region>
+    <district>Casement</district>
+    <id>3683</id>
+  </point>
+  <point>
+    <name>Galway</name>
+    <region>Galway</region>
+    <district>Galway</district>
+    <id>3677</id>
+  </point>
+  <point>
+    <name>Galway (airport)</name>
+    <region>Galway</region>
+    <district>Galway (airport)</district>
+    <id>510084</id>
+  </point>
+  <point>
+    <name>Mace Head</name>
+    <region>Galway</region>
+    <district>Mace Head</district>
+    <id>170700</id>
+  </point>
+  <point>
+    <name>Kerry (airport)</name>
+    <region>Kerry</region>
+    <district>Kerry (airport)</district>
+    <id>510086</id>
+  </point>
+  <point>
+    <name>Tralee</name>
+    <region>Kerry</region>
+    <district>Tralee</district>
+    <id>212436</id>
+  </point>
+  <point>
+    <name>Valentia Observatory</name>
+    <region>Kerry</region>
+    <district>Valentia Observatory</district>
+    <id>3664</id>
+  </point>
+  <point>
+    <name>Naas</name>
+    <region>Kildare</region>
+    <district>Naas</district>
+    <id>212443</id>
+  </point>
+  <point>
+    <name>Kilkenny</name>
+    <region>Kilkenny</region>
+    <district>Kilkenny</district>
+    <id>3670</id>
+  </point>
+  <point>
+    <name>Portlaoise</name>
+    <region>Laois</region>
+    <district>Portlaoise</district>
+    <id>212445</id>
+  </point>
+  <point>
+    <name>Carrick-on-Shannon</name>
+    <region>Leitrim</region>
+    <district>Carrick-on-Shannon</district>
+    <id>212446</id>
+  </point>
+  <point>
+    <name>Limerick</name>
+    <region>Limerick</region>
+    <district>Limerick</district>
+    <id>152420</id>
+  </point>
+  <point>
+    <name>Longford</name>
+    <region>Longford</region>
+    <district>Longford</district>
+    <id>212447</id>
+  </point>
+  <point>
+    <name>Dundalk</name>
+    <region>Louth</region>
+    <district>Dundalk</district>
+    <id>141457</id>
+  </point>
+  <point>
+    <name>Belmullet</name>
+    <region>Mayo</region>
+    <district>Belmullet</district>
+    <id>3719</id>
+  </point>
+  <point>
+    <name>Castlebar</name>
+    <region>Mayo</region>
+    <district>Castlebar</district>
+    <id>212452</id>
+  </point>
+  <point>
+    <name>Claremorris</name>
+    <region>Mayo</region>
+    <district>Claremorris</district>
+    <id>3687</id>
+  </point>
+  <point>
+    <name>Connacht (airport)</name>
+    <region>Mayo</region>
+    <district>Connacht (airport)</district>
+    <id>3697</id>
+  </point>
+  <point>
+    <name>Navan</name>
+    <region>Meath</region>
+    <district>Navan</district>
+    <id>212453</id>
+  </point>
+  <point>
+    <name>Monaghan</name>
+    <region>Monaghan</region>
+    <district>Monaghan</district>
+    <id>212462</id>
+  </point>
+  <point>
+    <name>Clones</name>
+    <region>Monaghan</region>
+    <district>Clones</district>
+    <id>3703</id>
+  </point>
+  <point>
+    <name>Tullamore</name>
+    <region>Offaly</region>
+    <district>Tullamore</district>
+    <id>212463</id>
+  </point>
+  <point>
+    <name>Roscommon</name>
+    <region>Roscommon</region>
+    <district>Roscommon</district>
+    <id>212464</id>
+  </point>
+  <point>
+    <name>Sligo</name>
+    <region>Sligo</region>
+    <district>Sligo</district>
+    <id>212465</id>
+  </point>
+  <point>
+    <name>Sligo (airport)</name>
+    <region>Sligo</region>
+    <district>Sligo (airport)</district>
+    <id>510087</id>
+  </point>
+  <point>
+    <name>Gurteen</name>
+    <region>Tipperary</region>
+    <district>Gurteen</district>
+    <id>170701</id>
+  </point>
+  <point>
+    <name>Nenagh</name>
+    <region>Tipperary</region>
+    <district>Nenagh</district>
+    <id>212466</id>
+  </point>
+  <point>
+    <name>Waterford</name>
+    <region>Waterford</region>
+    <district>Waterford</district>
+    <id>152419</id>
+  </point>
+  <point>
+    <name>Waterford (airport)</name>
+    <region>Waterford</region>
+    <district>Waterford (airport)</district>
+    <id>510088</id>
+  </point>
+  <point>
+    <name>Mullingar</name>
+    <region>Westmeath</region>
+    <district>Mullingar</district>
+    <id>3692</id>
+  </point>
+  <point>
+    <name>Wexford</name>
+    <region>Wexford</region>
+    <district>Wexford</district>
+    <id>152421</id>
+  </point>
+  <point>
+    <name>Johnstown Castle</name>
+    <region>Wexford</region>
+    <district>Johnstown Castle</district>
+    <id>510065</id>
+  </point>
+  <point>
+    <name>Rosslare Harbour</name>
+    <region>Wexford</region>
+    <district>Rosslare Harbour</district>
+    <id>3669</id>
+  </point>
+  <point>
+    <name>Wicklow</name>
+    <region>Wicklow</region>
+    <district>Wicklow</district>
+    <id>212470</id>
+  </point>
+</country>

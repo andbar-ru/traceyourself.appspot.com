@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# Синхронизирует приложение traceyourself-hrd с текущего компьютера в другое место или из другого места на текущий компьютер.
+
+PLACE="bs"
+APPPATH="GAE/traceyourself-hrd/"
+USAGE="usage: "$(basename $0)" here|there"
+
+# синхронизация С удалённого компа
+if [ ! $1 ]
+  then
+    echo
+    echo $USAGE
+    exit 1
+fi
+
+if [ $1 = "here" ]
+  then
+    echo
+    echo "Syncing from $PLACE to current computer"
+    rsync -av --delete-before $PLACE:$APPPATH ~/$APPPATH
+
+# Синхронизация НА удалённый комп
+elif [ $1 = "there" ]
+  then
+    echo
+    echo "Syncing from current computer to $PLACE"
+    rsync -av --delete-before ~/$APPPATH $PLACE:$APPPATH
+else
+    echo
+    echo $USAGE
+    exit 1
+fi

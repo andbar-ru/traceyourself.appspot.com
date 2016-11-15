@@ -1,0 +1,614 @@
+<country name="Узбекистан" count="102">
+  <point>
+    <name>Андижан</name>
+    <region>Андижанская область</region>
+    <district>Андижан</district>
+    <id>12861</id>
+  </point>
+  <point>
+    <name>Андижан (аэропорт)</name>
+    <region>Андижанская область</region>
+    <district>Андижан (аэропорт)</district>
+    <id>504593</id>
+  </point>
+  <point>
+    <name>Асака</name>
+    <region>Андижанская область</region>
+    <district>Асака</district>
+    <id>151789</id>
+  </point>
+  <point>
+    <name>Ханабад</name>
+    <region>Андижанская область</region>
+    <district>Ханабад</district>
+    <id>151766</id>
+  </point>
+  <point>
+    <name>Боз</name>
+    <region>Андижанская область</region>
+    <district>Боз</district>
+    <id>152547</id>
+  </point>
+  <point>
+    <name>Карасу</name>
+    <region>Андижанская область</region>
+    <district>Карасу</district>
+    <id>151778</id>
+  </point>
+  <point>
+    <name>Юбилейная (метеостанция)</name>
+    <region>Андижанская область</region>
+    <district>Юбилейная (метеостанция)</district>
+    <id>510056</id>
+  </point>
+  <point>
+    <name>Бухара (аэропорт)</name>
+    <region>Бухарская область</region>
+    <district>Бухара (аэропорт)</district>
+    <id>12887</id>
+  </point>
+  <point>
+    <name>Аякагитма</name>
+    <region>Бухарская область</region>
+    <district>Аякагитма</district>
+    <id>12868</id>
+  </point>
+  <point>
+    <name>Газли</name>
+    <region>Бухарская область</region>
+    <district>Газли</district>
+    <id>151783</id>
+  </point>
+  <point>
+    <name>Каган</name>
+    <region>Бухарская область</region>
+    <district>Каган</district>
+    <id>151779</id>
+  </point>
+  <point>
+    <name>Алат</name>
+    <region>Бухарская область</region>
+    <district>Алат</district>
+    <id>151791</id>
+  </point>
+  <point>
+    <name>Вабкент</name>
+    <region>Бухарская область</region>
+    <district>Вабкент</district>
+    <id>151785</id>
+  </point>
+  <point>
+    <name>Гиждуван</name>
+    <region>Бухарская область</region>
+    <district>Гиждуван</district>
+    <id>151782</id>
+  </point>
+  <point>
+    <name>Джангельды</name>
+    <region>Бухарская область</region>
+    <district>Джангельды</district>
+    <id>12867</id>
+  </point>
+  <point>
+    <name>Каракуль</name>
+    <region>Бухарская область</region>
+    <district>Каракуль</district>
+    <id>12889</id>
+  </point>
+  <point>
+    <name>Джизак</name>
+    <region>Джизакская область</region>
+    <district>Джизак</district>
+    <id>12871</id>
+  </point>
+  <point>
+    <name>Богарное</name>
+    <region>Джизакская область</region>
+    <district>Богарное</district>
+    <id>152504</id>
+  </point>
+  <point>
+    <name>Галляарал</name>
+    <region>Джизакская область</region>
+    <district>Галляарал</district>
+    <id>152520</id>
+  </point>
+  <point>
+    <name>Янгикишлак</name>
+    <region>Джизакская область</region>
+    <district>Янгикишлак</district>
+    <id>152576</id>
+  </point>
+  <point>
+    <name>Санзар</name>
+    <region>Джизакская область</region>
+    <district>Санзар</district>
+    <id>151388</id>
+  </point>
+  <point>
+    <name>Возрождение</name>
+    <region>Каракалпакия</region>
+    <district>Возрождение</district>
+    <id>41938</id>
+  </point>
+  <point>
+    <name>Жаслык</name>
+    <region>Каракалпакия</region>
+    <district>Жаслык</district>
+    <id>12839</id>
+  </point>
+  <point>
+    <name>Каракалпакия</name>
+    <region>Каракалпакия</region>
+    <district>Каракалпакия</district>
+    <id>12838</id>
+  </point>
+  <point>
+    <name>Каракалпакская ГМО</name>
+    <region>Каракалпакия</region>
+    <district>Каракалпакская ГМО</district>
+    <id>152495</id>
+  </point>
+  <point>
+    <name>Кунград</name>
+    <region>Каракалпакия</region>
+    <district>Кунград</district>
+    <id>12841</id>
+  </point>
+  <point>
+    <name>Нукус (аэропорт)</name>
+    <region>Каракалпакия</region>
+    <district>Нукус (аэропорт)</district>
+    <id>12846</id>
+  </point>
+  <point>
+    <name>Тахиаташ</name>
+    <region>Каракалпакия</region>
+    <district>Тахиаташ</district>
+    <id>151770</id>
+  </point>
+  <point>
+    <name>Турткуль</name>
+    <region>Каракалпакия</region>
+    <district>Турткуль</district>
+    <id>151768</id>
+  </point>
+  <point>
+    <name>Ходжейли</name>
+    <region>Каракалпакия</region>
+    <district>Ходжейли</district>
+    <id>151764</id>
+  </point>
+  <point>
+    <name>Чимбай</name>
+    <region>Каракалпакия</region>
+    <district>Чимбай</district>
+    <id>12845</id>
+  </point>
+  <point>
+    <name>Акрабат</name>
+    <region>Кашкадарьинская обл.</region>
+    <district>Акрабат</district>
+    <id>12907</id>
+  </point>
+  <point>
+    <name>Гузар</name>
+    <region>Кашкадарьинская обл.</region>
+    <district>Гузар</district>
+    <id>12905</id>
+  </point>
+  <point>
+    <name>Дехканабад</name>
+    <region>Кашкадарьинская обл.</region>
+    <district>Дехканабад</district>
+    <id>504507</id>
+  </point>
+  <point>
+    <name>Карши / Ханабад (аэропорт)</name>
+    <region>Кашкадарьинская обл.</region>
+    <district>Карши / Ханабад (аэропорт)</district>
+    <id>508818</id>
+  </point>
+  <point>
+    <name>Карши (аэропорт)</name>
+    <region>Кашкадарьинская обл.</region>
+    <district>Карши (аэропорт)</district>
+    <id>12904</id>
+  </point>
+  <point>
+    <name>Ледник Северцова</name>
+    <region>Кашкадарьинская обл.</region>
+    <district>Ледник Северцова</district>
+    <id>152541</id>
+  </point>
+  <point>
+    <name>Минчукур</name>
+    <region>Кашкадарьинская обл.</region>
+    <district>Минчукур</district>
+    <id>12906</id>
+  </point>
+  <point>
+    <name>Муйнак</name>
+    <region>Кашкадарьинская обл.</region>
+    <district>Муйнак</district>
+    <id>12840</id>
+  </point>
+  <point>
+    <name>Шахрисабз</name>
+    <region>Кашкадарьинская обл.</region>
+    <district>Шахрисабз</district>
+    <id>151762</id>
+  </point>
+  <point>
+    <name>Навои (аэропорт)</name>
+    <region>Навоийская область</region>
+    <district>Навои (аэропорт)</district>
+    <id>12870</id>
+  </point>
+  <point>
+    <name>Зарафшан</name>
+    <region>Навоийская область</region>
+    <district>Зарафшан</district>
+    <id>76635</id>
+  </point>
+  <point>
+    <name>Тамды</name>
+    <region>Навоийская область</region>
+    <district>Тамды</district>
+    <id>12857</id>
+  </point>
+  <point>
+    <name>Учкудук</name>
+    <region>Навоийская область</region>
+    <district>Учкудук</district>
+    <id>151767</id>
+  </point>
+  <point>
+    <name>Ак-Байтал</name>
+    <region>Навоийская область</region>
+    <district>Ак-Байтал</district>
+    <id>12842</id>
+  </point>
+  <point>
+    <name>Бузубай</name>
+    <region>Навоийская область</region>
+    <district>Бузубай</district>
+    <id>12856</id>
+  </point>
+  <point>
+    <name>Машикудук</name>
+    <region>Навоийская область</region>
+    <district>Машикудук</district>
+    <id>12858</id>
+  </point>
+  <point>
+    <name>Нурата</name>
+    <region>Навоийская область</region>
+    <district>Нурата</district>
+    <id>12869</id>
+  </point>
+  <point>
+    <name>Наманган</name>
+    <region>Наманганская область</region>
+    <district>Наманган</district>
+    <id>12877</id>
+  </point>
+  <point>
+    <name>Наманган (аэропорт)</name>
+    <region>Наманганская область</region>
+    <district>Наманган (аэропорт)</district>
+    <id>508562</id>
+  </point>
+  <point>
+    <name>Пап</name>
+    <region>Наманганская область</region>
+    <district>Пап</district>
+    <id>152550</id>
+  </point>
+  <point>
+    <name>Самарканд (аэропорт)</name>
+    <region>Самаркандская область</region>
+    <district>Самарканд (аэропорт)</district>
+    <id>12891</id>
+  </point>
+  <point>
+    <name>Дагбит</name>
+    <region>Самаркандская область</region>
+    <district>Дагбит</district>
+    <id>152511</id>
+  </point>
+  <point>
+    <name>Каттакурган</name>
+    <region>Самаркандская область</region>
+    <district>Каттакурган</district>
+    <id>151777</id>
+  </point>
+  <point>
+    <name>Ургут</name>
+    <region>Самаркандская область</region>
+    <district>Ургут</district>
+    <id>13542</id>
+  </point>
+  <point>
+    <name>Лангар</name>
+    <region>Самаркандская область</region>
+    <district>Лангар</district>
+    <id>141394</id>
+  </point>
+  <point>
+    <name>Нурабад</name>
+    <region>Самаркандская область</region>
+    <district>Нурабад</district>
+    <id>152573</id>
+  </point>
+  <point>
+    <name>Байсун</name>
+    <region>Сурхандарьинская обл.</region>
+    <district>Байсун</district>
+    <id>152500</id>
+  </point>
+  <point>
+    <name>Денау</name>
+    <region>Сурхандарьинская обл.</region>
+    <district>Денау</district>
+    <id>12908</id>
+  </point>
+  <point>
+    <name>Кумкурган</name>
+    <region>Сурхандарьинская обл.</region>
+    <district>Кумкурган</district>
+    <id>470321</id>
+  </point>
+  <point>
+    <name>Термез (аэропорт)</name>
+    <region>Сурхандарьинская обл.</region>
+    <district>Термез (аэропорт)</district>
+    <id>508002</id>
+  </point>
+  <point>
+    <name>Термез</name>
+    <region>Сурхандарьинская обл.</region>
+    <district>Термез</district>
+    <id>12918</id>
+  </point>
+  <point>
+    <name>Ширабад</name>
+    <region>Сурхандарьинская обл.</region>
+    <district>Ширабад</district>
+    <id>12917</id>
+  </point>
+  <point>
+    <name>Шурчи</name>
+    <region>Сурхандарьинская обл.</region>
+    <district>Шурчи</district>
+    <id>152562</id>
+  </point>
+  <point>
+    <name>Алмазар</name>
+    <region>Сырдарьинская обл.</region>
+    <district>Алмазар</district>
+    <id>151790</id>
+  </point>
+  <point>
+    <name>Бахт</name>
+    <region>Сырдарьинская обл.</region>
+    <district>Бахт</district>
+    <id>151788</id>
+  </point>
+  <point>
+    <name>Гулистан</name>
+    <region>Сырдарьинская обл.</region>
+    <district>Гулистан</district>
+    <id>151781</id>
+  </point>
+  <point>
+    <name>Сырдарья</name>
+    <region>Сырдарьинская обл.</region>
+    <district>Сырдарья</district>
+    <id>12872</id>
+  </point>
+  <point>
+    <name>Ширин</name>
+    <region>Сырдарьинская обл.</region>
+    <district>Ширин</district>
+    <id>151761</id>
+  </point>
+  <point>
+    <name>Янгиер</name>
+    <region>Сырдарьинская обл.</region>
+    <district>Янгиер</district>
+    <id>12873</id>
+  </point>
+  <point>
+    <name>Ташкент (аэропорт)</name>
+    <region>Ташкент</region>
+    <district>Ташкент (аэропорт)</district>
+    <id>12859</id>
+  </point>
+  <point>
+    <name>Аблык</name>
+    <region>Ташкентская область</region>
+    <district>Аблык</district>
+    <id>348494</id>
+  </point>
+  <point>
+    <name>Алмалык</name>
+    <region>Ташкентская область</region>
+    <district>Алмалык</district>
+    <id>151375</id>
+  </point>
+  <point>
+    <name>Ангрен</name>
+    <region>Ташкентская область</region>
+    <district>Ангрен</district>
+    <id>151380</id>
+  </point>
+  <point>
+    <name>Ахангаран</name>
+    <region>Ташкентская область</region>
+    <district>Ахангаран</district>
+    <id>13790</id>
+  </point>
+  <point>
+    <name>Бекабад</name>
+    <region>Ташкентская область</region>
+    <district>Бекабад</district>
+    <id>151787</id>
+  </point>
+  <point>
+    <name>Бука</name>
+    <region>Ташкентская область</region>
+    <district>Бука</district>
+    <id>151786</id>
+  </point>
+  <point>
+    <name>Газалкент</name>
+    <region>Ташкентская область</region>
+    <district>Газалкент</district>
+    <id>151784</id>
+  </point>
+  <point>
+    <name>Дукант</name>
+    <region>Ташкентская область</region>
+    <district>Дукант</district>
+    <id>152513</id>
+  </point>
+  <point>
+    <name>Дустабад</name>
+    <region>Ташкентская область</region>
+    <district>Дустабад</district>
+    <id>151780</id>
+  </point>
+  <point>
+    <name>Камчик</name>
+    <region>Ташкентская область</region>
+    <district>Камчик</district>
+    <id>151381</id>
+  </point>
+  <point>
+    <name>Каунчи</name>
+    <region>Ташкентская область</region>
+    <district>Каунчи</district>
+    <id>152529</id>
+  </point>
+  <point>
+    <name>Красногорск</name>
+    <region>Ташкентская область</region>
+    <district>Красногорск</district>
+    <id>151776</id>
+  </point>
+  <point>
+    <name>Ойгаинг</name>
+    <region>Ташкентская область</region>
+    <district>Ойгаинг</district>
+    <id>12848</id>
+  </point>
+  <point>
+    <name>Паркент</name>
+    <region>Ташкентская область</region>
+    <district>Паркент</district>
+    <id>151773</id>
+  </point>
+  <point>
+    <name>Пскем</name>
+    <region>Ташкентская область</region>
+    <district>Пскем</district>
+    <id>12860</id>
+  </point>
+  <point>
+    <name>Пскент</name>
+    <region>Ташкентская область</region>
+    <district>Пскент</district>
+    <id>151772</id>
+  </point>
+  <point>
+    <name>Тойтепа</name>
+    <region>Ташкентская область</region>
+    <district>Тойтепа</district>
+    <id>151769</id>
+  </point>
+  <point>
+    <name>Туябугуз</name>
+    <region>Ташкентская область</region>
+    <district>Туябугуз</district>
+    <id>152571</id>
+  </point>
+  <point>
+    <name>Чимган</name>
+    <region>Ташкентская область</region>
+    <district>Чимган</district>
+    <id>151382</id>
+  </point>
+  <point>
+    <name>Чирчик</name>
+    <region>Ташкентская область</region>
+    <district>Чирчик</district>
+    <id>151763</id>
+  </point>
+  <point>
+    <name>Янгиабад</name>
+    <region>Ташкентская область</region>
+    <district>Янгиабад</district>
+    <id>141393</id>
+  </point>
+  <point>
+    <name>Янгиюль</name>
+    <region>Ташкентская область</region>
+    <district>Янгиюль</district>
+    <id>151760</id>
+  </point>
+  <point>
+    <name>Фергана (аэропорт)</name>
+    <region>Ферганская область</region>
+    <district>Фергана (аэропорт)</district>
+    <id>12880</id>
+  </point>
+  <point>
+    <name>Коканд</name>
+    <region>Ферганская область</region>
+    <district>Коканд</district>
+    <id>12875</id>
+  </point>
+  <point>
+    <name>Кувасай</name>
+    <region>Ферганская область</region>
+    <district>Кувасай</district>
+    <id>151775</id>
+  </point>
+  <point>
+    <name>Риштан</name>
+    <region>Ферганская область</region>
+    <district>Риштан</district>
+    <id>151771</id>
+  </point>
+  <point>
+    <name>Аккурган</name>
+    <region>Ферганская область</region>
+    <district>Аккурган</district>
+    <id>151792</id>
+  </point>
+  <point>
+    <name>Кува</name>
+    <region>Ферганская область</region>
+    <district>Кува</district>
+    <id>152518</id>
+  </point>
+  <point>
+    <name>Маргилан</name>
+    <region>Ферганская область</region>
+    <district>Маргилан</district>
+    <id>151774</id>
+  </point>
+  <point>
+    <name>Ургенч (аэропорт)</name>
+    <region>Хорезмская обл.</region>
+    <district>Ургенч (аэропорт)</district>
+    <id>12855</id>
+  </point>
+  <point>
+    <name>Хива</name>
+    <region>Хорезмская обл.</region>
+    <district>Хива</district>
+    <id>151765</id>
+  </point>
+</country>

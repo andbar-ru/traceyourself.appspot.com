@@ -1,0 +1,32 @@
+<country name="Sierra Leone" count="5">
+  <point>
+    <name>Kenema</name>
+    <region>Eastern Province</region>
+    <district>Kenema</district>
+    <id>151849</id>
+  </point>
+  <point>
+    <name>Lungi (airport)</name>
+    <region>Northern Province</region>
+    <district>Lungi (airport)</district>
+    <id>10464</id>
+  </point>
+  <point>
+    <name>Makeni</name>
+    <region>Northern Province</region>
+    <district>Makeni</district>
+    <id>10466</id>
+  </point>
+  <point>
+    <name>Bo</name>
+    <region>Southern Province</region>
+    <district>Bo</district>
+    <id>10469</id>
+  </point>
+  <point>
+    <name>Freetown</name>
+    <region>Western Area</region>
+    <district>Freetown</district>
+    <id>151435</id>
+  </point>
+</country>

@@ -1,0 +1,1334 @@
+<country name="Австрия" count="222">
+  <point>
+    <name>Айзенштадт</name>
+    <region>Бургенланд</region>
+    <district>Айзенштадт</district>
+    <id>7398</id>
+  </point>
+  <point>
+    <name>Хорнштайн</name>
+    <region>Бургенланд</region>
+    <district>Айзенштадт (округ)</district>
+    <id>331689</id>
+  </point>
+  <point>
+    <name>Нойзидль-ам-Зее</name>
+    <region>Бургенланд</region>
+    <district>Нойзидль-ам-Зее</district>
+    <id>7402</id>
+  </point>
+  <point>
+    <name>Оберварт</name>
+    <region>Бургенланд</region>
+    <district>Оберварт</district>
+    <id>330101</id>
+  </point>
+  <point>
+    <name>Бад-Тацмансдорф</name>
+    <region>Бургенланд</region>
+    <district>Оберварт</district>
+    <id>321402</id>
+  </point>
+  <point>
+    <name>Кляйнциккен</name>
+    <region>Бургенланд</region>
+    <district>Оберварт</district>
+    <id>170418</id>
+  </point>
+  <point>
+    <name>Пуниц / Гюссинг (летное поле)</name>
+    <region>Бургенланд</region>
+    <district>Оберварт</district>
+    <id>7404</id>
+  </point>
+  <point>
+    <name>Оберпуллендорф</name>
+    <region>Бургенланд</region>
+    <district>Оберпуллендорф</district>
+    <id>330094</id>
+  </point>
+  <point>
+    <name>Луцманнсбург</name>
+    <region>Бургенланд</region>
+    <district>Оберпуллендорф</district>
+    <id>331896</id>
+  </point>
+  <point>
+    <name>Вена</name>
+    <region>Вена</region>
+    <district></district>
+    <id>7157</id>
+  </point>
+  <point>
+    <name>Вена / Хоэ-Варте (метеостанция)</name>
+    <region>Вена</region>
+    <district>Вена / Хоэ-Варте (метеостанция)</district>
+    <id>7159</id>
+  </point>
+  <point>
+    <name>Вена / Швехат (аэропорт)</name>
+    <region>Вена</region>
+    <district>Вена / Швехат (аэропорт)</district>
+    <id>7162</id>
+  </point>
+  <point>
+    <name>Мариабрунн</name>
+    <region>Вена</region>
+    <district>Мариабрунн</district>
+    <id>510685</id>
+  </point>
+  <point>
+    <name>Браунау-на-Инне</name>
+    <region>Верхняя Австрия</region>
+    <district>Браунау-на-Инне</district>
+    <id>10332</id>
+  </point>
+  <point>
+    <name>Рансхофен</name>
+    <region>Верхняя Австрия</region>
+    <district>Браунау-на-Инне</district>
+    <id>170414</id>
+  </point>
+  <point>
+    <name>Вельс</name>
+    <region>Верхняя Австрия</region>
+    <district>Вельс</district>
+    <id>10338</id>
+  </point>
+  <point>
+    <name>Штадль-Паура</name>
+    <region>Верхняя Австрия</region>
+    <district>Вельс (округ)</district>
+    <id>330337</id>
+  </point>
+  <point>
+    <name>Вельс (летное поле)</name>
+    <region>Верхняя Австрия</region>
+    <district>Вельс</district>
+    <id>7076</id>
+  </point>
+  <point>
+    <name>Вельс / Шлайсхайм</name>
+    <region>Верхняя Австрия</region>
+    <district>Вельс</district>
+    <id>7187</id>
+  </point>
+  <point>
+    <name>Гмунден</name>
+    <region>Верхняя Австрия</region>
+    <district>Гмунден</district>
+    <id>7322</id>
+  </point>
+  <point>
+    <name>Бад-Гойзерн</name>
+    <region>Верхняя Австрия</region>
+    <district>Гмунден</district>
+    <id>170424</id>
+  </point>
+  <point>
+    <name>Бад-Ишль</name>
+    <region>Верхняя Австрия</region>
+    <district>Гмунден</district>
+    <id>7334</id>
+  </point>
+  <point>
+    <name>Санкт-Вольфганг-им-Зальцкаммергут</name>
+    <region>Верхняя Австрия</region>
+    <district>Гмунден</district>
+    <id>7533</id>
+  </point>
+  <point>
+    <name>Фойеркогель</name>
+    <region>Верхняя Австрия</region>
+    <district>Гмунден</district>
+    <id>7327</id>
+  </point>
+  <point>
+    <name>Кирхдорф-на-Кремсе</name>
+    <region>Верхняя Австрия</region>
+    <district>Кирхдорф-на-Кремсе</district>
+    <id>330089</id>
+  </point>
+  <point>
+    <name>Виндишгарстен</name>
+    <region>Верхняя Австрия</region>
+    <district>Кирхдорф-на-Кремсе</district>
+    <id>7530</id>
+  </point>
+  <point>
+    <name>Кремсмюнстер</name>
+    <region>Верхняя Австрия</region>
+    <district>Кирхдорф-на-Кремсе</district>
+    <id>7101</id>
+  </point>
+  <point>
+    <name>Ансфельден</name>
+    <region>Верхняя Австрия</region>
+    <district>Линц (округ)</district>
+    <id>324641</id>
+  </point>
+  <point>
+    <name>Леондинг</name>
+    <region>Верхняя Австрия</region>
+    <district>Линц (округ)</district>
+    <id>10313</id>
+  </point>
+  <point>
+    <name>Линц / Хершинг (аэропорт)</name>
+    <region>Верхняя Австрия</region>
+    <district>Линц (округ)</district>
+    <id>7088</id>
+  </point>
+  <point>
+    <name>Траун</name>
+    <region>Верхняя Австрия</region>
+    <district>Линц (округ)</district>
+    <id>10289</id>
+  </point>
+  <point>
+    <name>Хёршинг</name>
+    <region>Верхняя Австрия</region>
+    <district>Линц (округ)</district>
+    <id>7095</id>
+  </point>
+  <point>
+    <name>Энс</name>
+    <region>Верхняя Австрия</region>
+    <district>Линц (округ)</district>
+    <id>7415</id>
+  </point>
+  <point>
+    <name>Линц</name>
+    <region>Верхняя Австрия</region>
+    <district>Линц</district>
+    <id>7529</id>
+  </point>
+  <point>
+    <name>Рид (Инкрайс)</name>
+    <region>Верхняя Австрия</region>
+    <district>Рид (Инкрайс)</district>
+    <id>7072</id>
+  </point>
+  <point>
+    <name>Рорбах</name>
+    <region>Верхняя Австрия</region>
+    <district>Рорбах</district>
+    <id>7073</id>
+  </point>
+  <point>
+    <name>Бад-Леонфельден</name>
+    <region>Верхняя Австрия</region>
+    <district>Урфар (округ)</district>
+    <id>330258</id>
+  </point>
+  <point>
+    <name>Фёклабрук</name>
+    <region>Верхняя Австрия</region>
+    <district>Фёклабрук</district>
+    <id>330092</id>
+  </point>
+  <point>
+    <name>Вольфзег-на-Хаусруке</name>
+    <region>Верхняя Австрия</region>
+    <district>Фёклабрук</district>
+    <id>7064</id>
+  </point>
+  <point>
+    <name>Зеевальхен-ам-Аттерзее</name>
+    <region>Верхняя Австрия</region>
+    <district>Фёклабрук</district>
+    <id>7312</id>
+  </point>
+  <point>
+    <name>Мондзее</name>
+    <region>Верхняя Австрия</region>
+    <district>Фёклабрук</district>
+    <id>7318</id>
+  </point>
+  <point>
+    <name>Франкенмаркт</name>
+    <region>Верхняя Австрия</region>
+    <district>Фёклабрук</district>
+    <id>330289</id>
+  </point>
+  <point>
+    <name>Фрайштадт</name>
+    <region>Верхняя Австрия</region>
+    <district>Фрайштадт</district>
+    <id>7108</id>
+  </point>
+  <point>
+    <name>Кёнигсвизен</name>
+    <region>Верхняя Австрия</region>
+    <district>Фрайштадт</district>
+    <id>7106</id>
+  </point>
+  <point>
+    <name>Фрайштадт (летное поле)</name>
+    <region>Верхняя Австрия</region>
+    <district>Фрайштадт</district>
+    <id>7110</id>
+  </point>
+  <point>
+    <name>Шердинг</name>
+    <region>Верхняя Австрия</region>
+    <district>Шердинг</district>
+    <id>7183</id>
+  </point>
+  <point>
+    <name>Штайр</name>
+    <region>Верхняя Австрия</region>
+    <district>Штайр</district>
+    <id>7551</id>
+  </point>
+  <point>
+    <name>Бад-Халль</name>
+    <region>Верхняя Австрия</region>
+    <district>Штайр (округ)</district>
+    <id>7436</id>
+  </point>
+  <point>
+    <name>Зальцбург</name>
+    <region>Зальцбург</region>
+    <district></district>
+    <id>7264</id>
+  </point>
+  <point>
+    <name>Санкт-Иоганн-им-Понгау</name>
+    <region>Зальцбург</region>
+    <district>Санкт-Йохан (Понгау)</district>
+    <id>330106</id>
+  </point>
+  <point>
+    <name>Целль-ам-Зе (аэропорт)</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>7279</id>
+  </point>
+  <point>
+    <name>Целль-ам-Зее</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>7277</id>
+  </point>
+  <point>
+    <name>Зальцбург (аэропорт)</name>
+    <region>Зальцбург</region>
+    <district>Зальцбург (округ)</district>
+    <id>7311</id>
+  </point>
+  <point>
+    <name>Матзее</name>
+    <region>Зальцбург</region>
+    <district>Зальцбург (округ)</district>
+    <id>7313</id>
+  </point>
+  <point>
+    <name>Ноймаркт-ам-Валлерзее</name>
+    <region>Зальцбург</region>
+    <district>Зальцбург (округ)</district>
+    <id>330382</id>
+  </point>
+  <point>
+    <name>Зальцбург / им. В.А. Моцарта (аэропорт)</name>
+    <region>Зальцбург</region>
+    <district>Зальцбург / им. В.А. Моцарта (аэропорт)</district>
+    <id>7523</id>
+  </point>
+  <point>
+    <name>Бишофсхофен</name>
+    <region>Зальцбург</region>
+    <district>Санкт-Йохан (Понгау)</district>
+    <id>7275</id>
+  </point>
+  <point>
+    <name>Обертауэрн</name>
+    <region>Зальцбург</region>
+    <district>Санкт-Йохан (Понгау)</district>
+    <id>7309</id>
+  </point>
+  <point>
+    <name>Радштадт</name>
+    <region>Зальцбург</region>
+    <district>Санкт-Йохан (Понгау)</district>
+    <id>7289</id>
+  </point>
+  <point>
+    <name>Санкт-Йоганн-Понгау (метеостанция)</name>
+    <region>Зальцбург</region>
+    <district>Санкт-Йохан (Понгау)</district>
+    <id>7515</id>
+  </point>
+  <point>
+    <name>Бад-Гаштайн</name>
+    <region>Зальцбург</region>
+    <district>Санкт-Йохан (Понгау)</district>
+    <id>7280</id>
+  </point>
+  <point>
+    <name>Бад-Хофгаштайн</name>
+    <region>Зальцбург</region>
+    <district>Санкт-Йохан (Понгау)</district>
+    <id>7417</id>
+  </point>
+  <point>
+    <name>Санкт-Файт (Понгау)</name>
+    <region>Зальцбург</region>
+    <district>Санкт-Йохан (Понгау)</district>
+    <id>170423</id>
+  </point>
+  <point>
+    <name>Тамсвег</name>
+    <region>Зальцбург</region>
+    <district>Тамсвег</district>
+    <id>330084</id>
+  </point>
+  <point>
+    <name>Мариапфар</name>
+    <region>Зальцбург</region>
+    <district>Тамсвег</district>
+    <id>7522</id>
+  </point>
+  <point>
+    <name>Маутерндорф</name>
+    <region>Зальцбург</region>
+    <district>Тамсвег</district>
+    <id>7350</id>
+  </point>
+  <point>
+    <name>Санкт-Михель (Лунгау)</name>
+    <region>Зальцбург</region>
+    <district>Тамсвег</district>
+    <id>7305</id>
+  </point>
+  <point>
+    <name>Халлайн</name>
+    <region>Зальцбург</region>
+    <district>Халлайн</district>
+    <id>330115</id>
+  </point>
+  <point>
+    <name>Аннаберг-им-Ламметраль</name>
+    <region>Зальцбург</region>
+    <district>Халлайн</district>
+    <id>7267</id>
+  </point>
+  <point>
+    <name>Капрун</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>7476</id>
+  </point>
+  <point>
+    <name>Кримль</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>7258</id>
+  </point>
+  <point>
+    <name>Шмиттенхое</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>170421</id>
+  </point>
+  <point>
+    <name>Альпинцентер</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>7513</id>
+  </point>
+  <point>
+    <name>Лоферер-Алм</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>510696</id>
+  </point>
+  <point>
+    <name>Лофер</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>7271</id>
+  </point>
+  <point>
+    <name>Мариа-Альм</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>330445</id>
+  </point>
+  <point>
+    <name>Раурис</name>
+    <region>Зальцбург</region>
+    <district>Целль-ам-Зе</district>
+    <id>7520</id>
+  </point>
+  <point>
+    <name>Вольфсберг</name>
+    <region>Каринтия</region>
+    <district>Вольфсберг</district>
+    <id>7552</id>
+  </point>
+  <point>
+    <name>Прайтенег</name>
+    <region>Каринтия</region>
+    <district>Вольфсберг</district>
+    <id>7435</id>
+  </point>
+  <point>
+    <name>Санкт-Андре</name>
+    <region>Каринтия</region>
+    <district>Вольфсберг</district>
+    <id>7438</id>
+  </point>
+  <point>
+    <name>Клагенфурт (аэропорт)</name>
+    <region>Каринтия</region>
+    <district>Клагенфурт (округ)</district>
+    <id>7440</id>
+  </point>
+  <point>
+    <name>Клагенфурт</name>
+    <region>Каринтия</region>
+    <district>Клагенфурт</district>
+    <id>7370</id>
+  </point>
+  <point>
+    <name>Санкт-Файт-ан-дер-Глан</name>
+    <region>Каринтия</region>
+    <district>Санкт-Файт-ан-дер-Глан</district>
+    <id>330098</id>
+  </point>
+  <point>
+    <name>Вайтенсфельд</name>
+    <region>Каринтия</region>
+    <district>Санкт-Файт-ан-дер-Глан</district>
+    <id>170419</id>
+  </point>
+  <point>
+    <name>Гурк</name>
+    <region>Каринтия</region>
+    <district>Санкт-Файт-ан-дер-Глан</district>
+    <id>7247</id>
+  </point>
+  <point>
+    <name>Фёлькермаркт</name>
+    <region>Каринтия</region>
+    <district>Фёлькермаркт</district>
+    <id>330112</id>
+  </point>
+  <point>
+    <name>Айзенкаппель</name>
+    <region>Каринтия</region>
+    <district>Фёлькермаркт</district>
+    <id>7443</id>
+  </point>
+  <point>
+    <name>Файстриц-об-Блайбург</name>
+    <region>Каринтия</region>
+    <district>Фёлькермаркт</district>
+    <id>7441</id>
+  </point>
+  <point>
+    <name>Филлах</name>
+    <region>Каринтия</region>
+    <district>Филлах</district>
+    <id>7434</id>
+  </point>
+  <point>
+    <name>Арриах</name>
+    <region>Каринтия</region>
+    <district>Филлах (округ)</district>
+    <id>7484</id>
+  </point>
+  <point>
+    <name>Филахеральпе</name>
+    <region>Каринтия</region>
+    <district>Филлах (округ)</district>
+    <id>7432</id>
+  </point>
+  <point>
+    <name>Хермагор</name>
+    <region>Каринтия</region>
+    <district>Хермагор</district>
+    <id>330107</id>
+  </point>
+  <point>
+    <name>Кёчах-Маутен</name>
+    <region>Каринтия</region>
+    <district>Хермагор</district>
+    <id>7466</id>
+  </point>
+  <point>
+    <name>Шпитталь-ан-дер-Драу</name>
+    <region>Каринтия</region>
+    <district>Шпитталь-ан-дер-Драу</district>
+    <id>7407</id>
+  </point>
+  <point>
+    <name>Гатшах</name>
+    <region>Каринтия</region>
+    <district>Шпитталь-ан-дер-Драу</district>
+    <id>510690</id>
+  </point>
+  <point>
+    <name>Зоннблик (гора)</name>
+    <region>Каринтия</region>
+    <district>Шпитталь-ан-дер-Драу</district>
+    <id>7287</id>
+  </point>
+  <point>
+    <name>Мальниц</name>
+    <region>Каринтия</region>
+    <district>Шпитталь-ан-дер-Драу</district>
+    <id>7429</id>
+  </point>
+  <point>
+    <name>Оберфеллах</name>
+    <region>Каринтия</region>
+    <district>Шпитталь-ан-дер-Драу</district>
+    <id>7473</id>
+  </point>
+  <point>
+    <name>Деллах (Драуталь)</name>
+    <region>Каринтия</region>
+    <district>Шпитталь-ан-дер-Драу</district>
+    <id>7477</id>
+  </point>
+  <point>
+    <name>Зоннблик(метеостанция)</name>
+    <region>Каринтия</region>
+    <district>Шпитталь-ан-дер-Драу</district>
+    <id>170422</id>
+  </point>
+  <point>
+    <name>Радентайн</name>
+    <region>Каринтия</region>
+    <district>Шпитталь-ан-дер-Драу</district>
+    <id>7431</id>
+  </point>
+  <point>
+    <name>Шпитталь / Драу-Кляйнзасс</name>
+    <region>Каринтия</region>
+    <district>Шпитталь-ан-дер-Драу</district>
+    <id>7425</id>
+  </point>
+  <point>
+    <name>Амштеттен</name>
+    <region>Нижняя Австрия</region>
+    <district>Амштеттен</district>
+    <id>7114</id>
+  </point>
+  <point>
+    <name>Штадт-Хаг / Хаймберг</name>
+    <region>Нижняя Австрия</region>
+    <district>Амштеттен</district>
+    <id>7104</id>
+  </point>
+  <point>
+    <name>Баден</name>
+    <region>Нижняя Австрия</region>
+    <district>Баден</district>
+    <id>10283</id>
+  </point>
+  <point>
+    <name>Зайберсдорф</name>
+    <region>Нижняя Австрия</region>
+    <district>Баден</district>
+    <id>7558</id>
+  </point>
+  <point>
+    <name>Фёслау Коттингбрун (аэропорт)</name>
+    <region>Нижняя Австрия</region>
+    <district>Баден</district>
+    <id>7391</id>
+  </point>
+  <point>
+    <name>Вена / Унтерла</name>
+    <region>Нижняя Австрия</region>
+    <district>Вена (округ)</district>
+    <id>170413</id>
+  </point>
+  <point>
+    <name>Клостернойбург</name>
+    <region>Нижняя Австрия</region>
+    <district>Вена (округ)</district>
+    <id>10284</id>
+  </point>
+  <point>
+    <name>Винер-Нойштадт</name>
+    <region>Нижняя Австрия</region>
+    <district>Винер-Нойштадт</district>
+    <id>7392</id>
+  </point>
+  <point>
+    <name>Восточный Винер-Нойштадт (аэропорт)</name>
+    <region>Нижняя Австрия</region>
+    <district>Винер-Нойштадт (округ)</district>
+    <id>508992</id>
+  </point>
+  <point>
+    <name>Феликсдорф</name>
+    <region>Нижняя Австрия</region>
+    <district>Винер-Нойштадт (округ)</district>
+    <id>331877</id>
+  </point>
+  <point>
+    <name>Гензерндорф</name>
+    <region>Нижняя Австрия</region>
+    <district>Гензерндорф</district>
+    <id>330110</id>
+  </point>
+  <point>
+    <name>Грос-Энцерсдорф</name>
+    <region>Нижняя Австрия</region>
+    <district>Гензерндорф</district>
+    <id>7175</id>
+  </point>
+  <point>
+    <name>Цверндорф</name>
+    <region>Нижняя Австрия</region>
+    <district>Гензерндорф</district>
+    <id>510687</id>
+  </point>
+  <point>
+    <name>Гмюнд</name>
+    <region>Нижняя Австрия</region>
+    <district>Гмюнд</district>
+    <id>330087</id>
+  </point>
+  <point>
+    <name>Вайтра</name>
+    <region>Нижняя Австрия</region>
+    <district>Гмюнд</district>
+    <id>331458</id>
+  </point>
+  <point>
+    <name>Личау</name>
+    <region>Нижняя Австрия</region>
+    <district>Гмюнд</district>
+    <id>7121</id>
+  </point>
+  <point>
+    <name>Корнойбург</name>
+    <region>Нижняя Австрия</region>
+    <district>Корнойбург</district>
+    <id>330082</id>
+  </point>
+  <point>
+    <name>Стокерау</name>
+    <region>Нижняя Австрия</region>
+    <district>Корнойбург</district>
+    <id>331537</id>
+  </point>
+  <point>
+    <name>Кремс-на-Дунае</name>
+    <region>Нижняя Австрия</region>
+    <district>Кремс</district>
+    <id>7386</id>
+  </point>
+  <point>
+    <name>Кремс / Лангенлойс Гнайксендорф</name>
+    <region>Нижняя Австрия</region>
+    <district>Кремс (округ)</district>
+    <id>7134</id>
+  </point>
+  <point>
+    <name>Лангенлойс</name>
+    <region>Нижняя Австрия</region>
+    <district>Кремс (округ)</district>
+    <id>7189</id>
+  </point>
+  <point>
+    <name>Яуерлинг</name>
+    <region>Нижняя Австрия</region>
+    <district>Кремс (округ)</district>
+    <id>7133</id>
+  </point>
+  <point>
+    <name>Лилиенфельд</name>
+    <region>Нижняя Австрия</region>
+    <district>Лилиенфельд</district>
+    <id>7192</id>
+  </point>
+  <point>
+    <name>Мариацелль (аэропорт)</name>
+    <region>Нижняя Австрия</region>
+    <district>Лилиенфельд</district>
+    <id>170740</id>
+  </point>
+  <point>
+    <name>Мельк</name>
+    <region>Нижняя Австрия</region>
+    <district>Мельк</district>
+    <id>7400</id>
+  </point>
+  <point>
+    <name>Мёдлинг</name>
+    <region>Нижняя Австрия</region>
+    <district>Мёдлинг</district>
+    <id>10316</id>
+  </point>
+  <point>
+    <name>Гумпольдскирхен</name>
+    <region>Нижняя Австрия</region>
+    <district>Мёдлинг</district>
+    <id>7194</id>
+  </point>
+  <point>
+    <name>Мистельбах</name>
+    <region>Нижняя Австрия</region>
+    <district>Мистельбах</district>
+    <id>330113</id>
+  </point>
+  <point>
+    <name>Пойсдорф</name>
+    <region>Нижняя Австрия</region>
+    <district>Мистельбах</district>
+    <id>7155</id>
+  </point>
+  <point>
+    <name>Нойнкирхен</name>
+    <region>Нижняя Австрия</region>
+    <district>Нойнкирхен</district>
+    <id>330116</id>
+  </point>
+  <point>
+    <name>Земмеринг</name>
+    <region>Нижняя Австрия</region>
+    <district>Нойнкирхен</district>
+    <id>7393</id>
+  </point>
+  <point>
+    <name>Мёнихкирхен</name>
+    <region>Нижняя Австрия</region>
+    <district>Нойнкирхен</district>
+    <id>7397</id>
+  </point>
+  <point>
+    <name>Райхенау-ан-дер-Ракс</name>
+    <region>Нижняя Австрия</region>
+    <district>Нойнкирхен</district>
+    <id>7550</id>
+  </point>
+  <point>
+    <name>Хоэ-Ванд</name>
+    <region>Нижняя Австрия</region>
+    <district>Нойнкирхен</district>
+    <id>170427</id>
+  </point>
+  <point>
+    <name>Пухберг-ам-Шнеберг</name>
+    <region>Нижняя Австрия</region>
+    <district>Нойнкирхен</district>
+    <id>170425</id>
+  </point>
+  <point>
+    <name>Ракс</name>
+    <region>Нижняя Австрия</region>
+    <district>Нойнкирхен</district>
+    <id>7390</id>
+  </point>
+  <point>
+    <name>Санкт-Пёльтен</name>
+    <region>Нижняя Австрия</region>
+    <district>Санкт-Пёльтен</district>
+    <id>7139</id>
+  </point>
+  <point>
+    <name>Альтленгбах</name>
+    <region>Нижняя Австрия</region>
+    <district>Санкт-Пёльтен (округ)</district>
+    <id>331759</id>
+  </point>
+  <point>
+    <name>Тульн-на-Дунае</name>
+    <region>Нижняя Австрия</region>
+    <district>Тульн</district>
+    <id>7150</id>
+  </point>
+  <point>
+    <name>Тульн-на-Дунае (аэропорт)</name>
+    <region>Нижняя Австрия</region>
+    <district>Тульн</district>
+    <id>504534</id>
+  </point>
+  <point>
+    <name>Холлабрун</name>
+    <region>Нижняя Австрия</region>
+    <district>Холлабрун</district>
+    <id>330090</id>
+  </point>
+  <point>
+    <name>Рец</name>
+    <region>Нижняя Австрия</region>
+    <district>Холлабрун</district>
+    <id>7123</id>
+  </point>
+  <point>
+    <name>Хорн</name>
+    <region>Нижняя Австрия</region>
+    <district>Хорн</district>
+    <id>330076</id>
+  </point>
+  <point>
+    <name>Гарс-ам-Камп</name>
+    <region>Нижняя Австрия</region>
+    <district>Хорн</district>
+    <id>331498</id>
+  </point>
+  <point>
+    <name>Цветль</name>
+    <region>Нижняя Австрия</region>
+    <district>Цветль</district>
+    <id>7120</id>
+  </point>
+  <point>
+    <name>Аллентштейг</name>
+    <region>Нижняя Австрия</region>
+    <district>Цветль</district>
+    <id>7117</id>
+  </point>
+  <point>
+    <name>Шайбс</name>
+    <region>Нижняя Австрия</region>
+    <district>Шайбс</district>
+    <id>330079</id>
+  </point>
+  <point>
+    <name>Лунц-ам-Зее</name>
+    <region>Нижняя Австрия</region>
+    <district>Шайбс</district>
+    <id>7368</id>
+  </point>
+  <point>
+    <name>Имст</name>
+    <region>Тироль</region>
+    <district>Имст</district>
+    <id>330103</id>
+  </point>
+  <point>
+    <name>Обергургль</name>
+    <region>Тироль</region>
+    <district>Имст</district>
+    <id>7231</id>
+  </point>
+  <point>
+    <name>Питцталь</name>
+    <region>Тироль</region>
+    <district>Имст</district>
+    <id>7504</id>
+  </point>
+  <point>
+    <name>Хинтерер-Брунненкогель</name>
+    <region>Тироль</region>
+    <district>Имст</district>
+    <id>510695</id>
+  </point>
+  <point>
+    <name>Инсбрук</name>
+    <region>Тироль</region>
+    <district>Инсбрук (округ)</district>
+    <id>7506</id>
+  </point>
+  <point>
+    <name>Бреннер</name>
+    <region>Тироль</region>
+    <district>Инсбрук (округ)</district>
+    <id>7233</id>
+  </point>
+  <point>
+    <name>Зеефельд</name>
+    <region>Тироль</region>
+    <district>Инсбрук (округ)</district>
+    <id>330885</id>
+  </point>
+  <point>
+    <name>Инсбрук (аэропорт)</name>
+    <region>Тироль</region>
+    <district>Инсбрук (округ)</district>
+    <id>7224</id>
+  </point>
+  <point>
+    <name>Пачеркофель</name>
+    <region>Тироль</region>
+    <district>Инсбрук (округ)</district>
+    <id>7229</id>
+  </point>
+  <point>
+    <name>Кицбюэль</name>
+    <region>Тироль</region>
+    <district>Кицбюэль</district>
+    <id>7363</id>
+  </point>
+  <point>
+    <name>Санкт-Йоганн</name>
+    <region>Тироль</region>
+    <district>Кицбюэль</district>
+    <id>7238</id>
+  </point>
+  <point>
+    <name>Ханенкамм</name>
+    <region>Тироль</region>
+    <district>Кицбюэль</district>
+    <id>170415</id>
+  </point>
+  <point>
+    <name>Куфштайн</name>
+    <region>Тироль</region>
+    <district>Куфштайн</district>
+    <id>7235</id>
+  </point>
+  <point>
+    <name>Кирхбихль</name>
+    <region>Тироль</region>
+    <district>Куфштайн</district>
+    <id>330934</id>
+  </point>
+  <point>
+    <name>Ландек</name>
+    <region>Тироль</region>
+    <district>Ландек</district>
+    <id>7220</id>
+  </point>
+  <point>
+    <name>Ишгль / Идалп</name>
+    <region>Тироль</region>
+    <district>Ландек</district>
+    <id>7502</id>
+  </point>
+  <point>
+    <name>Ресиа</name>
+    <region>Тироль</region>
+    <district>Ландек</district>
+    <id>509778</id>
+  </point>
+  <point>
+    <name>Санкт-Антон / Галзик</name>
+    <region>Тироль</region>
+    <district>Ландек</district>
+    <id>7214</id>
+  </point>
+  <point>
+    <name>Санкт-Антон-на-Арльберге</name>
+    <region>Тироль</region>
+    <district>Ландек</district>
+    <id>7208</id>
+  </point>
+  <point>
+    <name>Лиенц</name>
+    <region>Тироль</region>
+    <district>Лиенц</district>
+    <id>7416</id>
+  </point>
+  <point>
+    <name>Рудольф</name>
+    <region>Тироль</region>
+    <district>Лиенц</district>
+    <id>170416</id>
+  </point>
+  <point>
+    <name>Фирген</name>
+    <region>Тироль</region>
+    <district>Лиенц</district>
+    <id>7460</id>
+  </point>
+  <point>
+    <name>Ройтте / Тироль</name>
+    <region>Тироль</region>
+    <district>Ройтте</district>
+    <id>7223</id>
+  </point>
+  <point>
+    <name>Швац</name>
+    <region>Тироль</region>
+    <district>Швац</district>
+    <id>7226</id>
+  </point>
+  <point>
+    <name>Ахенкирх</name>
+    <region>Тироль</region>
+    <district>Швац</district>
+    <id>331045</id>
+  </point>
+  <point>
+    <name>Герлос</name>
+    <region>Тироль</region>
+    <district>Швац</district>
+    <id>7239</id>
+  </point>
+  <point>
+    <name>Йенбах</name>
+    <region>Тироль</region>
+    <district>Швац</district>
+    <id>331059</id>
+  </point>
+  <point>
+    <name>Майрхофен</name>
+    <region>Тироль</region>
+    <district>Швац</district>
+    <id>7510</id>
+  </point>
+  <point>
+    <name>Блуденц</name>
+    <region>Форарльберг</region>
+    <district>Блуденц</district>
+    <id>330104</id>
+  </point>
+  <point>
+    <name>Лех</name>
+    <region>Форарльберг</region>
+    <district>Блуденц</district>
+    <id>7437</id>
+  </point>
+  <point>
+    <name>Цюрс</name>
+    <region>Форарльберг</region>
+    <district>Блуденц</district>
+    <id>7455</id>
+  </point>
+  <point>
+    <name>Брегенц</name>
+    <region>Форарльберг</region>
+    <district>Брегенц</district>
+    <id>7195</id>
+  </point>
+  <point>
+    <name>Варт</name>
+    <region>Форарльберг</region>
+    <district>Брегенц</district>
+    <id>7501</id>
+  </point>
+  <point>
+    <name>Дорнбирн</name>
+    <region>Форарльберг</region>
+    <district>Дорнбирн (округ)</district>
+    <id>7499</id>
+  </point>
+  <point>
+    <name>Дорнбирн / Хохенемс (аэропорт)</name>
+    <region>Форарльберг</region>
+    <district>Дорнбирн (округ)</district>
+    <id>504533</id>
+  </point>
+  <point>
+    <name>Хоэнемс</name>
+    <region>Форарльберг</region>
+    <district>Дорнбирн (округ)</district>
+    <id>7198</id>
+  </point>
+  <point>
+    <name>Фельдкирх</name>
+    <region>Форарльберг</region>
+    <district>Фельдкирх</district>
+    <id>7201</id>
+  </point>
+  <point>
+    <name>Брук-на-Муре</name>
+    <region>Штирия</region>
+    <district>Брук-на-Муре</district>
+    <id>7387</id>
+  </point>
+  <point>
+    <name>Афленц-Курорт</name>
+    <region>Штирия</region>
+    <district>Брук-на-Муре</district>
+    <id>7546</id>
+  </point>
+  <point>
+    <name>Капфенберг</name>
+    <region>Штирия</region>
+    <district>Брук-на-Муре</district>
+    <id>7343</id>
+  </point>
+  <point>
+    <name>Капфенберг (летное поле)</name>
+    <region>Штирия</region>
+    <district>Брук-на-Муре</district>
+    <id>7389</id>
+  </point>
+  <point>
+    <name>Мариацелль</name>
+    <region>Штирия</region>
+    <district>Брук-на-Муре</district>
+    <id>7372</id>
+  </point>
+  <point>
+    <name>Вайц</name>
+    <region>Штирия</region>
+    <district>Вайц</district>
+    <id>330083</id>
+  </point>
+  <point>
+    <name>Фишбах</name>
+    <region>Штирия</region>
+    <district>Вайц</district>
+    <id>330787</id>
+  </point>
+  <point>
+    <name>Грац / Талерхоф (аэропорт)</name>
+    <region>Штирия</region>
+    <district>Грац (округ)</district>
+    <id>7447</id>
+  </point>
+  <point>
+    <name>Ибельбах</name>
+    <region>Штирия</region>
+    <district>Грац (округ)</district>
+    <id>7445</id>
+  </point>
+  <point>
+    <name>Ласницхёэ</name>
+    <region>Штирия</region>
+    <district>Грац (округ)</district>
+    <id>7498</id>
+  </point>
+  <point>
+    <name>Санкт-Радегунд-бай-Грац</name>
+    <region>Штирия</region>
+    <district>Грац (округ)</district>
+    <id>330565</id>
+  </point>
+  <point>
+    <name>Шекль</name>
+    <region>Штирия</region>
+    <district>Грац (округ)</district>
+    <id>170420</id>
+  </point>
+  <point>
+    <name>Грац</name>
+    <region>Штирия</region>
+    <district>Грац</district>
+    <id>7176</id>
+  </point>
+  <point>
+    <name>Грац (Университет)</name>
+    <region>Штирия</region>
+    <district>Грац</district>
+    <id>7492</id>
+  </point>
+  <point>
+    <name>Книттельфельд</name>
+    <region>Штирия</region>
+    <district>Книттельфельд</district>
+    <id>330100</id>
+  </point>
+  <point>
+    <name>Цельтвег (Автоматическая Станция)</name>
+    <region>Штирия</region>
+    <district>Книттельфельд</district>
+    <id>7545</id>
+  </point>
+  <point>
+    <name>Леобен</name>
+    <region>Штирия</region>
+    <district>Леобен</district>
+    <id>7554</id>
+  </point>
+  <point>
+    <name>Кальванг</name>
+    <region>Штирия</region>
+    <district>Леобен</district>
+    <id>330653</id>
+  </point>
+  <point>
+    <name>Санкт-Михель / Леобен</name>
+    <region>Штирия</region>
+    <district>Леобен</district>
+    <id>170417</id>
+  </point>
+  <point>
+    <name>Хифлау</name>
+    <region>Штирия</region>
+    <district>Леобен</district>
+    <id>7344</id>
+  </point>
+  <point>
+    <name>Лицен</name>
+    <region>Штирия</region>
+    <district>Лицен</district>
+    <id>330091</id>
+  </point>
+  <point>
+    <name>Айген (Энсталь)</name>
+    <region>Штирия</region>
+    <district>Лицен</district>
+    <id>7335</id>
+  </point>
+  <point>
+    <name>Бад-Аусзе</name>
+    <region>Штирия</region>
+    <district>Лицен</district>
+    <id>7531</id>
+  </point>
+  <point>
+    <name>Бад-Миттерндорф</name>
+    <region>Штирия</region>
+    <district>Лицен</district>
+    <id>7536</id>
+  </point>
+  <point>
+    <name>Рамзау-ам-Дакстайн</name>
+    <region>Штирия</region>
+    <district>Лицен</district>
+    <id>7527</id>
+  </point>
+  <point>
+    <name>Инсбрук / Гумпенштайн</name>
+    <region>Штирия</region>
+    <district>Лицен</district>
+    <id>7538</id>
+  </point>
+  <point>
+    <name>Мурау</name>
+    <region>Штирия</region>
+    <district>Мурау</district>
+    <id>7487</id>
+  </point>
+  <point>
+    <name>Штольцальпе</name>
+    <region>Штирия</region>
+    <district>Мурау</district>
+    <id>7354</id>
+  </point>
+  <point>
+    <name>Мюрццушлаг</name>
+    <region>Штирия</region>
+    <district>Мюрццушлаг</district>
+    <id>330105</id>
+  </point>
+  <point>
+    <name>Хиршенкогель</name>
+    <region>Штирия</region>
+    <district>Мюрццушлаг</district>
+    <id>170426</id>
+  </point>
+  <point>
+    <name>Бад-Радкерсбург</name>
+    <region>Штирия</region>
+    <district>Радкерсбург</district>
+    <id>7458</id>
+  </point>
+  <point>
+    <name>Фельдбах</name>
+    <region>Штирия</region>
+    <district>Фельдбах</district>
+    <id>330080</id>
+  </point>
+  <point>
+    <name>Бад-Глайхенберг</name>
+    <region>Штирия</region>
+    <district>Фельдбах</district>
+    <id>7456</id>
+  </point>
+  <point>
+    <name>Юденбург</name>
+    <region>Штирия</region>
+    <district>Юденбург</district>
+    <id>330088</id>
+  </point>
+  <point>
+    <name>Цельтвег (аэропорт)</name>
+    <region>Штирия</region>
+    <district>Юденбург</district>
+    <id>7355</id>
+  </point>
+</country>

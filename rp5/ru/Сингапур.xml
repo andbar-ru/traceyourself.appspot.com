@@ -1,0 +1,50 @@
+<country name="Сингапур" count="8">
+  <point>
+    <name>Бедок</name>
+    <region>Восточный округ</region>
+    <district>Бедок</district>
+    <id>348082</id>
+  </point>
+  <point>
+    <name>Сингапур (аэропорт)</name>
+    <region>Восточный округ</region>
+    <district>Сингапур (аэропорт)</district>
+    <id>338276</id>
+  </point>
+  <point>
+    <name>Джуронг-Уэст</name>
+    <region>Западный округ</region>
+    <district>Джуронг-Уэст</district>
+    <id>348085</id>
+  </point>
+  <point>
+    <name>Вудлендс</name>
+    <region>Северный округ</region>
+    <district>Вудлендс</district>
+    <id>348083</id>
+  </point>
+  <point>
+    <name>Пайя-Лебар (авиабаза)</name>
+    <region>Северо-Восточный округ</region>
+    <district>Пайя-Лебар (авиабаза)</district>
+    <id>508596</id>
+  </point>
+  <point>
+    <name>Селетар (аэропорт)</name>
+    <region>Северо-Восточный округ</region>
+    <district>Селетар (аэропорт)</district>
+    <id>348164</id>
+  </point>
+  <point>
+    <name>Хоуган</name>
+    <region>Северо-Восточный округ</region>
+    <district>Хоуган</district>
+    <id>348084</id>
+  </point>
+  <point>
+    <name>Букит-Мерах</name>
+    <region>Центральный округ</region>
+    <district>Букит-Мерах</district>
+    <id>337436</id>
+  </point>
+</country>

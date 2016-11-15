@@ -1,0 +1,647 @@
+<region name="Республика Тыва" count="129">
+  <point>
+    <name>Ак-Довурак</name>
+    <district>Ак-Довурак</district>
+    <id>929</id>
+  </point>
+  <point>
+    <name>Бай-Тал</name>
+    <district>Бай-Тайгинский кожуун</district>
+    <id>50758</id>
+  </point>
+  <point>
+    <name>Кара-Холь</name>
+    <district>Бай-Тайгинский кожуун</district>
+    <id>54044</id>
+  </point>
+  <point>
+    <name>Кызыл-Даг</name>
+    <district>Бай-Тайгинский кожуун</district>
+    <id>54047</id>
+  </point>
+  <point>
+    <name>Тээли</name>
+    <district>Бай-Тайгинский кожуун</district>
+    <id>10213</id>
+  </point>
+  <point>
+    <name>Шуй</name>
+    <district>Бай-Тайгинский кожуун</district>
+    <id>54114</id>
+  </point>
+  <point>
+    <name>Аксы-Барлык</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>50759</id>
+  </point>
+  <point>
+    <name>Аянгаты</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>50773</id>
+  </point>
+  <point>
+    <name>Барлык</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>54050</id>
+  </point>
+  <point>
+    <name>Бижиктиг-Хая</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>54051</id>
+  </point>
+  <point>
+    <name>Дон-Терезин</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>54053</id>
+  </point>
+  <point>
+    <name>Кызыл-Мажалык</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>54035</id>
+  </point>
+  <point>
+    <name>Передовой</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>54045</id>
+  </point>
+  <point>
+    <name>Хонделен</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>54054</id>
+  </point>
+  <point>
+    <name>Шекпээр</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>54052</id>
+  </point>
+  <point>
+    <name>Эрги-Барлык</name>
+    <district>Барун-Хемчикский кожуун</district>
+    <id>54113</id>
+  </point>
+  <point>
+    <name>Бажын-Алаак</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>50779</id>
+  </point>
+  <point>
+    <name>Баян-Тала</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>54062</id>
+  </point>
+  <point>
+    <name>Ийме</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>50774</id>
+  </point>
+  <point>
+    <name>Теве-Хая</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>50775</id>
+  </point>
+  <point>
+    <name>Хайыракан</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>50776</id>
+  </point>
+  <point>
+    <name>Хондергей</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>50777</id>
+  </point>
+  <point>
+    <name>Хорум-Даг</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>50778</id>
+  </point>
+  <point>
+    <name>Чадан</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>10191</id>
+  </point>
+  <point>
+    <name>Чыраа-Бажы</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>50780</id>
+  </point>
+  <point>
+    <name>Чыргакы</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>50781</id>
+  </point>
+  <point>
+    <name>Шеми</name>
+    <district>Дзун-Хемчикский кожуун</district>
+    <id>50782</id>
+  </point>
+  <point>
+    <name>Авыйган</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54101</id>
+  </point>
+  <point>
+    <name>Бай-Соот</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>168460</id>
+  </point>
+  <point>
+    <name>Бояровка</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54112</id>
+  </point>
+  <point>
+    <name>Бурен-Бай-Хаак</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>50783</id>
+  </point>
+  <point>
+    <name>Бурен-Хем</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>1915</id>
+  </point>
+  <point>
+    <name>Дерзиг-Аксы</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54108</id>
+  </point>
+  <point>
+    <name>Ильинка</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54100</id>
+  </point>
+  <point>
+    <name>Кок-Хаак</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54109</id>
+  </point>
+  <point>
+    <name>Кундустуг</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54096</id>
+  </point>
+  <point>
+    <name>Мерген</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>168461</id>
+  </point>
+  <point>
+    <name>Сарыг-Сеп</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>10193</id>
+  </point>
+  <point>
+    <name>Сизим</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54102</id>
+  </point>
+  <point>
+    <name>Суг-Бажы</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54092</id>
+  </point>
+  <point>
+    <name>Усть-Бурен</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54106</id>
+  </point>
+  <point>
+    <name>Усть-Ужеп</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54130</id>
+  </point>
+  <point>
+    <name>Эржей</name>
+    <district>Каа-Хемский кожуун</district>
+    <id>54103</id>
+  </point>
+  <point>
+    <name>Баян-Кол</name>
+    <district>Кызылский кожуун</district>
+    <id>54081</id>
+  </point>
+  <point>
+    <name>Каа-Хем</name>
+    <district>Кызылский кожуун</district>
+    <id>135791</id>
+  </point>
+  <point>
+    <name>Кара-Хаак</name>
+    <district>Кызылский кожуун</district>
+    <id>50785</id>
+  </point>
+  <point>
+    <name>Сукпак</name>
+    <district>Кызылский кожуун</district>
+    <id>50788</id>
+  </point>
+  <point>
+    <name>Терлиг-Хая</name>
+    <district>Кызылский кожуун</district>
+    <id>50796</id>
+  </point>
+  <point>
+    <name>Усть-Элегест</name>
+    <district>Кызылский кожуун</district>
+    <id>54085</id>
+  </point>
+  <point>
+    <name>Целинное</name>
+    <district>Кызылский кожуун</district>
+    <id>54091</id>
+  </point>
+  <point>
+    <name>Черби</name>
+    <district>Кызылский кожуун</district>
+    <id>54095</id>
+  </point>
+  <point>
+    <name>Шамбалыг</name>
+    <district>Кызылский кожуун</district>
+    <id>50802</id>
+  </point>
+  <point>
+    <name>Ээрбек</name>
+    <district>Кызылский кожуун</district>
+    <id>50805</id>
+  </point>
+  <point>
+    <name>Кызыл</name>
+    <district>Кызыл</district>
+    <id>4769</id>
+  </point>
+  <point>
+    <name>Кызыл-Хая</name>
+    <district>Монгун-Тайгинский кожуун</district>
+    <id>54043</id>
+  </point>
+  <point>
+    <name>Мугур-Аксы</name>
+    <district>Монгун-Тайгинский кожуун</district>
+    <id>5518</id>
+  </point>
+  <point>
+    <name>Саглы</name>
+    <district>Овюрский кожуун</district>
+    <id>54039</id>
+  </point>
+  <point>
+    <name>Хандагайты</name>
+    <district>Овюрский кожуун</district>
+    <id>54040</id>
+  </point>
+  <point>
+    <name>Аржаан</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54136</id>
+  </point>
+  <point>
+    <name>Билелиг</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54139</id>
+  </point>
+  <point>
+    <name>Ленинка</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54078</id>
+  </point>
+  <point>
+    <name>Севи</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54132</id>
+  </point>
+  <point>
+    <name>Сесерлиг</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54084</id>
+  </point>
+  <point>
+    <name>Суш</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54133</id>
+  </point>
+  <point>
+    <name>Тайга</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54083</id>
+  </point>
+  <point>
+    <name>Тарлаг</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54135</id>
+  </point>
+  <point>
+    <name>Туран</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>8328</id>
+  </point>
+  <point>
+    <name>Уюк</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54134</id>
+  </point>
+  <point>
+    <name>Хадын</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>8732</id>
+  </point>
+  <point>
+    <name>Хут</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>8862</id>
+  </point>
+  <point>
+    <name>Чкаловка</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54137</id>
+  </point>
+  <point>
+    <name>Шивилиг</name>
+    <district>Пий-Хемский кожуун</district>
+    <id>54138</id>
+  </point>
+  <point>
+    <name>Ак-Даш</name>
+    <district>Сут-Хольский кожуун</district>
+    <id>54058</id>
+  </point>
+  <point>
+    <name>Алдан-Маадыр</name>
+    <district>Сут-Хольский кожуун</district>
+    <id>54055</id>
+  </point>
+  <point>
+    <name>Бора-Тайга</name>
+    <district>Сут-Хольский кожуун</district>
+    <id>54057</id>
+  </point>
+  <point>
+    <name>Ишкин</name>
+    <district>Сут-Хольский кожуун</district>
+    <id>50808</id>
+  </point>
+  <point>
+    <name>Кара-Чыраа</name>
+    <district>Сут-Хольский кожуун</district>
+    <id>50811</id>
+  </point>
+  <point>
+    <name>Кызыл-Тайга</name>
+    <district>Сут-Хольский кожуун</district>
+    <id>54059</id>
+  </point>
+  <point>
+    <name>Суг-Аксы</name>
+    <district>Сут-Хольский кожуун</district>
+    <id>152648</id>
+  </point>
+  <point>
+    <name>Бай-Хаак</name>
+    <district>Тандинский кожуун</district>
+    <id>54042</id>
+  </point>
+  <point>
+    <name>Балгазын</name>
+    <district>Тандинский кожуун</district>
+    <id>54097</id>
+  </point>
+  <point>
+    <name>Владимировка</name>
+    <district>Тандинский кожуун</district>
+    <id>54099</id>
+  </point>
+  <point>
+    <name>Дурген</name>
+    <district>Тандинский кожуун</district>
+    <id>50812</id>
+  </point>
+  <point>
+    <name>Кочетово</name>
+    <district>Тандинский кожуун</district>
+    <id>54087</id>
+  </point>
+  <point>
+    <name>Краснояровка</name>
+    <district>Тандинский кожуун</district>
+    <id>168462</id>
+  </point>
+  <point>
+    <name>Кызыл-Арыг</name>
+    <district>Тандинский кожуун</district>
+    <id>54125</id>
+  </point>
+  <point>
+    <name>Марачевка</name>
+    <district>Тандинский кожуун</district>
+    <id>54124</id>
+  </point>
+  <point>
+    <name>Межегей</name>
+    <district>Тандинский кожуун</district>
+    <id>54089</id>
+  </point>
+  <point>
+    <name>Сой</name>
+    <district>Тандинский кожуун</district>
+    <id>54098</id>
+  </point>
+  <point>
+    <name>Сосновка</name>
+    <district>Тандинский кожуун</district>
+    <id>10192</id>
+  </point>
+  <point>
+    <name>Успенка</name>
+    <district>Тандинский кожуун</district>
+    <id>54088</id>
+  </point>
+  <point>
+    <name>Кунгуртуг</name>
+    <district>Тере-Хольский кожуун</district>
+    <id>4687</id>
+  </point>
+  <point>
+    <name>Ак-Эрик</name>
+    <district>Тес-Хемский кожуун</district>
+    <id>54121</id>
+  </point>
+  <point>
+    <name>Белдир-Арыг</name>
+    <district>Тес-Хемский кожуун</district>
+    <id>54122</id>
+  </point>
+  <point>
+    <name>Берт-Даг</name>
+    <district>Тес-Хемский кожуун</district>
+    <id>54123</id>
+  </point>
+  <point>
+    <name>О-Шынаа</name>
+    <district>Тес-Хемский кожуун</district>
+    <id>50822</id>
+  </point>
+  <point>
+    <name>Самагалтай</name>
+    <district>Тес-Хемский кожуун</district>
+    <id>54041</id>
+  </point>
+  <point>
+    <name>Холь-Оожу</name>
+    <district>Тес-Хемский кожуун</district>
+    <id>54119</id>
+  </point>
+  <point>
+    <name>Адыр-Кежиг</name>
+    <district>Тоджинский кожуун</district>
+    <id>50824</id>
+  </point>
+  <point>
+    <name>Ий</name>
+    <district>Тоджинский кожуун</district>
+    <id>54142</id>
+  </point>
+  <point>
+    <name>Салдам</name>
+    <district>Тоджинский кожуун</district>
+    <id>54141</id>
+  </point>
+  <point>
+    <name>Сыстыг-Хем</name>
+    <district>Тоджинский кожуун</district>
+    <id>7934</id>
+  </point>
+  <point>
+    <name>Тоора-Хем</name>
+    <district>Тоджинский кожуун</district>
+    <id>8225</id>
+  </point>
+  <point>
+    <name>Ырбан</name>
+    <district>Тоджинский кожуун</district>
+    <id>9308</id>
+  </point>
+  <point>
+    <name>Арыг-Бажи</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>54072</id>
+  </point>
+  <point>
+    <name>Арыг-Узю</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>54066</id>
+  </point>
+  <point>
+    <name>Арыскан</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>54067</id>
+  </point>
+  <point>
+    <name>Ийи-Тал</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>54071</id>
+  </point>
+  <point>
+    <name>Иштии-Хем</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>50825</id>
+  </point>
+  <point>
+    <name>Торгалыг</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>54038</id>
+  </point>
+  <point>
+    <name>Хайыракан</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>54070</id>
+  </point>
+  <point>
+    <name>Чодураа</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>54068</id>
+  </point>
+  <point>
+    <name>Шагонар</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>9115</id>
+  </point>
+  <point>
+    <name>Эйлиг-Хем</name>
+    <district>Улуг-Хемский кожуун</district>
+    <id>50828</id>
+  </point>
+  <point>
+    <name>Чаа-Холь</name>
+    <district>Чаа-Хольский кожуун</district>
+    <id>152653</id>
+  </point>
+  <point>
+    <name>Ак-Дуруг</name>
+    <district>Чаа-Хольский кожуун</district>
+    <id>54065</id>
+  </point>
+  <point>
+    <name>Булун-Терек</name>
+    <district>Чаа-Хольский кожуун</district>
+    <id>54064</id>
+  </point>
+  <point>
+    <name>Шанчы</name>
+    <district>Чаа-Хольский кожуун</district>
+    <id>54063</id>
+  </point>
+  <point>
+    <name>Ак-Тал</name>
+    <district>Чеди-Хольский кожуун</district>
+    <id>54074</id>
+  </point>
+  <point>
+    <name>Сайлыг</name>
+    <district>Чеди-Хольский кожуун</district>
+    <id>50831</id>
+  </point>
+  <point>
+    <name>Хаак</name>
+    <district>Чеди-Хольский кожуун</district>
+    <id>1284</id>
+  </point>
+  <point>
+    <name>Хову-Аксы</name>
+    <district>Чеди-Хольский кожуун</district>
+    <id>135790</id>
+  </point>
+  <point>
+    <name>Чал-Кежиг</name>
+    <district>Чеди-Хольский кожуун</district>
+    <id>54075</id>
+  </point>
+  <point>
+    <name>Элегест</name>
+    <district>Чеди-Хольский кожуун</district>
+    <id>54076</id>
+  </point>
+  <point>
+    <name>Эрзин</name>
+    <district>Эрзинский кожуун</district>
+    <id>9341</id>
+  </point>
+  <point>
+    <name>Бай-Даг</name>
+    <district>Эрзинский кожуун</district>
+    <id>50860</id>
+  </point>
+  <point>
+    <name>Булун-Бажы</name>
+    <district>Эрзинский кожуун</district>
+    <id>50869</id>
+  </point>
+  <point>
+    <name>Морен</name>
+    <district>Эрзинский кожуун</district>
+    <id>54126</id>
+  </point>
+  <point>
+    <name>Нарын</name>
+    <district>Эрзинский кожуун</district>
+    <id>54128</id>
+  </point>
+</region>

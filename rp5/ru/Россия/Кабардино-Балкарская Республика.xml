@@ -1,0 +1,807 @@
+<region name="Кабардино-Балкарская Республика" count="161">
+  <point>
+    <name>Баксан</name>
+    <district>Баксанский район</district>
+    <id>1308</id>
+  </point>
+  <point>
+    <name>Баксаненок</name>
+    <district>Баксанский район</district>
+    <id>90636</id>
+  </point>
+  <point>
+    <name>Исламей</name>
+    <district>Баксанский район</district>
+    <id>90623</id>
+  </point>
+  <point>
+    <name>Кременчуг-Константиновское</name>
+    <district>Баксанский район</district>
+    <id>90635</id>
+  </point>
+  <point>
+    <name>Псыхурей</name>
+    <district>Баксанский район</district>
+    <id>90639</id>
+  </point>
+  <point>
+    <name>Баксангэс</name>
+    <district>Баксанский район</district>
+    <id>90621</id>
+  </point>
+  <point>
+    <name>Верхний Куркужин</name>
+    <district>Баксанский район</district>
+    <id>90625</id>
+  </point>
+  <point>
+    <name>Гунделен</name>
+    <district>Баксанский район</district>
+    <id>90614</id>
+  </point>
+  <point>
+    <name>Жанхотеко</name>
+    <district>Баксанский район</district>
+    <id>90616</id>
+  </point>
+  <point>
+    <name>Заюково</name>
+    <district>Баксанский район</district>
+    <id>90624</id>
+  </point>
+  <point>
+    <name>Кишпек</name>
+    <district>Баксанский район</district>
+    <id>90633</id>
+  </point>
+  <point>
+    <name>Куба-Таба</name>
+    <district>Баксанский район</district>
+    <id>90627</id>
+  </point>
+  <point>
+    <name>Нижний Куркужин</name>
+    <district>Баксанский район</district>
+    <id>90626</id>
+  </point>
+  <point>
+    <name>Псычох</name>
+    <district>Баксанский район</district>
+    <id>90634</id>
+  </point>
+  <point>
+    <name>Батех</name>
+    <district>Зольский район</district>
+    <id>90609</id>
+  </point>
+  <point>
+    <name>Белокаменское</name>
+    <district>Зольский район</district>
+    <id>90603</id>
+  </point>
+  <point>
+    <name>Дженал</name>
+    <district>Зольский район</district>
+    <id>90612</id>
+  </point>
+  <point>
+    <name>Залукодес</name>
+    <district>Зольский район</district>
+    <id>90611</id>
+  </point>
+  <point>
+    <name>Залукокоаже</name>
+    <district>Зольский район</district>
+    <id>90592</id>
+  </point>
+  <point>
+    <name>Зольское</name>
+    <district>Зольский район</district>
+    <id>90610</id>
+  </point>
+  <point>
+    <name>Каменномостское</name>
+    <district>Зольский район</district>
+    <id>166529</id>
+  </point>
+  <point>
+    <name>Камлюко</name>
+    <district>Зольский район</district>
+    <id>90628</id>
+  </point>
+  <point>
+    <name>Кичмалка</name>
+    <district>Зольский район</district>
+    <id>90675</id>
+  </point>
+  <point>
+    <name>Малка</name>
+    <district>Зольский район</district>
+    <id>5157</id>
+  </point>
+  <point>
+    <name>Октябрьское</name>
+    <district>Зольский район</district>
+    <id>90606</id>
+  </point>
+  <point>
+    <name>Псынодаха</name>
+    <district>Зольский район</district>
+    <id>90608</id>
+  </point>
+  <point>
+    <name>Сармаково</name>
+    <district>Зольский район</district>
+    <id>7307</id>
+  </point>
+  <point>
+    <name>Светловодское</name>
+    <district>Зольский район</district>
+    <id>90607</id>
+  </point>
+  <point>
+    <name>Совхозное</name>
+    <district>Зольский район</district>
+    <id>90613</id>
+  </point>
+  <point>
+    <name>Хабаз</name>
+    <district>Зольский район</district>
+    <id>90677</id>
+  </point>
+  <point>
+    <name>Шардаково</name>
+    <district>Зольский район</district>
+    <id>90605</id>
+  </point>
+  <point>
+    <name>Этоко</name>
+    <district>Зольский район</district>
+    <id>90604</id>
+  </point>
+  <point>
+    <name>Анзорей</name>
+    <district>Лескенский район</district>
+    <id>152624</id>
+  </point>
+  <point>
+    <name>Аргудан</name>
+    <district>Лескенский район</district>
+    <id>90643</id>
+  </point>
+  <point>
+    <name>Верхний Лескен</name>
+    <district>Лескенский район</district>
+    <id>90723</id>
+  </point>
+  <point>
+    <name>Ерокко</name>
+    <district>Лескенский район</district>
+    <id>166530</id>
+  </point>
+  <point>
+    <name>Озрек</name>
+    <district>Лескенский район</district>
+    <id>90708</id>
+  </point>
+  <point>
+    <name>Старый Лескен</name>
+    <district>Лескенский район</district>
+    <id>7788</id>
+  </point>
+  <point>
+    <name>Ташлы-Тала</name>
+    <district>Лескенский район</district>
+    <id>90722</id>
+  </point>
+  <point>
+    <name>Урух</name>
+    <district>Лескенский район</district>
+    <id>90724</id>
+  </point>
+  <point>
+    <name>Майский</name>
+    <district>Майский район</district>
+    <id>5103</id>
+  </point>
+  <point>
+    <name>Котляревская</name>
+    <district>Майский район</district>
+    <id>90709</id>
+  </point>
+  <point>
+    <name>Красная Поляна</name>
+    <district>Майский район</district>
+    <id>90645</id>
+  </point>
+  <point>
+    <name>Ново-Ивановское</name>
+    <district>Майский район</district>
+    <id>90647</id>
+  </point>
+  <point>
+    <name>Октябрьское</name>
+    <district>Майский район</district>
+    <id>90710</id>
+  </point>
+  <point>
+    <name>Александровская</name>
+    <district>Майский район</district>
+    <id>90704</id>
+  </point>
+  <point>
+    <name>Баксанский</name>
+    <district>Майский район</district>
+    <id>90646</id>
+  </point>
+  <point>
+    <name>Колдрасинский</name>
+    <district>Майский район</district>
+    <id>90649</id>
+  </point>
+  <point>
+    <name>Ново-Курский</name>
+    <district>Майский район</district>
+    <id>166531</id>
+  </point>
+  <point>
+    <name>Право-Урванский</name>
+    <district>Майский район</district>
+    <id>90648</id>
+  </point>
+  <point>
+    <name>Славянский</name>
+    <district>Майский район</district>
+    <id>90651</id>
+  </point>
+  <point>
+    <name>Нальчик (аэропорт)</name>
+    <district>Нальчик</district>
+    <id>5633</id>
+  </point>
+  <point>
+    <name>Белая Речка</name>
+    <district>Нальчик</district>
+    <id>90598</id>
+  </point>
+  <point>
+    <name>Кенже</name>
+    <district>Нальчик</district>
+    <id>90597</id>
+  </point>
+  <point>
+    <name>Хасанья</name>
+    <district>Нальчик</district>
+    <id>90596</id>
+  </point>
+  <point>
+    <name>Прохладный</name>
+    <district>Прохладненский район</district>
+    <id>6926</id>
+  </point>
+  <point>
+    <name>Алтуд</name>
+    <district>Прохладненский район</district>
+    <id>90662</id>
+  </point>
+  <point>
+    <name>Екатериноградская</name>
+    <district>Прохладненский район</district>
+    <id>90689</id>
+  </point>
+  <point>
+    <name>Карагач</name>
+    <district>Прохладненский район</district>
+    <id>90655</id>
+  </point>
+  <point>
+    <name>Солдатская</name>
+    <district>Прохладненский район</district>
+    <id>7608</id>
+  </point>
+  <point>
+    <name>Александровский</name>
+    <district>Прохладненский район</district>
+    <id>90660</id>
+  </point>
+  <point>
+    <name>Благовещенка</name>
+    <district>Прохладненский район</district>
+    <id>90658</id>
+  </point>
+  <point>
+    <name>Виноградное</name>
+    <district>Прохладненский район</district>
+    <id>90702</id>
+  </point>
+  <point>
+    <name>Восточное</name>
+    <district>Прохладненский район</district>
+    <id>90695</id>
+  </point>
+  <point>
+    <name>Гвардейское</name>
+    <district>Прохладненский район</district>
+    <id>90707</id>
+  </point>
+  <point>
+    <name>Грабовец</name>
+    <district>Прохладненский район</district>
+    <id>90638</id>
+  </point>
+  <point>
+    <name>Граничное</name>
+    <district>Прохладненский район</district>
+    <id>90714</id>
+  </point>
+  <point>
+    <name>Заречное</name>
+    <district>Прохладненский район</district>
+    <id>90669</id>
+  </point>
+  <point>
+    <name>Комсомольское</name>
+    <district>Прохладненский район</district>
+    <id>90671</id>
+  </point>
+  <point>
+    <name>Красносельское</name>
+    <district>Прохладненский район</district>
+    <id>90713</id>
+  </point>
+  <point>
+    <name>Лесное</name>
+    <district>Прохладненский район</district>
+    <id>90665</id>
+  </point>
+  <point>
+    <name>Матвеевский</name>
+    <district>Прохладненский район</district>
+    <id>166532</id>
+  </point>
+  <point>
+    <name>Минский</name>
+    <district>Прохладненский район</district>
+    <id>90659</id>
+  </point>
+  <point>
+    <name>Ново-Вознесенский</name>
+    <district>Прохладненский район</district>
+    <id>90667</id>
+  </point>
+  <point>
+    <name>Ново-Осетинский</name>
+    <district>Прохладненский район</district>
+    <id>166533</id>
+  </point>
+  <point>
+    <name>Ново-Покровский</name>
+    <district>Прохладненский район</district>
+    <id>90711</id>
+  </point>
+  <point>
+    <name>Ново-Полтавское</name>
+    <district>Прохладненский район</district>
+    <id>90668</id>
+  </point>
+  <point>
+    <name>Ново-Троицкий</name>
+    <district>Прохладненский район</district>
+    <id>166534</id>
+  </point>
+  <point>
+    <name>Петропавловский</name>
+    <district>Прохладненский район</district>
+    <id>90661</id>
+  </point>
+  <point>
+    <name>Приближная</name>
+    <district>Прохладненский район</district>
+    <id>90701</id>
+  </point>
+  <point>
+    <name>Прималкинское</name>
+    <district>Прохладненский район</district>
+    <id>166535</id>
+  </point>
+  <point>
+    <name>Прогресс</name>
+    <district>Прохладненский район</district>
+    <id>90670</id>
+  </point>
+  <point>
+    <name>Пролетарское</name>
+    <district>Прохладненский район</district>
+    <id>90712</id>
+  </point>
+  <point>
+    <name>Псыншоко</name>
+    <district>Прохладненский район</district>
+    <id>90637</id>
+  </point>
+  <point>
+    <name>Саратовский</name>
+    <district>Прохладненский район</district>
+    <id>90657</id>
+  </point>
+  <point>
+    <name>Советское</name>
+    <district>Прохладненский район</district>
+    <id>90656</id>
+  </point>
+  <point>
+    <name>Степное</name>
+    <district>Прохладненский район</district>
+    <id>90674</id>
+  </point>
+  <point>
+    <name>Ульяновское</name>
+    <district>Прохладненский район</district>
+    <id>90703</id>
+  </point>
+  <point>
+    <name>Учебное</name>
+    <district>Прохладненский район</district>
+    <id>166536</id>
+  </point>
+  <point>
+    <name>Черниговское</name>
+    <district>Прохладненский район</district>
+    <id>90663</id>
+  </point>
+  <point>
+    <name>Янтарное</name>
+    <district>Прохладненский район</district>
+    <id>90664</id>
+  </point>
+  <point>
+    <name>Терек</name>
+    <district>Терский район</district>
+    <id>8114</id>
+  </point>
+  <point>
+    <name>Куян</name>
+    <district>Терский район</district>
+    <id>90697</id>
+  </point>
+  <point>
+    <name>Терекское</name>
+    <district>Терский район</district>
+    <id>90683</id>
+  </point>
+  <point>
+    <name>Урожайное</name>
+    <district>Терский район</district>
+    <id>90694</id>
+  </point>
+  <point>
+    <name>Хамидие</name>
+    <district>Терский район</district>
+    <id>90679</id>
+  </point>
+  <point>
+    <name>Акведук</name>
+    <district>Терский район</district>
+    <id>166537</id>
+  </point>
+  <point>
+    <name>Арик</name>
+    <district>Терский район</district>
+    <id>90696</id>
+  </point>
+  <point>
+    <name>Белоглинское</name>
+    <district>Терский район</district>
+    <id>90685</id>
+  </point>
+  <point>
+    <name>Верхний Акбаш</name>
+    <district>Терский район</district>
+    <id>90686</id>
+  </point>
+  <point>
+    <name>Верхний Курп</name>
+    <district>Терский район</district>
+    <id>90680</id>
+  </point>
+  <point>
+    <name>Дейское</name>
+    <district>Терский район</district>
+    <id>166538</id>
+  </point>
+  <point>
+    <name>Джулат</name>
+    <district>Терский район</district>
+    <id>166539</id>
+  </point>
+  <point>
+    <name>Инаркой</name>
+    <district>Терский район</district>
+    <id>166540</id>
+  </point>
+  <point>
+    <name>Красноармейское</name>
+    <district>Терский район</district>
+    <id>90699</id>
+  </point>
+  <point>
+    <name>Малый Терек</name>
+    <district>Терский район</district>
+    <id>90682</id>
+  </point>
+  <point>
+    <name>Нижний Акбаш</name>
+    <district>Терский район</district>
+    <id>90692</id>
+  </point>
+  <point>
+    <name>Нижний Курп</name>
+    <district>Терский район</district>
+    <id>90678</id>
+  </point>
+  <point>
+    <name>Новая Балкария</name>
+    <district>Терский район</district>
+    <id>90693</id>
+  </point>
+  <point>
+    <name>Новое Хамидие</name>
+    <district>Терский район</district>
+    <id>90681</id>
+  </point>
+  <point>
+    <name>Опытное</name>
+    <district>Терский район</district>
+    <id>90698</id>
+  </point>
+  <point>
+    <name>Плановское</name>
+    <district>Терский район</district>
+    <id>90690</id>
+  </point>
+  <point>
+    <name>Псынашхо</name>
+    <district>Терский район</district>
+    <id>90705</id>
+  </point>
+  <point>
+    <name>Тамбовское</name>
+    <district>Терский район</district>
+    <id>90691</id>
+  </point>
+  <point>
+    <name>Шикулей</name>
+    <district>Терский район</district>
+    <id>90700</id>
+  </point>
+  <point>
+    <name>Герменчик</name>
+    <district>Урванский район</district>
+    <id>90653</id>
+  </point>
+  <point>
+    <name>Кабардинка</name>
+    <district>Урванский район</district>
+    <id>90650</id>
+  </point>
+  <point>
+    <name>Кахун</name>
+    <district>Урванский район</district>
+    <id>166541</id>
+  </point>
+  <point>
+    <name>Морзох</name>
+    <district>Урванский район</district>
+    <id>166542</id>
+  </point>
+  <point>
+    <name>Нарткала</name>
+    <district>Урванский район</district>
+    <id>5652</id>
+  </point>
+  <point>
+    <name>Нижний Черек</name>
+    <district>Урванский район</district>
+    <id>90644</id>
+  </point>
+  <point>
+    <name>Псыгансу</name>
+    <district>Урванский район</district>
+    <id>90640</id>
+  </point>
+  <point>
+    <name>Псыкод</name>
+    <district>Урванский район</district>
+    <id>90602</id>
+  </point>
+  <point>
+    <name>Псынабо</name>
+    <district>Урванский район</district>
+    <id>90652</id>
+  </point>
+  <point>
+    <name>Старый Черек</name>
+    <district>Урванский район</district>
+    <id>90642</id>
+  </point>
+  <point>
+    <name>Урвань</name>
+    <district>Урванский район</district>
+    <id>90630</id>
+  </point>
+  <point>
+    <name>Черная Речка</name>
+    <district>Урванский район</district>
+    <id>90654</id>
+  </point>
+  <point>
+    <name>Шитхала</name>
+    <district>Урванский район</district>
+    <id>166543</id>
+  </point>
+  <point>
+    <name>Чегем</name>
+    <district>Чегемский район</district>
+    <id>8941</id>
+  </point>
+  <point>
+    <name>Булунгу</name>
+    <district>Чегемский район</district>
+    <id>166544</id>
+  </point>
+  <point>
+    <name>Каменка</name>
+    <district>Чегемский район</district>
+    <id>166545</id>
+  </point>
+  <point>
+    <name>Чегем-Второй</name>
+    <district>Чегемский район</district>
+    <id>166546</id>
+  </point>
+  <point>
+    <name>Эльтюбю</name>
+    <district>Чегемский район</district>
+    <id>90715</id>
+  </point>
+  <point>
+    <name>Верхний Чегем</name>
+    <district>Чегемский район</district>
+    <id>90716</id>
+  </point>
+  <point>
+    <name>Лечинкай</name>
+    <district>Чегемский район</district>
+    <id>90619</id>
+  </point>
+  <point>
+    <name>Нартан</name>
+    <district>Чегемский район</district>
+    <id>90599</id>
+  </point>
+  <point>
+    <name>Нижний Чегем</name>
+    <district>Чегемский район</district>
+    <id>90673</id>
+  </point>
+  <point>
+    <name>Хушто-Сырт</name>
+    <district>Чегемский район</district>
+    <id>90618</id>
+  </point>
+  <point>
+    <name>Шалушка</name>
+    <district>Чегемский район</district>
+    <id>90632</id>
+  </point>
+  <point>
+    <name>Яникой</name>
+    <district>Чегемский район</district>
+    <id>90620</id>
+  </point>
+  <point>
+    <name>Аушигер</name>
+    <district>Черекский район</district>
+    <id>90631</id>
+  </point>
+  <point>
+    <name>Бабугент</name>
+    <district>Черекский район</district>
+    <id>90719</id>
+  </point>
+  <point>
+    <name>Безенги (альплагерь)</name>
+    <district>Черекский район</district>
+    <id>13809</id>
+  </point>
+  <point>
+    <name>Верхняя Балкария</name>
+    <district>Черекский район</district>
+    <id>90718</id>
+  </point>
+  <point>
+    <name>Верхняя Жемтала</name>
+    <district>Черекский район</district>
+    <id>90721</id>
+  </point>
+  <point>
+    <name>Герпегеж</name>
+    <district>Черекский район</district>
+    <id>90629</id>
+  </point>
+  <point>
+    <name>Жемтала</name>
+    <district>Черекский район</district>
+    <id>90720</id>
+  </point>
+  <point>
+    <name>Зарагиж</name>
+    <district>Черекский район</district>
+    <id>90601</id>
+  </point>
+  <point>
+    <name>Карасу</name>
+    <district>Черекский район</district>
+    <id>90717</id>
+  </point>
+  <point>
+    <name>Кашхатау</name>
+    <district>Черекский район</district>
+    <id>3907</id>
+  </point>
+  <point>
+    <name>Бедык</name>
+    <district>Эльбрусский район</district>
+    <id>90617</id>
+  </point>
+  <point>
+    <name>Былым</name>
+    <district>Эльбрусский район</district>
+    <id>90595</id>
+  </point>
+  <point>
+    <name>Верхний Баксан</name>
+    <district>Эльбрусский район</district>
+    <id>90594</id>
+  </point>
+  <point>
+    <name>Лашкута</name>
+    <district>Эльбрусский район</district>
+    <id>90615</id>
+  </point>
+  <point>
+    <name>ледник Гарабаши</name>
+    <district>Эльбрусский район</district>
+    <id>510464</id>
+  </point>
+  <point>
+    <name>Приэльбрусье (горнолыжный курорт)</name>
+    <district>Эльбрусский район</district>
+    <id>470325</id>
+  </point>
+  <point>
+    <name>Приэльбрусье (национальный парк)</name>
+    <district>Эльбрусский район</district>
+    <id>470313</id>
+  </point>
+  <point>
+    <name>Тегенекли</name>
+    <district>Эльбрусский район</district>
+    <id>8082</id>
+  </point>
+  <point>
+    <name>Терскол</name>
+    <district>Эльбрусский район</district>
+    <id>13615</id>
+  </point>
+  <point>
+    <name>Тырныауз</name>
+    <district>Эльбрусский район</district>
+    <id>8363</id>
+  </point>
+  <point>
+    <name>Эльбрус</name>
+    <district>Эльбрусский район</district>
+    <id>90593</id>
+  </point>
+</region>

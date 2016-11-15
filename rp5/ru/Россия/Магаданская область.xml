@@ -1,0 +1,557 @@
+<region name="Магаданская область" count="111">
+  <point>
+    <name>Магадан</name>
+    <district>Магадан</district>
+    <id>5081</id>
+  </point>
+  <point>
+    <name>Магадан / Сокол (аэропорт)</name>
+    <district>Магадан</district>
+    <id>7593</id>
+  </point>
+  <point>
+    <name>Нагаева бухта</name>
+    <district>Магадан</district>
+    <id>5605</id>
+  </point>
+  <point>
+    <name>Уптар</name>
+    <district>Магадан</district>
+    <id>40586</id>
+  </point>
+  <point>
+    <name>Ола</name>
+    <district>Ольский район</district>
+    <id>6252</id>
+  </point>
+  <point>
+    <name>Армань</name>
+    <district>Ольский район</district>
+    <id>1154</id>
+  </point>
+  <point>
+    <name>Сокол</name>
+    <district>Ольский район</district>
+    <id>45684</id>
+  </point>
+  <point>
+    <name>Талон</name>
+    <district>Ольский район</district>
+    <id>8002</id>
+  </point>
+  <point>
+    <name>о. Спафарьева</name>
+    <district>Ольский район</district>
+    <id>10163</id>
+  </point>
+  <point>
+    <name>Алевина (мыс)</name>
+    <district>Ольский район</district>
+    <id>10131</id>
+  </point>
+  <point>
+    <name>Балаганное</name>
+    <district>Ольский район</district>
+    <id>45748</id>
+  </point>
+  <point>
+    <name>Братьев (мыс)</name>
+    <district>Ольский район</district>
+    <id>10132</id>
+  </point>
+  <point>
+    <name>Брохово</name>
+    <district>Ольский район</district>
+    <id>10135</id>
+  </point>
+  <point>
+    <name>Гадля</name>
+    <district>Ольский район</district>
+    <id>45738</id>
+  </point>
+  <point>
+    <name>Клепка</name>
+    <district>Ольский район</district>
+    <id>45739</id>
+  </point>
+  <point>
+    <name>Мотыклей</name>
+    <district>Ольский район</district>
+    <id>45746</id>
+  </point>
+  <point>
+    <name>Новостройка</name>
+    <district>Ольский район</district>
+    <id>45752</id>
+  </point>
+  <point>
+    <name>Радужный</name>
+    <district>Ольский район</district>
+    <id>45742</id>
+  </point>
+  <point>
+    <name>Тауйск</name>
+    <district>Ольский район</district>
+    <id>8060</id>
+  </point>
+  <point>
+    <name>Тахтоямск</name>
+    <district>Ольский район</district>
+    <id>45694</id>
+  </point>
+  <point>
+    <name>Уптар</name>
+    <district>Ольский район</district>
+    <id>45685</id>
+  </point>
+  <point>
+    <name>Шелехова</name>
+    <district>Ольский район</district>
+    <id>10133</id>
+  </point>
+  <point>
+    <name>Шельтинга</name>
+    <district>Ольский район</district>
+    <id>45745</id>
+  </point>
+  <point>
+    <name>Ямск</name>
+    <district>Ольский район</district>
+    <id>40580</id>
+  </point>
+  <point>
+    <name>Яна</name>
+    <district>Ольский район</district>
+    <id>157397</id>
+  </point>
+  <point>
+    <name>Янский</name>
+    <district>Ольский район</district>
+    <id>45751</id>
+  </point>
+  <point>
+    <name>Омсукчан</name>
+    <district>Омсукчанский район</district>
+    <id>6291</id>
+  </point>
+  <point>
+    <name>Дукат</name>
+    <district>Омсукчанский район</district>
+    <id>2991</id>
+  </point>
+  <point>
+    <name>Купка</name>
+    <district>Омсукчанский район</district>
+    <id>45764</id>
+  </point>
+  <point>
+    <name>Меренга</name>
+    <district>Омсукчанский район</district>
+    <id>5315</id>
+  </point>
+  <point>
+    <name>Пёстрая Дресва</name>
+    <district>Омсукчанский район</district>
+    <id>6578</id>
+  </point>
+  <point>
+    <name>Верхний Балыгычан</name>
+    <district>Омсукчанский район</district>
+    <id>45770</id>
+  </point>
+  <point>
+    <name>Галимый</name>
+    <district>Омсукчанский район</district>
+    <id>2506</id>
+  </point>
+  <point>
+    <name>Верхний Парень</name>
+    <district>Северо-Эвенский район</district>
+    <id>45759</id>
+  </point>
+  <point>
+    <name>Гарманда</name>
+    <district>Северо-Эвенский район</district>
+    <id>2516</id>
+  </point>
+  <point>
+    <name>Гижига</name>
+    <district>Северо-Эвенский район</district>
+    <id>2543</id>
+  </point>
+  <point>
+    <name>Кегали</name>
+    <district>Северо-Эвенский район</district>
+    <id>10126</id>
+  </point>
+  <point>
+    <name>Лабазная</name>
+    <district>Северо-Эвенский район</district>
+    <id>10128</id>
+  </point>
+  <point>
+    <name>Малая Чайбуха</name>
+    <district>Северо-Эвенский район</district>
+    <id>45758</id>
+  </point>
+  <point>
+    <name>Тайгонос (мыс)</name>
+    <district>Северо-Эвенский район</district>
+    <id>7969</id>
+  </point>
+  <point>
+    <name>Тополовка</name>
+    <district>Северо-Эвенский район</district>
+    <id>45756</id>
+  </point>
+  <point>
+    <name>Чайбуха (аэропорт)</name>
+    <district>Северо-Эвенский район</district>
+    <id>508906</id>
+  </point>
+  <point>
+    <name>Чайбуха</name>
+    <district>Северо-Эвенский район</district>
+    <id>8900</id>
+  </point>
+  <point>
+    <name>Эвенск</name>
+    <district>Северо-Эвенский район</district>
+    <id>9312</id>
+  </point>
+  <point>
+    <name>Сеймчан</name>
+    <district>Среднеканский район</district>
+    <id>7395</id>
+  </point>
+  <point>
+    <name>Верхний Сеймчан</name>
+    <district>Среднеканский район</district>
+    <id>45772</id>
+  </point>
+  <point>
+    <name>Глухариный</name>
+    <district>Среднеканский район</district>
+    <id>2564</id>
+  </point>
+  <point>
+    <name>Среднекан</name>
+    <district>Среднеканский район</district>
+    <id>6063</id>
+  </point>
+  <point>
+    <name>Усть-Среднекан</name>
+    <district>Среднеканский район</district>
+    <id>45791</id>
+  </point>
+  <point>
+    <name>Балыгычан</name>
+    <district>Среднеканский район</district>
+    <id>1333</id>
+  </point>
+  <point>
+    <name>Колымское</name>
+    <district>Среднеканский район</district>
+    <id>45786</id>
+  </point>
+  <point>
+    <name>Коркодон р.</name>
+    <district>Среднеканский район</district>
+    <id>4277</id>
+  </point>
+  <point>
+    <name>Солнечный</name>
+    <district>Среднеканский район</district>
+    <id>45785</id>
+  </point>
+  <point>
+    <name>Сусуман</name>
+    <district>Сусуманский район</district>
+    <id>7897</id>
+  </point>
+  <point>
+    <name>Аркагала</name>
+    <district>Сусуманский район</district>
+    <id>45809</id>
+  </point>
+  <point>
+    <name>Мяунджа</name>
+    <district>Сусуманский район</district>
+    <id>5595</id>
+  </point>
+  <point>
+    <name>Холодный</name>
+    <district>Сусуманский район</district>
+    <id>45699</id>
+  </point>
+  <point>
+    <name>Широкий</name>
+    <district>Сусуманский район</district>
+    <id>9239</id>
+  </point>
+  <point>
+    <name>Беличан</name>
+    <district>Сусуманский район</district>
+    <id>45705</id>
+  </point>
+  <point>
+    <name>Большевик</name>
+    <district>Сусуманский район</district>
+    <id>1704</id>
+  </point>
+  <point>
+    <name>Буркандья</name>
+    <district>Сусуманский район</district>
+    <id>1918</id>
+  </point>
+  <point>
+    <name>Кадыкчан</name>
+    <district>Сусуманский район</district>
+    <id>3635</id>
+  </point>
+  <point>
+    <name>Кедровый</name>
+    <district>Сусуманский район</district>
+    <id>45806</id>
+  </point>
+  <point>
+    <name>Мальдяк</name>
+    <district>Сусуманский район</district>
+    <id>45811</id>
+  </point>
+  <point>
+    <name>Ударник</name>
+    <district>Сусуманский район</district>
+    <id>157398</id>
+  </point>
+  <point>
+    <name>Усть-Хакчан</name>
+    <district>Сусуманский район</district>
+    <id>45799</id>
+  </point>
+  <point>
+    <name>Аян-Юрях</name>
+    <district>Тенькинский район</district>
+    <id>45800</id>
+  </point>
+  <point>
+    <name>Ветреный</name>
+    <district>Тенькинский район</district>
+    <id>45835</id>
+  </point>
+  <point>
+    <name>им. Гастелло</name>
+    <district>Тенькинский район</district>
+    <id>40582</id>
+  </point>
+  <point>
+    <name>им. Матросова</name>
+    <district>Тенькинский район</district>
+    <id>45825</id>
+  </point>
+  <point>
+    <name>им.Гастелло</name>
+    <district>Тенькинский район</district>
+    <id>3511</id>
+  </point>
+  <point>
+    <name>Колымская</name>
+    <district>Тенькинский район</district>
+    <id>170615</id>
+  </point>
+  <point>
+    <name>Кулу</name>
+    <district>Тенькинский район</district>
+    <id>4665</id>
+  </point>
+  <point>
+    <name>Мадаун</name>
+    <district>Тенькинский район</district>
+    <id>5090</id>
+  </point>
+  <point>
+    <name>Мой-Уруста</name>
+    <district>Тенькинский район</district>
+    <id>45836</id>
+  </point>
+  <point>
+    <name>Обо</name>
+    <district>Тенькинский район</district>
+    <id>45834</id>
+  </point>
+  <point>
+    <name>Омчак</name>
+    <district>Тенькинский район</district>
+    <id>6294</id>
+  </point>
+  <point>
+    <name>Оротук</name>
+    <district>Тенькинский район</district>
+    <id>45817</id>
+  </point>
+  <point>
+    <name>Транспортный</name>
+    <district>Тенькинский район</district>
+    <id>45830</id>
+  </point>
+  <point>
+    <name>Усть-Омчуг</name>
+    <district>Тенькинский район</district>
+    <id>8613</id>
+  </point>
+  <point>
+    <name>Яна</name>
+    <district>Тенькинский район</district>
+    <id>45750</id>
+  </point>
+  <point>
+    <name>Атка</name>
+    <district>Хасынский район</district>
+    <id>1207</id>
+  </point>
+  <point>
+    <name>Буркот</name>
+    <district>Хасынский район</district>
+    <id>45766</id>
+  </point>
+  <point>
+    <name>Джека Лондона оз.</name>
+    <district>Хасынский район</district>
+    <id>10121</id>
+  </point>
+  <point>
+    <name>Карамкен</name>
+    <district>Хасынский район</district>
+    <id>3811</id>
+  </point>
+  <point>
+    <name>Молочная</name>
+    <district>Хасынский район</district>
+    <id>45744</id>
+  </point>
+  <point>
+    <name>Палатка</name>
+    <district>Хасынский район</district>
+    <id>6438</id>
+  </point>
+  <point>
+    <name>Поворотный</name>
+    <district>Хасынский район</district>
+    <id>45767</id>
+  </point>
+  <point>
+    <name>Сплавная</name>
+    <district>Хасынский район</district>
+    <id>45743</id>
+  </point>
+  <point>
+    <name>Стекольный</name>
+    <district>Хасынский район</district>
+    <id>98631</id>
+  </point>
+  <point>
+    <name>Талая</name>
+    <district>Хасынский район</district>
+    <id>45686</id>
+  </point>
+  <point>
+    <name>Хасын</name>
+    <district>Хасынский район</district>
+    <id>45762</id>
+  </point>
+  <point>
+    <name>Яблоневый</name>
+    <district>Хасынский район</district>
+    <id>45761</id>
+  </point>
+  <point>
+    <name>Ягодное</name>
+    <district>Ягоднинский район</district>
+    <id>9405</id>
+  </point>
+  <point>
+    <name>Бохапча</name>
+    <district>Ягоднинский район</district>
+    <id>10129</id>
+  </point>
+  <point>
+    <name>Оротукан</name>
+    <district>Ягоднинский район</district>
+    <id>6339</id>
+  </point>
+  <point>
+    <name>Пролетарский</name>
+    <district>Ягоднинский район</district>
+    <id>45781</id>
+  </point>
+  <point>
+    <name>Синегорье</name>
+    <district>Ягоднинский район</district>
+    <id>7516</id>
+  </point>
+  <point>
+    <name>Бурхала</name>
+    <district>Ягоднинский район</district>
+    <id>45706</id>
+  </point>
+  <point>
+    <name>Верхний Ат-Урях</name>
+    <district>Ягоднинский район</district>
+    <id>2094</id>
+  </point>
+  <point>
+    <name>Дебин</name>
+    <district>Ягоднинский район</district>
+    <id>45693</id>
+  </point>
+  <point>
+    <name>Ларюковая</name>
+    <district>Ягоднинский район</district>
+    <id>157400</id>
+  </point>
+  <point>
+    <name>Полевой</name>
+    <district>Ягоднинский район</district>
+    <id>45814</id>
+  </point>
+  <point>
+    <name>Речная</name>
+    <district>Ягоднинский район</district>
+    <id>45822</id>
+  </point>
+  <point>
+    <name>Сенокосный</name>
+    <district>Ягоднинский район</district>
+    <id>45798</id>
+  </point>
+  <point>
+    <name>Спорное</name>
+    <district>Ягоднинский район</district>
+    <id>45695</id>
+  </point>
+  <point>
+    <name>Стан Утиный</name>
+    <district>Ягоднинский район</district>
+    <id>45776</id>
+  </point>
+  <point>
+    <name>Таскан</name>
+    <district>Ягоднинский район</district>
+    <id>8043</id>
+  </point>
+  <point>
+    <name>Хатынгнах</name>
+    <district>Ягоднинский район</district>
+    <id>157399</id>
+  </point>
+  <point>
+    <name>Штурмовой</name>
+    <district>Ягоднинский район</district>
+    <id>45821</id>
+  </point>
+  <point>
+    <name>Эльген</name>
+    <district>Ягоднинский район</district>
+    <id>45789</id>
+  </point>
+</region>

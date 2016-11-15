@@ -1,0 +1,542 @@
+<country name="Австралия" count="90">
+  <point>
+    <name>Грин-Кейп</name>
+    <region>Виктория</region>
+    <district>Грин-Кейп</district>
+    <id>510235</id>
+  </point>
+  <point>
+    <name>Лавертон (аэропорт)</name>
+    <region>Виктория</region>
+    <district>Лавертон (аэропорт)</district>
+    <id>337639</id>
+  </point>
+  <point>
+    <name>Мельбурн (аэропорт)</name>
+    <region>Виктория</region>
+    <district>Мельбурн (аэропорт)</district>
+    <id>337638</id>
+  </point>
+  <point>
+    <name>Мельбурн</name>
+    <region>Виктория</region>
+    <district>Мельбурн</district>
+    <id>341382</id>
+  </point>
+  <point>
+    <name>Меримбула (аэропорт)</name>
+    <region>Виктория</region>
+    <district>Меримбула (аэропорт)</district>
+    <id>510245</id>
+  </point>
+  <point>
+    <name>Эссендон (аэропорт)</name>
+    <region>Виктория</region>
+    <district>Эссендон (аэропорт)</district>
+    <id>510292</id>
+  </point>
+  <point>
+    <name>о. Херд (метеостанция 94997)</name>
+    <region>Внешние территории</region>
+    <district>о. Херд (метеостанция 94997)</district>
+    <id>337624</id>
+  </point>
+  <point>
+    <name>о. Херд</name>
+    <region>Внешние территории</region>
+    <district>о. Херд</district>
+    <id>337599</id>
+  </point>
+  <point>
+    <name>Аргайл (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Аргайл (аэропорт)</district>
+    <id>510383</id>
+  </point>
+  <point>
+    <name>Бадгингарра</name>
+    <region>Западная Австралия</region>
+    <district>Бадгингарра</district>
+    <id>510242</id>
+  </point>
+  <point>
+    <name>Барроу (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Барроу (аэропорт)</district>
+    <id>510386</id>
+  </point>
+  <point>
+    <name>Гингин (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Гингин (аэропорт)</district>
+    <id>510767</id>
+  </point>
+  <point>
+    <name>Гусберри-Хилл</name>
+    <region>Западная Австралия</region>
+    <district>Гусберри-Хилл</district>
+    <id>510239</id>
+  </point>
+  <point>
+    <name>Дерби (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Дерби (аэропорт)</district>
+    <id>337621</id>
+  </point>
+  <point>
+    <name>Джандакот (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Джандакот (аэропорт)</district>
+    <id>508465</id>
+  </point>
+  <point>
+    <name>Джералдтон (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Джералдтон (аэропорт)</district>
+    <id>337673</id>
+  </point>
+  <point>
+    <name>Еукла</name>
+    <region>Западная Австралия</region>
+    <district>Еукла</district>
+    <id>337657</id>
+  </point>
+  <point>
+    <name>Карнарвон (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Карнарвон (аэропорт)</district>
+    <id>337690</id>
+  </point>
+  <point>
+    <name>Кертин (авиабаза)</name>
+    <region>Западная Австралия</region>
+    <district>Кертин (авиабаза)</district>
+    <id>508353</id>
+  </point>
+  <point>
+    <name>Кунунарра (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Кунунарра (аэропорт)</district>
+    <id>337702</id>
+  </point>
+  <point>
+    <name>Лавертон (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Лавертон (аэропорт)</district>
+    <id>337670</id>
+  </point>
+  <point>
+    <name>Ленстер (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Ленстер (аэропорт)</district>
+    <id>337615</id>
+  </point>
+  <point>
+    <name>Лермонт (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Лермонт (аэропорт)</district>
+    <id>337689</id>
+  </point>
+  <point>
+    <name>Марбл-Бар</name>
+    <region>Западная Австралия</region>
+    <district>Марбл-Бар</district>
+    <id>510233</id>
+  </point>
+  <point>
+    <name>Марди (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Марди (аэропорт)</district>
+    <id>510284</id>
+  </point>
+  <point>
+    <name>Маунт-Лоули / Перт</name>
+    <region>Западная Австралия</region>
+    <district>Маунт-Лоули / Перт</district>
+    <id>510760</id>
+  </point>
+  <point>
+    <name>Маунт-Магнет (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Маунт-Магнет (аэропорт)</district>
+    <id>337672</id>
+  </point>
+  <point>
+    <name>Микатарра (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Микатарра (аэропорт)</district>
+    <id>337671</id>
+  </point>
+  <point>
+    <name>Морава (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Морава (аэропорт)</district>
+    <id>510243</id>
+  </point>
+  <point>
+    <name>Мыс Лиувин</name>
+    <region>Западная Австралия</region>
+    <district>Мыс Лиувин</district>
+    <id>337661</id>
+  </point>
+  <point>
+    <name>Мыс Натуралист (маяк)</name>
+    <region>Западная Австралия</region>
+    <district>Мыс Натуралист (маяк)</district>
+    <id>510758</id>
+  </point>
+  <point>
+    <name>Перт (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Перт (аэропорт)</district>
+    <id>337660</id>
+  </point>
+  <point>
+    <name>Перт</name>
+    <region>Западная Австралия</region>
+    <district>Перт</district>
+    <id>341383</id>
+  </point>
+  <point>
+    <name>Пирс (авиабаза)</name>
+    <region>Западная Австралия</region>
+    <district>Пирс (авиабаза)</district>
+    <id>508598</id>
+  </point>
+  <point>
+    <name>Порт-Хедленд (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Порт-Хедленд (аэропорт)</district>
+    <id>337687</id>
+  </point>
+  <point>
+    <name>Сванборн</name>
+    <region>Западная Австралия</region>
+    <district>Сванборн</district>
+    <id>510240</id>
+  </point>
+  <point>
+    <name>Телфер (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Телфер (аэропорт)</district>
+    <id>337685</id>
+  </point>
+  <point>
+    <name>Уиндем (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Уиндем (аэропорт)</district>
+    <id>510762</id>
+  </point>
+  <point>
+    <name>Фицрой-Кроссинг (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Фицрой-Кроссинг (аэропорт)</district>
+    <id>337706</id>
+  </point>
+  <point>
+    <name>Форрест (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Форрест (аэропорт)</district>
+    <id>508397</id>
+  </point>
+  <point>
+    <name>Форрест</name>
+    <region>Западная Австралия</region>
+    <district>Форрест</district>
+    <id>337605</id>
+  </point>
+  <point>
+    <name>Холс-Крик (аэропорт)</name>
+    <region>Западная Австралия</region>
+    <district>Холс-Крик (аэропорт)</district>
+    <id>337703</id>
+  </point>
+  <point>
+    <name>Бердсвилл (аэропорт)</name>
+    <region>Квинсленд</region>
+    <district>Бердсвилл (аэропорт)</district>
+    <id>337611</id>
+  </point>
+  <point>
+    <name>Брисбен (аэропорт)</name>
+    <region>Квинсленд</region>
+    <district>Брисбен (аэропорт)</district>
+    <id>337663</id>
+  </point>
+  <point>
+    <name>Брисбен</name>
+    <region>Квинсленд</region>
+    <district>Брисбен</district>
+    <id>341384</id>
+  </point>
+  <point>
+    <name>Бугенвиль (риф)</name>
+    <region>Квинсленд</region>
+    <district>Бугенвиль (риф)</district>
+    <id>337618</id>
+  </point>
+  <point>
+    <name>Кернс (аэропорт)</name>
+    <region>Квинсленд</region>
+    <district>Кернс (аэропорт)</district>
+    <id>337697</id>
+  </point>
+  <point>
+    <name>Кованьяма (аэропорт)</name>
+    <region>Квинсленд</region>
+    <district>Кованьяма (аэропорт)</district>
+    <id>337698</id>
+  </point>
+  <point>
+    <name>Лонгрич (аэропорт)</name>
+    <region>Квинсленд</region>
+    <district>Лонгрич (аэропорт)</district>
+    <id>337680</id>
+  </point>
+  <point>
+    <name>Маккай (аэропорт)</name>
+    <region>Квинсленд</region>
+    <district>Маккай (аэропорт)</district>
+    <id>337678</id>
+  </point>
+  <point>
+    <name>Марион-Риф</name>
+    <region>Квинсленд</region>
+    <district>Марион-Риф</district>
+    <id>337692</id>
+  </point>
+  <point>
+    <name>о. Гамильтон</name>
+    <region>Квинсленд</region>
+    <district>о. Гамильтон</district>
+    <id>508433</id>
+  </point>
+  <point>
+    <name>о. Уиллис</name>
+    <region>Квинсленд</region>
+    <district>о. Уиллис</district>
+    <id>337691</id>
+  </point>
+  <point>
+    <name>Рокгемптон (аэропорт)</name>
+    <region>Квинсленд</region>
+    <district>Рокгемптон (аэропорт)</district>
+    <id>337677</id>
+  </point>
+  <point>
+    <name>Уэйпа (аэропорт)</name>
+    <region>Квинсленд</region>
+    <district>Уэйпа (аэропорт)</district>
+    <id>337709</id>
+  </point>
+  <point>
+    <name>Холмс Риф</name>
+    <region>Квинсленд</region>
+    <district>Холмс Риф</district>
+    <id>337696</id>
+  </point>
+  <point>
+    <name>Шарлевиль (аэропорт)</name>
+    <region>Квинсленд</region>
+    <district>Шарлевиль (аэропорт)</district>
+    <id>337667</id>
+  </point>
+  <point>
+    <name>Бурк (аэропорт)</name>
+    <region>Новый Южный Уэльс</region>
+    <district>Бурк (аэропорт)</district>
+    <id>337650</id>
+  </point>
+  <point>
+    <name>Вильямтаун (аэродром)</name>
+    <region>Новый Южный Уэльс</region>
+    <district>Вильямтаун (аэродром)</district>
+    <id>337645</id>
+  </point>
+  <point>
+    <name>Кобар (аэропорт)</name>
+    <region>Новый Южный Уэльс</region>
+    <district>Кобар (аэропорт)</district>
+    <id>337649</id>
+  </point>
+  <point>
+    <name>Сидней (аэропорт)</name>
+    <region>Новый Южный Уэльс</region>
+    <district>Сидней (аэропорт)</district>
+    <id>337646</id>
+  </point>
+  <point>
+    <name>Сидней</name>
+    <region>Новый Южный Уэльс</region>
+    <district>Сидней</district>
+    <id>341385</id>
+  </point>
+  <point>
+    <name>Тари (аэропорт)</name>
+    <region>Новый Южный Уэльс</region>
+    <district>Тари (аэропорт)</district>
+    <id>508703</id>
+  </point>
+  <point>
+    <name>Алис-Спрингс (аэропорт)</name>
+    <region>Северная территория</region>
+    <district>Алис-Спрингс (аэропорт)</district>
+    <id>337684</id>
+  </point>
+  <point>
+    <name>Гоув (аэропорт)</name>
+    <region>Северная территория</region>
+    <district>Гоув (аэропорт)</district>
+    <id>337711</id>
+  </point>
+  <point>
+    <name>Гоув (метеостанция)</name>
+    <region>Северная территория</region>
+    <district>Гоув (метеостанция)</district>
+    <id>508420</id>
+  </point>
+  <point>
+    <name>Грут-Айленд (аэропорт)</name>
+    <region>Северная территория</region>
+    <district>Грут-Айленд (аэропорт)</district>
+    <id>510391</id>
+  </point>
+  <point>
+    <name>Дарвин (аэропорт)</name>
+    <region>Северная территория</region>
+    <district>Дарвин (аэропорт)</district>
+    <id>337715</id>
+  </point>
+  <point>
+    <name>Дарвин</name>
+    <region>Северная территория</region>
+    <district>Дарвин</district>
+    <id>341388</id>
+  </point>
+  <point>
+    <name>Рэббит-Флэт</name>
+    <region>Северная территория</region>
+    <district>Рэббит-Флэт</district>
+    <id>337616</id>
+  </point>
+  <point>
+    <name>Северо-восточный остров</name>
+    <region>Северная территория</region>
+    <district>Северо-восточный остров</district>
+    <id>337710</id>
+  </point>
+  <point>
+    <name>Теннант-Крик (аэропорт)</name>
+    <region>Северная территория</region>
+    <district>Теннант-Крик (аэропорт)</district>
+    <id>337701</id>
+  </point>
+  <point>
+    <name>Теннант-Крик</name>
+    <region>Северная территория</region>
+    <district>Теннант-Крик</district>
+    <id>508707</id>
+  </point>
+  <point>
+    <name>Центральный остров</name>
+    <region>Северная территория</region>
+    <district>Центральный остров</district>
+    <id>337700</id>
+  </point>
+  <point>
+    <name>Юлара (аэропорт)</name>
+    <region>Северная территория</region>
+    <district>Юлара (аэропорт)</district>
+    <id>337668</id>
+  </point>
+  <point>
+    <name>Маккуори (остров)</name>
+    <region>Тасмания</region>
+    <district>Маккуори (остров)</district>
+    <id>337623</id>
+  </point>
+  <point>
+    <name>Хобарт (аэропорт)</name>
+    <region>Тасмания</region>
+    <district>Хобарт (аэропорт)</district>
+    <id>337628</id>
+  </point>
+  <point>
+    <name>Хобарт</name>
+    <region>Тасмания</region>
+    <district>Хобарт</district>
+    <id>341386</id>
+  </point>
+  <point>
+    <name>Канберра (аэропорт)</name>
+    <region>Территория федеральной столицы</region>
+    <district>Канберра (аэропорт)</district>
+    <id>337633</id>
+  </point>
+  <point>
+    <name>Канберра</name>
+    <region>Территория федеральной столицы</region>
+    <district>Канберра</district>
+    <id>337393</id>
+  </point>
+  <point>
+    <name>Аделаида (аэропорт)</name>
+    <region>Южная Австралия</region>
+    <district>Аделаида (аэропорт)</district>
+    <id>337653</id>
+  </point>
+  <point>
+    <name>Аделаида</name>
+    <region>Южная Австралия</region>
+    <district>Аделаида</district>
+    <id>341387</id>
+  </point>
+  <point>
+    <name>Вумера (аэропорт)</name>
+    <region>Южная Австралия</region>
+    <district>Вумера (аэропорт)</district>
+    <id>337654</id>
+  </point>
+  <point>
+    <name>Кубер-Педи (аэропорт)</name>
+    <region>Южная Австралия</region>
+    <district>Кубер-Педи (аэропорт)</district>
+    <id>337614</id>
+  </point>
+  <point>
+    <name>Ли-Крик (аэропорт)</name>
+    <region>Южная Австралия</region>
+    <district>Ли-Крик (аэропорт)</district>
+    <id>510265</id>
+  </point>
+  <point>
+    <name>Марри (аэропорт)</name>
+    <region>Южная Австралия</region>
+    <district>Марри (аэропорт)</district>
+    <id>337613</id>
+  </point>
+  <point>
+    <name>Мумба (аэропорт)</name>
+    <region>Южная Австралия</region>
+    <district>Мумба (аэропорт)</district>
+    <id>337612</id>
+  </point>
+  <point>
+    <name>о. Нептун</name>
+    <region>Южная Австралия</region>
+    <district>о. Нептун</district>
+    <id>337643</id>
+  </point>
+  <point>
+    <name>Олимпик-Дам (аэропорт)</name>
+    <region>Южная Австралия</region>
+    <district>Олимпик-Дам (аэропорт)</district>
+    <id>510264</id>
+  </point>
+  <point>
+    <name>Седуна (аэропорт)</name>
+    <region>Южная Австралия</region>
+    <district>Седуна (аэропорт)</district>
+    <id>337655</id>
+  </point>
+</country>

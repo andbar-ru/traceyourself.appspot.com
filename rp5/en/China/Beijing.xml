@@ -1,0 +1,711 @@
+<region name="Beijing" count="119">
+  <point>
+    <name>Beijing / Peking</name>
+    <district>Beijing municipality</district>
+    <id>11820</id>
+  </point>
+  <point>
+    <name>Beijing / Peking (airport)</name>
+    <district>Beijing municipality</district>
+    <id>507922</id>
+  </point>
+  <point>
+    <name>Chaoyang</name>
+    <district>Beijing municipality</district>
+    <id>203875</id>
+  </point>
+  <point>
+    <name>Dongcheng</name>
+    <district>Beijing municipality</district>
+    <id>204035</id>
+  </point>
+  <point>
+    <name>Haidian</name>
+    <district>Beijing municipality</district>
+    <id>204246</id>
+  </point>
+  <point>
+    <name>Bailinsier</name>
+    <region>Beijing</region>
+    <district>Beijing municipality</district>
+    <id>203753</id>
+  </point>
+  <point>
+    <name>Chongwen</name>
+    <region>Beijing</region>
+    <district>Beijing municipality</district>
+    <id>203933</id>
+  </point>
+  <point>
+    <name>Chongwen Lou</name>
+    <region>Beijing</region>
+    <district>Beijing municipality</district>
+    <id>203941</id>
+  </point>
+  <point>
+    <name>Sidaokoujumin</name>
+    <region>Beijing</region>
+    <district>Beijing municipality</district>
+    <id>204404</id>
+  </point>
+  <point>
+    <name>Xicheng</name>
+    <region>Beijing</region>
+    <district>Beijing municipality</district>
+    <id>204472</id>
+  </point>
+  <point>
+    <name>Baishan</name>
+    <region>Beijing</region>
+    <district>Changping district</district>
+    <id>204571</id>
+  </point>
+  <point>
+    <name>Bei</name>
+    <region>Beijing</region>
+    <district>Changping district</district>
+    <id>204585</id>
+  </point>
+  <point>
+    <name>Chengbei</name>
+    <region>Beijing</region>
+    <district>Changping district</district>
+    <id>196856</id>
+  </point>
+  <point>
+    <name>Cuicun</name>
+    <region>Beijing</region>
+    <district>Changping district</district>
+    <id>204624</id>
+  </point>
+  <point>
+    <name>Gaoaikou</name>
+    <region>Beijing</region>
+    <district>Changping district</district>
+    <id>204635</id>
+  </point>
+  <point>
+    <name>Nankou</name>
+    <region>Beijing</region>
+    <district>Changping district</district>
+    <id>204644</id>
+  </point>
+  <point>
+    <name>Anding</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204665</id>
+  </point>
+  <point>
+    <name>Banbidian</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204674</id>
+  </point>
+  <point>
+    <name>Beizangcun</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204683</id>
+  </point>
+  <point>
+    <name>Caiyu</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204694</id>
+  </point>
+  <point>
+    <name>Dalangfa</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204712</id>
+  </point>
+  <point>
+    <name>Daqu</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204721</id>
+  </point>
+  <point>
+    <name>Daxinzhuang</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204732</id>
+  </point>
+  <point>
+    <name>Fengheying</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204742</id>
+  </point>
+  <point>
+    <name>Liuminying</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204750</id>
+  </point>
+  <point>
+    <name>Nangezhuang</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>204758</id>
+  </point>
+  <point>
+    <name>Xingfeng</name>
+    <region>Beijing</region>
+    <district>Daxing district</district>
+    <id>196917</id>
+  </point>
+  <point>
+    <name>Bashimude</name>
+    <region>Beijing</region>
+    <district>Fangshan district</district>
+    <id>204789</id>
+  </point>
+  <point>
+    <name>Beifang</name>
+    <region>Beijing</region>
+    <district>Fangshan district</district>
+    <id>204799</id>
+  </point>
+  <point>
+    <name>Changyang</name>
+    <region>Beijing</region>
+    <district>Fangshan district</district>
+    <id>204818</id>
+  </point>
+  <point>
+    <name>Chechang</name>
+    <region>Beijing</region>
+    <district>Fangshan district</district>
+    <id>204825</id>
+  </point>
+  <point>
+    <name>Cijiawu</name>
+    <region>Beijing</region>
+    <district>Fangshan district</district>
+    <id>204834</id>
+  </point>
+  <point>
+    <name>Gongchen</name>
+    <region>Beijing</region>
+    <district>Fangshan district</district>
+    <id>196903</id>
+  </point>
+  <point>
+    <name>Badaohe</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>204943</id>
+  </point>
+  <point>
+    <name>Baoshansi</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>204954</id>
+  </point>
+  <point>
+    <name>Bei Wan</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>204963</id>
+  </point>
+  <point>
+    <name>Beitaishang</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>204984</id>
+  </point>
+  <point>
+    <name>Beizhai</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>204994</id>
+  </point>
+  <point>
+    <name>Changshaoying</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>205005</id>
+  </point>
+  <point>
+    <name>Chawu</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>205015</id>
+  </point>
+  <point>
+    <name>Erdaoguan</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>205024</id>
+  </point>
+  <point>
+    <name>Huanghuacheng</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>205034</id>
+  </point>
+  <point>
+    <name>Labagoumen</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>205044</id>
+  </point>
+  <point>
+    <name>Longshan</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>196918</id>
+  </point>
+  <point>
+    <name>Miaocheng</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>205055</id>
+  </point>
+  <point>
+    <name>Qidaohe</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>205066</id>
+  </point>
+  <point>
+    <name>Shayu</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>205076</id>
+  </point>
+  <point>
+    <name>Xinying</name>
+    <region>Beijing</region>
+    <district>Huairou district</district>
+    <id>205086</id>
+  </point>
+  <point>
+    <name>Anjia Zhuang</name>
+    <region>Beijing</region>
+    <district>Mentougou district</district>
+    <id>205095</id>
+  </point>
+  <point>
+    <name>Beiling</name>
+    <region>Beijing</region>
+    <district>Mentougou district</district>
+    <id>205124</id>
+  </point>
+  <point>
+    <name>Dayu</name>
+    <region>Beijing</region>
+    <district>Mentougou district</district>
+    <id>196904</id>
+  </point>
+  <point>
+    <name>Huangta</name>
+    <region>Beijing</region>
+    <district>Mentougou district</district>
+    <id>205155</id>
+  </point>
+  <point>
+    <name>Junxiang</name>
+    <region>Beijing</region>
+    <district>Mentougou district</district>
+    <id>205175</id>
+  </point>
+  <point>
+    <name>Yanhecheng</name>
+    <region>Beijing</region>
+    <district>Mentougou district</district>
+    <id>205185</id>
+  </point>
+  <point>
+    <name>Banchengzi</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205196</id>
+  </point>
+  <point>
+    <name>Beizhuang</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205207</id>
+  </point>
+  <point>
+    <name>Dachengzi</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205227</id>
+  </point>
+  <point>
+    <name>Dagou</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205238</id>
+  </point>
+  <point>
+    <name>Donghubu Zhuang</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205248</id>
+  </point>
+  <point>
+    <name>Dongshaoqu</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205258</id>
+  </point>
+  <point>
+    <name>Dongzhuanghe</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205267</id>
+  </point>
+  <point>
+    <name>Gaoling</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205276</id>
+  </point>
+  <point>
+    <name>Gubeikou</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205287</id>
+  </point>
+  <point>
+    <name>Gulou</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>196888</id>
+  </point>
+  <point>
+    <name>Panzibei</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205295</id>
+  </point>
+  <point>
+    <name>Shicheng</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205306</id>
+  </point>
+  <point>
+    <name>Sihetang</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205317</id>
+  </point>
+  <point>
+    <name>Taishitun</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205327</id>
+  </point>
+  <point>
+    <name>Xitiangezhuang</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205338</id>
+  </point>
+  <point>
+    <name>Xiwengzhuang</name>
+    <region>Beijing</region>
+    <district>Miyun county</district>
+    <id>205348</id>
+  </point>
+  <point>
+    <name>Beiyangqiao</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205359</id>
+  </point>
+  <point>
+    <name>Binhe</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>196905</id>
+  </point>
+  <point>
+    <name>Dahuashan</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205377</id>
+  </point>
+  <point>
+    <name>Dawangwu</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205386</id>
+  </point>
+  <point>
+    <name>Hanzhuang</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205395</id>
+  </point>
+  <point>
+    <name>Huangsongyu</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205404</id>
+  </point>
+  <point>
+    <name>Kaoshanji</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205414</id>
+  </point>
+  <point>
+    <name>Lezhengwu</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205425</id>
+  </point>
+  <point>
+    <name>Liujiadian</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205435</id>
+  </point>
+  <point>
+    <name>Mafang</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205446</id>
+  </point>
+  <point>
+    <name>Nandulehe</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205457</id>
+  </point>
+  <point>
+    <name>Shandongzhuang</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205466</id>
+  </point>
+  <point>
+    <name>Xiagezhuang</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205477</id>
+  </point>
+  <point>
+    <name>Yukou</name>
+    <region>Beijing</region>
+    <district>Pinggu district</district>
+    <id>205484</id>
+  </point>
+  <point>
+    <name>Beifu</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205499</id>
+  </point>
+  <point>
+    <name>Beiniezhuangzi</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205510</id>
+  </point>
+  <point>
+    <name>Beixiaoying</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205518</id>
+  </point>
+  <point>
+    <name>Daduanzi</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205527</id>
+  </point>
+  <point>
+    <name>Dasungezhuang</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205534</id>
+  </point>
+  <point>
+    <name>Gaoliying</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205538</id>
+  </point>
+  <point>
+    <name>Lijiaqiao</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205548</id>
+  </point>
+  <point>
+    <name>Long Wantun</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205558</id>
+  </point>
+  <point>
+    <name>Shengli</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>196889</id>
+  </point>
+  <point>
+    <name>Tianzhu</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205567</id>
+  </point>
+  <point>
+    <name>Yanhe</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205578</id>
+  </point>
+  <point>
+    <name>Zhangxizhuang</name>
+    <region>Beijing</region>
+    <district>Shunyi district</district>
+    <id>205586</id>
+  </point>
+  <point>
+    <name>Beidahua</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205596</id>
+  </point>
+  <point>
+    <name>Beiyuan</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>196890</id>
+  </point>
+  <point>
+    <name>Ciqu</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205616</id>
+  </point>
+  <point>
+    <name>Dadongge Zhuang</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205620</id>
+  </point>
+  <point>
+    <name>Dadushe</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205623</id>
+  </point>
+  <point>
+    <name>Kuadian</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205625</id>
+  </point>
+  <point>
+    <name>Kuo</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205634</id>
+  </point>
+  <point>
+    <name>Langfu</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205644</id>
+  </point>
+  <point>
+    <name>Majuqiao</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205653</id>
+  </point>
+  <point>
+    <name>Mizidian</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205661</id>
+  </point>
+  <point>
+    <name>Niubaotun</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205670</id>
+  </point>
+  <point>
+    <name>Yongledian Ji</name>
+    <region>Beijing</region>
+    <district>Tongzhou district</district>
+    <id>205681</id>
+  </point>
+  <point>
+    <name>Baihebao</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205691</id>
+  </point>
+  <point>
+    <name>Beilaojuntang</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205699</id>
+  </point>
+  <point>
+    <name>Dazhuangke</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205719</id>
+  </point>
+  <point>
+    <name>Donglong Wan</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205730</id>
+  </point>
+  <point>
+    <name>Hong Qidian</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205740</id>
+  </point>
+  <point>
+    <name>Kangzhuang</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205750</id>
+  </point>
+  <point>
+    <name>Rulin</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>196891</id>
+  </point>
+  <point>
+    <name>Sihai</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205759</id>
+  </point>
+  <point>
+    <name>Xibazi</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205767</id>
+  </point>
+  <point>
+    <name>Xierdaohe</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205774</id>
+  </point>
+  <point>
+    <name>Zhangshanying</name>
+    <region>Beijing</region>
+    <district>Yanqing county</district>
+    <id>205785</id>
+  </point>
+</region>

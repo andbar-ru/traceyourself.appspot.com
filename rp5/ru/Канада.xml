@@ -1,0 +1,1940 @@
+<country name="Канада" count="323">
+  <point>
+    <name>Хай-Прейри</name>
+    <region>Альберта</region>
+    <district>Биг-Лейкс</district>
+    <id>339087</id>
+  </point>
+  <point>
+    <name>Калгари</name>
+    <region>Альберта</region>
+    <district>Калгари</district>
+    <id>338566</id>
+  </point>
+  <point>
+    <name>Калгари (аэропорт)</name>
+    <region>Альберта</region>
+    <district>Калгари</district>
+    <id>508065</id>
+  </point>
+  <point>
+    <name>Калгари (метеостанция)</name>
+    <region>Альберта</region>
+    <district>Калгари</district>
+    <id>338942</id>
+  </point>
+  <point>
+    <name>Канмор</name>
+    <region>Альберта</region>
+    <district>Канмор</district>
+    <id>341448</id>
+  </point>
+  <point>
+    <name>Банф (AWS)</name>
+    <region>Альберта</region>
+    <district>Канмор</district>
+    <id>339168</id>
+  </point>
+  <point>
+    <name>Йохо (AWS)</name>
+    <region>Альберта</region>
+    <district>Канмор</district>
+    <id>338638</id>
+  </point>
+  <point>
+    <name>Летбридж</name>
+    <region>Альберта</region>
+    <district>Летбридж</district>
+    <id>339071</id>
+  </point>
+  <point>
+    <name>Летбридж (аэропорт)</name>
+    <region>Альберта</region>
+    <district>Летбридж</district>
+    <id>348416</id>
+  </point>
+  <point>
+    <name>Масинасин (метеостанция)</name>
+    <region>Альберта</region>
+    <district>Летбридж</district>
+    <id>338987</id>
+  </point>
+  <point>
+    <name>Милк-Ривер (аэропорт)</name>
+    <region>Альберта</region>
+    <district>Летбридж</district>
+    <id>339070</id>
+  </point>
+  <point>
+    <name>Финкасл (метеостанция)</name>
+    <region>Альберта</region>
+    <district>Летбридж</district>
+    <id>338812</id>
+  </point>
+  <point>
+    <name>Блад-Трайб (метеостанция)</name>
+    <region>Альберта</region>
+    <district>Летбридж</district>
+    <id>338828</id>
+  </point>
+  <point>
+    <name>Летбридж-Фарм</name>
+    <region>Альберта</region>
+    <district>Летбридж</district>
+    <id>338836</id>
+  </point>
+  <point>
+    <name>Уэретхэм (AWS)</name>
+    <region>Альберта</region>
+    <district>Летбридж</district>
+    <id>338989</id>
+  </point>
+  <point>
+    <name>Медисин-Хат</name>
+    <region>Альберта</region>
+    <district>Медисин-Хат</district>
+    <id>339067</id>
+  </point>
+  <point>
+    <name>Ванфор (аэропорт)</name>
+    <region>Альберта</region>
+    <district>Медисин-Хат</district>
+    <id>339172</id>
+  </point>
+  <point>
+    <name>Медисин-Хат (AWS)</name>
+    <region>Альберта</region>
+    <district>Медисин-Хат</district>
+    <id>339244</id>
+  </point>
+  <point>
+    <name>Медисин-Хат (аэропорт)</name>
+    <region>Альберта</region>
+    <district>Медисин-Хат</district>
+    <id>508139</id>
+  </point>
+  <point>
+    <name>Шулер (AWS)</name>
+    <region>Альберта</region>
+    <district>Медисин-Хат</district>
+    <id>339048</id>
+  </point>
+  <point>
+    <name>Форт-Маклеод</name>
+    <region>Альберта</region>
+    <district>Форт Маклеод</district>
+    <id>338635</id>
+  </point>
+  <point>
+    <name>Брокет (AWS)</name>
+    <region>Альберта</region>
+    <district>Форт Маклеод</district>
+    <id>338991</id>
+  </point>
+  <point>
+    <name>Дель Бонита (аэропорт)</name>
+    <region>Альберта</region>
+    <district>Форт Маклеод</district>
+    <id>339089</id>
+  </point>
+  <point>
+    <name>Карвей</name>
+    <region>Альберта</region>
+    <district>Форт Маклеод</district>
+    <id>510503</id>
+  </point>
+  <point>
+    <name>Кардстон (аэропорт)</name>
+    <region>Альберта</region>
+    <district>Форт Маклеод</district>
+    <id>339146</id>
+  </point>
+  <point>
+    <name>Эдмонтон / Сити-центр (аэропорт)</name>
+    <region>Альберта</region>
+    <district>Эдмонтон</district>
+    <id>338564</id>
+  </point>
+  <point>
+    <name>Эдмонтон (аэропорт)</name>
+    <region>Альберта</region>
+    <district>Эдмонтон</district>
+    <id>339142</id>
+  </point>
+  <point>
+    <name>Бернс-Лейк (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Балкли-Нечако</district>
+    <id>338507</id>
+  </point>
+  <point>
+    <name>Бернаби</name>
+    <region>Британская Колумбия</region>
+    <district>Большой Ванкувер</district>
+    <id>341453</id>
+  </point>
+  <point>
+    <name>Ванкувер (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Большой Ванкувер</district>
+    <id>338555</id>
+  </point>
+  <point>
+    <name>Ванкувер</name>
+    <region>Британская Колумбия</region>
+    <district>Большой Ванкувер</district>
+    <id>339233</id>
+  </point>
+  <point>
+    <name>Западный Ванкувер (AWS)</name>
+    <region>Британская Колумбия</region>
+    <district>Большой Ванкувер</district>
+    <id>338640</id>
+  </point>
+  <point>
+    <name>Норт-Ванкувер</name>
+    <region>Британская Колумбия</region>
+    <district>Большой Ванкувер</district>
+    <id>339107</id>
+  </point>
+  <point>
+    <name>Кранбрук (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Восточный Кутеней</district>
+    <id>507916</id>
+  </point>
+  <point>
+    <name>Кранбрук (метеостанция)</name>
+    <region>Британская Колумбия</region>
+    <district>Восточный Кутеней</district>
+    <id>510505</id>
+  </point>
+  <point>
+    <name>Кранбрук</name>
+    <region>Британская Колумбия</region>
+    <district>Восточный Кутеней</district>
+    <id>338563</id>
+  </point>
+  <point>
+    <name>Комокс</name>
+    <region>Британская Колумбия</region>
+    <district>Комокс-Страткона</district>
+    <id>338554</id>
+  </point>
+  <point>
+    <name>Острова Соландера</name>
+    <region>Британская Колумбия</region>
+    <district>Комокс-Страткона</district>
+    <id>338865</id>
+  </point>
+  <point>
+    <name>Варфилд</name>
+    <region>Британская Колумбия</region>
+    <district>Кутеней Баундари</district>
+    <id>338937</id>
+  </point>
+  <point>
+    <name>Трейл</name>
+    <region>Британская Колумбия</region>
+    <district>Кутеней Баундари</district>
+    <id>341454</id>
+  </point>
+  <point>
+    <name>Форт-Нельсон(аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Нортерн-Рокис</district>
+    <id>338513</id>
+  </point>
+  <point>
+    <name>Осуюс (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Оканаган-Симилкамин</district>
+    <id>339098</id>
+  </point>
+  <point>
+    <name>Пентиктон (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Оканаган-Симилкамин</district>
+    <id>338557</id>
+  </point>
+  <point>
+    <name>Саммерленд</name>
+    <region>Британская Колумбия</region>
+    <district>Оканаган-Симилкамин</district>
+    <id>338656</id>
+  </point>
+  <point>
+    <name>Каслгар (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Сентрал Кутеней</district>
+    <id>347871</id>
+  </point>
+  <point>
+    <name>Крестон (AWS)</name>
+    <region>Британская Колумбия</region>
+    <district>Сентрал Кутеней</district>
+    <id>338654</id>
+  </point>
+  <point>
+    <name>Нельсон (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Сентрал Кутеней</district>
+    <id>338648</id>
+  </point>
+  <point>
+    <name>Грей-Айлет (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Скина-Квин Шарллот</district>
+    <id>338868</id>
+  </point>
+  <point>
+    <name>Лангара, остров (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Скина-Квин Шарллот</district>
+    <id>338545</id>
+  </point>
+  <point>
+    <name>Лангара</name>
+    <region>Британская Колумбия</region>
+    <district>Скина-Квин Шарллот</district>
+    <id>338548</id>
+  </point>
+  <point>
+    <name>Люси-Айленд (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Скина-Квин Шарллот</district>
+    <id>339093</id>
+  </point>
+  <point>
+    <name>Принс-Руперт</name>
+    <region>Британская Колумбия</region>
+    <district>Скина-Квин Шарллот</district>
+    <id>339247</id>
+  </point>
+  <point>
+    <name>Принц Руперт (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Скина-Квин Шарллот</district>
+    <id>338549</id>
+  </point>
+  <point>
+    <name>Холланд-Рок (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Скина-Квин Шарллот</district>
+    <id>339094</id>
+  </point>
+  <point>
+    <name>Виктория / Университет (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Столичный регион</district>
+    <id>338641</id>
+  </point>
+  <point>
+    <name>Виктория</name>
+    <region>Британская Колумбия</region>
+    <district>Столичный регион</district>
+    <id>339108</id>
+  </point>
+  <point>
+    <name>о. Дискавери</name>
+    <region>Британская Колумбия</region>
+    <district>Столичный регион</district>
+    <id>510657</id>
+  </point>
+  <point>
+    <name>Рэйс-Рокс (AWS)</name>
+    <region>Британская Колумбия</region>
+    <district>Столичный регион</district>
+    <id>338646</id>
+  </point>
+  <point>
+    <name>Сатурна-Айленд (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Столичный регион</district>
+    <id>338871</id>
+  </point>
+  <point>
+    <name>Эскуаймолт (маяк)</name>
+    <region>Британская Колумбия</region>
+    <district>Столичный регион</district>
+    <id>508998</id>
+  </point>
+  <point>
+    <name>Маккензи (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Фрейзер-Форт-Джордж</district>
+    <id>338514</id>
+  </point>
+  <point>
+    <name>Маккензи (метеостанция 71290)</name>
+    <region>Британская Колумбия</region>
+    <district>Фрейзер-Форт-Джордж</district>
+    <id>339029</id>
+  </point>
+  <point>
+    <name>Принс-Джордж (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Фрейзер-Форт-Джордж</district>
+    <id>508098</id>
+  </point>
+  <point>
+    <name>Принс-Джордж</name>
+    <region>Британская Колумбия</region>
+    <district>Фрейзер-Форт-Джордж</district>
+    <id>338551</id>
+  </point>
+  <point>
+    <name>Абботсфорд (аэропорт)</name>
+    <region>Британская Колумбия</region>
+    <district>Фрейзер Валлей</district>
+    <id>507910</id>
+  </point>
+  <point>
+    <name>Абботсфорд</name>
+    <region>Британская Колумбия</region>
+    <district>Фрейзер Валлей</district>
+    <id>339180</id>
+  </point>
+  <point>
+    <name>Квебек</name>
+    <region>Квебек</region>
+    <district></district>
+    <id>341410</id>
+  </point>
+  <point>
+    <name>Мон-Жоли (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Низовье Святого Лаврентия</district>
+    <id>508079</id>
+  </point>
+  <point>
+    <name>Римуски</name>
+    <region>Квебек</region>
+    <district>Низовье Святого Лаврентия</district>
+    <id>341524</id>
+  </point>
+  <point>
+    <name>Шербрук (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Эстри</district>
+    <id>338754</id>
+  </point>
+  <point>
+    <name>Валь-д’Ор (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Абитиби — Темискаминг</district>
+    <id>429796</id>
+  </point>
+  <point>
+    <name>Валь-д’Ор (метеостанция 71725)</name>
+    <region>Квебек</region>
+    <district>Абитиби — Темискаминг</district>
+    <id>338690</id>
+  </point>
+  <point>
+    <name>Руэн-Норанда (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Абитиби — Темискаминг</district>
+    <id>508635</id>
+  </point>
+  <point>
+    <name>Руэн-Норанда</name>
+    <region>Квебек</region>
+    <district>Абитиби — Темискаминг</district>
+    <id>338682</id>
+  </point>
+  <point>
+    <name>Валкартье (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Капиталь-Насьональ</district>
+    <id>508321</id>
+  </point>
+  <point>
+    <name>Дешамбо (AWS)</name>
+    <region>Квебек</region>
+    <district>Капиталь-Насьональ</district>
+    <id>338946</id>
+  </point>
+  <point>
+    <name>Кап-Турмент (AWS)</name>
+    <region>Квебек</region>
+    <district>Капиталь-Насьональ</district>
+    <id>338951</id>
+  </point>
+  <point>
+    <name>Орлеан (AWS)</name>
+    <region>Квебек</region>
+    <district>Капиталь-Насьональ</district>
+    <id>338917</id>
+  </point>
+  <point>
+    <name>Портнёф</name>
+    <region>Квебек</region>
+    <district>Капиталь-Насьональ</district>
+    <id>341525</id>
+  </point>
+  <point>
+    <name>Бопорт</name>
+    <region>Квебек</region>
+    <district>Бопорт</district>
+    <id>338773</id>
+  </point>
+  <point>
+    <name>Квебек / им. Жана Лесажа (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Квебек / им. Жана Лесажа (аэропорт)</district>
+    <id>338698</id>
+  </point>
+  <point>
+    <name>Квебек-сити / им. Жана Лесажа (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Квебек-сити / им. Жана Лесажа (аэропорт)</district>
+    <id>508619</id>
+  </point>
+  <point>
+    <name>Сент-Фой (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Сент-Фой (аэропорт)</district>
+    <id>338943</id>
+  </point>
+  <point>
+    <name>Бэ-Комо (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Кот-Нор</district>
+    <id>338715</id>
+  </point>
+  <point>
+    <name>Шеффервилл (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Кот-Нор</district>
+    <id>338603</id>
+  </point>
+  <point>
+    <name>Мирабель (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Лаврентиды</district>
+    <id>509162</id>
+  </point>
+  <point>
+    <name>Сен-Жером</name>
+    <region>Квебек</region>
+    <district>Лаврентиды</district>
+    <id>341529</id>
+  </point>
+  <point>
+    <name>Сент-Джовит (AWS)</name>
+    <region>Квебек</region>
+    <district>Лаврентиды</district>
+    <id>338959</id>
+  </point>
+  <point>
+    <name>Монреаль / Сент-Юбер (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Монреаль</district>
+    <id>338964</id>
+  </point>
+  <point>
+    <name>Мактавиш (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Монреаль</district>
+    <id>338752</id>
+  </point>
+  <point>
+    <name>Монреаль (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Монреаль</district>
+    <id>339122</id>
+  </point>
+  <point>
+    <name>Монреаль / им. Пьера Эллиота Трюдо (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Монреаль</district>
+    <id>338742</id>
+  </point>
+  <point>
+    <name>Сент-Анн-де-Бельвю (AWS)</name>
+    <region>Квебек</region>
+    <district>Монреаль</district>
+    <id>338958</id>
+  </point>
+  <point>
+    <name>Л’Акади (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Монтережи</district>
+    <id>338963</id>
+  </point>
+  <point>
+    <name>Лонгёй</name>
+    <region>Квебек</region>
+    <district>Монтережи</district>
+    <id>341531</id>
+  </point>
+  <point>
+    <name>Сент-Клотильд-де-Шатоге (AWS)</name>
+    <region>Квебек</region>
+    <district>Монтережи</district>
+    <id>338751</id>
+  </point>
+  <point>
+    <name>Сент-Эншент (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Монтережи</district>
+    <id>338700</id>
+  </point>
+  <point>
+    <name>Фрелайсбург (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Монтережи</district>
+    <id>338962</id>
+  </point>
+  <point>
+    <name>Иль-Бикетт</name>
+    <region>Квебек</region>
+    <district>Низовье Святого Лаврентия</district>
+    <id>338950</id>
+  </point>
+  <point>
+    <name>Ла-Покатьер (AWS)</name>
+    <region>Квебек</region>
+    <district>Низовье Святого Лаврентия</district>
+    <id>338699</id>
+  </point>
+  <point>
+    <name>Пуант-о-Пер</name>
+    <region>Квебек</region>
+    <district>Низовье Святого Лаврентия</district>
+    <id>338793</id>
+  </point>
+  <point>
+    <name>Гатино (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Оттава</district>
+    <id>508851</id>
+  </point>
+  <point>
+    <name>Гатино</name>
+    <region>Квебек</region>
+    <district>Оттава</district>
+    <id>341532</id>
+  </point>
+  <point>
+    <name>Ивюживик (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>508937</id>
+  </point>
+  <point>
+    <name>Инукджуак (AWS)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>338542</id>
+  </point>
+  <point>
+    <name>Инукъюак (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>339017</id>
+  </point>
+  <point>
+    <name>Кактак (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>508971</id>
+  </point>
+  <point>
+    <name>Кангиксуджуак (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>508940</id>
+  </point>
+  <point>
+    <name>Ля-Гранд-4 (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>504530</id>
+  </point>
+  <point>
+    <name>о. Резольюшен</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>338493</id>
+  </point>
+  <point>
+    <name>Пингуалуит (национальный парк)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>338489</id>
+  </point>
+  <point>
+    <name>Пувирнитук (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>346869</id>
+  </point>
+  <point>
+    <name>Саглек</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>338997</id>
+  </point>
+  <point>
+    <name>Саллуит (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>508980</id>
+  </point>
+  <point>
+    <name>Шапе</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>338606</id>
+  </point>
+  <point>
+    <name>Шибугамо / Шапе (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>470333</id>
+  </point>
+  <point>
+    <name>Шибугамо</name>
+    <region>Квебек</region>
+    <district>Север Квебека</district>
+    <id>338608</id>
+  </point>
+  <point>
+    <name>Босвиль (AWS)</name>
+    <region>Квебек</region>
+    <district>Шодьер-Аппалачи</district>
+    <id>339001</id>
+  </point>
+  <point>
+    <name>Иль-о-Грю (аэропорт)</name>
+    <region>Квебек</region>
+    <district>Шодьер-Аппалачи</district>
+    <id>509716</id>
+  </point>
+  <point>
+    <name>Монмани</name>
+    <region>Квебек</region>
+    <district>Шодьер-Аппалачи</district>
+    <id>341527</id>
+  </point>
+  <point>
+    <name>Ленноксвилль</name>
+    <region>Квебек</region>
+    <district>Эстри</district>
+    <id>338753</id>
+  </point>
+  <point>
+    <name>Мейгог (AWS)</name>
+    <region>Квебек</region>
+    <district>Эстри</district>
+    <id>346285</id>
+  </point>
+  <point>
+    <name>Виннипег (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Виннипег</district>
+    <id>338772</id>
+  </point>
+  <point>
+    <name>Виннипег (метеостанция)</name>
+    <region>Манитоба</region>
+    <district>Виннипег</district>
+    <id>338587</id>
+  </point>
+  <point>
+    <name>Виннипег / им. Армстронга Ричардсона (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Виннипег</district>
+    <id>338584</id>
+  </point>
+  <point>
+    <name>Гретна</name>
+    <region>Манитоба</region>
+    <district>Пембина-Велли</district>
+    <id>338902</id>
+  </point>
+  <point>
+    <name>Карман (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Пембина-Велли</district>
+    <id>339152</id>
+  </point>
+  <point>
+    <name>Морден (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Пембина-Велли</district>
+    <id>338787</id>
+  </point>
+  <point>
+    <name>Пайлот-Маунд (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Пембина-Велли</district>
+    <id>339151</id>
+  </point>
+  <point>
+    <name>Эмерсон</name>
+    <region>Манитоба</region>
+    <district>Пембина-Велли</district>
+    <id>338789</id>
+  </point>
+  <point>
+    <name>Айленд-Лейк (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Северный регион</district>
+    <id>339153</id>
+  </point>
+  <point>
+    <name>Гиллам</name>
+    <region>Манитоба</region>
+    <district>Северный регион</district>
+    <id>338538</id>
+  </point>
+  <point>
+    <name>Томпсон (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Северный регион</district>
+    <id>508109</id>
+  </point>
+  <point>
+    <name>Томпсон</name>
+    <region>Манитоба</region>
+    <district>Северный регион</district>
+    <id>339201</id>
+  </point>
+  <point>
+    <name>Черчилль (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Северный регион</district>
+    <id>338748</id>
+  </point>
+  <point>
+    <name>Портидж-ла-Прери (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Центральные равнины</district>
+    <id>509243</id>
+  </point>
+  <point>
+    <name>Портидж-ла-Прери</name>
+    <region>Манитоба</region>
+    <district>Центральные равнины</district>
+    <id>338585</id>
+  </point>
+  <point>
+    <name>Сайпресс Ривер</name>
+    <region>Манитоба</region>
+    <district>Центральные равнины</district>
+    <id>339074</id>
+  </point>
+  <point>
+    <name>Спраг</name>
+    <region>Манитоба</region>
+    <district>Юго-Восточный</district>
+    <id>338894</id>
+  </point>
+  <point>
+    <name>Стейнбах</name>
+    <region>Манитоба</region>
+    <district>Юго-Восточный</district>
+    <id>341460</id>
+  </point>
+  <point>
+    <name>Брендон (аэропорт)</name>
+    <region>Манитоба</region>
+    <district>Юго-Западный</district>
+    <id>339155</id>
+  </point>
+  <point>
+    <name>Мелита</name>
+    <region>Манитоба</region>
+    <district>Юго-Западный</district>
+    <id>338896</id>
+  </point>
+  <point>
+    <name>Аннаполис-Роял</name>
+    <region>Новая Шотландия</region>
+    <district>Аннаполис</district>
+    <id>341475</id>
+  </point>
+  <point>
+    <name>Кеджимкуджик 1 (AWS)</name>
+    <region>Новая Шотландия</region>
+    <district>Аннаполис</district>
+    <id>338761</id>
+  </point>
+  <point>
+    <name>Баддек</name>
+    <region>Новая Шотландия</region>
+    <district>Виктория</district>
+    <id>341488</id>
+  </point>
+  <point>
+    <name>Ингониш-Бич</name>
+    <region>Новая Шотландия</region>
+    <district>Виктория</district>
+    <id>339243</id>
+  </point>
+  <point>
+    <name>Галифакс</name>
+    <region>Новая Шотландия</region>
+    <district>Галифакс</district>
+    <id>341390</id>
+  </point>
+  <point>
+    <name>Галифакс (аэропорт)</name>
+    <region>Новая Шотландия</region>
+    <district>Галифакс</district>
+    <id>338941</id>
+  </point>
+  <point>
+    <name>Мак-Наббс (AWS)</name>
+    <region>Новая Шотландия</region>
+    <district>Галифакс</district>
+    <id>509002</id>
+  </point>
+  <point>
+    <name>Шируотер (аэропорт)</name>
+    <region>Новая Шотландия</region>
+    <district>Галифакс</district>
+    <id>339051</id>
+  </point>
+  <point>
+    <name>Дигби</name>
+    <region>Новая Шотландия</region>
+    <district>Дигби</district>
+    <id>341479</id>
+  </point>
+  <point>
+    <name>Бриер-Айленд (аэропорт)</name>
+    <region>Новая Шотландия</region>
+    <district>Дигби</district>
+    <id>338478</id>
+  </point>
+  <point>
+    <name>Инвернесс</name>
+    <region>Новая Шотландия</region>
+    <district>Инвернесс</district>
+    <id>341482</id>
+  </point>
+  <point>
+    <name>Гран-Этан</name>
+    <region>Новая Шотландия</region>
+    <district>Инвернесс</district>
+    <id>344226</id>
+  </point>
+  <point>
+    <name>Четикамп</name>
+    <region>Новая Шотландия</region>
+    <district>Инвернесс</district>
+    <id>338502</id>
+  </point>
+  <point>
+    <name>Сидней-Майнс</name>
+    <region>Новая Шотландия</region>
+    <district>Кейп-Бретон</district>
+    <id>338703</id>
+  </point>
+  <point>
+    <name>Сидней</name>
+    <region>Новая Шотландия</region>
+    <district>Кейп-Бретон</district>
+    <id>338661</id>
+  </point>
+  <point>
+    <name>Эскасони (аэропорт)</name>
+    <region>Новая Шотландия</region>
+    <district>Кейп-Бретон</district>
+    <id>343876</id>
+  </point>
+  <point>
+    <name>Гринвуд (аэропорт)</name>
+    <region>Новая Шотландия</region>
+    <district>Кингс</district>
+    <id>338940</id>
+  </point>
+  <point>
+    <name>Кентвилль (AWS)</name>
+    <region>Новая Шотландия</region>
+    <district>Кингс</district>
+    <id>338727</id>
+  </point>
+  <point>
+    <name>Алерт (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>508909</id>
+  </point>
+  <point>
+    <name>Алерт</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>338977</id>
+  </point>
+  <point>
+    <name>Арктик-Бей</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>344474</id>
+  </point>
+  <point>
+    <name>Икалуит (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>338541</id>
+  </point>
+  <point>
+    <name>Икалуит</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>339003</id>
+  </point>
+  <point>
+    <name>Кейп-Дорсет (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>338540</id>
+  </point>
+  <point>
+    <name>Кейп-Дорсет</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>338776</id>
+  </point>
+  <point>
+    <name>Кейп-Хупер</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>339191</id>
+  </point>
+  <point>
+    <name>Кикиктархуак (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>338994</id>
+  </point>
+  <point>
+    <name>Клайд-Ривер (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>339194</id>
+  </point>
+  <point>
+    <name>Лонгстафф-Блафф</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>339193</id>
+  </point>
+  <point>
+    <name>Понд-Инлет (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>339189</id>
+  </point>
+  <point>
+    <name>Резольют-Бэй (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>508103</id>
+  </point>
+  <point>
+    <name>Юрика (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Баффинова Земля</district>
+    <id>338534</id>
+  </point>
+  <point>
+    <name>Арвиат (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Киватин</district>
+    <id>338618</id>
+  </point>
+  <point>
+    <name>Бейкер-Лейк (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Киватин</district>
+    <id>338527</id>
+  </point>
+  <point>
+    <name>Корал-Харбор(аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Киватин</district>
+    <id>338536</id>
+  </point>
+  <point>
+    <name>Ранкин-Инлет (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Киватин</district>
+    <id>508100</id>
+  </point>
+  <point>
+    <name>Ранкин-Инлет</name>
+    <region>Нунавут</region>
+    <district>Киватин</district>
+    <id>339199</id>
+  </point>
+  <point>
+    <name>Йоа-Хейвен (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Китикмеот</district>
+    <id>338969</id>
+  </point>
+  <point>
+    <name>Кеймбридж-Бей (аэропорт)</name>
+    <region>Нунавут</region>
+    <district>Китикмеот</district>
+    <id>338528</id>
+  </point>
+  <point>
+    <name>Кеймбридж-Бей</name>
+    <region>Нунавут</region>
+    <district>Китикмеот</district>
+    <id>339031</id>
+  </point>
+  <point>
+    <name>Пелли-Бей</name>
+    <region>Нунавут</region>
+    <district>Китикмеот</district>
+    <id>338533</id>
+  </point>
+  <point>
+    <name>Фредериктон</name>
+    <region>Нью-Брансуик</region>
+    <district>Йорк</district>
+    <id>338730</id>
+  </point>
+  <point>
+    <name>Гейджтаун (AWS)</name>
+    <region>Нью-Брансуик</region>
+    <district>Куинс</district>
+    <id>338709</id>
+  </point>
+  <point>
+    <name>Минто</name>
+    <region>Нью-Брансуик</region>
+    <district>Куинс</district>
+    <id>341465</id>
+  </point>
+  <point>
+    <name>Эдмундстон (аэропорт)</name>
+    <region>Нью-Брансуик</region>
+    <district>Мадаваска</district>
+    <id>338763</id>
+  </point>
+  <point>
+    <name>Оромокто</name>
+    <region>Нью-Брансуик</region>
+    <district>Санбери</district>
+    <id>341467</id>
+  </point>
+  <point>
+    <name>Фредериктон (аэропорт)</name>
+    <region>Нью-Брансуик</region>
+    <district>Санбери</district>
+    <id>508402</id>
+  </point>
+  <point>
+    <name>Сент-Джон</name>
+    <region>Нью-Брансуик</region>
+    <district>Сент-Джон</district>
+    <id>338755</id>
+  </point>
+  <point>
+    <name>Сент-Джон (аэропорт)</name>
+    <region>Нью-Брансуик</region>
+    <district>Сент-Джон</district>
+    <id>508073</id>
+  </point>
+  <point>
+    <name>Гранд-Манан</name>
+    <region>Нью-Брансуик</region>
+    <district>Шарлотт</district>
+    <id>339240</id>
+  </point>
+  <point>
+    <name>Пуан-Лепро (AWS)</name>
+    <region>Нью-Брансуик</region>
+    <district>Шарлотт</district>
+    <id>338710</id>
+  </point>
+  <point>
+    <name>Сент-Стефан (аэропорт)</name>
+    <region>Нью-Брансуик</region>
+    <district>Шарлотт</district>
+    <id>338756</id>
+  </point>
+  <point>
+    <name>Инженика (аэропорт)</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Консепшн-Бэй - Сент-Джонс</district>
+    <id>509000</id>
+  </point>
+  <point>
+    <name>Сент-Джонс (аэропорт)</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Консепшн-Бэй - Сент-Джонс</district>
+    <id>338625</id>
+  </point>
+  <point>
+    <name>Сент-Джонс</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Консепшн-Бэй - Сент-Джонс</district>
+    <id>341391</id>
+  </point>
+  <point>
+    <name>Корнер-Брук</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Корнер-Брук</district>
+    <id>338492</id>
+  </point>
+  <point>
+    <name>Дир-Лейк (аэропорт)</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Корнер-Брук</district>
+    <id>338620</id>
+  </point>
+  <point>
+    <name>Кормак</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Корнер-Брук</district>
+    <id>343602</id>
+  </point>
+  <point>
+    <name>Лабрадор-Сити</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Лабрадор-Сити</district>
+    <id>341472</id>
+  </point>
+  <point>
+    <name>Вабуш (аэропорт)</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Лабрадор-Сити</district>
+    <id>338605</id>
+  </point>
+  <point>
+    <name>Хэппи-Вэлли - Гус-Бей (аэропорт)</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Лабрадор-Сити</district>
+    <id>338614</id>
+  </point>
+  <point>
+    <name>Стивенвилл</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Стивенвилл</district>
+    <id>339141</id>
+  </point>
+  <point>
+    <name>Стивенвилл-Кроссинг (аэропорт)</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Стивенвилл</district>
+    <id>338615</id>
+  </point>
+  <point>
+    <name>Уилтондейл</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Уилтондейл</district>
+    <id>341473</id>
+  </point>
+  <point>
+    <name>Картрайт (аэропорт)</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Уилтондейл</district>
+    <id>338612</id>
+  </point>
+  <point>
+    <name>Мэри-Харбор (аэропорт)</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Уилтондейл</district>
+    <id>338993</id>
+  </point>
+  <point>
+    <name>Хоупдейл</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Хоупдэйл</district>
+    <id>338547</id>
+  </point>
+  <point>
+    <name>Кейп-Киглапейт</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Хоупдэйл</district>
+    <id>339128</id>
+  </point>
+  <point>
+    <name>Наин (аэропорт)</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Хоупдэйл</district>
+    <id>338546</id>
+  </point>
+  <point>
+    <name>Тукиалик-Бэй</name>
+    <region>Ньюфаундленд и Лабрадор</region>
+    <district>Хоупдэйл</district>
+    <id>339126</id>
+  </point>
+  <point>
+    <name>Карибу-Айленд</name>
+    <region>Онтарио</region>
+    <district>Алгома</district>
+    <id>338908</id>
+  </point>
+  <point>
+    <name>Лейк-Супериор-Провиншиал-Парк</name>
+    <region>Онтарио</region>
+    <district>Алгома</district>
+    <id>510487</id>
+  </point>
+  <point>
+    <name>Су-Сен-Мари (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Алгома</district>
+    <id>508817</id>
+  </point>
+  <point>
+    <name>Су-Сен-Мари</name>
+    <region>Онтарио</region>
+    <district>Алгома</district>
+    <id>339054</id>
+  </point>
+  <point>
+    <name>Уауа (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Алгома</district>
+    <id>338679</id>
+  </point>
+  <point>
+    <name>Уайртон (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Брюс</district>
+    <id>338738</id>
+  </point>
+  <point>
+    <name>Уолкертон</name>
+    <region>Онтарио</region>
+    <district>Брюс</district>
+    <id>341490</id>
+  </point>
+  <point>
+    <name>Ватерлоо</name>
+    <region>Онтарио</region>
+    <district>Ватерлоо</district>
+    <id>341521</id>
+  </point>
+  <point>
+    <name>Китченер (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Ватерлоо</district>
+    <id>338966</id>
+  </point>
+  <point>
+    <name>Гелф</name>
+    <region>Онтарио</region>
+    <district>Веллингтон</district>
+    <id>338599</id>
+  </point>
+  <point>
+    <name>Маунт Форест (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Грей</district>
+    <id>338740</id>
+  </point>
+  <point>
+    <name>Оуэн-Саунд</name>
+    <region>Онтарио</region>
+    <district>Грей</district>
+    <id>341498</id>
+  </point>
+  <point>
+    <name>Годерих (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Гурон</district>
+    <id>339053</id>
+  </point>
+  <point>
+    <name>Кенора</name>
+    <region>Онтарио</region>
+    <district>Кенора</district>
+    <id>339148</id>
+  </point>
+  <point>
+    <name>Кенора (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Кенора</district>
+    <id>338586</id>
+  </point>
+  <point>
+    <name>Лансдаун-Хаус (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Кенора</district>
+    <id>510365</id>
+  </point>
+  <point>
+    <name>Пикл-Лейк (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Кенора</district>
+    <id>508093</id>
+  </point>
+  <point>
+    <name>Форт-Севен</name>
+    <region>Онтарио</region>
+    <district>Кенора</district>
+    <id>339185</id>
+  </point>
+  <point>
+    <name>Лансдаун-Хаус</name>
+    <region>Онтарио</region>
+    <district>Кенора</district>
+    <id>338589</id>
+  </point>
+  <point>
+    <name>Кокрейн</name>
+    <region>Онтарио</region>
+    <district>Кокрейн</district>
+    <id>341492</id>
+  </point>
+  <point>
+    <name>Мус-Фактори (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Кокрейн</district>
+    <id>508090</id>
+  </point>
+  <point>
+    <name>Мусони</name>
+    <region>Онтарио</region>
+    <district>Кокрейн</district>
+    <id>339014</id>
+  </point>
+  <point>
+    <name>Мусони (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Кокрейн</district>
+    <id>508081</id>
+  </point>
+  <point>
+    <name>Тимминс (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Кокрейн</district>
+    <id>338678</id>
+  </point>
+  <point>
+    <name>Вайоминг</name>
+    <region>Онтарио</region>
+    <district>Ламбтон</district>
+    <id>341506</id>
+  </point>
+  <point>
+    <name>Сарния</name>
+    <region>Онтарио</region>
+    <district>Ламбтон</district>
+    <id>338673</id>
+  </point>
+  <point>
+    <name>Броквиль</name>
+    <region>Онтарио</region>
+    <district>Лидс Энд Гренвилл</district>
+    <id>339139</id>
+  </point>
+  <point>
+    <name>Кемптвилл (AWS)</name>
+    <region>Онтарио</region>
+    <district>Лидс Энд Гренвилл</district>
+    <id>339021</id>
+  </point>
+  <point>
+    <name>о. Гренадер</name>
+    <region>Онтарио</region>
+    <district>Лидс Энд Гренвилл</district>
+    <id>339038</id>
+  </point>
+  <point>
+    <name>Сарния (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Озеро Гурон</district>
+    <id>338706</id>
+  </point>
+  <point>
+    <name>Саутгемптон</name>
+    <region>Онтарио</region>
+    <district>Озеро Гурон</district>
+    <id>341504</id>
+  </point>
+  <point>
+    <name>Трентон (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Озеро Онтарио</district>
+    <id>508110</id>
+  </point>
+  <point>
+    <name>Трентон</name>
+    <region>Онтарио</region>
+    <district>Озеро Онтарио</district>
+    <id>338746</id>
+  </point>
+  <point>
+    <name>Эрио (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Озеро Эри</district>
+    <id>338878</id>
+  </point>
+  <point>
+    <name>Юго-восточная коса</name>
+    <region>Онтарио</region>
+    <district>Озеро Эри</district>
+    <id>338877</id>
+  </point>
+  <point>
+    <name>Оттава / Карлингтон</name>
+    <region>Онтарио</region>
+    <district>Оттава</district>
+    <id>339215</id>
+  </point>
+  <point>
+    <name>Оттава</name>
+    <region>Онтарио</region>
+    <district>Оттава</district>
+    <id>337444</id>
+  </point>
+  <point>
+    <name>Оттава (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Оттава</district>
+    <id>338741</id>
+  </point>
+  <point>
+    <name>Кингстон-Клаймет</name>
+    <region>Онтарио</region>
+    <district>Принс Эдуард</district>
+    <id>338610</id>
+  </point>
+  <point>
+    <name>Пиктон</name>
+    <region>Онтарио</region>
+    <district>Принс Эдуард</district>
+    <id>341515</id>
+  </point>
+  <point>
+    <name>Поинт-Петр (AWS)</name>
+    <region>Онтарио</region>
+    <district>Принс Эдуард</district>
+    <id>338911</id>
+  </point>
+  <point>
+    <name>Рейни-Ривер</name>
+    <region>Онтарио</region>
+    <district>Рейни-Ривер</district>
+    <id>341516</id>
+  </point>
+  <point>
+    <name>Форт-Франсес</name>
+    <region>Онтарио</region>
+    <district>Рейни-Ривер</district>
+    <id>338500</id>
+  </point>
+  <point>
+    <name>Тандер-Бей / CZTB (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Тандер-Бей</district>
+    <id>338731</id>
+  </point>
+  <point>
+    <name>Велком-Айлендс</name>
+    <region>Онтарио</region>
+    <district>Тандер-Бей</district>
+    <id>338668</id>
+  </point>
+  <point>
+    <name>Кэмерон-Фолс (AWS)</name>
+    <region>Онтарио</region>
+    <district>Тандер-Бей</district>
+    <id>339028</id>
+  </point>
+  <point>
+    <name>Тандер-Бей</name>
+    <region>Онтарио</region>
+    <district>Тандер-Бей</district>
+    <id>510293</id>
+  </point>
+  <point>
+    <name>Тандер-Бей (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Тандер-Бей</district>
+    <id>338670</id>
+  </point>
+  <point>
+    <name>Кататота</name>
+    <region>Онтарио</region>
+    <district>Тандер-Бей</district>
+    <id>338875</id>
+  </point>
+  <point>
+    <name>Упсала (AWS)</name>
+    <region>Онтарио</region>
+    <district>Тандер-Бей</district>
+    <id>338906</id>
+  </point>
+  <point>
+    <name>Киркленд-Лейк (AWS)</name>
+    <region>Онтарио</region>
+    <district>Тимискаминг</district>
+    <id>339020</id>
+  </point>
+  <point>
+    <name>Хэйлибэри</name>
+    <region>Онтарио</region>
+    <district>Тимискаминг</district>
+    <id>341520</id>
+  </point>
+  <point>
+    <name>Эйрлтон (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Тимискаминг</district>
+    <id>339100</id>
+  </point>
+  <point>
+    <name>Эрлтон</name>
+    <region>Онтарио</region>
+    <district>Тимискаминг</district>
+    <id>510224</id>
+  </point>
+  <point>
+    <name>Торонто</name>
+    <region>Онтарио</region>
+    <district>Торонто</district>
+    <id>338837</id>
+  </point>
+  <point>
+    <name>Торонто-Айленд (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Торонто</district>
+    <id>339050</id>
+  </point>
+  <point>
+    <name>Дели (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Халдиманд-Норфолк</district>
+    <id>338778</id>
+  </point>
+  <point>
+    <name>Лонг-Поинт</name>
+    <region>Онтарио</region>
+    <district>Халдиманд-Норфолк</district>
+    <id>338879</id>
+  </point>
+  <point>
+    <name>Порт Довер</name>
+    <region>Онтарио</region>
+    <district>Халдиманд-Норфолк</district>
+    <id>341499</id>
+  </point>
+  <point>
+    <name>Чатем</name>
+    <region>Онтарио</region>
+    <district>Чатем-Кент</district>
+    <id>341491</id>
+  </point>
+  <point>
+    <name>Риджтаун</name>
+    <region>Онтарио</region>
+    <district>Чатем-Кент</district>
+    <id>339016</id>
+  </point>
+  <point>
+    <name>Чатем-Кент (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Чатем-Кент</district>
+    <id>510648</id>
+  </point>
+  <point>
+    <name>Эссекс</name>
+    <region>Онтарио</region>
+    <district>Эссекс</district>
+    <id>341496</id>
+  </point>
+  <point>
+    <name>Виндзор (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Эссекс</district>
+    <id>338809</id>
+  </point>
+  <point>
+    <name>Поинт-Пили</name>
+    <region>Онтарио</region>
+    <district>Эссекс</district>
+    <id>339018</id>
+  </point>
+  <point>
+    <name>Харроу (аэропорт)</name>
+    <region>Онтарио</region>
+    <district>Эссекс</district>
+    <id>339023</id>
+  </point>
+  <point>
+    <name>Шарлоттаун (аэропорт)</name>
+    <region>Остров Принца Эдуарда</region>
+    <district>Квинс</district>
+    <id>338704</id>
+  </point>
+  <point>
+    <name>Джорджтаун</name>
+    <region>Остров Принца Эдуарда</region>
+    <district>Кингс</district>
+    <id>341523</id>
+  </point>
+  <point>
+    <name>Ист-Поинт</name>
+    <region>Остров Принца Эдуарда</region>
+    <district>Кингс</district>
+    <id>338926</id>
+  </point>
+  <point>
+    <name>Сент-Питерс-Бей</name>
+    <region>Остров Принца Эдуарда</region>
+    <district>Кингс</district>
+    <id>339013</id>
+  </point>
+  <point>
+    <name>Ассинибоия</name>
+    <region>Саскачеван</region>
+    <district>Ассинибоия</district>
+    <id>338857</id>
+  </point>
+  <point>
+    <name>Ассинибоия (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Ассинибоия</district>
+    <id>507911</id>
+  </point>
+  <point>
+    <name>Коронах (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Ассинибоия</district>
+    <id>338829</id>
+  </point>
+  <point>
+    <name>Манкота</name>
+    <region>Саскачеван</region>
+    <district>Ассинибоия</district>
+    <id>347129</id>
+  </point>
+  <point>
+    <name>Рокглен (AWS)</name>
+    <region>Саскачеван</region>
+    <district>Ассинибоия</district>
+    <id>339159</id>
+  </point>
+  <point>
+    <name>Кадиллак</name>
+    <region>Саскачеван</region>
+    <district>Кадиллак</district>
+    <id>341533</id>
+  </point>
+  <point>
+    <name>Вэл-Мэри (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Кадиллак</district>
+    <id>339158</id>
+  </point>
+  <point>
+    <name>Истенд (AWS)</name>
+    <region>Саскачеван</region>
+    <district>Кадиллак</district>
+    <id>339162</id>
+  </point>
+  <point>
+    <name>Мус-Джо</name>
+    <region>Саскачеван</region>
+    <district>Мус-Джо</district>
+    <id>338808</id>
+  </point>
+  <point>
+    <name>Мус-Джо (авиабаза)</name>
+    <region>Саскачеван</region>
+    <district>Мус-Джо</district>
+    <id>508994</id>
+  </point>
+  <point>
+    <name>Мус-Джо (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Мус-Джо</district>
+    <id>508080</id>
+  </point>
+  <point>
+    <name>Свифт Каррент (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Мус-Джо</district>
+    <id>338571</id>
+  </point>
+  <point>
+    <name>Норт Бэтлфорд (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Норт Бэтлфорд</district>
+    <id>338567</id>
+  </point>
+  <point>
+    <name>Реджайна (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Реджайна</district>
+    <id>338831</id>
+  </point>
+  <point>
+    <name>Реджайна (AWS)</name>
+    <region>Саскачеван</region>
+    <district>Реджайна</district>
+    <id>338577</id>
+  </point>
+  <point>
+    <name>Розтаун (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Роузтаун</district>
+    <id>338835</id>
+  </point>
+  <point>
+    <name>Баттлфорд</name>
+    <region>Саскачеван</region>
+    <district>Роузтаун</district>
+    <id>338665</id>
+  </point>
+  <point>
+    <name>Свифт Керрент</name>
+    <region>Саскачеван</region>
+    <district>Свифт Керрент</district>
+    <id>338897</id>
+  </point>
+  <point>
+    <name>Свифт Каррент (метеостанция 71142)</name>
+    <region>Саскачеван</region>
+    <district>Свифт Керрент</district>
+    <id>429790</id>
+  </point>
+  <point>
+    <name>Буффало-Нарроуз (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Северный Саскачеван</district>
+    <id>339203</id>
+  </point>
+  <point>
+    <name>Эстеван</name>
+    <region>Саскачеван</region>
+    <district>Эстеван</district>
+    <id>338578</id>
+  </point>
+  <point>
+    <name>Эстеван (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Эстеван</district>
+    <id>509288</id>
+  </point>
+  <point>
+    <name>Эстеван / Блю-Скай (аэропорт)</name>
+    <region>Саскачеван</region>
+    <district>Эстеван</district>
+    <id>510504</id>
+  </point>
+  <point>
+    <name>Инувик (AWS)</name>
+    <region>Северо-Западные территории</region>
+    <district>Инувик</district>
+    <id>338968</id>
+  </point>
+  <point>
+    <name>Кейп-Перри (аэропорт)</name>
+    <region>Северо-Западные территории</region>
+    <district>Инувик</district>
+    <id>338511</id>
+  </point>
+  <point>
+    <name>Норман-Уэлс (аэропорт)</name>
+    <region>Северо-Западные территории</region>
+    <district>Инувик</district>
+    <id>339232</id>
+  </point>
+  <point>
+    <name>Холман (аэропорт)</name>
+    <region>Северо-Западные территории</region>
+    <district>Инувик</district>
+    <id>508722</id>
+  </point>
+  <point>
+    <name>Холман (метеостанция)</name>
+    <region>Северо-Западные территории</region>
+    <district>Инувик</district>
+    <id>339241</id>
+  </point>
+  <point>
+    <name>Крокер-ривер (AWS)</name>
+    <region>Северо-Западные территории</region>
+    <district>Инувик</district>
+    <id>339219</id>
+  </point>
+  <point>
+    <name>Йеллоунайф (аэропорт)</name>
+    <region>Северо-Западные территории</region>
+    <district>Йеллоунайф</district>
+    <id>338518</id>
+  </point>
+  <point>
+    <name>Дедмен-Валли</name>
+    <region>Северо-Западные территории</region>
+    <district>Йеллоунайф</district>
+    <id>339248</id>
+  </point>
+  <point>
+    <name>Люпин</name>
+    <region>Северо-Западные территории</region>
+    <district>Йеллоунайф</district>
+    <id>338874</id>
+  </point>
+  <point>
+    <name>Форт-Смит (AWS)</name>
+    <region>Северо-Западные территории</region>
+    <district>Йеллоунайф</district>
+    <id>338970</id>
+  </point>
+  <point>
+    <name>Форт-Смит (аэропорт)</name>
+    <region>Северо-Западные территории</region>
+    <district>Йеллоунайф</district>
+    <id>338520</id>
+  </point>
+  <point>
+    <name>Форт-Симпсон (аэропорт)</name>
+    <region>Северо-Западные территории</region>
+    <district>Йеллоунайф</district>
+    <id>338967</id>
+  </point>
+  <point>
+    <name>Доусон (аэропорт)</name>
+    <region>Юкон</region>
+    <district>Доусон (аэропорт)</district>
+    <id>338498</id>
+  </point>
+  <point>
+    <name>Комакук-Бич (аэропорт)</name>
+    <region>Юкон</region>
+    <district>Комакук-Бич (аэропорт)</district>
+    <id>339229</id>
+  </point>
+  <point>
+    <name>Майо (аэропорт)</name>
+    <region>Юкон</region>
+    <district>Майо (аэропорт)</district>
+    <id>508536</id>
+  </point>
+  <point>
+    <name>Теслин (AWS)</name>
+    <region>Юкон</region>
+    <district>Теслин (AWS)</district>
+    <id>339230</id>
+  </point>
+  <point>
+    <name>Уайтхорс (аэропорт)</name>
+    <region>Юкон</region>
+    <district>Уайтхорс (аэропорт)</district>
+    <id>338499</id>
+  </point>
+  <point>
+    <name>Уайтхорс</name>
+    <region>Юкон</region>
+    <district>Уайтхорс</district>
+    <id>338651</id>
+  </point>
+</country>

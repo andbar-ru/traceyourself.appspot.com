@@ -1,0 +1,26 @@
+application: traceyourself-hrd
+module: highmem
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+instance_class: F2
+
+# libraries {{{1
+libraries:
+- name: lxml
+  version: latest
+- name: webapp2
+  version: latest
+
+# handlers {{{1
+handlers:
+- url: /get_data
+  script: ajax.app
+
+- url: /get_common_data
+  script: ajax.app
+
+- url: /table2file
+  script: ajax.app
+

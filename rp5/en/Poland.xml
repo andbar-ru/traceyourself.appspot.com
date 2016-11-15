@@ -1,0 +1,416 @@
+<country name="Poland" count="69">
+  <point>
+    <name>Kalisz</name>
+    <region>Greater Poland Voivodeship</region>
+    <district>Kalisz</district>
+    <id>7927</id>
+  </point>
+  <point>
+    <name>Kolo</name>
+    <region>Greater Poland Voivodeship</region>
+    <district>Kolo</district>
+    <id>7902</id>
+  </point>
+  <point>
+    <name>Leszno Strzyzewice</name>
+    <region>Greater Poland Voivodeship</region>
+    <district>Leszno Strzyzewice</district>
+    <id>7921</id>
+  </point>
+  <point>
+    <name>Pila</name>
+    <region>Greater Poland Voivodeship</region>
+    <district>Pila</district>
+    <id>7878</id>
+  </point>
+  <point>
+    <name>Poznań (airport)</name>
+    <region>Greater Poland Voivodeship</region>
+    <district>Poznań (airport)</district>
+    <id>7901</id>
+  </point>
+  <point>
+    <name>Bydgoszcz</name>
+    <region>Kuyavian-Pomeranian Voivodeship</region>
+    <district>Bydgoszcz</district>
+    <id>152107</id>
+  </point>
+  <point>
+    <name>Torun</name>
+    <region>Kuyavian-Pomeranian Voivodeship</region>
+    <district>Torun</district>
+    <id>7880</id>
+  </point>
+  <point>
+    <name>Kasprowy Wierch</name>
+    <region>Lesser Poland Voivodeship</region>
+    <district>Kasprowy Wierch</district>
+    <id>7989</id>
+  </point>
+  <point>
+    <name>Krakow (airport)</name>
+    <region>Lesser Poland Voivodeship</region>
+    <district>Krakow (airport)</district>
+    <id>7972</id>
+  </point>
+  <point>
+    <name>Nowy Sacz</name>
+    <region>Lesser Poland Voivodeship</region>
+    <district>Nowy Sacz</district>
+    <id>7990</id>
+  </point>
+  <point>
+    <name>Tarnow</name>
+    <region>Lesser Poland Voivodeship</region>
+    <district>Tarnow</district>
+    <id>7975</id>
+  </point>
+  <point>
+    <name>Zakopane</name>
+    <region>Lesser Poland Voivodeship</region>
+    <district>Zakopane</district>
+    <id>7985</id>
+  </point>
+  <point>
+    <name>Lodz (airport)</name>
+    <region>Lodz Voivodeship</region>
+    <district>Lodz (airport)</district>
+    <id>7930</id>
+  </point>
+  <point>
+    <name>Sulejow</name>
+    <region>Lodz Voivodeship</region>
+    <district>Sulejow</district>
+    <id>7932</id>
+  </point>
+  <point>
+    <name>Wielun</name>
+    <region>Lodz Voivodeship</region>
+    <district>Wielun</district>
+    <id>7928</id>
+  </point>
+  <point>
+    <name>Jelenia Gora</name>
+    <region>Lower Silesian Voivodeship</region>
+    <district>Jelenia Gora</district>
+    <id>7954</id>
+  </point>
+  <point>
+    <name>Kłodzko</name>
+    <region>Lower Silesian Voivodeship</region>
+    <district>Kłodzko</district>
+    <id>7958</id>
+  </point>
+  <point>
+    <name>Legnica Bartoszow</name>
+    <region>Lower Silesian Voivodeship</region>
+    <district>Legnica Bartoszow</district>
+    <id>7919</id>
+  </point>
+  <point>
+    <name>Sniezka</name>
+    <region>Lower Silesian Voivodeship</region>
+    <district>Sniezka</district>
+    <id>7956</id>
+  </point>
+  <point>
+    <name>Wroclaw</name>
+    <region>Lower Silesian Voivodeship</region>
+    <district>Wroclaw</district>
+    <id>7926</id>
+  </point>
+  <point>
+    <name>Wroclaw / Strachowice (airport)</name>
+    <region>Lower Silesian Voivodeship</region>
+    <district>Wroclaw / Strachowice (airport)</district>
+    <id>7922</id>
+  </point>
+  <point>
+    <name>Lublin</name>
+    <region>Lublin Voivodeship</region>
+    <district>Lublin</district>
+    <id>151356</id>
+  </point>
+  <point>
+    <name>Lublin / Radawiec</name>
+    <region>Lublin Voivodeship</region>
+    <district>Lublin / Radawiec</district>
+    <id>7945</id>
+  </point>
+  <point>
+    <name>Terespol</name>
+    <region>Lublin Voivodeship</region>
+    <district>Terespol</district>
+    <id>7916</id>
+  </point>
+  <point>
+    <name>Wlodawa</name>
+    <region>Lublin Voivodeship</region>
+    <district>Wlodawa</district>
+    <id>7950</id>
+  </point>
+  <point>
+    <name>Zamosc</name>
+    <region>Lublin Voivodeship</region>
+    <district>Zamosc</district>
+    <id>7981</id>
+  </point>
+  <point>
+    <name>Gorzow Wielkopolski</name>
+    <region>Lubusz Voivodeship</region>
+    <district>Gorzow Wielkopolski</district>
+    <id>7899</id>
+  </point>
+  <point>
+    <name>Slubice</name>
+    <region>Lubusz Voivodeship</region>
+    <district>Slubice</district>
+    <id>7900</id>
+  </point>
+  <point>
+    <name>Zielona Gora</name>
+    <region>Lubusz Voivodeship</region>
+    <district>Zielona Gora</district>
+    <id>7918</id>
+  </point>
+  <point>
+    <name>Kozienice</name>
+    <region>Masovian Voivodeship</region>
+    <district>Kozienice</district>
+    <id>7939</id>
+  </point>
+  <point>
+    <name>Mlawa</name>
+    <region>Masovian Voivodeship</region>
+    <district>Mlawa</district>
+    <id>7884</id>
+  </point>
+  <point>
+    <name>Ostroleka</name>
+    <region>Masovian Voivodeship</region>
+    <district>Ostroleka</district>
+    <id>7891</id>
+  </point>
+  <point>
+    <name>Plock</name>
+    <region>Masovian Voivodeship</region>
+    <district>Plock</district>
+    <id>7904</id>
+  </point>
+  <point>
+    <name>Siedlce</name>
+    <region>Masovian Voivodeship</region>
+    <district>Siedlce</district>
+    <id>7911</id>
+  </point>
+  <point>
+    <name>Warsaw</name>
+    <region>Masovian Voivodeship</region>
+    <district>Warsaw</district>
+    <id>7907</id>
+  </point>
+  <point>
+    <name>Warsaw / Okecie (airport)</name>
+    <region>Masovian Voivodeship</region>
+    <district>Warsaw / Okecie (airport)</district>
+    <id>7910</id>
+  </point>
+  <point>
+    <name>Opole</name>
+    <region>Opole Voivodeship</region>
+    <district>Opole</district>
+    <id>7959</id>
+  </point>
+  <point>
+    <name>Bialystok</name>
+    <region>Podlaskie Voivodeship</region>
+    <district>Bialystok</district>
+    <id>7898</id>
+  </point>
+  <point>
+    <name>Suwalki</name>
+    <region>Podlaskie Voivodeship</region>
+    <district>Suwalki</district>
+    <id>7864</id>
+  </point>
+  <point>
+    <name>Chojnice</name>
+    <region>Pomeranian Voivodeship</region>
+    <district>Chojnice</district>
+    <id>7879</id>
+  </point>
+  <point>
+    <name>Gdansk</name>
+    <region>Pomeranian Voivodeship</region>
+    <district>Gdansk</district>
+    <id>7856</id>
+  </point>
+  <point>
+    <name>Gdansk / Rebiechowo (airport)</name>
+    <region>Pomeranian Voivodeship</region>
+    <district>Gdansk / Rebiechowo (airport)</district>
+    <id>7844</id>
+  </point>
+  <point>
+    <name>Gdynia</name>
+    <region>Pomeranian Voivodeship</region>
+    <district>Gdynia</district>
+    <id>7841</id>
+  </point>
+  <point>
+    <name>Hel</name>
+    <region>Pomeranian Voivodeship</region>
+    <district>Hel</district>
+    <id>7839</id>
+  </point>
+  <point>
+    <name>Leba</name>
+    <region>Pomeranian Voivodeship</region>
+    <district>Leba</district>
+    <id>7834</id>
+  </point>
+  <point>
+    <name>Lebork</name>
+    <region>Pomeranian Voivodeship</region>
+    <district>Lebork</district>
+    <id>7835</id>
+  </point>
+  <point>
+    <name>Ustka</name>
+    <region>Pomeranian Voivodeship</region>
+    <district>Ustka</district>
+    <id>7833</id>
+  </point>
+  <point>
+    <name>Bielsko-Biała</name>
+    <region>Silesian Voivodeship</region>
+    <district>Bielsko-Biała</district>
+    <id>7984</id>
+  </point>
+  <point>
+    <name>Częstochowa</name>
+    <region>Silesian Voivodeship</region>
+    <district>Częstochowa</district>
+    <id>7965</id>
+  </point>
+  <point>
+    <name>Katowice (airport)</name>
+    <region>Silesian Voivodeship</region>
+    <district>Katowice (airport)</district>
+    <id>7970</id>
+  </point>
+  <point>
+    <name>Katowice / Muchowiec (airport)</name>
+    <region>Silesian Voivodeship</region>
+    <district>Katowice / Muchowiec (airport)</district>
+    <id>508189</id>
+  </point>
+  <point>
+    <name>Raciborz</name>
+    <region>Silesian Voivodeship</region>
+    <district>Raciborz</district>
+    <id>7963</id>
+  </point>
+  <point>
+    <name>Krosno</name>
+    <region>Subcarpathian Voivodeship</region>
+    <district>Krosno</district>
+    <id>348486</id>
+  </point>
+  <point>
+    <name>Lesko</name>
+    <region>Subcarpathian Voivodeship</region>
+    <district>Lesko</district>
+    <id>7991</id>
+  </point>
+  <point>
+    <name>Przemysl</name>
+    <region>Subcarpathian Voivodeship</region>
+    <district>Przemysl</district>
+    <id>7993</id>
+  </point>
+  <point>
+    <name>Rzeszow (airport)</name>
+    <region>Subcarpathian Voivodeship</region>
+    <district>Rzeszow (airport)</district>
+    <id>7976</id>
+  </point>
+  <point>
+    <name>Kielce</name>
+    <region>Swietokrzyskie Voivodeship</region>
+    <district>Kielce</district>
+    <id>7973</id>
+  </point>
+  <point>
+    <name>Sandomierz</name>
+    <region>Swietokrzyskie Voivodeship</region>
+    <district>Sandomierz</district>
+    <id>7977</id>
+  </point>
+  <point>
+    <name>Elblag</name>
+    <region>Warmian-Masurian Voivodeship</region>
+    <district>Elblag</district>
+    <id>7858</id>
+  </point>
+  <point>
+    <name>Ketrzyn</name>
+    <region>Warmian-Masurian Voivodeship</region>
+    <district>Ketrzyn</district>
+    <id>7862</id>
+  </point>
+  <point>
+    <name>Mikolajki</name>
+    <region>Warmian-Masurian Voivodeship</region>
+    <district>Mikolajki</district>
+    <id>7888</id>
+  </point>
+  <point>
+    <name>Olsztyn</name>
+    <region>Warmian-Masurian Voivodeship</region>
+    <district>Olsztyn</district>
+    <id>7885</id>
+  </point>
+  <point>
+    <name>Kolobrzeg</name>
+    <region>West Pomeranian Voivodeship</region>
+    <district>Kolobrzeg</district>
+    <id>7819</id>
+  </point>
+  <point>
+    <name>Koszalin</name>
+    <region>West Pomeranian Voivodeship</region>
+    <district>Koszalin</district>
+    <id>7824</id>
+  </point>
+  <point>
+    <name>Resko</name>
+    <region>West Pomeranian Voivodeship</region>
+    <district>Resko</district>
+    <id>7874</id>
+  </point>
+  <point>
+    <name>Stettin</name>
+    <region>West Pomeranian Voivodeship</region>
+    <district>Stettin</district>
+    <id>7867</id>
+  </point>
+  <point>
+    <name>Stettin (airport)</name>
+    <region>West Pomeranian Voivodeship</region>
+    <district>Stettin (airport)</district>
+    <id>507949</id>
+  </point>
+  <point>
+    <name>Swinoujscie</name>
+    <region>West Pomeranian Voivodeship</region>
+    <district>Swinoujscie</district>
+    <id>7866</id>
+  </point>
+  <point>
+    <name>Szczecinek</name>
+    <region>West Pomeranian Voivodeship</region>
+    <district>Szczecinek</district>
+    <id>7877</id>
+  </point>
+</country>

@@ -1,0 +1,392 @@
+<country name="Саудовская Аравия" count="65">
+  <point>
+    <name>Абха (аэропорт)</name>
+    <region>Асир</region>
+    <district>Абха (аэропорт)</district>
+    <id>13134</id>
+  </point>
+  <point>
+    <name>Биша (аэропорт)</name>
+    <region>Асир</region>
+    <district>Биша (аэропорт)</district>
+    <id>13133</id>
+  </point>
+  <point>
+    <name>Хамис-Мушаит (аэропорт)</name>
+    <region>Асир</region>
+    <district>Хамис-Мушаит (аэропорт)</district>
+    <id>13135</id>
+  </point>
+  <point>
+    <name>Эль-Кунфудах</name>
+    <region>Асир</region>
+    <district>Эль-Кунфудах</district>
+    <id>13132</id>
+  </point>
+  <point>
+    <name>Джизан (аэропорт)</name>
+    <region>Джизан</region>
+    <district>Джизан (аэропорт)</district>
+    <id>13138</id>
+  </point>
+  <point>
+    <name>Медина (аэропорт)</name>
+    <region>Эль-Мадина</region>
+    <district>Медина (аэропорт)</district>
+    <id>12948</id>
+  </point>
+  <point>
+    <name>Хайбер</name>
+    <region>Эль-Мадина</region>
+    <district>Хайбер</district>
+    <id>12942</id>
+  </point>
+  <point>
+    <name>Янбу (аэропорт)</name>
+    <region>Эль-Мадина</region>
+    <district>Янбу (аэропорт)</district>
+    <id>12953</id>
+  </point>
+  <point>
+    <name>Мекка</name>
+    <region>Мекка</region>
+    <district>Мекка</district>
+    <id>13126</id>
+  </point>
+  <point>
+    <name>Джидда (аэропорт)</name>
+    <region>Мекка</region>
+    <district>Джидда (аэропорт)</district>
+    <id>13124</id>
+  </point>
+  <point>
+    <name>Мекка (аэропорт)</name>
+    <region>Мекка</region>
+    <district>Мекка (аэропорт)</district>
+    <id>507973</id>
+  </point>
+  <point>
+    <name>Таиф (аэропорт)</name>
+    <region>Мекка</region>
+    <district>Таиф (аэропорт)</district>
+    <id>13128</id>
+  </point>
+  <point>
+    <name>Джидда</name>
+    <region>Мекка</region>
+    <district>Джидда</district>
+    <id>13125</id>
+  </point>
+  <point>
+    <name>Зулм</name>
+    <region>Мекка</region>
+    <district>Зулм</district>
+    <id>510176</id>
+  </point>
+  <point>
+    <name>Мина</name>
+    <region>Мекка</region>
+    <district>Мина</district>
+    <id>429857</id>
+  </point>
+  <point>
+    <name>Муздалифа</name>
+    <region>Мекка</region>
+    <district>Муздалифа</district>
+    <id>510177</id>
+  </point>
+  <point>
+    <name>Нувайх</name>
+    <region>Мекка</region>
+    <district>Нувайх</district>
+    <id>13119</id>
+  </point>
+  <point>
+    <name>Эль-Хада</name>
+    <region>Мекка</region>
+    <district>Эль-Хада</district>
+    <id>13127</id>
+  </point>
+  <point>
+    <name>Наджран (аэропорт)</name>
+    <region>Наджран</region>
+    <district>Наджран (аэропорт)</district>
+    <id>13136</id>
+  </point>
+  <point>
+    <name>Шарура (аэропорт)</name>
+    <region>Наджран</region>
+    <district>Шарура (аэропорт)</district>
+    <id>13137</id>
+  </point>
+  <point>
+    <name>Табук (аэропорт)</name>
+    <region>Табук</region>
+    <district>Табук (аэропорт)</district>
+    <id>12935</id>
+  </point>
+  <point>
+    <name>Тайма</name>
+    <region>Табук</region>
+    <district>Тайма</district>
+    <id>12936</id>
+  </point>
+  <point>
+    <name>Эль-Ваджх (аэропорт)</name>
+    <region>Табук</region>
+    <district>Эль-Ваджх (аэропорт)</district>
+    <id>12940</id>
+  </point>
+  <point>
+    <name>Эль-Ула (аэропорт)</name>
+    <region>Табук</region>
+    <district>Эль-Ула (аэропорт)</district>
+    <id>348496</id>
+  </point>
+  <point>
+    <name>Хаиль (аэропорт)</name>
+    <region>Хаиль</region>
+    <district>Хаиль (аэропорт)</district>
+    <id>12939</id>
+  </point>
+  <point>
+    <name>Эль-Баха (аэропорт)</name>
+    <region>Эль-Баха</region>
+    <district>Эль-Баха (аэропорт)</district>
+    <id>13129</id>
+  </point>
+  <point>
+    <name>Эль-Баха</name>
+    <region>Эль-Баха</region>
+    <district>Эль-Баха</district>
+    <id>510280</id>
+  </point>
+  <point>
+    <name>Эль-Джауф (аэропорт)</name>
+    <region>Эль-Джауф</region>
+    <district>Эль-Джауф (аэропорт)</district>
+    <id>12932</id>
+  </point>
+  <point>
+    <name>Гураят (аэропорт)</name>
+    <region>Эль-Джауф</region>
+    <district>Гураят (аэропорт)</district>
+    <id>12931</id>
+  </point>
+  <point>
+    <name>Сакака</name>
+    <region>Эль-Джауф</region>
+    <district>Сакака</district>
+    <id>151968</id>
+  </point>
+  <point>
+    <name>Эль-Курайят</name>
+    <region>Эль-Джауф</region>
+    <district>Эль-Курайят</district>
+    <id>152491</id>
+  </point>
+  <point>
+    <name>Бурайда</name>
+    <region>Эль-Касим</region>
+    <district>Бурайда</district>
+    <id>151974</id>
+  </point>
+  <point>
+    <name>Касим (аэропорт)</name>
+    <region>Эль-Касим</region>
+    <district>Касим (аэропорт)</district>
+    <id>12941</id>
+  </point>
+  <point>
+    <name>Уклат</name>
+    <region>Эль-Касим</region>
+    <district>Уклат</district>
+    <id>12949</id>
+  </point>
+  <point>
+    <name>Унайза</name>
+    <region>Эль-Касим</region>
+    <district>Унайза</district>
+    <id>151969</id>
+  </point>
+  <point>
+    <name>Арар (аэропорт)</name>
+    <region>Эль-Худуд эш-Шамалийя</region>
+    <district>Арар (аэропорт)</district>
+    <id>12930</id>
+  </point>
+  <point>
+    <name>Рафха (аэропорт)</name>
+    <region>Эль-Худуд эш-Шамалийя</region>
+    <district>Рафха (аэропорт)</district>
+    <id>12933</id>
+  </point>
+  <point>
+    <name>Тураиф (аэропорт)</name>
+    <region>Эль-Худуд эш-Шамалийя</region>
+    <district>Тураиф (аэропорт)</district>
+    <id>12929</id>
+  </point>
+  <point>
+    <name>Эр-Рияд (аэропорт)</name>
+    <region>Эр-Рияд</region>
+    <district>Эр-Рияд (аэропорт)</district>
+    <id>12951</id>
+  </point>
+  <point>
+    <name>Ад-Давадими</name>
+    <region>Эр-Рияд</region>
+    <district>Ад-Давадими</district>
+    <id>12950</id>
+  </point>
+  <point>
+    <name>Ад-Давадими (аэропорт)</name>
+    <region>Эр-Рияд</region>
+    <district>Ад-Давадими (аэропорт)</district>
+    <id>509576</id>
+  </point>
+  <point>
+    <name>Эль-Хардж (аэропорт)</name>
+    <region>Эр-Рияд</region>
+    <district>Эль-Хардж (аэропорт)</district>
+    <id>509781</id>
+  </point>
+  <point>
+    <name>Вади-ад-Давасир (аэропорт)</name>
+    <region>Эр-Рияд</region>
+    <district>Вади-ад-Давасир (аэропорт)</district>
+    <id>13131</id>
+  </point>
+  <point>
+    <name>Вади-Эль-Давассер</name>
+    <region>Эр-Рияд</region>
+    <district>Вади-Эль-Давассер</district>
+    <id>13130</id>
+  </point>
+  <point>
+    <name>Лайла</name>
+    <region>Эр-Рияд</region>
+    <district>Лайла</district>
+    <id>13120</id>
+  </point>
+  <point>
+    <name>Рияд</name>
+    <region>Эр-Рияд</region>
+    <district>Рияд</district>
+    <id>12952</id>
+  </point>
+  <point>
+    <name>Эль-Хардж</name>
+    <region>Эр-Рияд</region>
+    <district>Эль-Хардж</district>
+    <id>12954</id>
+  </point>
+  <point>
+    <name>Эль-Хусария</name>
+    <region>Эр-Рияд</region>
+    <district>Эль-Хусария</district>
+    <id>12955</id>
+  </point>
+  <point>
+    <name>Аль-Кайсума (аэропорт)</name>
+    <region>Эш-Шаркийя</region>
+    <district>Аль-Кайсума (аэропорт)</district>
+    <id>12934</id>
+  </point>
+  <point>
+    <name>Даммам / им. Короля Фахда (аэропорт)</name>
+    <region>Эш-Шаркийя</region>
+    <district>Даммам / им. Короля Фахда (аэропорт)</district>
+    <id>508483</id>
+  </point>
+  <point>
+    <name>Даммам (аэропорт)</name>
+    <region>Эш-Шаркийя</region>
+    <district>Даммам (аэропорт)</district>
+    <id>12943</id>
+  </point>
+  <point>
+    <name>Даммам</name>
+    <region>Эш-Шаркийя</region>
+    <district>Даммам</district>
+    <id>12945</id>
+  </point>
+  <point>
+    <name>Дахран (аэропорт)</name>
+    <region>Эш-Шаркийя</region>
+    <district>Дахран (аэропорт)</district>
+    <id>12944</id>
+  </point>
+  <point>
+    <name>Обайлах</name>
+    <region>Эш-Шаркийя</region>
+    <district>Обайлах</district>
+    <id>13121</id>
+  </point>
+  <point>
+    <name>Тарут</name>
+    <region>Эш-Шаркийя</region>
+    <district>Тарут</district>
+    <id>151965</id>
+  </point>
+  <point>
+    <name>Хафар-эль-Батин (аэропорт)</name>
+    <region>Эш-Шаркийя</region>
+    <district>Хафар-эль-Батин (аэропорт)</district>
+    <id>12937</id>
+  </point>
+  <point>
+    <name>Шавалах</name>
+    <region>Эш-Шаркийя</region>
+    <district>Шавалах</district>
+    <id>13122</id>
+  </point>
+  <point>
+    <name>Эль-Ахса (аэропорт)</name>
+    <region>Эш-Шаркийя</region>
+    <district>Эль-Ахса (аэропорт)</district>
+    <id>12946</id>
+  </point>
+  <point>
+    <name>Эль-Джубайль</name>
+    <region>Эш-Шаркийя</region>
+    <district>Эль-Джубайль</district>
+    <id>151972</id>
+  </point>
+  <point>
+    <name>Эль-Катиф</name>
+    <region>Эш-Шаркийя</region>
+    <district>Эль-Катиф</district>
+    <id>151966</id>
+  </point>
+  <point>
+    <name>Эль-Мубарраз</name>
+    <region>Эш-Шаркийя</region>
+    <district>Эль-Мубарраз</district>
+    <id>151973</id>
+  </point>
+  <point>
+    <name>Эль-Хаджи</name>
+    <region>Эш-Шаркийя</region>
+    <district>Эль-Хаджи</district>
+    <id>12938</id>
+  </point>
+  <point>
+    <name>Эль-Хубар</name>
+    <region>Эш-Шаркийя</region>
+    <district>Эль-Хубар</district>
+    <id>151970</id>
+  </point>
+  <point>
+    <name>Эль-Хуфуф</name>
+    <region>Эш-Шаркийя</region>
+    <district>Эль-Хуфуф</district>
+    <id>12947</id>
+  </point>
+  <point>
+    <name>Эт-Тукба</name>
+    <region>Эш-Шаркийя</region>
+    <district>Эт-Тукба</district>
+    <id>151971</id>
+  </point>
+</country>

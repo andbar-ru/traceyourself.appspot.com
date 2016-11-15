@@ -1,0 +1,56 @@
+<country name="Tonga" count="9">
+  <point>
+    <name>'Ohonua</name>
+    <region>'Eua</region>
+    <district>`Ohonua</district>
+    <id>348560</id>
+  </point>
+  <point>
+    <name>Pangai (airport)</name>
+    <region>Ha'apai</region>
+    <district>Pangai (airport)</district>
+    <id>337785</id>
+  </point>
+  <point>
+    <name>Falehau</name>
+    <region>Niuas</region>
+    <district>Falehau</district>
+    <id>337787</id>
+  </point>
+  <point>
+    <name>Hihifo</name>
+    <region>Niuas</region>
+    <district>Hihifo</district>
+    <id>348559</id>
+  </point>
+  <point>
+    <name>Nuku'alofa</name>
+    <region>Tongatapu</region>
+    <district>Nuku`alofa</district>
+    <id>337448</id>
+  </point>
+  <point>
+    <name>Nukualofa (AWS)</name>
+    <region>Tongatapu</region>
+    <district>Nukualofa (AWS)</district>
+    <id>510662</id>
+  </point>
+  <point>
+    <name>Tongatapu / Fua'amotu (airport)</name>
+    <region>Tongatapu</region>
+    <district>Tongatapu / Fua`amotu (airport)</district>
+    <id>337784</id>
+  </point>
+  <point>
+    <name>Lupepau'u (airport)</name>
+    <region>Vava'u</region>
+    <district>Lupepau`u (airport)</district>
+    <id>337786</id>
+  </point>
+  <point>
+    <name>Neiafu</name>
+    <region>Vava'u</region>
+    <district>Neiafu</district>
+    <id>337788</id>
+  </point>
+</country>

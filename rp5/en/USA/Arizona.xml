@@ -1,0 +1,1947 @@
+<region name="Arizona" count="325">
+  <point>
+    <name>Alpine</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261518</id>
+  </point>
+  <point>
+    <name>Chambers</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261527</id>
+  </point>
+  <point>
+    <name>Chinle</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261538</id>
+  </point>
+  <point>
+    <name>Concho</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261569</id>
+  </point>
+  <point>
+    <name>Dennehotso</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261580</id>
+  </point>
+  <point>
+    <name>Eagar</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261589</id>
+  </point>
+  <point>
+    <name>Fort Defiance</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261597</id>
+  </point>
+  <point>
+    <name>Ganado</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261608</id>
+  </point>
+  <point>
+    <name>Greer</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261629</id>
+  </point>
+  <point>
+    <name>Houck</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261646</id>
+  </point>
+  <point>
+    <name>Lukachukai</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261648</id>
+  </point>
+  <point>
+    <name>Lupton</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261649</id>
+  </point>
+  <point>
+    <name>Many Farms</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261657</id>
+  </point>
+  <point>
+    <name>McNary</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261667</id>
+  </point>
+  <point>
+    <name>Nazlini</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261677</id>
+  </point>
+  <point>
+    <name>Nutrioso</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261687</id>
+  </point>
+  <point>
+    <name>Petrified Forest National Park</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261697</id>
+  </point>
+  <point>
+    <name>Red Valley</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261707</id>
+  </point>
+  <point>
+    <name>Rock Point</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261718</id>
+  </point>
+  <point>
+    <name>Round Rock</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261727</id>
+  </point>
+  <point>
+    <name>Saint Johns (airport)</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>259312</id>
+  </point>
+  <point>
+    <name>Saint Michaels</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261745</id>
+  </point>
+  <point>
+    <name>Sanders</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261753</id>
+  </point>
+  <point>
+    <name>Springerville</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261764</id>
+  </point>
+  <point>
+    <name>Springerville (airport)</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>510574</id>
+  </point>
+  <point>
+    <name>Teec Nos Pos</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261791</id>
+  </point>
+  <point>
+    <name>Tsaile</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261801</id>
+  </point>
+  <point>
+    <name>Vernon</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261812</id>
+  </point>
+  <point>
+    <name>Window Rock (airport)</name>
+    <region>Arizona</region>
+    <district>Apache</district>
+    <id>261822</id>
+  </point>
+  <point>
+    <name>Benson</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261832</id>
+  </point>
+  <point>
+    <name>Bisbee</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>256190</id>
+  </point>
+  <point>
+    <name>Bowie</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261841</id>
+  </point>
+  <point>
+    <name>Cochise</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261849</id>
+  </point>
+  <point>
+    <name>Douglas</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261869</id>
+  </point>
+  <point>
+    <name>Douglas (airport)</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>508773</id>
+  </point>
+  <point>
+    <name>Dragoon</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261879</id>
+  </point>
+  <point>
+    <name>Elfrida</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261888</id>
+  </point>
+  <point>
+    <name>Fort Grant</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261894</id>
+  </point>
+  <point>
+    <name>Fort Huachuca (airport)</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261895</id>
+  </point>
+  <point>
+    <name>Hereford</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261896</id>
+  </point>
+  <point>
+    <name>Huachuca City</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261898</id>
+  </point>
+  <point>
+    <name>McNeal</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261909</id>
+  </point>
+  <point>
+    <name>Naco</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261916</id>
+  </point>
+  <point>
+    <name>Pearce</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261924</id>
+  </point>
+  <point>
+    <name>Pirtleville</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261933</id>
+  </point>
+  <point>
+    <name>Pomerene</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261942</id>
+  </point>
+  <point>
+    <name>Portal</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261953</id>
+  </point>
+  <point>
+    <name>Saint David</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261960</id>
+  </point>
+  <point>
+    <name>San Simon</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>261965</id>
+  </point>
+  <point>
+    <name>Sierra Vista</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>262018</id>
+  </point>
+  <point>
+    <name>Sunsites</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>262028</id>
+  </point>
+  <point>
+    <name>Tombstone</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>262033</id>
+  </point>
+  <point>
+    <name>Willcox</name>
+    <region>Arizona</region>
+    <district>Cochise</district>
+    <id>262047</id>
+  </point>
+  <point>
+    <name>Bellemont</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262055</id>
+  </point>
+  <point>
+    <name>Cameron</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262072</id>
+  </point>
+  <point>
+    <name>Flagstaff</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>256191</id>
+  </point>
+  <point>
+    <name>Flagstaff (airport)</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>348414</id>
+  </point>
+  <point>
+    <name>Forest Lakes</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262165</id>
+  </point>
+  <point>
+    <name>Fredonia</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262174</id>
+  </point>
+  <point>
+    <name>Grand Canyon</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262189</id>
+  </point>
+  <point>
+    <name>Grand Canyon (airport)</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>508890</id>
+  </point>
+  <point>
+    <name>Gray Mountain</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262198</id>
+  </point>
+  <point>
+    <name>H.A. Clark Memorial Field (airport)</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>508428</id>
+  </point>
+  <point>
+    <name>Happy Jack</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262207</id>
+  </point>
+  <point>
+    <name>Heber</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262217</id>
+  </point>
+  <point>
+    <name>Junipine</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>510058</id>
+  </point>
+  <point>
+    <name>Kaibeto</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262226</id>
+  </point>
+  <point>
+    <name>Leupp</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262237</id>
+  </point>
+  <point>
+    <name>Marble Canyon</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262247</id>
+  </point>
+  <point>
+    <name>Mormon Lake</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262255</id>
+  </point>
+  <point>
+    <name>Munds Park</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262263</id>
+  </point>
+  <point>
+    <name>North Rim</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262273</id>
+  </point>
+  <point>
+    <name>Page (airport)</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262281</id>
+  </point>
+  <point>
+    <name>Parks</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262283</id>
+  </point>
+  <point>
+    <name>Sedona (airport)</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262297</id>
+  </point>
+  <point>
+    <name>Supai</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262307</id>
+  </point>
+  <point>
+    <name>Tonalea</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262312</id>
+  </point>
+  <point>
+    <name>Tuba City</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262328</id>
+  </point>
+  <point>
+    <name>Williams</name>
+    <region>Arizona</region>
+    <district>Coconino</district>
+    <id>262330</id>
+  </point>
+  <point>
+    <name>Claypool</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262331</id>
+  </point>
+  <point>
+    <name>Dudleyville</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262332</id>
+  </point>
+  <point>
+    <name>Globe</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>256192</id>
+  </point>
+  <point>
+    <name>Hayden</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262338</id>
+  </point>
+  <point>
+    <name>Miami</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262348</id>
+  </point>
+  <point>
+    <name>Payson</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262366</id>
+  </point>
+  <point>
+    <name>Payson (airport)</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>508597</id>
+  </point>
+  <point>
+    <name>Peridot</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262367</id>
+  </point>
+  <point>
+    <name>Pine</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262377</id>
+  </point>
+  <point>
+    <name>Roosevelt</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262382</id>
+  </point>
+  <point>
+    <name>San Carlos</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262394</id>
+  </point>
+  <point>
+    <name>Star Valley</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262404</id>
+  </point>
+  <point>
+    <name>Strawberry</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262414</id>
+  </point>
+  <point>
+    <name>Tonto Basin</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262423</id>
+  </point>
+  <point>
+    <name>Winkelman</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262442</id>
+  </point>
+  <point>
+    <name>Young</name>
+    <region>Arizona</region>
+    <district>Gila</district>
+    <id>262451</id>
+  </point>
+  <point>
+    <name>Bylas</name>
+    <region>Arizona</region>
+    <district>Graham</district>
+    <id>262462</id>
+  </point>
+  <point>
+    <name>Central</name>
+    <region>Arizona</region>
+    <district>Graham</district>
+    <id>262467</id>
+  </point>
+  <point>
+    <name>Eden</name>
+    <region>Arizona</region>
+    <district>Graham</district>
+    <id>262477</id>
+  </point>
+  <point>
+    <name>Fort Thomas</name>
+    <region>Arizona</region>
+    <district>Graham</district>
+    <id>262488</id>
+  </point>
+  <point>
+    <name>Pima</name>
+    <region>Arizona</region>
+    <district>Graham</district>
+    <id>262497</id>
+  </point>
+  <point>
+    <name>Safford</name>
+    <region>Arizona</region>
+    <district>Graham</district>
+    <id>259323</id>
+  </point>
+  <point>
+    <name>Safford (airport)</name>
+    <region>Arizona</region>
+    <district>Graham</district>
+    <id>509109</id>
+  </point>
+  <point>
+    <name>Solomon</name>
+    <region>Arizona</region>
+    <district>Graham</district>
+    <id>262524</id>
+  </point>
+  <point>
+    <name>Thatcher</name>
+    <region>Arizona</region>
+    <district>Graham</district>
+    <id>262534</id>
+  </point>
+  <point>
+    <name>Blue</name>
+    <region>Arizona</region>
+    <district>Greenlee</district>
+    <id>262543</id>
+  </point>
+  <point>
+    <name>Clifton</name>
+    <region>Arizona</region>
+    <district>Greenlee</district>
+    <id>259324</id>
+  </point>
+  <point>
+    <name>Duncan</name>
+    <region>Arizona</region>
+    <district>Greenlee</district>
+    <id>262549</id>
+  </point>
+  <point>
+    <name>Morenci</name>
+    <region>Arizona</region>
+    <district>Greenlee</district>
+    <id>262557</id>
+  </point>
+  <point>
+    <name>Bouse</name>
+    <region>Arizona</region>
+    <district>La Paz</district>
+    <id>262568</id>
+  </point>
+  <point>
+    <name>Cibola</name>
+    <region>Arizona</region>
+    <district>La Paz</district>
+    <id>262578</id>
+  </point>
+  <point>
+    <name>Ehrenberg</name>
+    <region>Arizona</region>
+    <district>La Paz</district>
+    <id>262586</id>
+  </point>
+  <point>
+    <name>Parker</name>
+    <region>Arizona</region>
+    <district>La Paz</district>
+    <id>259325</id>
+  </point>
+  <point>
+    <name>Poston</name>
+    <region>Arizona</region>
+    <district>La Paz</district>
+    <id>262597</id>
+  </point>
+  <point>
+    <name>Quartzsite</name>
+    <region>Arizona</region>
+    <district>La Paz</district>
+    <id>262600</id>
+  </point>
+  <point>
+    <name>Salome</name>
+    <region>Arizona</region>
+    <district>La Paz</district>
+    <id>262601</id>
+  </point>
+  <point>
+    <name>Wenden</name>
+    <region>Arizona</region>
+    <district>La Paz</district>
+    <id>262605</id>
+  </point>
+  <point>
+    <name>Aguila</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262615</id>
+  </point>
+  <point>
+    <name>Anthem</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262626</id>
+  </point>
+  <point>
+    <name>Apache Junction</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262628</id>
+  </point>
+  <point>
+    <name>Arlington</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262638</id>
+  </point>
+  <point>
+    <name>Asu</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262647</id>
+  </point>
+  <point>
+    <name>Avondale</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262666</id>
+  </point>
+  <point>
+    <name>Buckeye</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262684</id>
+  </point>
+  <point>
+    <name>Buckeye (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>508300</id>
+  </point>
+  <point>
+    <name>Carefree</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262693</id>
+  </point>
+  <point>
+    <name>Cashion</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262702</id>
+  </point>
+  <point>
+    <name>Cave Creek</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262721</id>
+  </point>
+  <point>
+    <name>Chandler</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262786</id>
+  </point>
+  <point>
+    <name>Chandler (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>508813</id>
+  </point>
+  <point>
+    <name>Chandler Heights</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262815</id>
+  </point>
+  <point>
+    <name>Desert Hills</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262825</id>
+  </point>
+  <point>
+    <name>El Mirage</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262834</id>
+  </point>
+  <point>
+    <name>Fort Mcdowell</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262843</id>
+  </point>
+  <point>
+    <name>Fountain Hills</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262861</id>
+  </point>
+  <point>
+    <name>Gila Bend</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262870</id>
+  </point>
+  <point>
+    <name>Gila Bend Air Force Auxiliary Field (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>508933</id>
+  </point>
+  <point>
+    <name>Gilbert</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>262933</id>
+  </point>
+  <point>
+    <name>Glendale</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263048</id>
+  </point>
+  <point>
+    <name>Glendale (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>508206</id>
+  </point>
+  <point>
+    <name>Goodyear</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263066</id>
+  </point>
+  <point>
+    <name>Goodyear (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>509273</id>
+  </point>
+  <point>
+    <name>Guadalupe</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263076</id>
+  </point>
+  <point>
+    <name>Higley</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263086</id>
+  </point>
+  <point>
+    <name>Laveen</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263096</id>
+  </point>
+  <point>
+    <name>Litchfield Park</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263106</id>
+  </point>
+  <point>
+    <name>Luke (airbase)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>508516</id>
+  </point>
+  <point>
+    <name>Mesa (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263260</id>
+  </point>
+  <point>
+    <name>Morristown</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263270</id>
+  </point>
+  <point>
+    <name>New River</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263279</id>
+  </point>
+  <point>
+    <name>Palo Verde</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263289</id>
+  </point>
+  <point>
+    <name>Paradise Valley</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263299</id>
+  </point>
+  <point>
+    <name>Peoria</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263352</id>
+  </point>
+  <point>
+    <name>Phoenix (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>259322</id>
+  </point>
+  <point>
+    <name>Phoenix Deer Valley (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>508602</id>
+  </point>
+  <point>
+    <name>Phoenix-Mesa Gateway (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>508814</id>
+  </point>
+  <point>
+    <name>Queen Creek</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263913</id>
+  </point>
+  <point>
+    <name>Rio Verde</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>263922</id>
+  </point>
+  <point>
+    <name>Scottsdale</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264095</id>
+  </point>
+  <point>
+    <name>Scottsdale (airport)</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>508213</id>
+  </point>
+  <point>
+    <name>Sun City</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264154</id>
+  </point>
+  <point>
+    <name>Sun City West</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264178</id>
+  </point>
+  <point>
+    <name>Sun Lakes</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264182</id>
+  </point>
+  <point>
+    <name>Surprise</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264191</id>
+  </point>
+  <point>
+    <name>Tempe</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264234</id>
+  </point>
+  <point>
+    <name>Tolleson</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264244</id>
+  </point>
+  <point>
+    <name>Tonopah</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264253</id>
+  </point>
+  <point>
+    <name>Tortilla Flat</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264264</id>
+  </point>
+  <point>
+    <name>Waddell</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264266</id>
+  </point>
+  <point>
+    <name>Wickenburg</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264284</id>
+  </point>
+  <point>
+    <name>Wittmann</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264292</id>
+  </point>
+  <point>
+    <name>Youngtown</name>
+    <region>Arizona</region>
+    <district>Maricopa County</district>
+    <id>264302</id>
+  </point>
+  <point>
+    <name>Bullhead City (airport)</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264359</id>
+  </point>
+  <point>
+    <name>Chloride</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264368</id>
+  </point>
+  <point>
+    <name>Colorado City</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264379</id>
+  </point>
+  <point>
+    <name>Colorado City (airport)</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>510274</id>
+  </point>
+  <point>
+    <name>Dolan Springs</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264388</id>
+  </point>
+  <point>
+    <name>Fort Mohave</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264409</id>
+  </point>
+  <point>
+    <name>Golden Valley</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264418</id>
+  </point>
+  <point>
+    <name>Hackberry</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264427</id>
+  </point>
+  <point>
+    <name>Hualapai</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264434</id>
+  </point>
+  <point>
+    <name>Kingman</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>259331</id>
+  </point>
+  <point>
+    <name>Kingman (airport)</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>291912</id>
+  </point>
+  <point>
+    <name>Lake Havasu City</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264532</id>
+  </point>
+  <point>
+    <name>Lake Havasu City (airport)</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>510514</id>
+  </point>
+  <point>
+    <name>Littlefield</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264542</id>
+  </point>
+  <point>
+    <name>Meadview</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264551</id>
+  </point>
+  <point>
+    <name>Mohave Valley</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264556</id>
+  </point>
+  <point>
+    <name>Oatman</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264557</id>
+  </point>
+  <point>
+    <name>Peach Springs</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264558</id>
+  </point>
+  <point>
+    <name>Temple Bar Marina</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264566</id>
+  </point>
+  <point>
+    <name>Topock</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264577</id>
+  </point>
+  <point>
+    <name>Valentine</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264588</id>
+  </point>
+  <point>
+    <name>White Hills</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264599</id>
+  </point>
+  <point>
+    <name>Wikieup</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264609</id>
+  </point>
+  <point>
+    <name>Willow Beach</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264619</id>
+  </point>
+  <point>
+    <name>Yucca</name>
+    <region>Arizona</region>
+    <district>Mohave County</district>
+    <id>264622</id>
+  </point>
+  <point>
+    <name>Blue Gap</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264630</id>
+  </point>
+  <point>
+    <name>Cibecue</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264639</id>
+  </point>
+  <point>
+    <name>Clay Springs</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264649</id>
+  </point>
+  <point>
+    <name>Fort Apache</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264658</id>
+  </point>
+  <point>
+    <name>Heber</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264667</id>
+  </point>
+  <point>
+    <name>Holbrook</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>259332</id>
+  </point>
+  <point>
+    <name>Hotevilla</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264701</id>
+  </point>
+  <point>
+    <name>Indian Wells</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264712</id>
+  </point>
+  <point>
+    <name>Joseph City</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264722</id>
+  </point>
+  <point>
+    <name>Kayenta</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264733</id>
+  </point>
+  <point>
+    <name>Keams Canyon</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264744</id>
+  </point>
+  <point>
+    <name>Kykotsmovi Village</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264753</id>
+  </point>
+  <point>
+    <name>Lakeside</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264762</id>
+  </point>
+  <point>
+    <name>Overgaard</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264771</id>
+  </point>
+  <point>
+    <name>Pinedale</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264780</id>
+  </point>
+  <point>
+    <name>Pinetop</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264791</id>
+  </point>
+  <point>
+    <name>Pinon</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264811</id>
+  </point>
+  <point>
+    <name>Polacca</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264818</id>
+  </point>
+  <point>
+    <name>Second Mesa</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264819</id>
+  </point>
+  <point>
+    <name>Shonto</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264820</id>
+  </point>
+  <point>
+    <name>Show Low (airport)</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264821</id>
+  </point>
+  <point>
+    <name>Snowflake</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264825</id>
+  </point>
+  <point>
+    <name>Sun Valley</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264827</id>
+  </point>
+  <point>
+    <name>Taylor</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264834</id>
+  </point>
+  <point>
+    <name>White Mountain Lake</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264854</id>
+  </point>
+  <point>
+    <name>Whiteriver</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264864</id>
+  </point>
+  <point>
+    <name>Winslow</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264873</id>
+  </point>
+  <point>
+    <name>Winslow (airport)</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>291913</id>
+  </point>
+  <point>
+    <name>Woodruff</name>
+    <region>Arizona</region>
+    <district>Navajo</district>
+    <id>264877</id>
+  </point>
+  <point>
+    <name>Ajo</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>264884</id>
+  </point>
+  <point>
+    <name>Arivaca</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>264895</id>
+  </point>
+  <point>
+    <name>Corona de Tucson</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>264915</id>
+  </point>
+  <point>
+    <name>Cortaro</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>264926</id>
+  </point>
+  <point>
+    <name>Green Valley</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>264946</id>
+  </point>
+  <point>
+    <name>Lukeville</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>264956</id>
+  </point>
+  <point>
+    <name>Madera Canyon</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>264962</id>
+  </point>
+  <point>
+    <name>Marana</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>264980</id>
+  </point>
+  <point>
+    <name>Mount Lemmon</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>264991</id>
+  </point>
+  <point>
+    <name>Pisinemo</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265002</id>
+  </point>
+  <point>
+    <name>Pisinemo Trading Post</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265011</id>
+  </point>
+  <point>
+    <name>Rillito</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265021</id>
+  </point>
+  <point>
+    <name>Ryan Field (airport)</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>508639</id>
+  </point>
+  <point>
+    <name>Sahuarita</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265032</id>
+  </point>
+  <point>
+    <name>Santa Rita Foothills</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265053</id>
+  </point>
+  <point>
+    <name>Sasabe</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265063</id>
+  </point>
+  <point>
+    <name>Sells</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265073</id>
+  </point>
+  <point>
+    <name>Topawa</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265083</id>
+  </point>
+  <point>
+    <name>Tucson</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>256193</id>
+  </point>
+  <point>
+    <name>Tucson (airport)</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>291902</id>
+  </point>
+  <point>
+    <name>Tucson / Davis-Monthan (airbase)</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>508879</id>
+  </point>
+  <point>
+    <name>Vail</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265577</id>
+  </point>
+  <point>
+    <name>Why</name>
+    <region>Arizona</region>
+    <district>Pima</district>
+    <id>265587</id>
+  </point>
+  <point>
+    <name>Arizona City</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265652</id>
+  </point>
+  <point>
+    <name>Bapchule</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265670</id>
+  </point>
+  <point>
+    <name>Casa Grande</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265704</id>
+  </point>
+  <point>
+    <name>Casa Grande (airport)</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>508880</id>
+  </point>
+  <point>
+    <name>Coolidge</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265722</id>
+  </point>
+  <point>
+    <name>Coolidge (airport)</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>510134</id>
+  </point>
+  <point>
+    <name>Eleven Mile Corner</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265738</id>
+  </point>
+  <point>
+    <name>Eloy</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265751</id>
+  </point>
+  <point>
+    <name>Florence</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>256194</id>
+  </point>
+  <point>
+    <name>Gold Canyon</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265764</id>
+  </point>
+  <point>
+    <name>Kearny</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265774</id>
+  </point>
+  <point>
+    <name>Mammoth</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265781</id>
+  </point>
+  <point>
+    <name>Maricopa</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265808</id>
+  </point>
+  <point>
+    <name>Mobile</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265819</id>
+  </point>
+  <point>
+    <name>Oracle</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265827</id>
+  </point>
+  <point>
+    <name>Picacho</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265829</id>
+  </point>
+  <point>
+    <name>Queen Valley</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265834</id>
+  </point>
+  <point>
+    <name>Red Rock</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265850</id>
+  </point>
+  <point>
+    <name>Sacaton</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265868</id>
+  </point>
+  <point>
+    <name>San Manuel</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265874</id>
+  </point>
+  <point>
+    <name>Stanfield</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265894</id>
+  </point>
+  <point>
+    <name>Superior</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265911</id>
+  </point>
+  <point>
+    <name>Superstition Mountain</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265920</id>
+  </point>
+  <point>
+    <name>Toltec</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265938</id>
+  </point>
+  <point>
+    <name>Valley Farms</name>
+    <region>Arizona</region>
+    <district>Pinal</district>
+    <id>265957</id>
+  </point>
+  <point>
+    <name>Amado</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>265966</id>
+  </point>
+  <point>
+    <name>Elgin</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>265976</id>
+  </point>
+  <point>
+    <name>Nogales</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>259390</id>
+  </point>
+  <point>
+    <name>Nogales (airport)</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>509094</id>
+  </point>
+  <point>
+    <name>Patagonia</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>266011</id>
+  </point>
+  <point>
+    <name>Pioneer Airfield (airport)</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>509345</id>
+  </point>
+  <point>
+    <name>Rio Rico</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>266021</id>
+  </point>
+  <point>
+    <name>Sonoita</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>266028</id>
+  </point>
+  <point>
+    <name>Tubac</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>266036</id>
+  </point>
+  <point>
+    <name>Tumacacori</name>
+    <region>Arizona</region>
+    <district>Santa Cruz</district>
+    <id>266047</id>
+  </point>
+  <point>
+    <name>Ash Fork</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266055</id>
+  </point>
+  <point>
+    <name>Bagdad</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266063</id>
+  </point>
+  <point>
+    <name>Bensch Ranch</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266072</id>
+  </point>
+  <point>
+    <name>Black Canyon City</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266082</id>
+  </point>
+  <point>
+    <name>Camp Verde</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266091</id>
+  </point>
+  <point>
+    <name>Chino Valley</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266100</id>
+  </point>
+  <point>
+    <name>Clarkdale</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266108</id>
+  </point>
+  <point>
+    <name>Congress</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266118</id>
+  </point>
+  <point>
+    <name>Cordes Lakes</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266129</id>
+  </point>
+  <point>
+    <name>Cornville</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266140</id>
+  </point>
+  <point>
+    <name>Cottonwood</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266149</id>
+  </point>
+  <point>
+    <name>Crown King</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266159</id>
+  </point>
+  <point>
+    <name>Dewey</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266167</id>
+  </point>
+  <point>
+    <name>Groom Creek</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266178</id>
+  </point>
+  <point>
+    <name>Humboldt</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266189</id>
+  </point>
+  <point>
+    <name>Iron Springs</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266201</id>
+  </point>
+  <point>
+    <name>Jerome</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266212</id>
+  </point>
+  <point>
+    <name>Kirkland</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266223</id>
+  </point>
+  <point>
+    <name>Lake Montezuma</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266232</id>
+  </point>
+  <point>
+    <name>Mayer</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266240</id>
+  </point>
+  <point>
+    <name>Paulden</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266251</id>
+  </point>
+  <point>
+    <name>Peeples Valley</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266253</id>
+  </point>
+  <point>
+    <name>Prescott</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>259391</id>
+  </point>
+  <point>
+    <name>Prescott (airport)</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>508775</id>
+  </point>
+  <point>
+    <name>Prescott Valley</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266314</id>
+  </point>
+  <point>
+    <name>Rimrock</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266343</id>
+  </point>
+  <point>
+    <name>Rock Springs</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266354</id>
+  </point>
+  <point>
+    <name>Seligman</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266399</id>
+  </point>
+  <point>
+    <name>Skull Valley</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266409</id>
+  </point>
+  <point>
+    <name>Spring Valley</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266419</id>
+  </point>
+  <point>
+    <name>Yarnell</name>
+    <region>Arizona</region>
+    <district>Yavapai</district>
+    <id>266429</id>
+  </point>
+  <point>
+    <name>Yuma</name>
+    <district>Yuma</district>
+    <id>259265</id>
+  </point>
+  <point>
+    <name>Dateland</name>
+    <district>Yuma</district>
+    <id>266438</id>
+  </point>
+  <point>
+    <name>Wellton</name>
+    <district>Yuma</district>
+    <id>266512</id>
+  </point>
+  <point>
+    <name>Yuma (airport)</name>
+    <district>Yuma</district>
+    <id>509321</id>
+  </point>
+  <point>
+    <name>Yuma Proving Ground</name>
+    <district>Yuma</district>
+    <id>266571</id>
+  </point>
+  <point>
+    <name>Gadsden</name>
+    <region>Arizona</region>
+    <district>Yuma</district>
+    <id>266449</id>
+  </point>
+  <point>
+    <name>Martinez Lake</name>
+    <region>Arizona</region>
+    <district>Yuma</district>
+    <id>266459</id>
+  </point>
+  <point>
+    <name>Roll</name>
+    <region>Arizona</region>
+    <district>Yuma</district>
+    <id>266469</id>
+  </point>
+  <point>
+    <name>San Luis</name>
+    <region>Arizona</region>
+    <district>Yuma</district>
+    <id>266480</id>
+  </point>
+  <point>
+    <name>Somerton</name>
+    <region>Arizona</region>
+    <district>Yuma</district>
+    <id>266491</id>
+  </point>
+  <point>
+    <name>Tacna</name>
+    <region>Arizona</region>
+    <district>Yuma</district>
+    <id>266502</id>
+  </point>
+</region>

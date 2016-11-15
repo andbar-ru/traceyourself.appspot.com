@@ -1,0 +1,1322 @@
+<country name="Италия" count="220">
+  <point>
+    <name>Л’Аквила</name>
+    <region>Абруццо</region>
+    <district>Л’Аквила</district>
+    <id>152398</id>
+  </point>
+  <point>
+    <name>Пескара (аэропорт)</name>
+    <region>Абруццо</region>
+    <district>Пескара (аэропорт)</district>
+    <id>9318</id>
+  </point>
+  <point>
+    <name>Претуро</name>
+    <region>Абруццо</region>
+    <district>Претуро</district>
+    <id>9311</id>
+  </point>
+  <point>
+    <name>Сан-Джованни-Театино</name>
+    <region>Абруццо</region>
+    <district>Сан-Джованни-Театино</district>
+    <id>170758</id>
+  </point>
+  <point>
+    <name>Фучино</name>
+    <region>Абруццо</region>
+    <district>Фучино</district>
+    <id>9310</id>
+  </point>
+  <point>
+    <name>Аоста</name>
+    <region>Валле-д’Аоста</region>
+    <district>Аоста</district>
+    <id>9144</id>
+  </point>
+  <point>
+    <name>Валле-д’Аоста (аэропорт)</name>
+    <region>Валле-д’Аоста</region>
+    <district>Валле-д’Аоста (аэропорт)</district>
+    <id>510150</id>
+  </point>
+  <point>
+    <name>Пиан-Роза (аэропорт)</name>
+    <region>Валле-д’Аоста</region>
+    <district>Пиан-Роза (аэропорт)</district>
+    <id>9143</id>
+  </point>
+  <point>
+    <name>Амендола (аэропорт)</name>
+    <region>Апулия</region>
+    <district>Амендола (аэропорт)</district>
+    <id>9371</id>
+  </point>
+  <point>
+    <name>Бари / Палесе</name>
+    <region>Апулия</region>
+    <district>Бари / Палесе</district>
+    <id>348625</id>
+  </point>
+  <point>
+    <name>Бари (аэропорт)</name>
+    <region>Апулия</region>
+    <district>Бари (аэропорт)</district>
+    <id>9374</id>
+  </point>
+  <point>
+    <name>Бари</name>
+    <region>Апулия</region>
+    <district>Бари</district>
+    <id>170761</id>
+  </point>
+  <point>
+    <name>Бриндизи (аэропорт)</name>
+    <region>Апулия</region>
+    <district>Бриндизи (аэропорт)</district>
+    <id>9392</id>
+  </point>
+  <point>
+    <name>Вьесте</name>
+    <region>Апулия</region>
+    <district>Вьесте</district>
+    <id>170760</id>
+  </point>
+  <point>
+    <name>Джойя-дель-Колле (аэропорт)</name>
+    <region>Апулия</region>
+    <district>Джойя-дель-Колле (аэропорт)</district>
+    <id>9386</id>
+  </point>
+  <point>
+    <name>Лечче (аэропорт)</name>
+    <region>Апулия</region>
+    <district>Лечче (аэропорт)</district>
+    <id>9403</id>
+  </point>
+  <point>
+    <name>Лечче (метеостанция)</name>
+    <region>Апулия</region>
+    <district>Лечче (метеостанция)</district>
+    <id>170767</id>
+  </point>
+  <point>
+    <name>Марина-ди-Гиноза (аэропорт)</name>
+    <region>Апулия</region>
+    <district>Марина-ди-Гиноза (аэропорт)</district>
+    <id>9402</id>
+  </point>
+  <point>
+    <name>Мартина-Франка</name>
+    <region>Апулия</region>
+    <district>Мартина-Франка</district>
+    <id>170766</id>
+  </point>
+  <point>
+    <name>Монте-Сан-Анджело</name>
+    <region>Апулия</region>
+    <district>Монте-Сан-Анджело</district>
+    <id>9365</id>
+  </point>
+  <point>
+    <name>Отранто</name>
+    <region>Апулия</region>
+    <district>Отранто</district>
+    <id>170768</id>
+  </point>
+  <point>
+    <name>Санта-Мария-ди-Леука (аэропорт)</name>
+    <region>Апулия</region>
+    <district>Санта-Мария-ди-Леука (аэропорт)</district>
+    <id>9422</id>
+  </point>
+  <point>
+    <name>Таранто / Гротталье (аэропорт)</name>
+    <region>Апулия</region>
+    <district>Таранто / Гротталье (аэропорт)</district>
+    <id>9395</id>
+  </point>
+  <point>
+    <name>Таранто</name>
+    <region>Апулия</region>
+    <district>Таранто</district>
+    <id>152411</id>
+  </point>
+  <point>
+    <name>Фоджа / Джино Лиза (аэропорт)</name>
+    <region>Апулия</region>
+    <district>Фоджа / Джино Лиза (аэропорт)</district>
+    <id>508415</id>
+  </point>
+  <point>
+    <name>Латронико (метеостанция)</name>
+    <region>Базиликата</region>
+    <district>Латронико (метеостанция)</district>
+    <id>170765</id>
+  </point>
+  <point>
+    <name>Латронико</name>
+    <region>Базиликата</region>
+    <district>Латронико</district>
+    <id>9391</id>
+  </point>
+  <point>
+    <name>Потенца</name>
+    <region>Базиликата</region>
+    <district>Потенца</district>
+    <id>9383</id>
+  </point>
+  <point>
+    <name>Абано-Терме</name>
+    <region>Венето</region>
+    <district>Абано-Терме</district>
+    <id>152414</id>
+  </point>
+  <point>
+    <name>Венеция / им. Марко Поло (аэропорт)</name>
+    <region>Венето</region>
+    <district>Венеция / им. Марко Поло (аэропорт)</district>
+    <id>9186</id>
+  </point>
+  <point>
+    <name>Венеция / о. Лидо</name>
+    <region>Венето</region>
+    <district>Венеция / о. Лидо</district>
+    <id>170747</id>
+  </point>
+  <point>
+    <name>Верона / Виллафранка (аэропорт)</name>
+    <region>Венето</region>
+    <district>Верона / Виллафранка (аэропорт)</district>
+    <id>9179</id>
+  </point>
+  <point>
+    <name>Виченца</name>
+    <region>Венето</region>
+    <district>Виченца</district>
+    <id>9180</id>
+  </point>
+  <point>
+    <name>Падуя (аэропорт)</name>
+    <region>Венето</region>
+    <district>Падуя (аэропорт)</district>
+    <id>9182</id>
+  </point>
+  <point>
+    <name>Падуя (метеостанция)</name>
+    <region>Венето</region>
+    <district>Падуя (метеостанция)</district>
+    <id>429781</id>
+  </point>
+  <point>
+    <name>Ровиго</name>
+    <region>Венето</region>
+    <district>Ровиго</district>
+    <id>152392</id>
+  </point>
+  <point>
+    <name>Тревизо / Истрана (аэропорт)</name>
+    <region>Венето</region>
+    <district>Тревизо / Истрана (аэропорт)</district>
+    <id>9183</id>
+  </point>
+  <point>
+    <name>Тревизо / Сант-Анджело (аэропорт)</name>
+    <region>Венето</region>
+    <district>Тревизо / Сант-Анджело (аэропорт)</district>
+    <id>170437</id>
+  </point>
+  <point>
+    <name>Бонифати (метеостанция)</name>
+    <region>Калабрия</region>
+    <district>Бонифати (метеостанция)</district>
+    <id>170769</id>
+  </point>
+  <point>
+    <name>Бонифати</name>
+    <region>Калабрия</region>
+    <district>Бонифати</district>
+    <id>9412</id>
+  </point>
+  <point>
+    <name>Катандзаро</name>
+    <region>Калабрия</region>
+    <district>Катандзаро</district>
+    <id>152401</id>
+  </point>
+  <point>
+    <name>Кротоне (аэропорт)</name>
+    <region>Калабрия</region>
+    <district>Кротоне (аэропорт)</district>
+    <id>508242</id>
+  </point>
+  <point>
+    <name>Кротоне</name>
+    <region>Калабрия</region>
+    <district>Кротоне</district>
+    <id>9414</id>
+  </point>
+  <point>
+    <name>Ламезия-Терме (аэропорт)</name>
+    <region>Калабрия</region>
+    <district>Ламезия-Терме (аэропорт)</district>
+    <id>9423</id>
+  </point>
+  <point>
+    <name>Монте-Скуро (метеостанция)</name>
+    <region>Калабрия</region>
+    <district>Монте-Скуро (метеостанция)</district>
+    <id>9413</id>
+  </point>
+  <point>
+    <name>Пунта-Алис</name>
+    <region>Калабрия</region>
+    <district>Пунта-Алис</district>
+    <id>510722</id>
+  </point>
+  <point>
+    <name>Реджо-Калабрия (аэропорт)</name>
+    <region>Калабрия</region>
+    <district>Реджо-Калабрия (аэропорт)</district>
+    <id>9438</id>
+  </point>
+  <point>
+    <name>Граццанизе (аэропорт)</name>
+    <region>Кампания</region>
+    <district>Граццанизе (аэропорт)</district>
+    <id>9359</id>
+  </point>
+  <point>
+    <name>Казерта</name>
+    <region>Кампания</region>
+    <district>Казерта</district>
+    <id>170762</id>
+  </point>
+  <point>
+    <name>Капо-Палинуро</name>
+    <region>Кампания</region>
+    <district>Капо-Палинуро</district>
+    <id>9384</id>
+  </point>
+  <point>
+    <name>Капри</name>
+    <region>Кампания</region>
+    <district>Капри</district>
+    <id>9381</id>
+  </point>
+  <point>
+    <name>Неаполь / Каподичино (аэропорт)</name>
+    <region>Кампания</region>
+    <district>Неаполь / Каподичино (аэропорт)</district>
+    <id>9377</id>
+  </point>
+  <point>
+    <name>Понтеканьяно</name>
+    <region>Кампания</region>
+    <district>Понтеканьяно</district>
+    <id>170763</id>
+  </point>
+  <point>
+    <name>Салерно Коста д’Амалфи (аэропорт)</name>
+    <region>Кампания</region>
+    <district>Салерно Коста д’Амалфи (аэропорт)</district>
+    <id>508979</id>
+  </point>
+  <point>
+    <name>Салерно</name>
+    <region>Кампания</region>
+    <district>Салерно</district>
+    <id>152391</id>
+  </point>
+  <point>
+    <name>Сорренто</name>
+    <region>Кампания</region>
+    <district>Сорренто</district>
+    <id>152406</id>
+  </point>
+  <point>
+    <name>Тревико (аэропорт)</name>
+    <region>Кампания</region>
+    <district>Тревико (аэропорт)</district>
+    <id>9372</id>
+  </point>
+  <point>
+    <name>Винья-ди-Валле</name>
+    <region>Лацио</region>
+    <district>Винья-ди-Валле</district>
+    <id>9306</id>
+  </point>
+  <point>
+    <name>Витербо (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Витербо (аэропорт)</district>
+    <id>9291</id>
+  </point>
+  <point>
+    <name>Витербо (метеостанция)</name>
+    <region>Лацио</region>
+    <district>Витербо (метеостанция)</district>
+    <id>348364</id>
+  </point>
+  <point>
+    <name>Гуидонья (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Гуидонья (аэропорт)</district>
+    <id>429813</id>
+  </point>
+  <point>
+    <name>Гуидонья</name>
+    <region>Лацио</region>
+    <district>Гуидонья</district>
+    <id>9332</id>
+  </point>
+  <point>
+    <name>Латина (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Латина (аэропорт)</district>
+    <id>9346</id>
+  </point>
+  <point>
+    <name>Монте-Терминилло (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Монте-Терминилло (аэропорт)</district>
+    <id>9296</id>
+  </point>
+  <point>
+    <name>о. Понца</name>
+    <region>Лацио</region>
+    <district>о. Понца</district>
+    <id>9376</id>
+  </point>
+  <point>
+    <name>Орте</name>
+    <region>Лацио</region>
+    <district>Орте</district>
+    <id>170756</id>
+  </point>
+  <point>
+    <name>Пратика-ди-Маре (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Пратика-ди-Маре (аэропорт)</district>
+    <id>9354</id>
+  </point>
+  <point>
+    <name>Риети (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Риети (аэропорт)</district>
+    <id>9301</id>
+  </point>
+  <point>
+    <name>Рим / Урбе (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Рим / Урбе (аэропорт)</district>
+    <id>9334</id>
+  </point>
+  <point>
+    <name>Рим / Фиумичино (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Рим / Фиумичино (аэропорт)</district>
+    <id>9340</id>
+  </point>
+  <point>
+    <name>Рим / Чампино (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Рим / Чампино (аэропорт)</district>
+    <id>9337</id>
+  </point>
+  <point>
+    <name>Рим</name>
+    <region>Лацио</region>
+    <district>Рим</district>
+    <id>9339</id>
+  </point>
+  <point>
+    <name>Тевере-а-Рипетта</name>
+    <region>Лацио</region>
+    <district>Тевере-а-Рипетта</district>
+    <id>170448</id>
+  </point>
+  <point>
+    <name>Торре-Олевола</name>
+    <region>Лацио</region>
+    <district>Торре-Олевола</district>
+    <id>170759</id>
+  </point>
+  <point>
+    <name>Фрузинони (аэропорт)</name>
+    <region>Лацио</region>
+    <district>Фрузинони (аэропорт)</district>
+    <id>9353</id>
+  </point>
+  <point>
+    <name>Фурбара</name>
+    <region>Лацио</region>
+    <district>Фурбара</district>
+    <id>170755</id>
+  </point>
+  <point>
+    <name>Чивитавеккиа (метеостанция)</name>
+    <region>Лацио</region>
+    <district>Чивитавеккиа (метеостанция)</district>
+    <id>348363</id>
+  </point>
+  <point>
+    <name>Чивитавеккиа (метеостанция 16214)</name>
+    <region>Лацио</region>
+    <district>Чивитавеккиа (метеостанция 16214)</district>
+    <id>9283</id>
+  </point>
+  <point>
+    <name>Альбенга (аэропорт)</name>
+    <region>Лигурия</region>
+    <district>Альбенга (аэропорт)</district>
+    <id>9224</id>
+  </point>
+  <point>
+    <name>Генуя / Сестри (аэропорт)</name>
+    <region>Лигурия</region>
+    <district>Генуя / Сестри (аэропорт)</district>
+    <id>9223</id>
+  </point>
+  <point>
+    <name>Генуя</name>
+    <region>Лигурия</region>
+    <district>Генуя</district>
+    <id>170748</id>
+  </point>
+  <point>
+    <name>Изола-ди-Пальмариа</name>
+    <region>Лигурия</region>
+    <district>Изола-ди-Пальмариа</district>
+    <id>9242</id>
+  </point>
+  <point>
+    <name>Империа</name>
+    <region>Лигурия</region>
+    <district>Империа</district>
+    <id>9262</id>
+  </point>
+  <point>
+    <name>Капо-Меле (аэропорт)</name>
+    <region>Лигурия</region>
+    <district>Капо-Меле (аэропорт)</district>
+    <id>9261</id>
+  </point>
+  <point>
+    <name>Кьявари</name>
+    <region>Лигурия</region>
+    <district>Кьявари</district>
+    <id>10516</id>
+  </point>
+  <point>
+    <name>Монте-Сеттепани</name>
+    <region>Лигурия</region>
+    <district>Монте-Сеттепани</district>
+    <id>504501</id>
+  </point>
+  <point>
+    <name>Пассо-Делла-Чиза</name>
+    <region>Лигурия</region>
+    <district>Пассо-Делла-Чиза</district>
+    <id>170749</id>
+  </point>
+  <point>
+    <name>Савона</name>
+    <region>Лигурия</region>
+    <district>Савона</district>
+    <id>152409</id>
+  </point>
+  <point>
+    <name>Сарцана (аэропорт)</name>
+    <region>Лигурия</region>
+    <district>Сарцана (аэропорт)</district>
+    <id>170750</id>
+  </point>
+  <point>
+    <name>Бергамо / Орио-Аль-Серио (аэропорт)</name>
+    <region>Ломбардия</region>
+    <district>Бергамо / Орио-Аль-Серио (аэропорт)</district>
+    <id>9174</id>
+  </point>
+  <point>
+    <name>Брешиа / Геди (аэропорт)</name>
+    <region>Ломбардия</region>
+    <district>Брешиа / Геди (аэропорт)</district>
+    <id>9178</id>
+  </point>
+  <point>
+    <name>Брешиа / Монтикьяри (аэропорт)</name>
+    <region>Ломбардия</region>
+    <district>Брешиа / Монтикьяри (аэропорт)</district>
+    <id>509563</id>
+  </point>
+  <point>
+    <name>Галларате</name>
+    <region>Ломбардия</region>
+    <district>Галларате</district>
+    <id>170743</id>
+  </point>
+  <point>
+    <name>Дезенцано</name>
+    <region>Ломбардия</region>
+    <district>Дезенцано</district>
+    <id>170746</id>
+  </point>
+  <point>
+    <name>Кремона</name>
+    <region>Ломбардия</region>
+    <district>Кремона</district>
+    <id>152400</id>
+  </point>
+  <point>
+    <name>Мальпенза (аэропорт)</name>
+    <region>Ломбардия</region>
+    <district>Мальпенза (аэропорт)</district>
+    <id>9165</id>
+  </point>
+  <point>
+    <name>Мантуя</name>
+    <region>Ломбардия</region>
+    <district>Мантуя</district>
+    <id>152407</id>
+  </point>
+  <point>
+    <name>Милан / Линате (аэропорт)</name>
+    <region>Ломбардия</region>
+    <district>Милан / Линате (аэропорт)</district>
+    <id>9175</id>
+  </point>
+  <point>
+    <name>Милан / Линате (метеостанция 16081)</name>
+    <region>Ломбардия</region>
+    <district>Милан / Линате (метеостанция 16081)</district>
+    <id>170745</id>
+  </point>
+  <point>
+    <name>Монте-Бизбино</name>
+    <region>Ломбардия</region>
+    <district>Монте-Бизбино</district>
+    <id>9166</id>
+  </point>
+  <point>
+    <name>Павия</name>
+    <region>Ломбардия</region>
+    <district>Павия</district>
+    <id>152395</id>
+  </point>
+  <point>
+    <name>Сарцана / Луни (аэропорт)</name>
+    <region>Ломбардия</region>
+    <district>Сарцана / Луни (аэропорт)</district>
+    <id>9236</id>
+  </point>
+  <point>
+    <name>Анкона / Фальконара (аэропорт)</name>
+    <region>Марке</region>
+    <district>Анкона / Фальконара (аэропорт)</district>
+    <id>9276</id>
+  </point>
+  <point>
+    <name>Анкона</name>
+    <region>Марке</region>
+    <district>Анкона</district>
+    <id>152404</id>
+  </point>
+  <point>
+    <name>Лорето</name>
+    <region>Марке</region>
+    <district>Лорето</district>
+    <id>170754</id>
+  </point>
+  <point>
+    <name>Пезаро</name>
+    <region>Марке</region>
+    <district>Пезаро</district>
+    <id>152405</id>
+  </point>
+  <point>
+    <name>Фронтоне (аэропорт)</name>
+    <region>Марке</region>
+    <district>Фронтоне (аэропорт)</district>
+    <id>1944</id>
+  </point>
+  <point>
+    <name>Фронтоне (метеостанция)</name>
+    <region>Марке</region>
+    <district>Фронтоне (метеостанция)</district>
+    <id>9273</id>
+  </point>
+  <point>
+    <name>Кампобассо</name>
+    <region>Молизе</region>
+    <district>Кампобассо</district>
+    <id>9355</id>
+  </point>
+  <point>
+    <name>Термоли</name>
+    <region>Молизе</region>
+    <district>Термоли</district>
+    <id>9326</id>
+  </point>
+  <point>
+    <name>Буссон</name>
+    <region>Пьемонт</region>
+    <district>Буссон</district>
+    <id>170741</id>
+  </point>
+  <point>
+    <name>Венария-Реале</name>
+    <region>Пьемонт</region>
+    <district>Венария-Реале</district>
+    <id>170742</id>
+  </point>
+  <point>
+    <name>Говоне</name>
+    <region>Пьемонт</region>
+    <district>Говоне</district>
+    <id>9211</id>
+  </point>
+  <point>
+    <name>Казале-Монферрато</name>
+    <region>Пьемонт</region>
+    <district>Казале-Монферрато</district>
+    <id>170744</id>
+  </point>
+  <point>
+    <name>Камери (аэропорт)</name>
+    <region>Пьемонт</region>
+    <district>Камери (аэропорт)</district>
+    <id>9164</id>
+  </point>
+  <point>
+    <name>Левалдиги (аэропорт)</name>
+    <region>Пьемонт</region>
+    <district>Левалдиги (аэропорт)</district>
+    <id>170444</id>
+  </point>
+  <point>
+    <name>Мондови</name>
+    <region>Пьемонт</region>
+    <district>Мондови</district>
+    <id>9195</id>
+  </point>
+  <point>
+    <name>Монте-Маланотте</name>
+    <region>Пьемонт</region>
+    <district>Монте-Маланотте</district>
+    <id>9201</id>
+  </point>
+  <point>
+    <name>Нови-Лигуре</name>
+    <region>Пьемонт</region>
+    <district>Нови-Лигуре</district>
+    <id>9213</id>
+  </point>
+  <point>
+    <name>Пассо-дель-Джиови (аэропорт)</name>
+    <region>Пьемонт</region>
+    <district>Пассо-дель-Джиови (аэропорт)</district>
+    <id>9218</id>
+  </point>
+  <point>
+    <name>Турин / Аэриталия (аэропорт)</name>
+    <region>Пьемонт</region>
+    <district>Турин / Аэриталия (аэропорт)</district>
+    <id>509562</id>
+  </point>
+  <point>
+    <name>Турин / Брик-делла-Кроче (аэропорт)</name>
+    <region>Пьемонт</region>
+    <district>Турин / Брик-делла-Кроче (аэропорт)</district>
+    <id>9158</id>
+  </point>
+  <point>
+    <name>Турин / Казелле (аэропорт)</name>
+    <region>Пьемонт</region>
+    <district>Турин / Казелле (аэропорт)</district>
+    <id>9152</id>
+  </point>
+  <point>
+    <name>Альгеро (аэропорт)</name>
+    <region>Сардиния</region>
+    <district>Альгеро (аэропорт)</district>
+    <id>9634</id>
+  </point>
+  <point>
+    <name>Гардиавеччиа</name>
+    <region>Сардиния</region>
+    <district>Гардиавеччиа</district>
+    <id>9633</id>
+  </point>
+  <point>
+    <name>Дечимоманну (авиабаза)</name>
+    <region>Сардиния</region>
+    <district>Дечимоманну (авиабаза)</district>
+    <id>9641</id>
+  </point>
+  <point>
+    <name>Изола-ди-Карлофорте</name>
+    <region>Сардиния</region>
+    <district>Изола-ди-Карлофорте</district>
+    <id>9643</id>
+  </point>
+  <point>
+    <name>Кальяри / Эльмас (аэропорт)</name>
+    <region>Сардиния</region>
+    <district>Кальяри / Эльмас (аэропорт)</district>
+    <id>9645</id>
+  </point>
+  <point>
+    <name>Капо-Беллависта (аэропорт)</name>
+    <region>Сардиния</region>
+    <district>Капо-Беллависта (аэропорт)</district>
+    <id>9644</id>
+  </point>
+  <point>
+    <name>Капо-Карбонара (аэропорт)</name>
+    <region>Сардиния</region>
+    <district>Капо-Карбонара (аэропорт)</district>
+    <id>9646</id>
+  </point>
+  <point>
+    <name>Капо-Качча</name>
+    <region>Сардиния</region>
+    <district>Капо-Качча</district>
+    <id>9635</id>
+  </point>
+  <point>
+    <name>Капо-Сан-Лоренцо</name>
+    <region>Сардиния</region>
+    <district>Капо-Сан-Лоренцо</district>
+    <id>9640</id>
+  </point>
+  <point>
+    <name>Капо-Фраска</name>
+    <region>Сардиния</region>
+    <district>Капо-Фраска</district>
+    <id>9638</id>
+  </point>
+  <point>
+    <name>Карлофорте</name>
+    <region>Сардиния</region>
+    <district>Карлофорте</district>
+    <id>9642</id>
+  </point>
+  <point>
+    <name>Монте-Лимбара</name>
+    <region>Сардиния</region>
+    <district>Монте-Лимбара</district>
+    <id>348361</id>
+  </point>
+  <point>
+    <name>Ольбия / Коста-Смеральда (аэропорт)</name>
+    <region>Сардиния</region>
+    <district>Ольбия / Коста-Смеральда (аэропорт)</district>
+    <id>9636</id>
+  </point>
+  <point>
+    <name>Ористано</name>
+    <region>Сардиния</region>
+    <district>Ористано</district>
+    <id>152410</id>
+  </point>
+  <point>
+    <name>Пердасдефогу (AWS)</name>
+    <region>Сардиния</region>
+    <district>Пердасдефогу (AWS)</district>
+    <id>508244</id>
+  </point>
+  <point>
+    <name>Пердасдефогу</name>
+    <region>Сардиния</region>
+    <district>Пердасдефогу</district>
+    <id>9639</id>
+  </point>
+  <point>
+    <name>Порто-Торрес</name>
+    <region>Сардиния</region>
+    <district>Порто-Торрес</district>
+    <id>170777</id>
+  </point>
+  <point>
+    <name>Фонни</name>
+    <region>Сардиния</region>
+    <district>Фонни</district>
+    <id>9637</id>
+  </point>
+  <point>
+    <name>Джела (аэропорт)</name>
+    <region>Сицилия</region>
+    <district>Джела (аэропорт)</district>
+    <id>9458</id>
+  </point>
+  <point>
+    <name>Джела (метеостанция 16454)</name>
+    <region>Сицилия</region>
+    <district>Джела (метеостанция 16454)</district>
+    <id>170772</id>
+  </point>
+  <point>
+    <name>Джибильманна</name>
+    <region>Сицилия</region>
+    <district>Джибильманна</district>
+    <id>170771</id>
+  </point>
+  <point>
+    <name>Изола-ди-Салина</name>
+    <region>Сицилия</region>
+    <district>Изола-ди-Салина</district>
+    <id>9434</id>
+  </point>
+  <point>
+    <name>Катания / Сигонелла (аэропорт)</name>
+    <region>Сицилия</region>
+    <district>Катания / Сигонелла (аэропорт)</district>
+    <id>9466</id>
+  </point>
+  <point>
+    <name>Катания / Фонтанаросса (аэропорт)</name>
+    <region>Сицилия</region>
+    <district>Катания / Фонтанаросса (аэропорт)</district>
+    <id>9470</id>
+  </point>
+  <point>
+    <name>Коззо-Спадаро</name>
+    <region>Сицилия</region>
+    <district>Коззо-Спадаро</district>
+    <id>9475</id>
+  </point>
+  <point>
+    <name>Комизо (аэропорт)</name>
+    <region>Сицилия</region>
+    <district>Комизо (аэропорт)</district>
+    <id>510149</id>
+  </point>
+  <point>
+    <name>Лампедуза (аэропорт)</name>
+    <region>Сицилия</region>
+    <district>Лампедуза (аэропорт)</district>
+    <id>9476</id>
+  </point>
+  <point>
+    <name>Лампедуза (метеостанция 16491)</name>
+    <region>Сицилия</region>
+    <district>Лампедуза (метеостанция 16491)</district>
+    <id>170776</id>
+  </point>
+  <point>
+    <name>Мессина</name>
+    <region>Сицилия</region>
+    <district>Мессина</district>
+    <id>9435</id>
+  </point>
+  <point>
+    <name>Меццо Грегорио</name>
+    <region>Сицилия</region>
+    <district>Меццо Грегорио</district>
+    <id>170775</id>
+  </point>
+  <point>
+    <name>о. Стромболи</name>
+    <region>Сицилия</region>
+    <district>о. Стромболи</district>
+    <id>170773</id>
+  </point>
+  <point>
+    <name>Палермо / Боккадифалько (аэропорт)</name>
+    <region>Сицилия</region>
+    <district>Палермо / Боккадифалько (аэропорт)</district>
+    <id>508243</id>
+  </point>
+  <point>
+    <name>Палермо / Боккадифалько</name>
+    <region>Сицилия</region>
+    <district>Палермо / Боккадифалько</district>
+    <id>9431</id>
+  </point>
+  <point>
+    <name>Палермо / Пунта Раиси (аэропорт)</name>
+    <region>Сицилия</region>
+    <district>Палермо / Пунта Раиси (аэропорт)</district>
+    <id>9430</id>
+  </point>
+  <point>
+    <name>Пантеллерия (аэропорт)</name>
+    <region>Сицилия</region>
+    <district>Пантеллерия (аэропорт)</district>
+    <id>9471</id>
+  </point>
+  <point>
+    <name>Пантеллерия</name>
+    <region>Сицилия</region>
+    <district>Пантеллерия</district>
+    <id>348368</id>
+  </point>
+  <point>
+    <name>Прицци (метеостанция)</name>
+    <region>Сицилия</region>
+    <district>Прицци (метеостанция)</district>
+    <id>170770</id>
+  </point>
+  <point>
+    <name>Прицци</name>
+    <region>Сицилия</region>
+    <district>Прицци</district>
+    <id>9447</id>
+  </point>
+  <point>
+    <name>Сиракуза</name>
+    <region>Сицилия</region>
+    <district>Сиракуза</district>
+    <id>152389</id>
+  </point>
+  <point>
+    <name>Трапани / Бирджи (аэропорт)</name>
+    <region>Сицилия</region>
+    <district>Трапани / Бирджи (аэропорт)</district>
+    <id>9441</id>
+  </point>
+  <point>
+    <name>Устика (метеостанция 16401)</name>
+    <region>Сицилия</region>
+    <district>Устика (метеостанция 16401)</district>
+    <id>348367</id>
+  </point>
+  <point>
+    <name>Шакка</name>
+    <region>Сицилия</region>
+    <district>Шакка</district>
+    <id>170451</id>
+  </point>
+  <point>
+    <name>Энна</name>
+    <region>Сицилия</region>
+    <district>Энна</district>
+    <id>9455</id>
+  </point>
+  <point>
+    <name>Ареццо</name>
+    <region>Тоскана</region>
+    <district>Ареццо</district>
+    <id>9272</id>
+  </point>
+  <point>
+    <name>Вольтерра</name>
+    <region>Тоскана</region>
+    <district>Вольтерра</district>
+    <id>9265</id>
+  </point>
+  <point>
+    <name>Гроссето (аэропорт)</name>
+    <region>Тоскана</region>
+    <district>Гроссето (аэропорт)</district>
+    <id>9282</id>
+  </point>
+  <point>
+    <name>Каламита / о. Эльба (аэропорт)</name>
+    <region>Тоскана</region>
+    <district>Каламита / о. Эльба (аэропорт)</district>
+    <id>9278</id>
+  </point>
+  <point>
+    <name>Ливорно</name>
+    <region>Тоскана</region>
+    <district>Ливорно</district>
+    <id>152408</id>
+  </point>
+  <point>
+    <name>Лукка</name>
+    <region>Тоскана</region>
+    <district>Лукка</district>
+    <id>152399</id>
+  </point>
+  <point>
+    <name>Монте-Аргентарио (аэропорт)</name>
+    <region>Тоскана</region>
+    <district>Монте-Аргентарио (аэропорт)</district>
+    <id>9267</id>
+  </point>
+  <point>
+    <name>Пассо-делла-Чиза (AWS)</name>
+    <region>Тоскана</region>
+    <district>Пассо-делла-Чиза (AWS)</district>
+    <id>9229</id>
+  </point>
+  <point>
+    <name>Пассо-Порретта</name>
+    <region>Тоскана</region>
+    <district>Пассо-Порретта</district>
+    <id>9246</id>
+  </point>
+  <point>
+    <name>Пиза / Сан-Гвисто (аэропорт)</name>
+    <region>Тоскана</region>
+    <district>Пиза / Сан-Гвисто (аэропорт)</district>
+    <id>9263</id>
+  </point>
+  <point>
+    <name>Радикофани</name>
+    <region>Тоскана</region>
+    <district>Радикофани</district>
+    <id>9281</id>
+  </point>
+  <point>
+    <name>Рифредо-Мугелло</name>
+    <region>Тоскана</region>
+    <district>Рифредо-Мугелло</district>
+    <id>9249</id>
+  </point>
+  <point>
+    <name>Сиена</name>
+    <region>Тоскана</region>
+    <district>Сиена</district>
+    <id>152390</id>
+  </point>
+  <point>
+    <name>Флоренция / Перетола (аэропорт)</name>
+    <region>Тоскана</region>
+    <district>Флоренция / Перетола (аэропорт)</district>
+    <id>9268</id>
+  </point>
+  <point>
+    <name>Флоренция</name>
+    <region>Тоскана</region>
+    <district>Флоренция</district>
+    <id>170752</id>
+  </point>
+  <point>
+    <name>Больцано (аэропорт)</name>
+    <region>Трентино - Альто-Адидже</region>
+    <district>Больцано (аэропорт)</district>
+    <id>9110</id>
+  </point>
+  <point>
+    <name>Випитено</name>
+    <region>Трентино - Альто-Адидже</region>
+    <district>Випитено</district>
+    <id>170854</id>
+  </point>
+  <point>
+    <name>Доббьяко (аэропорт)</name>
+    <region>Трентино - Альто-Адидже</region>
+    <district>Доббьяко (аэропорт)</district>
+    <id>9127</id>
+  </point>
+  <point>
+    <name>Паганелла (аэропорт)</name>
+    <region>Трентино - Альто-Адидже</region>
+    <district>Паганелла (аэропорт)</district>
+    <id>9119</id>
+  </point>
+  <point>
+    <name>Пассо-Ролле (аэропорт)</name>
+    <region>Трентино - Альто-Адидже</region>
+    <district>Пассо-Ролле (аэропорт)</district>
+    <id>9114</id>
+  </point>
+  <point>
+    <name>Сан-Валентино-Алла-Мута</name>
+    <region>Трентино - Альто-Адидже</region>
+    <district>Сан-Валентино-Алла-Мута</district>
+    <id>9109</id>
+  </point>
+  <point>
+    <name>Тренто</name>
+    <region>Трентино - Альто-Адидже</region>
+    <district>Тренто</district>
+    <id>152388</id>
+  </point>
+  <point>
+    <name>Ассизи</name>
+    <region>Умбрия</region>
+    <district>Ассизи</district>
+    <id>152403</id>
+  </point>
+  <point>
+    <name>Перуджа / им. Франциска Ассизского (аэропорт)</name>
+    <region>Умбрия</region>
+    <district>Перуджа / им. Франциска Ассизского (аэропорт)</district>
+    <id>170753</id>
+  </point>
+  <point>
+    <name>Перуджа (аэропорт)</name>
+    <region>Умбрия</region>
+    <district>Перуджа (аэропорт)</district>
+    <id>9275</id>
+  </point>
+  <point>
+    <name>Авиано (аэропорт)</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Авиано (аэропорт)</district>
+    <id>9130</id>
+  </point>
+  <point>
+    <name>Авиано Юсаф (аэропорт)</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Авиано Юсаф (аэропорт)</district>
+    <id>170435</id>
+  </point>
+  <point>
+    <name>Гориция</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Гориция</district>
+    <id>152402</id>
+  </point>
+  <point>
+    <name>Пиран</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Пиран</district>
+    <id>151865</id>
+  </point>
+  <point>
+    <name>Порденоне</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Порденоне</district>
+    <id>152394</id>
+  </point>
+  <point>
+    <name>Рончи-дей-Легионари (аэропорт)</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Рончи-дей-Легионари (аэропорт)</district>
+    <id>9188</id>
+  </point>
+  <point>
+    <name>Тарвизио (аэропорт)</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Тарвизио (аэропорт)</district>
+    <id>9134</id>
+  </point>
+  <point>
+    <name>Тарвизио (метеостанция 16041)</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Тарвизио (метеостанция 16041)</district>
+    <id>170738</id>
+  </point>
+  <point>
+    <name>Триест (аэропорт)</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Триест (аэропорт)</district>
+    <id>9194</id>
+  </point>
+  <point>
+    <name>Удине / Кампоформидо</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Удине / Кампоформидо</district>
+    <id>9140</id>
+  </point>
+  <point>
+    <name>Удине / Ривольто (аэропорт)</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Удине / Ривольто (аэропорт)</district>
+    <id>9141</id>
+  </point>
+  <point>
+    <name>Удине / Ривольто</name>
+    <region>Фриули-Венеция-Джулия</region>
+    <district>Удине / Ривольто</district>
+    <id>508241</id>
+  </point>
+  <point>
+    <name>Болонья / Борго Панигале (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Болонья / Борго Панигале (аэропорт)</district>
+    <id>9248</id>
+  </point>
+  <point>
+    <name>Болонья / Гульельмо Маркони (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Болонья / Гульельмо Маркони (аэропорт)</district>
+    <id>170751</id>
+  </point>
+  <point>
+    <name>Болонья / Сан-Пьетро-Капофьюме-Молинелла</name>
+    <region>Эмилия-Романья</region>
+    <district>Болонья / Сан-Пьетро-Капофьюме-Молинелла</district>
+    <id>9250</id>
+  </point>
+  <point>
+    <name>Конкордия-Саджиттария</name>
+    <region>Эмилия-Романья</region>
+    <district>Конкордия-Саджиттария</district>
+    <id>170442</id>
+  </point>
+  <point>
+    <name>Матера</name>
+    <region>Эмилия-Романья</region>
+    <district>Матера</district>
+    <id>152397</id>
+  </point>
+  <point>
+    <name>Модена</name>
+    <region>Эмилия-Романья</region>
+    <district>Модена</district>
+    <id>152396</id>
+  </point>
+  <point>
+    <name>Монте-Чимоне (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Монте-Чимоне (аэропорт)</district>
+    <id>9243</id>
+  </point>
+  <point>
+    <name>Парма (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Парма (аэропорт)</district>
+    <id>508138</id>
+  </point>
+  <point>
+    <name>Парма</name>
+    <region>Эмилия-Романья</region>
+    <district>Парма</district>
+    <id>152413</id>
+  </point>
+  <point>
+    <name>Пунта-Марина (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Пунта-Марина (аэропорт)</district>
+    <id>9251</id>
+  </point>
+  <point>
+    <name>Пьяченца (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Пьяченца (аэропорт)</district>
+    <id>9177</id>
+  </point>
+  <point>
+    <name>Равенна</name>
+    <region>Эмилия-Романья</region>
+    <district>Равенна</district>
+    <id>152393</id>
+  </point>
+  <point>
+    <name>Римини (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Римини (аэропорт)</district>
+    <id>9258</id>
+  </point>
+  <point>
+    <name>Феррара (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Феррара (аэропорт)</district>
+    <id>9247</id>
+  </point>
+  <point>
+    <name>Феррара (метеостанция 16133)</name>
+    <region>Эмилия-Романья</region>
+    <district>Феррара (метеостанция 16133)</district>
+    <id>141571</id>
+  </point>
+  <point>
+    <name>Форли (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Форли (аэропорт)</district>
+    <id>9255</id>
+  </point>
+  <point>
+    <name>Червиа (аэропорт)</name>
+    <region>Эмилия-Романья</region>
+    <district>Червиа (аэропорт)</district>
+    <id>9257</id>
+  </point>
+</country>

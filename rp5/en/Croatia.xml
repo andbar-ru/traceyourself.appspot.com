@@ -1,0 +1,290 @@
+<country name="Croatia" count="48">
+  <point>
+    <name>Bjelovar</name>
+    <region>Bjelovar-Bilogora County</region>
+    <district>Bjelovar</district>
+    <id>8436</id>
+  </point>
+  <point>
+    <name>Bilogora</name>
+    <region>Bjelovar-Bilogora County</region>
+    <district>Bilogora</district>
+    <id>8437</id>
+  </point>
+  <point>
+    <name>Daruvar</name>
+    <region>Bjelovar-Bilogora County</region>
+    <district>Daruvar</district>
+    <id>8438</id>
+  </point>
+  <point>
+    <name>Slavonski Brod</name>
+    <region>Brod-Posavina County</region>
+    <district>Slavonski Brod</district>
+    <id>8473</id>
+  </point>
+  <point>
+    <name>Dubrovnik</name>
+    <region>Dubrovnik-Neretva County</region>
+    <district>Dubrovnik</district>
+    <id>8538</id>
+  </point>
+  <point>
+    <name>Dubrovnik / Cilipi (airport)</name>
+    <region>Dubrovnik-Neretva County</region>
+    <district>Dubrovnik / Cilipi (airport)</district>
+    <id>8542</id>
+  </point>
+  <point>
+    <name>Lastovo</name>
+    <region>Dubrovnik-Neretva County</region>
+    <district>Lastovo</district>
+    <id>8513</id>
+  </point>
+  <point>
+    <name>Ploce</name>
+    <region>Dubrovnik-Neretva County</region>
+    <district>Ploce</district>
+    <id>8536</id>
+  </point>
+  <point>
+    <name>Pazin</name>
+    <region>Istria County</region>
+    <district>Pazin</district>
+    <id>8458</id>
+  </point>
+  <point>
+    <name>Pula (airport)</name>
+    <region>Istria County</region>
+    <district>Pula (airport)</district>
+    <id>8457</id>
+  </point>
+  <point>
+    <name>Karlovac</name>
+    <region>Karlovac County</region>
+    <district>Karlovac</district>
+    <id>8403</id>
+  </point>
+  <point>
+    <name>Ogulin</name>
+    <region>Karlovac County</region>
+    <district>Ogulin</district>
+    <id>8469</id>
+  </point>
+  <point>
+    <name>Koprivnica</name>
+    <region>Koprivnica-Krizevci County</region>
+    <district>Koprivnica</district>
+    <id>151641</id>
+  </point>
+  <point>
+    <name>Krizevci</name>
+    <region>Koprivnica-Krizevci County</region>
+    <district>Krizevci</district>
+    <id>8435</id>
+  </point>
+  <point>
+    <name>Krapina</name>
+    <region>Krapina-Zagorje County</region>
+    <district>Krapina</district>
+    <id>8406</id>
+  </point>
+  <point>
+    <name>Gospic</name>
+    <region>Lika-Senj County</region>
+    <district>Gospic</district>
+    <id>8472</id>
+  </point>
+  <point>
+    <name>Senj</name>
+    <region>Lika-Senj County</region>
+    <district>Senj</district>
+    <id>8464</id>
+  </point>
+  <point>
+    <name>Zavizan</name>
+    <region>Lika-Senj County</region>
+    <district>Zavizan</district>
+    <id>8465</id>
+  </point>
+  <point>
+    <name>Cakovec</name>
+    <region>Medimurje County</region>
+    <district>Cakovec</district>
+    <id>212411</id>
+  </point>
+  <point>
+    <name>Osijek</name>
+    <region>Osijek-Baranja County</region>
+    <district>Osijek</district>
+    <id>8439</id>
+  </point>
+  <point>
+    <name>Osijek (airport)</name>
+    <region>Osijek-Baranja County</region>
+    <district>Osijek (airport)</district>
+    <id>8443</id>
+  </point>
+  <point>
+    <name>Osijek / Klisa (airport)</name>
+    <region>Osijek-Baranja County</region>
+    <district>Osijek / Klisa (airport)</district>
+    <id>8449</id>
+  </point>
+  <point>
+    <name>Pozega</name>
+    <region>Pozega-Slavonia County</region>
+    <district>Pozega</district>
+    <id>151632</id>
+  </point>
+  <point>
+    <name>Losinj (airport)</name>
+    <region>Primorje-Gorski Kotar County</region>
+    <district>Losinj (airport)</district>
+    <id>508948</id>
+  </point>
+  <point>
+    <name>Mali Losinj</name>
+    <region>Primorje-Gorski Kotar County</region>
+    <district>Mali Losinj</district>
+    <id>8459</id>
+  </point>
+  <point>
+    <name>Parg</name>
+    <region>Primorje-Gorski Kotar County</region>
+    <district>Parg</district>
+    <id>8400</id>
+  </point>
+  <point>
+    <name>Rab</name>
+    <region>Primorje-Gorski Kotar County</region>
+    <district>Rab</district>
+    <id>8462</id>
+  </point>
+  <point>
+    <name>Rijeka</name>
+    <region>Primorje-Gorski Kotar County</region>
+    <district>Rijeka</district>
+    <id>8396</id>
+  </point>
+  <point>
+    <name>Rijeka / Omisali (airport)</name>
+    <region>Primorje-Gorski Kotar County</region>
+    <district>Rijeka / Omisali (airport)</district>
+    <id>8127</id>
+  </point>
+  <point>
+    <name>Sibenik</name>
+    <region>Sibenik-Knin County</region>
+    <district>Sibenik</district>
+    <id>8495</id>
+  </point>
+  <point>
+    <name>Sisak</name>
+    <region>Sisak-Moslavina County</region>
+    <district>Sisak</district>
+    <id>8420</id>
+  </point>
+  <point>
+    <name>Split (airport)</name>
+    <region>Split-Dalmatia County</region>
+    <district>Split (airport)</district>
+    <id>8505</id>
+  </point>
+  <point>
+    <name>Bol / Brac (airport)</name>
+    <region>Split-Dalmatia County</region>
+    <district>Bol / Brac (airport)</district>
+    <id>510048</id>
+  </point>
+  <point>
+    <name>Makarska</name>
+    <region>Split-Dalmatia County</region>
+    <district>Makarska</district>
+    <id>8516</id>
+  </point>
+  <point>
+    <name>Split Marjan</name>
+    <region>Split-Dalmatia County</region>
+    <district>Split Marjan</district>
+    <id>8507</id>
+  </point>
+  <point>
+    <name>Hvar</name>
+    <region>Split-Dalmatia County</region>
+    <district>Hvar</district>
+    <id>8512</id>
+  </point>
+  <point>
+    <name>Komiza</name>
+    <region>Split-Dalmatia County</region>
+    <district>Komiza</district>
+    <id>8497</id>
+  </point>
+  <point>
+    <name>Palagruza</name>
+    <region>Split-Dalmatia County</region>
+    <district>Palagruza</district>
+    <id>8502</id>
+  </point>
+  <point>
+    <name>Varazdin</name>
+    <region>Varazdin County</region>
+    <district>Varazdin</district>
+    <id>8431</id>
+  </point>
+  <point>
+    <name>Virovitica</name>
+    <region>Virovitica-Podravina County</region>
+    <district>Virovitica</district>
+    <id>151654</id>
+  </point>
+  <point>
+    <name>Vukovar</name>
+    <region>Vukovar-Syrmia County</region>
+    <district>Vukovar</district>
+    <id>151651</id>
+  </point>
+  <point>
+    <name>Gradiste</name>
+    <region>Vukovar-Syrmia County</region>
+    <district>Gradiste</district>
+    <id>8479</id>
+  </point>
+  <point>
+    <name>Zadar (airport)</name>
+    <region>Zadar County</region>
+    <district>Zadar (airport)</district>
+    <id>8488</id>
+  </point>
+  <point>
+    <name>Zadar / Puntamika</name>
+    <region>Zadar County</region>
+    <district>Zadar / Puntamika</district>
+    <id>8485</id>
+  </point>
+  <point>
+    <name>Zagreb / Pleso (airport)</name>
+    <region>Zagreb</region>
+    <district>Zagreb / Pleso (airport)</district>
+    <id>8417</id>
+  </point>
+  <point>
+    <name>Zagreb / Maksimir</name>
+    <region>Zagreb</region>
+    <district>Zagreb / Maksimir</district>
+    <id>8415</id>
+  </point>
+  <point>
+    <name>Puntijarka</name>
+    <region>Zagreb County</region>
+    <district>Puntijarka</district>
+    <id>8408</id>
+  </point>
+  <point>
+    <name>Zagreb</name>
+    <region>Zagreb County</region>
+    <district>Zagreb</district>
+    <id>8414</id>
+  </point>
+</country>

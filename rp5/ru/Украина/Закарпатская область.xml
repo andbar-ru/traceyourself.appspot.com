@@ -1,0 +1,3067 @@
+<region name="Закарпатская область" count="613">
+  <point>
+    <name>Берегово</name>
+    <district>Береговое</district>
+    <id>360</id>
+  </point>
+  <point>
+    <name>Затишное</name>
+    <district>Береговое</district>
+    <id>21392</id>
+  </point>
+  <point>
+    <name>Астей</name>
+    <district>Береговской район</district>
+    <id>142349</id>
+  </point>
+  <point>
+    <name>Бадалово</name>
+    <district>Береговской район</district>
+    <id>142350</id>
+  </point>
+  <point>
+    <name>Бадов</name>
+    <district>Береговской район</district>
+    <id>21462</id>
+  </point>
+  <point>
+    <name>Бакош</name>
+    <district>Береговской район</district>
+    <id>21476</id>
+  </point>
+  <point>
+    <name>Балажер</name>
+    <district>Береговской район</district>
+    <id>142366</id>
+  </point>
+  <point>
+    <name>Батево</name>
+    <district>Береговской район</district>
+    <id>142348</id>
+  </point>
+  <point>
+    <name>Батрадь</name>
+    <district>Береговской район</district>
+    <id>21448</id>
+  </point>
+  <point>
+    <name>Бене</name>
+    <district>Береговской район</district>
+    <id>142352</id>
+  </point>
+  <point>
+    <name>Берегуйфалу</name>
+    <district>Береговской район</district>
+    <id>142353</id>
+  </point>
+  <point>
+    <name>Боржава</name>
+    <district>Береговской район</district>
+    <id>21358</id>
+  </point>
+  <point>
+    <name>Вары</name>
+    <district>Береговской район</district>
+    <id>21332</id>
+  </point>
+  <point>
+    <name>Великая Бакта</name>
+    <district>Береговской район</district>
+    <id>21361</id>
+  </point>
+  <point>
+    <name>Великая Бийгань</name>
+    <district>Береговской район</district>
+    <id>21400</id>
+  </point>
+  <point>
+    <name>Великие Береги</name>
+    <district>Береговской район</district>
+    <id>142354</id>
+  </point>
+  <point>
+    <name>Верхние Реметы</name>
+    <district>Береговской район</district>
+    <id>21413</id>
+  </point>
+  <point>
+    <name>Галабор</name>
+    <district>Береговской район</district>
+    <id>142356</id>
+  </point>
+  <point>
+    <name>Гать</name>
+    <district>Береговской район</district>
+    <id>78944</id>
+  </point>
+  <point>
+    <name>Гетен</name>
+    <district>Береговской район</district>
+    <id>142361</id>
+  </point>
+  <point>
+    <name>Геча</name>
+    <district>Береговской район</district>
+    <id>21347</id>
+  </point>
+  <point>
+    <name>Горноглаб</name>
+    <district>Береговской район</district>
+    <id>142351</id>
+  </point>
+  <point>
+    <name>Гуняди</name>
+    <district>Береговской район</district>
+    <id>142360</id>
+  </point>
+  <point>
+    <name>Гут</name>
+    <district>Береговской район</district>
+    <id>142357</id>
+  </point>
+  <point>
+    <name>Даниловка</name>
+    <district>Береговской район</district>
+    <id>21454</id>
+  </point>
+  <point>
+    <name>Дийда</name>
+    <district>Береговской район</district>
+    <id>142358</id>
+  </point>
+  <point>
+    <name>Запсонь</name>
+    <district>Береговской район</district>
+    <id>21422</id>
+  </point>
+  <point>
+    <name>Каштановое</name>
+    <district>Береговской район</district>
+    <id>21435</id>
+  </point>
+  <point>
+    <name>Квасово</name>
+    <district>Береговской район</district>
+    <id>21374</id>
+  </point>
+  <point>
+    <name>Кидеш</name>
+    <district>Береговской район</district>
+    <id>142359</id>
+  </point>
+  <point>
+    <name>Косонь</name>
+    <district>Береговской район</district>
+    <id>21404</id>
+  </point>
+  <point>
+    <name>Малая Бегань</name>
+    <district>Береговской район</district>
+    <id>142355</id>
+  </point>
+  <point>
+    <name>Малое Поповое</name>
+    <district>Береговской район</district>
+    <id>142362</id>
+  </point>
+  <point>
+    <name>Мочола</name>
+    <district>Береговской район</district>
+    <id>21356</id>
+  </point>
+  <point>
+    <name>Мужиево</name>
+    <district>Береговской район</district>
+    <id>21371</id>
+  </point>
+  <point>
+    <name>Нижние Реметы</name>
+    <district>Береговской район</district>
+    <id>21406</id>
+  </point>
+  <point>
+    <name>Оросиево</name>
+    <district>Береговской район</district>
+    <id>21362</id>
+  </point>
+  <point>
+    <name>Попово</name>
+    <district>Береговской район</district>
+    <id>21415</id>
+  </point>
+  <point>
+    <name>Рафайново</name>
+    <district>Береговской район</district>
+    <id>21449</id>
+  </point>
+  <point>
+    <name>Свобода</name>
+    <district>Береговской район</district>
+    <id>142363</id>
+  </point>
+  <point>
+    <name>Четфалва</name>
+    <district>Береговской район</district>
+    <id>21333</id>
+  </point>
+  <point>
+    <name>Чикош-Горонда</name>
+    <district>Береговской район</district>
+    <id>21423</id>
+  </point>
+  <point>
+    <name>Чома</name>
+    <district>Береговской район</district>
+    <id>21342</id>
+  </point>
+  <point>
+    <name>Шом</name>
+    <district>Береговской район</district>
+    <id>142364</id>
+  </point>
+  <point>
+    <name>Яноши</name>
+    <district>Береговской район</district>
+    <id>142365</id>
+  </point>
+  <point>
+    <name>Великий Березный</name>
+    <district>Великоберезнянский район</district>
+    <id>362</id>
+  </point>
+  <point>
+    <name>Волосянка</name>
+    <district>Великоберезнянский район</district>
+    <id>21699</id>
+  </point>
+  <point>
+    <name>Малый Березный</name>
+    <district>Великоберезнянский район</district>
+    <id>62587</id>
+  </point>
+  <point>
+    <name>Ставное</name>
+    <district>Великоберезнянский район</district>
+    <id>21701</id>
+  </point>
+  <point>
+    <name>Ужок</name>
+    <district>Великоберезнянский район</district>
+    <id>21698</id>
+  </point>
+  <point>
+    <name>Бегендяцкая Пастиль</name>
+    <district>Великоберезнянский район</district>
+    <id>142374</id>
+  </point>
+  <point>
+    <name>Буковцево</name>
+    <district>Великоберезнянский район</district>
+    <id>21681</id>
+  </point>
+  <point>
+    <name>Верховина-Быстрая</name>
+    <district>Великоберезнянский район</district>
+    <id>24685</id>
+  </point>
+  <point>
+    <name>Вышка</name>
+    <district>Великоберезнянский район</district>
+    <id>21693</id>
+  </point>
+  <point>
+    <name>Гусный</name>
+    <district>Великоберезнянский район</district>
+    <id>21691</id>
+  </point>
+  <point>
+    <name>Домашин</name>
+    <district>Великоберезнянский район</district>
+    <id>21696</id>
+  </point>
+  <point>
+    <name>Жорнава</name>
+    <district>Великоберезнянский район</district>
+    <id>21700</id>
+  </point>
+  <point>
+    <name>Забродь</name>
+    <district>Великоберезнянский район</district>
+    <id>142368</id>
+  </point>
+  <point>
+    <name>Завосина</name>
+    <district>Великоберезнянский район</district>
+    <id>142372</id>
+  </point>
+  <point>
+    <name>Загорб</name>
+    <district>Великоберезнянский район</district>
+    <id>142369</id>
+  </point>
+  <point>
+    <name>Княгиня</name>
+    <district>Великоберезнянский район</district>
+    <id>21697</id>
+  </point>
+  <point>
+    <name>Костева Пастиль</name>
+    <district>Великоберезнянский район</district>
+    <id>142375</id>
+  </point>
+  <point>
+    <name>Кострина</name>
+    <district>Великоберезнянский район</district>
+    <id>21692</id>
+  </point>
+  <point>
+    <name>Костринская Ростока</name>
+    <district>Великоберезнянский район</district>
+    <id>142370</id>
+  </point>
+  <point>
+    <name>Лубня</name>
+    <district>Великоберезнянский район</district>
+    <id>142371</id>
+  </point>
+  <point>
+    <name>Луг</name>
+    <district>Великоберезнянский район</district>
+    <id>142367</id>
+  </point>
+  <point>
+    <name>Люта</name>
+    <district>Великоберезнянский район</district>
+    <id>21689</id>
+  </point>
+  <point>
+    <name>Мирча</name>
+    <district>Великоберезнянский район</district>
+    <id>21683</id>
+  </point>
+  <point>
+    <name>Ростокская Пастиль</name>
+    <district>Великоберезнянский район</district>
+    <id>142373</id>
+  </point>
+  <point>
+    <name>Русский Мочар</name>
+    <district>Великоберезнянский район</district>
+    <id>21688</id>
+  </point>
+  <point>
+    <name>Смереково</name>
+    <district>Великоберезнянский район</district>
+    <id>21675</id>
+  </point>
+  <point>
+    <name>Соль</name>
+    <district>Великоберезнянский район</district>
+    <id>21694</id>
+  </point>
+  <point>
+    <name>Стричава</name>
+    <district>Великоберезнянский район</district>
+    <id>21695</id>
+  </point>
+  <point>
+    <name>Стужица</name>
+    <district>Великоберезнянский район</district>
+    <id>142376</id>
+  </point>
+  <point>
+    <name>Сухой</name>
+    <district>Великоберезнянский район</district>
+    <id>142377</id>
+  </point>
+  <point>
+    <name>Тихий</name>
+    <district>Великоберезнянский район</district>
+    <id>21690</id>
+  </point>
+  <point>
+    <name>Черноголова</name>
+    <district>Великоберезнянский район</district>
+    <id>21686</id>
+  </point>
+  <point>
+    <name>Виноградов</name>
+    <district>Виноградовский район</district>
+    <id>364</id>
+  </point>
+  <point>
+    <name>Великие Комяты</name>
+    <district>Виноградовский район</district>
+    <id>13919</id>
+  </point>
+  <point>
+    <name>Королево</name>
+    <district>Виноградовский район</district>
+    <id>77403</id>
+  </point>
+  <point>
+    <name>Олешник</name>
+    <district>Виноградовский район</district>
+    <id>21360</id>
+  </point>
+  <point>
+    <name>Онок</name>
+    <district>Виноградовский район</district>
+    <id>142388</id>
+  </point>
+  <point>
+    <name>Боржавское</name>
+    <district>Виноградовский район</district>
+    <id>21402</id>
+  </point>
+  <point>
+    <name>Ботар</name>
+    <district>Виноградовский район</district>
+    <id>142383</id>
+  </point>
+  <point>
+    <name>Буковое</name>
+    <district>Виноградовский район</district>
+    <id>21379</id>
+  </point>
+  <point>
+    <name>Великая Копаня</name>
+    <district>Виноградовский район</district>
+    <id>21378</id>
+  </point>
+  <point>
+    <name>Великая Паладь</name>
+    <district>Виноградовский район</district>
+    <id>21275</id>
+  </point>
+  <point>
+    <name>Вербовец</name>
+    <district>Виноградовский район</district>
+    <id>21365</id>
+  </point>
+  <point>
+    <name>Вербовое</name>
+    <district>Виноградовский район</district>
+    <id>142381</id>
+  </point>
+  <point>
+    <name>Веряца</name>
+    <district>Виноградовский район</district>
+    <id>21368</id>
+  </point>
+  <point>
+    <name>Вилок</name>
+    <district>Виноградовский район</district>
+    <id>21323</id>
+  </point>
+  <point>
+    <name>Гетиня</name>
+    <district>Виноградовский район</district>
+    <id>21315</id>
+  </point>
+  <point>
+    <name>Горбки</name>
+    <district>Виноградовский район</district>
+    <id>21355</id>
+  </point>
+  <point>
+    <name>Гудя</name>
+    <district>Виноградовский район</district>
+    <id>21326</id>
+  </point>
+  <point>
+    <name>Дротинцы</name>
+    <district>Виноградовский район</district>
+    <id>21321</id>
+  </point>
+  <point>
+    <name>Дюла</name>
+    <district>Виноградовский район</district>
+    <id>142380</id>
+  </point>
+  <point>
+    <name>Затисовка</name>
+    <district>Виноградовский район</district>
+    <id>142394</id>
+  </point>
+  <point>
+    <name>Карачин</name>
+    <district>Виноградовский район</district>
+    <id>21338</id>
+  </point>
+  <point>
+    <name>Малая Копаня</name>
+    <district>Виноградовский район</district>
+    <id>21366</id>
+  </point>
+  <point>
+    <name>Матиево</name>
+    <district>Виноградовский район</district>
+    <id>21339</id>
+  </point>
+  <point>
+    <name>Неветленфолу</name>
+    <district>Виноградовский район</district>
+    <id>142382</id>
+  </point>
+  <point>
+    <name>Новое Клиновое</name>
+    <district>Виноградовский район</district>
+    <id>21281</id>
+  </point>
+  <point>
+    <name>Новое Село</name>
+    <district>Виноградовский район</district>
+    <id>142387</id>
+  </point>
+  <point>
+    <name>Новоселица</name>
+    <district>Виноградовский район</district>
+    <id>142386</id>
+  </point>
+  <point>
+    <name>Окли Гедь</name>
+    <district>Виноградовский район</district>
+    <id>142385</id>
+  </point>
+  <point>
+    <name>Окли</name>
+    <district>Виноградовский район</district>
+    <id>142384</id>
+  </point>
+  <point>
+    <name>Перекрестье</name>
+    <district>Виноградовский район</district>
+    <id>21344</id>
+  </point>
+  <point>
+    <name>Пийтерфолво</name>
+    <district>Виноградовский район</district>
+    <id>142389</id>
+  </point>
+  <point>
+    <name>Подвиноградов</name>
+    <district>Виноградовский район</district>
+    <id>21343</id>
+  </point>
+  <point>
+    <name>Притисянское</name>
+    <district>Виноградовский район</district>
+    <id>142392</id>
+  </point>
+  <point>
+    <name>Пушкино</name>
+    <district>Виноградовский район</district>
+    <id>21370</id>
+  </point>
+  <point>
+    <name>Русская Долина</name>
+    <district>Виноградовский район</district>
+    <id>21330</id>
+  </point>
+  <point>
+    <name>Сасово</name>
+    <district>Виноградовский район</district>
+    <id>21314</id>
+  </point>
+  <point>
+    <name>Теково</name>
+    <district>Виноградовский район</district>
+    <id>21327</id>
+  </point>
+  <point>
+    <name>Тисобикень</name>
+    <district>Виноградовский район</district>
+    <id>142390</id>
+  </point>
+  <point>
+    <name>Тростник</name>
+    <district>Виноградовский район</district>
+    <id>21318</id>
+  </point>
+  <point>
+    <name>Фанчиково</name>
+    <district>Виноградовский район</district>
+    <id>21322</id>
+  </point>
+  <point>
+    <name>Фертешолмаш</name>
+    <district>Виноградовский район</district>
+    <id>142378</id>
+  </point>
+  <point>
+    <name>Форголань</name>
+    <district>Виноградовский район</district>
+    <id>142391</id>
+  </point>
+  <point>
+    <name>Хижа</name>
+    <district>Виноградовский район</district>
+    <id>21320</id>
+  </point>
+  <point>
+    <name>Холмовец</name>
+    <district>Виноградовский район</district>
+    <id>21300</id>
+  </point>
+  <point>
+    <name>Чепа</name>
+    <district>Виноградовский район</district>
+    <id>142393</id>
+  </point>
+  <point>
+    <name>Черная</name>
+    <district>Виноградовский район</district>
+    <id>21345</id>
+  </point>
+  <point>
+    <name>Чернотисов</name>
+    <district>Виноградовский район</district>
+    <id>21308</id>
+  </point>
+  <point>
+    <name>Черный Поток</name>
+    <district>Виноградовский район</district>
+    <id>142379</id>
+  </point>
+  <point>
+    <name>Шаланки</name>
+    <district>Виноградовский район</district>
+    <id>13629</id>
+  </point>
+  <point>
+    <name>Широкое</name>
+    <district>Виноградовский район</district>
+    <id>142395</id>
+  </point>
+  <point>
+    <name>Воловец</name>
+    <district>Воловецкий район</district>
+    <id>365</id>
+  </point>
+  <point>
+    <name>Верхние Ворота</name>
+    <district>Воловецкий район</district>
+    <id>21662</id>
+  </point>
+  <point>
+    <name>Ждениево</name>
+    <district>Воловецкий район</district>
+    <id>21670</id>
+  </point>
+  <point>
+    <name>Нижние Ворота</name>
+    <district>Воловецкий район</district>
+    <id>21669</id>
+  </point>
+  <point>
+    <name>Плай</name>
+    <district>Воловецкий район</district>
+    <id>565</id>
+  </point>
+  <point>
+    <name>Абранка</name>
+    <district>Воловецкий район</district>
+    <id>21661</id>
+  </point>
+  <point>
+    <name>Беласовица</name>
+    <district>Воловецкий район</district>
+    <id>21684</id>
+  </point>
+  <point>
+    <name>Буковец</name>
+    <district>Воловецкий район</district>
+    <id>142397</id>
+  </point>
+  <point>
+    <name>Вербяж</name>
+    <district>Воловецкий район</district>
+    <id>21676</id>
+  </point>
+  <point>
+    <name>Верхняя Грабовница</name>
+    <district>Воловецкий район</district>
+    <id>21660</id>
+  </point>
+  <point>
+    <name>Гукливый</name>
+    <district>Воловецкий район</district>
+    <id>21644</id>
+  </point>
+  <point>
+    <name>Завадка</name>
+    <district>Воловецкий район</district>
+    <id>21673</id>
+  </point>
+  <point>
+    <name>Задельское</name>
+    <district>Воловецкий район</district>
+    <id>21666</id>
+  </point>
+  <point>
+    <name>Збыны</name>
+    <district>Воловецкий район</district>
+    <id>142396</id>
+  </point>
+  <point>
+    <name>Канора</name>
+    <district>Воловецкий район</district>
+    <id>470063</id>
+  </point>
+  <point>
+    <name>Кичерный</name>
+    <district>Воловецкий район</district>
+    <id>142400</id>
+  </point>
+  <point>
+    <name>Котельница</name>
+    <district>Воловецкий район</district>
+    <id>21680</id>
+  </point>
+  <point>
+    <name>Лазы</name>
+    <district>Воловецкий район</district>
+    <id>142398</id>
+  </point>
+  <point>
+    <name>Латорка</name>
+    <district>Воловецкий район</district>
+    <id>21685</id>
+  </point>
+  <point>
+    <name>Пашковцы</name>
+    <district>Воловецкий район</district>
+    <id>21679</id>
+  </point>
+  <point>
+    <name>Перекрестный</name>
+    <district>Воловецкий район</district>
+    <id>21687</id>
+  </point>
+  <point>
+    <name>Подполозье</name>
+    <district>Воловецкий район</district>
+    <id>21663</id>
+  </point>
+  <point>
+    <name>Ростока</name>
+    <district>Воловецкий район</district>
+    <id>142399</id>
+  </point>
+  <point>
+    <name>Скотарское</name>
+    <district>Воловецкий район</district>
+    <id>21657</id>
+  </point>
+  <point>
+    <name>Тишев</name>
+    <district>Воловецкий район</district>
+    <id>142401</id>
+  </point>
+  <point>
+    <name>Щербовец</name>
+    <district>Воловецкий район</district>
+    <id>21678</id>
+  </point>
+  <point>
+    <name>Ялово</name>
+    <district>Воловецкий район</district>
+    <id>21667</id>
+  </point>
+  <point>
+    <name>Иршава</name>
+    <district>Иршавский район</district>
+    <id>366</id>
+  </point>
+  <point>
+    <name>Долгое</name>
+    <district>Иршавский район</district>
+    <id>77402</id>
+  </point>
+  <point>
+    <name>Ильница</name>
+    <district>Иршавский район</district>
+    <id>142407</id>
+  </point>
+  <point>
+    <name>Кушница</name>
+    <district>Иршавский район</district>
+    <id>21508</id>
+  </point>
+  <point>
+    <name>Лисичево</name>
+    <district>Иршавский район</district>
+    <id>21535</id>
+  </point>
+  <point>
+    <name>Арданово</name>
+    <district>Иршавский район</district>
+    <id>21451</id>
+  </point>
+  <point>
+    <name>Белки</name>
+    <district>Иршавский район</district>
+    <id>21443</id>
+  </point>
+  <point>
+    <name>Богаревица</name>
+    <district>Иршавский район</district>
+    <id>21430</id>
+  </point>
+  <point>
+    <name>Брод</name>
+    <district>Иршавский район</district>
+    <id>142403</id>
+  </point>
+  <point>
+    <name>Бронька</name>
+    <district>Иршавский район</district>
+    <id>21490</id>
+  </point>
+  <point>
+    <name>Великая Ростока</name>
+    <district>Иршавский район</district>
+    <id>142405</id>
+  </point>
+  <point>
+    <name>Великий Раковец</name>
+    <district>Иршавский район</district>
+    <id>21418</id>
+  </point>
+  <point>
+    <name>Воловица</name>
+    <district>Иршавский район</district>
+    <id>21428</id>
+  </point>
+  <point>
+    <name>Горбок</name>
+    <district>Иршавский район</district>
+    <id>21442</id>
+  </point>
+  <point>
+    <name>Гребля</name>
+    <district>Иршавский район</district>
+    <id>142404</id>
+  </point>
+  <point>
+    <name>Дешковица</name>
+    <district>Иршавский район</district>
+    <id>21466</id>
+  </point>
+  <point>
+    <name>Дибровка</name>
+    <district>Иршавский район</district>
+    <id>21436</id>
+  </point>
+  <point>
+    <name>Доробратово</name>
+    <district>Иршавский район</district>
+    <id>21460</id>
+  </point>
+  <point>
+    <name>Дубы</name>
+    <district>Иршавский район</district>
+    <id>21501</id>
+  </point>
+  <point>
+    <name>Дунковица</name>
+    <district>Иршавский район</district>
+    <id>21446</id>
+  </point>
+  <point>
+    <name>Заболотное</name>
+    <district>Иршавский район</district>
+    <id>21396</id>
+  </point>
+  <point>
+    <name>Загатье</name>
+    <district>Иршавский район</district>
+    <id>21487</id>
+  </point>
+  <point>
+    <name>Заречье</name>
+    <district>Иршавский район</district>
+    <id>21421</id>
+  </point>
+  <point>
+    <name>Ивашковица</name>
+    <district>Иршавский район</district>
+    <id>21509</id>
+  </point>
+  <point>
+    <name>Имстичево</name>
+    <district>Иршавский район</district>
+    <id>21431</id>
+  </point>
+  <point>
+    <name>Каменское</name>
+    <district>Иршавский район</district>
+    <id>21424</id>
+  </point>
+  <point>
+    <name>Климовица</name>
+    <district>Иршавский район</district>
+    <id>21499</id>
+  </point>
+  <point>
+    <name>Кобаловица</name>
+    <district>Иршавский район</district>
+    <id>142406</id>
+  </point>
+  <point>
+    <name>Крайняя Мартынка</name>
+    <district>Иршавский район</district>
+    <id>21492</id>
+  </point>
+  <point>
+    <name>Лоза</name>
+    <district>Иршавский район</district>
+    <id>21433</id>
+  </point>
+  <point>
+    <name>Локоть</name>
+    <district>Иршавский район</district>
+    <id>21500</id>
+  </point>
+  <point>
+    <name>Луково</name>
+    <district>Иршавский район</district>
+    <id>21445</id>
+  </point>
+  <point>
+    <name>Малая Ростока</name>
+    <district>Иршавский район</district>
+    <id>21432</id>
+  </point>
+  <point>
+    <name>Малый Раковец</name>
+    <district>Иршавский район</district>
+    <id>21407</id>
+  </point>
+  <point>
+    <name>Медяница</name>
+    <district>Иршавский район</district>
+    <id>21439</id>
+  </point>
+  <point>
+    <name>Негрово</name>
+    <district>Иршавский район</district>
+    <id>21474</id>
+  </point>
+  <point>
+    <name>Нижнее Болотное</name>
+    <district>Иршавский район</district>
+    <id>21412</id>
+  </point>
+  <point>
+    <name>Ольховка</name>
+    <district>Иршавский район</district>
+    <id>21414</id>
+  </point>
+  <point>
+    <name>Осой</name>
+    <district>Иршавский район</district>
+    <id>21461</id>
+  </point>
+  <point>
+    <name>Подгорное</name>
+    <district>Иршавский район</district>
+    <id>142409</id>
+  </point>
+  <point>
+    <name>Приборжавское</name>
+    <district>Иршавский район</district>
+    <id>21458</id>
+  </point>
+  <point>
+    <name>Сельцо</name>
+    <district>Иршавский район</district>
+    <id>21434</id>
+  </point>
+  <point>
+    <name>Смологовица</name>
+    <district>Иршавский район</district>
+    <id>21504</id>
+  </point>
+  <point>
+    <name>Собатин</name>
+    <district>Иршавский район</district>
+    <id>142402</id>
+  </point>
+  <point>
+    <name>Суха</name>
+    <district>Иршавский район</district>
+    <id>21502</id>
+  </point>
+  <point>
+    <name>Хмельник</name>
+    <district>Иршавский район</district>
+    <id>21420</id>
+  </point>
+  <point>
+    <name>Черный Поток</name>
+    <district>Иршавский район</district>
+    <id>142408</id>
+  </point>
+  <point>
+    <name>Межгорье</name>
+    <district>Межгорский район</district>
+    <id>367</id>
+  </point>
+  <point>
+    <name>Колочава</name>
+    <district>Межгорский район</district>
+    <id>77407</id>
+  </point>
+  <point>
+    <name>Майдан</name>
+    <district>Межгорский район</district>
+    <id>77408</id>
+  </point>
+  <point>
+    <name>Репинное</name>
+    <district>Межгорский район</district>
+    <id>21596</id>
+  </point>
+  <point>
+    <name>Синевир</name>
+    <district>Межгорский район</district>
+    <id>78937</id>
+  </point>
+  <point>
+    <name>Береги</name>
+    <district>Межгорский район</district>
+    <id>142421</id>
+  </point>
+  <point>
+    <name>Буковец</name>
+    <district>Межгорский район</district>
+    <id>142410</id>
+  </point>
+  <point>
+    <name>Верхний Быстрый</name>
+    <district>Межгорский район</district>
+    <id>21620</id>
+  </point>
+  <point>
+    <name>Верхний Студеный</name>
+    <district>Межгорский район</district>
+    <id>142415</id>
+  </point>
+  <point>
+    <name>Вучковое</name>
+    <district>Межгорский район</district>
+    <id>21513</id>
+  </point>
+  <point>
+    <name>Голятин</name>
+    <district>Межгорский район</district>
+    <id>21625</id>
+  </point>
+  <point>
+    <name>Горб</name>
+    <district>Межгорский район</district>
+    <id>470064</id>
+  </point>
+  <point>
+    <name>Дол</name>
+    <district>Межгорский район</district>
+    <id>142419</id>
+  </point>
+  <point>
+    <name>Заверхняя Кичера</name>
+    <district>Межгорский район</district>
+    <id>21530</id>
+  </point>
+  <point>
+    <name>Завийка</name>
+    <district>Межгорский район</district>
+    <id>21654</id>
+  </point>
+  <point>
+    <name>Загорб</name>
+    <district>Межгорский район</district>
+    <id>21590</id>
+  </point>
+  <point>
+    <name>Запеределье</name>
+    <district>Межгорский район</district>
+    <id>21522</id>
+  </point>
+  <point>
+    <name>Изки</name>
+    <district>Межгорский район</district>
+    <id>21628</id>
+  </point>
+  <point>
+    <name>Келечин</name>
+    <district>Межгорский район</district>
+    <id>21619</id>
+  </point>
+  <point>
+    <name>Косов Верх</name>
+    <district>Межгорский район</district>
+    <id>21511</id>
+  </point>
+  <point>
+    <name>Лесковец</name>
+    <district>Межгорский район</district>
+    <id>21648</id>
+  </point>
+  <point>
+    <name>Лозянский</name>
+    <district>Межгорский район</district>
+    <id>142413</id>
+  </point>
+  <point>
+    <name>Лопушное</name>
+    <district>Межгорский район</district>
+    <id>21630</id>
+  </point>
+  <point>
+    <name>Мерешор</name>
+    <district>Межгорский район</district>
+    <id>21488</id>
+  </point>
+  <point>
+    <name>Негровец</name>
+    <district>Межгорский район</district>
+    <id>21514</id>
+  </point>
+  <point>
+    <name>Нижний Студеный</name>
+    <district>Межгорский район</district>
+    <id>21645</id>
+  </point>
+  <point>
+    <name>Новоселица</name>
+    <district>Межгорский район</district>
+    <id>142416</id>
+  </point>
+  <point>
+    <name>Пилипец</name>
+    <district>Межгорский район</district>
+    <id>21635</id>
+  </point>
+  <point>
+    <name>Подобовец</name>
+    <district>Межгорский район</district>
+    <id>21638</id>
+  </point>
+  <point>
+    <name>Подчумаль</name>
+    <district>Межгорский район</district>
+    <id>142412</id>
+  </point>
+  <point>
+    <name>Поток</name>
+    <district>Межгорский район</district>
+    <id>142411</id>
+  </point>
+  <point>
+    <name>Прислоп</name>
+    <district>Межгорский район</district>
+    <id>142418</id>
+  </point>
+  <point>
+    <name>Рекиты</name>
+    <district>Межгорский район</district>
+    <id>21640</id>
+  </point>
+  <point>
+    <name>Речка</name>
+    <district>Межгорский район</district>
+    <id>21606</id>
+  </point>
+  <point>
+    <name>Ростока</name>
+    <district>Межгорский район</district>
+    <id>142417</id>
+  </point>
+  <point>
+    <name>Свобода</name>
+    <district>Межгорский район</district>
+    <id>142422</id>
+  </point>
+  <point>
+    <name>Синевирская Поляна</name>
+    <district>Межгорский район</district>
+    <id>21597</id>
+  </point>
+  <point>
+    <name>Соймы</name>
+    <district>Межгорский район</district>
+    <id>21586</id>
+  </point>
+  <point>
+    <name>Сопки</name>
+    <district>Межгорский район</district>
+    <id>142414</id>
+  </point>
+  <point>
+    <name>Стригальня</name>
+    <district>Межгорский район</district>
+    <id>21587</id>
+  </point>
+  <point>
+    <name>Сухой</name>
+    <district>Межгорский район</district>
+    <id>142420</id>
+  </point>
+  <point>
+    <name>Титковцы</name>
+    <district>Межгорский район</district>
+    <id>21646</id>
+  </point>
+  <point>
+    <name>Торунь</name>
+    <district>Межгорский район</district>
+    <id>21633</id>
+  </point>
+  <point>
+    <name>Тюшка</name>
+    <district>Межгорский район</district>
+    <id>21589</id>
+  </point>
+  <point>
+    <name>Мукачево</name>
+    <district>Мукачево</district>
+    <id>368</id>
+  </point>
+  <point>
+    <name>Бабичи</name>
+    <district>Мукачевский район</district>
+    <id>21506</id>
+  </point>
+  <point>
+    <name>Барбово</name>
+    <district>Мукачевский район</district>
+    <id>142436</id>
+  </point>
+  <point>
+    <name>Баркасово</name>
+    <district>Мукачевский район</district>
+    <id>21472</id>
+  </point>
+  <point>
+    <name>Бенедиктовцы</name>
+    <district>Мукачевский район</district>
+    <id>142438</id>
+  </point>
+  <point>
+    <name>Березинка</name>
+    <district>Мукачевский район</district>
+    <id>21494</id>
+  </point>
+  <point>
+    <name>Бобовище</name>
+    <district>Мукачевский район</district>
+    <id>142424</id>
+  </point>
+  <point>
+    <name>Брестов</name>
+    <district>Мукачевский район</district>
+    <id>21534</id>
+  </point>
+  <point>
+    <name>Буковинка</name>
+    <district>Мукачевский район</district>
+    <id>142426</id>
+  </point>
+  <point>
+    <name>Быстрица</name>
+    <district>Мукачевский район</district>
+    <id>21518</id>
+  </point>
+  <point>
+    <name>Великие Лучки</name>
+    <district>Мукачевский район</district>
+    <id>78946</id>
+  </point>
+  <point>
+    <name>Верхний Коропец</name>
+    <district>Мукачевский район</district>
+    <id>21503</id>
+  </point>
+  <point>
+    <name>Верхняя Визница</name>
+    <district>Мукачевский район</district>
+    <id>21563</id>
+  </point>
+  <point>
+    <name>Винково</name>
+    <district>Мукачевский район</district>
+    <id>21521</id>
+  </point>
+  <point>
+    <name>Гандеровица</name>
+    <district>Мукачевский район</district>
+    <id>142440</id>
+  </point>
+  <point>
+    <name>Герцовцы</name>
+    <district>Мукачевский район</district>
+    <id>21608</id>
+  </point>
+  <point>
+    <name>Горонда</name>
+    <district>Мукачевский район</district>
+    <id>21479</id>
+  </point>
+  <point>
+    <name>Грабово</name>
+    <district>Мукачевский район</district>
+    <id>21611</id>
+  </point>
+  <point>
+    <name>Грибовцы</name>
+    <district>Мукачевский район</district>
+    <id>470065</id>
+  </point>
+  <point>
+    <name>Дерцен</name>
+    <district>Мукачевский район</district>
+    <id>142428</id>
+  </point>
+  <point>
+    <name>Дилок</name>
+    <district>Мукачевский район</district>
+    <id>142423</id>
+  </point>
+  <point>
+    <name>Домбоки</name>
+    <district>Мукачевский район</district>
+    <id>21515</id>
+  </point>
+  <point>
+    <name>Драгиня</name>
+    <district>Мукачевский район</district>
+    <id>21517</id>
+  </point>
+  <point>
+    <name>Дубино</name>
+    <district>Мукачевский район</district>
+    <id>21567</id>
+  </point>
+  <point>
+    <name>Жборовцы</name>
+    <district>Мукачевский район</district>
+    <id>21540</id>
+  </point>
+  <point>
+    <name>Жнятино</name>
+    <district>Мукачевский район</district>
+    <id>142429</id>
+  </point>
+  <point>
+    <name>Жуково</name>
+    <district>Мукачевский район</district>
+    <id>21537</id>
+  </point>
+  <point>
+    <name>Завидово</name>
+    <district>Мукачевский район</district>
+    <id>21485</id>
+  </point>
+  <point>
+    <name>Залужье</name>
+    <district>Мукачевский район</district>
+    <id>21464</id>
+  </point>
+  <point>
+    <name>Зняцево</name>
+    <district>Мукачевский район</district>
+    <id>21525</id>
+  </point>
+  <point>
+    <name>Зубовка</name>
+    <district>Мукачевский район</district>
+    <id>21478</id>
+  </point>
+  <point>
+    <name>Ивановцы</name>
+    <district>Мукачевский район</district>
+    <id>21519</id>
+  </point>
+  <point>
+    <name>Ильковцы</name>
+    <district>Мукачевский район</district>
+    <id>21579</id>
+  </point>
+  <point>
+    <name>Кайданово</name>
+    <district>Мукачевский район</district>
+    <id>470067</id>
+  </point>
+  <point>
+    <name>Кальник</name>
+    <district>Мукачевский район</district>
+    <id>21549</id>
+  </point>
+  <point>
+    <name>Карпаты</name>
+    <district>Мукачевский район</district>
+    <id>21553</id>
+  </point>
+  <point>
+    <name>Кинлодь</name>
+    <district>Мукачевский район</district>
+    <id>142431</id>
+  </point>
+  <point>
+    <name>Кленовец</name>
+    <district>Мукачевский район</district>
+    <id>21561</id>
+  </point>
+  <point>
+    <name>Клочки</name>
+    <district>Мукачевский район</district>
+    <id>21547</id>
+  </point>
+  <point>
+    <name>Ключарки</name>
+    <district>Мукачевский район</district>
+    <id>21495</id>
+  </point>
+  <point>
+    <name>Клячаново</name>
+    <district>Мукачевский район</district>
+    <id>142432</id>
+  </point>
+  <point>
+    <name>Кольчино</name>
+    <district>Мукачевский район</district>
+    <id>21516</id>
+  </point>
+  <point>
+    <name>Коноплевцы</name>
+    <district>Мукачевский район</district>
+    <id>21510</id>
+  </point>
+  <point>
+    <name>Копыновцы</name>
+    <district>Мукачевский район</district>
+    <id>21568</id>
+  </point>
+  <point>
+    <name>Косино</name>
+    <district>Мукачевский район</district>
+    <id>470066</id>
+  </point>
+  <point>
+    <name>Крытое</name>
+    <district>Мукачевский район</district>
+    <id>21615</id>
+  </point>
+  <point>
+    <name>Кузьмино</name>
+    <district>Мукачевский район</district>
+    <id>21562</id>
+  </point>
+  <point>
+    <name>Кучава</name>
+    <district>Мукачевский район</district>
+    <id>21505</id>
+  </point>
+  <point>
+    <name>Куштановица</name>
+    <district>Мукачевский район</district>
+    <id>142427</id>
+  </point>
+  <point>
+    <name>Лавки</name>
+    <district>Мукачевский район</district>
+    <id>142434</id>
+  </point>
+  <point>
+    <name>Лалово</name>
+    <district>Мукачевский район</district>
+    <id>21486</id>
+  </point>
+  <point>
+    <name>Лесарня</name>
+    <district>Мукачевский район</district>
+    <id>21577</id>
+  </point>
+  <point>
+    <name>Лецовица</name>
+    <district>Мукачевский район</district>
+    <id>142425</id>
+  </point>
+  <point>
+    <name>Лохово</name>
+    <district>Мукачевский район</district>
+    <id>21538</id>
+  </point>
+  <point>
+    <name>Макарово</name>
+    <district>Мукачевский район</district>
+    <id>21453</id>
+  </point>
+  <point>
+    <name>Медведевцы</name>
+    <district>Мукачевский район</district>
+    <id>21575</id>
+  </point>
+  <point>
+    <name>Микуловцы</name>
+    <district>Мукачевский район</district>
+    <id>21591</id>
+  </point>
+  <point>
+    <name>Нижний Коропец</name>
+    <district>Мукачевский район</district>
+    <id>21468</id>
+  </point>
+  <point>
+    <name>Новое Давыдково</name>
+    <district>Мукачевский район</district>
+    <id>142437</id>
+  </point>
+  <point>
+    <name>Новоселица</name>
+    <district>Мукачевский район</district>
+    <id>142443</id>
+  </point>
+  <point>
+    <name>Обава</name>
+    <district>Мукачевский район</district>
+    <id>21548</id>
+  </point>
+  <point>
+    <name>Ольховица</name>
+    <district>Мукачевский район</district>
+    <id>21526</id>
+  </point>
+  <point>
+    <name>Павшино</name>
+    <district>Мукачевский район</district>
+    <id>21491</id>
+  </point>
+  <point>
+    <name>Пестрялово</name>
+    <district>Мукачевский район</district>
+    <id>21473</id>
+  </point>
+  <point>
+    <name>Плоскановица</name>
+    <district>Мукачевский район</district>
+    <id>21528</id>
+  </point>
+  <point>
+    <name>Пузняковцы</name>
+    <district>Мукачевский район</district>
+    <id>21617</id>
+  </point>
+  <point>
+    <name>Ракошино</name>
+    <district>Мукачевский район</district>
+    <id>78945</id>
+  </point>
+  <point>
+    <name>Ромочевица</name>
+    <district>Мукачевский район</district>
+    <id>142430</id>
+  </point>
+  <point>
+    <name>Ростовятица</name>
+    <district>Мукачевский район</district>
+    <id>21601</id>
+  </point>
+  <point>
+    <name>Русская Кучава</name>
+    <district>Мукачевский район</district>
+    <id>21574</id>
+  </point>
+  <point>
+    <name>Русское</name>
+    <district>Мукачевский район</district>
+    <id>21523</id>
+  </point>
+  <point>
+    <name>Серное</name>
+    <district>Мукачевский район</district>
+    <id>142439</id>
+  </point>
+  <point>
+    <name>Синяк</name>
+    <district>Мукачевский район</district>
+    <id>21600</id>
+  </point>
+  <point>
+    <name>София</name>
+    <district>Мукачевский район</district>
+    <id>21481</id>
+  </point>
+  <point>
+    <name>Станово</name>
+    <district>Мукачевский район</district>
+    <id>21496</id>
+  </point>
+  <point>
+    <name>Старое Давыдково</name>
+    <district>Мукачевский район</district>
+    <id>142433</id>
+  </point>
+  <point>
+    <name>Страбичово</name>
+    <district>Мукачевский район</district>
+    <id>21482</id>
+  </point>
+  <point>
+    <name>Счастливое</name>
+    <district>Мукачевский район</district>
+    <id>21583</id>
+  </point>
+  <point>
+    <name>Тростяница</name>
+    <district>Мукачевский район</district>
+    <id>21621</id>
+  </point>
+  <point>
+    <name>Форнош</name>
+    <district>Мукачевский район</district>
+    <id>142441</id>
+  </point>
+  <point>
+    <name>Чабин</name>
+    <district>Мукачевский район</district>
+    <id>21564</id>
+  </point>
+  <point>
+    <name>Червенево</name>
+    <district>Мукачевский район</district>
+    <id>21520</id>
+  </point>
+  <point>
+    <name>Череевцы</name>
+    <district>Мукачевский район</district>
+    <id>142435</id>
+  </point>
+  <point>
+    <name>Чинадиево</name>
+    <district>Мукачевский район</district>
+    <id>77410</id>
+  </point>
+  <point>
+    <name>Чомонин</name>
+    <district>Мукачевский район</district>
+    <id>21489</id>
+  </point>
+  <point>
+    <name>Чоповцы</name>
+    <district>Мукачевский район</district>
+    <id>21531</id>
+  </point>
+  <point>
+    <name>Шенборон</name>
+    <district>Мукачевский район</district>
+    <id>142442</id>
+  </point>
+  <point>
+    <name>Шкуратовцы</name>
+    <district>Мукачевский район</district>
+    <id>21582</id>
+  </point>
+  <point>
+    <name>Яблонов</name>
+    <district>Мукачевский район</district>
+    <id>21480</id>
+  </point>
+  <point>
+    <name>Перечин</name>
+    <district>Перечинский район</district>
+    <id>369</id>
+  </point>
+  <point>
+    <name>Заречево</name>
+    <district>Перечинский район</district>
+    <id>21668</id>
+  </point>
+  <point>
+    <name>Ликицары</name>
+    <district>Перечинский район</district>
+    <id>21672</id>
+  </point>
+  <point>
+    <name>Лумшоры</name>
+    <district>Перечинский район</district>
+    <id>142448</id>
+  </point>
+  <point>
+    <name>Турья Пасека</name>
+    <district>Перечинский район</district>
+    <id>21641</id>
+  </point>
+  <point>
+    <name>Ворочево</name>
+    <district>Перечинский район</district>
+    <id>142444</id>
+  </point>
+  <point>
+    <name>Дубринич</name>
+    <district>Перечинский район</district>
+    <id>21677</id>
+  </point>
+  <point>
+    <name>Завбуч</name>
+    <district>Перечинский район</district>
+    <id>21647</id>
+  </point>
+  <point>
+    <name>Липовец</name>
+    <district>Перечинский район</district>
+    <id>142447</id>
+  </point>
+  <point>
+    <name>Маюрки</name>
+    <district>Перечинский район</district>
+    <id>21649</id>
+  </point>
+  <point>
+    <name>Мокрая</name>
+    <district>Перечинский район</district>
+    <id>21651</id>
+  </point>
+  <point>
+    <name>Новоселица</name>
+    <district>Перечинский район</district>
+    <id>142445</id>
+  </point>
+  <point>
+    <name>Ольшинки</name>
+    <district>Перечинский район</district>
+    <id>21671</id>
+  </point>
+  <point>
+    <name>Пастилки</name>
+    <district>Перечинский район</district>
+    <id>21682</id>
+  </point>
+  <point>
+    <name>Полянская Гута</name>
+    <district>Перечинский район</district>
+    <id>21659</id>
+  </point>
+  <point>
+    <name>Порошково</name>
+    <district>Перечинский район</district>
+    <id>21637</id>
+  </point>
+  <point>
+    <name>Раково</name>
+    <district>Перечинский район</district>
+    <id>142446</id>
+  </point>
+  <point>
+    <name>Свалявка</name>
+    <district>Перечинский район</district>
+    <id>21634</id>
+  </point>
+  <point>
+    <name>Симерки</name>
+    <district>Перечинский район</district>
+    <id>21665</id>
+  </point>
+  <point>
+    <name>Симер</name>
+    <district>Перечинский район</district>
+    <id>21658</id>
+  </point>
+  <point>
+    <name>Турица</name>
+    <district>Перечинский район</district>
+    <id>21655</id>
+  </point>
+  <point>
+    <name>Турички</name>
+    <district>Перечинский район</district>
+    <id>21664</id>
+  </point>
+  <point>
+    <name>Турьи Реметы</name>
+    <district>Перечинский район</district>
+    <id>21653</id>
+  </point>
+  <point>
+    <name>Турья Быстрая</name>
+    <district>Перечинский район</district>
+    <id>21629</id>
+  </point>
+  <point>
+    <name>Турья Поляна</name>
+    <district>Перечинский район</district>
+    <id>21650</id>
+  </point>
+  <point>
+    <name>Рахов</name>
+    <district>Раховский район</district>
+    <id>370</id>
+  </point>
+  <point>
+    <name>Великий Бычков</name>
+    <district>Раховский район</district>
+    <id>363</id>
+  </point>
+  <point>
+    <name>Верхнее Водяное</name>
+    <district>Раховский район</district>
+    <id>21274</id>
+  </point>
+  <point>
+    <name>Кобылецкая Поляна</name>
+    <district>Раховский район</district>
+    <id>21299</id>
+  </point>
+  <point>
+    <name>Ясиня</name>
+    <district>Раховский район</district>
+    <id>21425</id>
+  </point>
+  <point>
+    <name>Белая Церковь</name>
+    <district>Раховский район</district>
+    <id>142449</id>
+  </point>
+  <point>
+    <name>Билин</name>
+    <district>Раховский район</district>
+    <id>21325</id>
+  </point>
+  <point>
+    <name>Богдан</name>
+    <district>Раховский район</district>
+    <id>21294</id>
+  </point>
+  <point>
+    <name>Бребоя</name>
+    <district>Раховский район</district>
+    <id>21295</id>
+  </point>
+  <point>
+    <name>Водица</name>
+    <district>Раховский район</district>
+    <id>21303</id>
+  </point>
+  <point>
+    <name>Выдричка</name>
+    <district>Раховский район</district>
+    <id>21296</id>
+  </point>
+  <point>
+    <name>Говерла</name>
+    <district>Раховский район</district>
+    <id>21311</id>
+  </point>
+  <point>
+    <name>Деловое</name>
+    <district>Раховский район</district>
+    <id>13878</id>
+  </point>
+  <point>
+    <name>Добрик</name>
+    <district>Раховский район</district>
+    <id>21280</id>
+  </point>
+  <point>
+    <name>Драгобрат</name>
+    <district>Раховский район</district>
+    <id>141416</id>
+  </point>
+  <point>
+    <name>Квасы</name>
+    <district>Раховский район</district>
+    <id>21352</id>
+  </point>
+  <point>
+    <name>Косовская Поляна</name>
+    <district>Раховский район</district>
+    <id>21273</id>
+  </point>
+  <point>
+    <name>Костылевка</name>
+    <district>Раховский район</district>
+    <id>21269</id>
+  </point>
+  <point>
+    <name>Круглый</name>
+    <district>Раховский район</district>
+    <id>142450</id>
+  </point>
+  <point>
+    <name>Лазещина</name>
+    <district>Раховский район</district>
+    <id>21417</id>
+  </point>
+  <point>
+    <name>Луги</name>
+    <district>Раховский район</district>
+    <id>21301</id>
+  </point>
+  <point>
+    <name>Луг</name>
+    <district>Раховский район</district>
+    <id>142452</id>
+  </point>
+  <point>
+    <name>Ольховатый</name>
+    <district>Раховский район</district>
+    <id>21278</id>
+  </point>
+  <point>
+    <name>Плаюц</name>
+    <district>Раховский район</district>
+    <id>21284</id>
+  </point>
+  <point>
+    <name>Росошка</name>
+    <district>Раховский район</district>
+    <id>142453</id>
+  </point>
+  <point>
+    <name>Ростоки</name>
+    <district>Раховский район</district>
+    <id>21306</id>
+  </point>
+  <point>
+    <name>Ситный</name>
+    <district>Раховский район</district>
+    <id>21334</id>
+  </point>
+  <point>
+    <name>Среднее Водяное</name>
+    <district>Раховский район</district>
+    <id>141668</id>
+  </point>
+  <point>
+    <name>Стебный</name>
+    <district>Раховский район</district>
+    <id>21438</id>
+  </point>
+  <point>
+    <name>Стрымба</name>
+    <district>Раховский район</district>
+    <id>21291</id>
+  </point>
+  <point>
+    <name>Тростянец</name>
+    <district>Раховский район</district>
+    <id>21359</id>
+  </point>
+  <point>
+    <name>Хмелев</name>
+    <district>Раховский район</district>
+    <id>142451</id>
+  </point>
+  <point>
+    <name>Черная Тиса</name>
+    <district>Раховский район</district>
+    <id>21440</id>
+  </point>
+  <point>
+    <name>Свалява</name>
+    <district>Свалявский район</district>
+    <id>371</id>
+  </point>
+  <point>
+    <name>Березники</name>
+    <district>Свалявский район</district>
+    <id>21544</id>
+  </point>
+  <point>
+    <name>Голубиное</name>
+    <district>Свалявский район</district>
+    <id>21598</id>
+  </point>
+  <point>
+    <name>Керецки</name>
+    <district>Свалявский район</district>
+    <id>21524</id>
+  </point>
+  <point>
+    <name>Поляна</name>
+    <district>Свалявский район</district>
+    <id>142457</id>
+  </point>
+  <point>
+    <name>Волчий</name>
+    <district>Свалявский район</district>
+    <id>142455</id>
+  </point>
+  <point>
+    <name>Ганьковица</name>
+    <district>Свалявский район</district>
+    <id>21622</id>
+  </point>
+  <point>
+    <name>Драчино</name>
+    <district>Свалявский район</district>
+    <id>142454</id>
+  </point>
+  <point>
+    <name>Дусина</name>
+    <district>Свалявский район</district>
+    <id>21543</id>
+  </point>
+  <point>
+    <name>Лопушанка</name>
+    <district>Свалявский район</district>
+    <id>21545</id>
+  </point>
+  <point>
+    <name>Малая Мартынка</name>
+    <district>Свалявский район</district>
+    <id>21560</id>
+  </point>
+  <point>
+    <name>Нелепино</name>
+    <district>Свалявский район</district>
+    <id>21580</id>
+  </point>
+  <point>
+    <name>Оленево</name>
+    <district>Свалявский район</district>
+    <id>21636</id>
+  </point>
+  <point>
+    <name>Павлово</name>
+    <district>Свалявский район</district>
+    <id>142456</id>
+  </point>
+  <point>
+    <name>Пасека</name>
+    <district>Свалявский район</district>
+    <id>21559</id>
+  </point>
+  <point>
+    <name>Плавья</name>
+    <district>Свалявский район</district>
+    <id>21536</id>
+  </point>
+  <point>
+    <name>Плоский Поток</name>
+    <district>Свалявский район</district>
+    <id>21626</id>
+  </point>
+  <point>
+    <name>Плоское</name>
+    <district>Свалявский район</district>
+    <id>21631</id>
+  </point>
+  <point>
+    <name>Родникова Гута</name>
+    <district>Свалявский район</district>
+    <id>21656</id>
+  </point>
+  <point>
+    <name>Родниковка</name>
+    <district>Свалявский район</district>
+    <id>21643</id>
+  </point>
+  <point>
+    <name>Россошь</name>
+    <district>Свалявский район</district>
+    <id>21532</id>
+  </point>
+  <point>
+    <name>Сасовка</name>
+    <district>Свалявский район</district>
+    <id>21585</id>
+  </point>
+  <point>
+    <name>Солочин</name>
+    <district>Свалявский район</district>
+    <id>21610</id>
+  </point>
+  <point>
+    <name>Стройное</name>
+    <district>Свалявский район</district>
+    <id>21551</id>
+  </point>
+  <point>
+    <name>Сусково</name>
+    <district>Свалявский район</district>
+    <id>21570</id>
+  </point>
+  <point>
+    <name>Тибава</name>
+    <district>Свалявский район</district>
+    <id>21571</id>
+  </point>
+  <point>
+    <name>Уклин</name>
+    <district>Свалявский район</district>
+    <id>21632</id>
+  </point>
+  <point>
+    <name>Черник</name>
+    <district>Свалявский район</district>
+    <id>142458</id>
+  </point>
+  <point>
+    <name>Яковское</name>
+    <district>Свалявский район</district>
+    <id>21623</id>
+  </point>
+  <point>
+    <name>Тячев</name>
+    <district>Тячевский район</district>
+    <id>372</id>
+  </point>
+  <point>
+    <name>Буштыно</name>
+    <district>Тячевский район</district>
+    <id>361</id>
+  </point>
+  <point>
+    <name>Дубовое</name>
+    <district>Тячевский район</district>
+    <id>77405</id>
+  </point>
+  <point>
+    <name>Нересница</name>
+    <district>Тячевский район</district>
+    <id>62557</id>
+  </point>
+  <point>
+    <name>Тересва</name>
+    <district>Тячевский район</district>
+    <id>77404</id>
+  </point>
+  <point>
+    <name>Бедевля</name>
+    <district>Тячевский район</district>
+    <id>21277</id>
+  </point>
+  <point>
+    <name>Беловарцы</name>
+    <district>Тячевский район</district>
+    <id>21287</id>
+  </point>
+  <point>
+    <name>Бобовое</name>
+    <district>Тячевский район</district>
+    <id>21335</id>
+  </point>
+  <point>
+    <name>Великая Уголька</name>
+    <district>Тячевский район</district>
+    <id>21381</id>
+  </point>
+  <point>
+    <name>Вонигово</name>
+    <district>Тячевский район</district>
+    <id>21310</id>
+  </point>
+  <point>
+    <name>Вышний Дубовец</name>
+    <district>Тячевский район</district>
+    <id>142460</id>
+  </point>
+  <point>
+    <name>Вышоватый</name>
+    <district>Тячевский район</district>
+    <id>21316</id>
+  </point>
+  <point>
+    <name>Ганичи</name>
+    <district>Тячевский район</district>
+    <id>21336</id>
+  </point>
+  <point>
+    <name>Глиняный</name>
+    <district>Тячевский район</district>
+    <id>21282</id>
+  </point>
+  <point>
+    <name>Глубокий Поток</name>
+    <district>Тячевский район</district>
+    <id>21298</id>
+  </point>
+  <point>
+    <name>Груники</name>
+    <district>Тячевский район</district>
+    <id>21350</id>
+  </point>
+  <point>
+    <name>Грушево</name>
+    <district>Тячевский район</district>
+    <id>21271</id>
+  </point>
+  <point>
+    <name>Добрянское</name>
+    <district>Тячевский район</district>
+    <id>21302</id>
+  </point>
+  <point>
+    <name>Дубровка</name>
+    <district>Тячевский район</district>
+    <id>142461</id>
+  </point>
+  <point>
+    <name>Дулово</name>
+    <district>Тячевский район</district>
+    <id>21351</id>
+  </point>
+  <point>
+    <name>Калины</name>
+    <district>Тячевский район</district>
+    <id>21346</id>
+  </point>
+  <point>
+    <name>Колодно</name>
+    <district>Тячевский район</district>
+    <id>21363</id>
+  </point>
+  <point>
+    <name>Комсомольск</name>
+    <district>Тячевский район</district>
+    <id>21477</id>
+  </point>
+  <point>
+    <name>Красна</name>
+    <district>Тячевский район</district>
+    <id>21390</id>
+  </point>
+  <point>
+    <name>Кривая</name>
+    <district>Тячевский район</district>
+    <id>21286</id>
+  </point>
+  <point>
+    <name>Кричово</name>
+    <district>Тячевский район</district>
+    <id>21376</id>
+  </point>
+  <point>
+    <name>Лазы</name>
+    <district>Тячевский район</district>
+    <id>142465</id>
+  </point>
+  <point>
+    <name>Лопухов</name>
+    <district>Тячевский район</district>
+    <id>21470</id>
+  </point>
+  <point>
+    <name>Малая Уголька</name>
+    <district>Тячевский район</district>
+    <id>21373</id>
+  </point>
+  <point>
+    <name>Нижний Дубовец</name>
+    <district>Тячевский район</district>
+    <id>21354</id>
+  </point>
+  <point>
+    <name>Нижняя Апша</name>
+    <district>Тячевский район</district>
+    <id>142466</id>
+  </point>
+  <point>
+    <name>Новобарово</name>
+    <district>Тячевский район</district>
+    <id>21319</id>
+  </point>
+  <point>
+    <name>Новоселица</name>
+    <district>Тячевский район</district>
+    <id>142468</id>
+  </point>
+  <point>
+    <name>Округла</name>
+    <district>Тячевский район</district>
+    <id>21313</id>
+  </point>
+  <point>
+    <name>Ольховцы-Лазы</name>
+    <district>Тячевский район</district>
+    <id>21337</id>
+  </point>
+  <point>
+    <name>Ольховцы</name>
+    <district>Тячевский район</district>
+    <id>21317</id>
+  </point>
+  <point>
+    <name>Ольховчик</name>
+    <district>Тячевский район</district>
+    <id>21340</id>
+  </point>
+  <point>
+    <name>Петрушов</name>
+    <district>Тячевский район</district>
+    <id>21307</id>
+  </point>
+  <point>
+    <name>Пещера</name>
+    <district>Тячевский район</district>
+    <id>142467</id>
+  </point>
+  <point>
+    <name>Подишор</name>
+    <district>Тячевский район</district>
+    <id>21293</id>
+  </point>
+  <point>
+    <name>Подплеша</name>
+    <district>Тячевский район</district>
+    <id>21348</id>
+  </point>
+  <point>
+    <name>Пригод</name>
+    <district>Тячевский район</district>
+    <id>21410</id>
+  </point>
+  <point>
+    <name>Раково</name>
+    <district>Тячевский район</district>
+    <id>142463</id>
+  </point>
+  <point>
+    <name>Ровное</name>
+    <district>Тячевский район</district>
+    <id>470068</id>
+  </point>
+  <point>
+    <name>Россош</name>
+    <district>Тячевский район</district>
+    <id>142464</id>
+  </point>
+  <point>
+    <name>Руня</name>
+    <district>Тячевский район</district>
+    <id>21290</id>
+  </point>
+  <point>
+    <name>Русская Мокрая</name>
+    <district>Тячевский район</district>
+    <id>21459</id>
+  </point>
+  <point>
+    <name>Русское Поле</name>
+    <district>Тячевский район</district>
+    <id>142470</id>
+  </point>
+  <point>
+    <name>Сасовое</name>
+    <district>Тячевский район</district>
+    <id>142462</id>
+  </point>
+  <point>
+    <name>Соленое</name>
+    <district>Тячевский район</district>
+    <id>21331</id>
+  </point>
+  <point>
+    <name>Солотвино</name>
+    <district>Тячевский район</district>
+    <id>141543</id>
+  </point>
+  <point>
+    <name>Тарасовка</name>
+    <district>Тячевский район</district>
+    <id>21383</id>
+  </point>
+  <point>
+    <name>Теребля</name>
+    <district>Тячевский район</district>
+    <id>62556</id>
+  </point>
+  <point>
+    <name>Терново</name>
+    <district>Тячевский район</district>
+    <id>21312</id>
+  </point>
+  <point>
+    <name>Тисоловое</name>
+    <district>Тячевский район</district>
+    <id>142469</id>
+  </point>
+  <point>
+    <name>Топчино</name>
+    <district>Тячевский район</district>
+    <id>21292</id>
+  </point>
+  <point>
+    <name>Тячевка</name>
+    <district>Тячевский район</district>
+    <id>142459</id>
+  </point>
+  <point>
+    <name>Угля</name>
+    <district>Тячевский район</district>
+    <id>21353</id>
+  </point>
+  <point>
+    <name>Усть-Чорна</name>
+    <district>Тячевский район</district>
+    <id>77406</id>
+  </point>
+  <point>
+    <name>Фонтынясы</name>
+    <district>Тячевский район</district>
+    <id>142471</id>
+  </point>
+  <point>
+    <name>Чумалево</name>
+    <district>Тячевский район</district>
+    <id>21380</id>
+  </point>
+  <point>
+    <name>Широкий Луг</name>
+    <district>Тячевский район</district>
+    <id>21387</id>
+  </point>
+  <point>
+    <name>Андреевка</name>
+    <district>Ужгородский район</district>
+    <id>21558</id>
+  </point>
+  <point>
+    <name>Анталовцы</name>
+    <district>Ужгородский район</district>
+    <id>21618</id>
+  </point>
+  <point>
+    <name>Баранинцы</name>
+    <district>Ужгородский район</district>
+    <id>142472</id>
+  </point>
+  <point>
+    <name>Барвинок</name>
+    <district>Ужгородский район</district>
+    <id>21588</id>
+  </point>
+  <point>
+    <name>Батфа</name>
+    <district>Ужгородский район</district>
+    <id>142474</id>
+  </point>
+  <point>
+    <name>Ботфалва</name>
+    <district>Ужгородский район</district>
+    <id>142488</id>
+  </point>
+  <point>
+    <name>Великая Добронь</name>
+    <district>Ужгородский район</district>
+    <id>21498</id>
+  </point>
+  <point>
+    <name>Великие Геевцы</name>
+    <district>Ужгородский район</district>
+    <id>21541</id>
+  </point>
+  <point>
+    <name>Великие Лазы</name>
+    <district>Ужгородский район</district>
+    <id>21578</id>
+  </point>
+  <point>
+    <name>Верхняя Солотвина</name>
+    <district>Ужгородский район</district>
+    <id>21614</id>
+  </point>
+  <point>
+    <name>Волково</name>
+    <district>Ужгородский район</district>
+    <id>21556</id>
+  </point>
+  <point>
+    <name>Гайдош</name>
+    <district>Ужгородский район</district>
+    <id>21609</id>
+  </point>
+  <point>
+    <name>Галоч</name>
+    <district>Ужгородский район</district>
+    <id>21572</id>
+  </point>
+  <point>
+    <name>Глубокое</name>
+    <district>Ужгородский район</district>
+    <id>21569</id>
+  </point>
+  <point>
+    <name>Гута</name>
+    <district>Ужгородский район</district>
+    <id>21652</id>
+  </point>
+  <point>
+    <name>Демечи</name>
+    <district>Ужгородский район</district>
+    <id>142481</id>
+  </point>
+  <point>
+    <name>Долгое Поле</name>
+    <district>Ужгородский район</district>
+    <id>21555</id>
+  </point>
+  <point>
+    <name>Дубровка</name>
+    <district>Ужгородский район</district>
+    <id>142476</id>
+  </point>
+  <point>
+    <name>Есень</name>
+    <district>Ужгородский район</district>
+    <id>142477</id>
+  </point>
+  <point>
+    <name>Ирлява</name>
+    <district>Ужгородский район</district>
+    <id>21542</id>
+  </point>
+  <point>
+    <name>Каменица</name>
+    <district>Ужгородский район</district>
+    <id>21642</id>
+  </point>
+  <point>
+    <name>Кибляры</name>
+    <district>Ужгородский район</district>
+    <id>21613</id>
+  </point>
+  <point>
+    <name>Кинчеш</name>
+    <district>Ужгородский район</district>
+    <id>142479</id>
+  </point>
+  <point>
+    <name>Концовое</name>
+    <district>Ужгородский район</district>
+    <id>21593</id>
+  </point>
+  <point>
+    <name>Корытняны</name>
+    <district>Ужгородский район</district>
+    <id>142478</id>
+  </point>
+  <point>
+    <name>Линцы</name>
+    <district>Ужгородский район</district>
+    <id>21595</id>
+  </point>
+  <point>
+    <name>Ляховцы</name>
+    <district>Ужгородский район</district>
+    <id>142492</id>
+  </point>
+  <point>
+    <name>Малая Добронь</name>
+    <district>Ужгородский район</district>
+    <id>142480</id>
+  </point>
+  <point>
+    <name>Малые Геевцы</name>
+    <district>Ужгородский район</district>
+    <id>142473</id>
+  </point>
+  <point>
+    <name>Малые Селлменцы</name>
+    <district>Ужгородский район</district>
+    <id>142484</id>
+  </point>
+  <point>
+    <name>Минай</name>
+    <district>Ужгородский район</district>
+    <id>21604</id>
+  </point>
+  <point>
+    <name>Невицкое</name>
+    <district>Ужгородский район</district>
+    <id>21639</id>
+  </point>
+  <point>
+    <name>Нижнее Солотвино</name>
+    <district>Ужгородский район</district>
+    <id>142485</id>
+  </point>
+  <point>
+    <name>Оноковцы</name>
+    <district>Ужгородский район</district>
+    <id>142482</id>
+  </point>
+  <point>
+    <name>Ореховица</name>
+    <district>Ужгородский район</district>
+    <id>21627</id>
+  </point>
+  <point>
+    <name>Паладь-Комаровцы</name>
+    <district>Ужгородский район</district>
+    <id>142483</id>
+  </point>
+  <point>
+    <name>Палло</name>
+    <district>Ужгородский район</district>
+    <id>142475</id>
+  </point>
+  <point>
+    <name>Пацканево</name>
+    <district>Ужгородский район</district>
+    <id>21602</id>
+  </point>
+  <point>
+    <name>Петровка</name>
+    <district>Ужгородский район</district>
+    <id>21484</id>
+  </point>
+  <point>
+    <name>Подгорб</name>
+    <district>Ужгородский район</district>
+    <id>21573</id>
+  </point>
+  <point>
+    <name>Ратовцы</name>
+    <district>Ужгородский район</district>
+    <id>21552</id>
+  </point>
+  <point>
+    <name>Розовка</name>
+    <district>Ужгородский район</district>
+    <id>21599</id>
+  </point>
+  <point>
+    <name>Русские Геевцы</name>
+    <district>Ужгородский район</district>
+    <id>21529</id>
+  </point>
+  <point>
+    <name>Русские Комаровцы</name>
+    <district>Ужгородский район</district>
+    <id>21550</id>
+  </point>
+  <point>
+    <name>Соловка</name>
+    <district>Ужгородский район</district>
+    <id>21475</id>
+  </point>
+  <point>
+    <name>Соломоново</name>
+    <district>Ужгородский район</district>
+    <id>142486</id>
+  </point>
+  <point>
+    <name>Солонцы</name>
+    <district>Ужгородский район</district>
+    <id>21546</id>
+  </point>
+  <point>
+    <name>Среднее</name>
+    <district>Ужгородский район</district>
+    <id>21565</id>
+  </point>
+  <point>
+    <name>Сторожница</name>
+    <district>Ужгородский район</district>
+    <id>21612</id>
+  </point>
+  <point>
+    <name>Стрыпа</name>
+    <district>Ужгородский район</district>
+    <id>21616</id>
+  </point>
+  <point>
+    <name>Сюрте</name>
+    <district>Ужгородский район</district>
+    <id>142487</id>
+  </point>
+  <point>
+    <name>Тарновцы</name>
+    <district>Ужгородский район</district>
+    <id>21603</id>
+  </point>
+  <point>
+    <name>Тисаагтелек</name>
+    <district>Ужгородский район</district>
+    <id>21512</id>
+  </point>
+  <point>
+    <name>Тисаашвань</name>
+    <district>Ужгородский район</district>
+    <id>142490</id>
+  </point>
+  <point>
+    <name>Тисауйфалу</name>
+    <district>Ужгородский район</district>
+    <id>470069</id>
+  </point>
+  <point>
+    <name>Тыйглаш</name>
+    <district>Ужгородский район</district>
+    <id>142489</id>
+  </point>
+  <point>
+    <name>Холмец</name>
+    <district>Ужгородский район</district>
+    <id>21557</id>
+  </point>
+  <point>
+    <name>Холмок</name>
+    <district>Ужгородский район</district>
+    <id>21584</id>
+  </point>
+  <point>
+    <name>Худлово</name>
+    <district>Ужгородский район</district>
+    <id>21605</id>
+  </point>
+  <point>
+    <name>Цыгановцы</name>
+    <district>Ужгородский район</district>
+    <id>21607</id>
+  </point>
+  <point>
+    <name>Чабановка</name>
+    <district>Ужгородский район</district>
+    <id>21533</id>
+  </point>
+  <point>
+    <name>Часловцы</name>
+    <district>Ужгородский район</district>
+    <id>21566</id>
+  </point>
+  <point>
+    <name>Червоное</name>
+    <district>Ужгородский район</district>
+    <id>21493</id>
+  </point>
+  <point>
+    <name>Чертиж</name>
+    <district>Ужгородский район</district>
+    <id>21581</id>
+  </point>
+  <point>
+    <name>Шишловцы</name>
+    <district>Ужгородский район</district>
+    <id>21594</id>
+  </point>
+  <point>
+    <name>Ярок</name>
+    <district>Ужгородский район</district>
+    <id>21624</id>
+  </point>
+  <point>
+    <name>Ужгород</name>
+    <district>Ужгород</district>
+    <id>373</id>
+  </point>
+  <point>
+    <name>Ужгород (аэропорт)</name>
+    <district>Ужгород</district>
+    <id>508014</id>
+  </point>
+  <point>
+    <name>Александровка</name>
+    <district>Хустский район</district>
+    <id>21341</id>
+  </point>
+  <point>
+    <name>Березовое</name>
+    <district>Хустский район</district>
+    <id>21441</id>
+  </point>
+  <point>
+    <name>Боронява</name>
+    <district>Хустский район</district>
+    <id>21357</id>
+  </point>
+  <point>
+    <name>Велятин</name>
+    <district>Хустский район</district>
+    <id>78934</id>
+  </point>
+  <point>
+    <name>Вертеп</name>
+    <district>Хустский район</district>
+    <id>21391</id>
+  </point>
+  <point>
+    <name>Вышково</name>
+    <district>Хустский район</district>
+    <id>13489</id>
+  </point>
+  <point>
+    <name>Гонцош</name>
+    <district>Хустский район</district>
+    <id>142495</id>
+  </point>
+  <point>
+    <name>Горинчово</name>
+    <district>Хустский район</district>
+    <id>21416</id>
+  </point>
+  <point>
+    <name>Данилово</name>
+    <district>Хустский район</district>
+    <id>21349</id>
+  </point>
+  <point>
+    <name>Дилок</name>
+    <district>Хустский район</district>
+    <id>142497</id>
+  </point>
+  <point>
+    <name>Драгово</name>
+    <district>Хустский район</district>
+    <id>21395</id>
+  </point>
+  <point>
+    <name>Жовтневое</name>
+    <district>Хустский район</district>
+    <id>21394</id>
+  </point>
+  <point>
+    <name>Забродь</name>
+    <district>Хустский район</district>
+    <id>142501</id>
+  </point>
+  <point>
+    <name>Залом</name>
+    <district>Хустский район</district>
+    <id>21405</id>
+  </point>
+  <point>
+    <name>Золотарево</name>
+    <district>Хустский район</district>
+    <id>21375</id>
+  </point>
+  <point>
+    <name>Иза</name>
+    <district>Хустский район</district>
+    <id>62558</id>
+  </point>
+  <point>
+    <name>Каллов</name>
+    <district>Хустский район</district>
+    <id>142503</id>
+  </point>
+  <point>
+    <name>Карповтлаш</name>
+    <district>Хустский район</district>
+    <id>21384</id>
+  </point>
+  <point>
+    <name>Кичерели</name>
+    <district>Хустский район</district>
+    <id>21401</id>
+  </point>
+  <point>
+    <name>Копашнево</name>
+    <district>Хустский район</district>
+    <id>21386</id>
+  </point>
+  <point>
+    <name>Кошелево</name>
+    <district>Хустский район</district>
+    <id>21397</id>
+  </point>
+  <point>
+    <name>Крайнее</name>
+    <district>Хустский район</district>
+    <id>21437</id>
+  </point>
+  <point>
+    <name>Крайниково</name>
+    <district>Хустский район</district>
+    <id>21329</id>
+  </point>
+  <point>
+    <name>Крива</name>
+    <district>Хустский район</district>
+    <id>21369</id>
+  </point>
+  <point>
+    <name>Кривой</name>
+    <district>Хустский район</district>
+    <id>21426</id>
+  </point>
+  <point>
+    <name>Кутлаш</name>
+    <district>Хустский район</district>
+    <id>142498</id>
+  </point>
+  <point>
+    <name>Липецкая Поляна</name>
+    <district>Хустский район</district>
+    <id>21457</id>
+  </point>
+  <point>
+    <name>Липовец</name>
+    <district>Хустский район</district>
+    <id>142506</id>
+  </point>
+  <point>
+    <name>Липча</name>
+    <district>Хустский район</district>
+    <id>21408</id>
+  </point>
+  <point>
+    <name>Лунка</name>
+    <district>Хустский район</district>
+    <id>21393</id>
+  </point>
+  <point>
+    <name>Медвежий</name>
+    <district>Хустский район</district>
+    <id>21465</id>
+  </point>
+  <point>
+    <name>Модерош</name>
+    <district>Хустский район</district>
+    <id>21305</id>
+  </point>
+  <point>
+    <name>Монастырец</name>
+    <district>Хустский район</district>
+    <id>21427</id>
+  </point>
+  <point>
+    <name>Нанково</name>
+    <district>Хустский район</district>
+    <id>21377</id>
+  </point>
+  <point>
+    <name>Нижнее Селище</name>
+    <district>Хустский район</district>
+    <id>21382</id>
+  </point>
+  <point>
+    <name>Нижний Быстрый</name>
+    <district>Хустский район</district>
+    <id>21463</id>
+  </point>
+  <point>
+    <name>Облаз</name>
+    <district>Хустский район</district>
+    <id>142508</id>
+  </point>
+  <point>
+    <name>Ожоверх</name>
+    <district>Хустский район</district>
+    <id>142504</id>
+  </point>
+  <point>
+    <name>Ольшаны</name>
+    <district>Хустский район</district>
+    <id>21450</id>
+  </point>
+  <point>
+    <name>Осава</name>
+    <district>Хустский район</district>
+    <id>142507</id>
+  </point>
+  <point>
+    <name>Поляна</name>
+    <district>Хустский район</district>
+    <id>142502</id>
+  </point>
+  <point>
+    <name>Посич</name>
+    <district>Хустский район</district>
+    <id>142499</id>
+  </point>
+  <point>
+    <name>Поточек</name>
+    <district>Хустский район</district>
+    <id>142509</id>
+  </point>
+  <point>
+    <name>Противень</name>
+    <district>Хустский район</district>
+    <id>21467</id>
+  </point>
+  <point>
+    <name>Ракош</name>
+    <district>Хустский район</district>
+    <id>142493</id>
+  </point>
+  <point>
+    <name>Рокосово</name>
+    <district>Хустский район</district>
+    <id>21385</id>
+  </point>
+  <point>
+    <name>Ряпидь</name>
+    <district>Хустский район</district>
+    <id>142496</id>
+  </point>
+  <point>
+    <name>Слоповый</name>
+    <district>Хустский район</district>
+    <id>142505</id>
+  </point>
+  <point>
+    <name>Сокирница</name>
+    <district>Хустский район</district>
+    <id>78935</id>
+  </point>
+  <point>
+    <name>Становец</name>
+    <district>Хустский район</district>
+    <id>21409</id>
+  </point>
+  <point>
+    <name>Стеблевка</name>
+    <district>Хустский район</district>
+    <id>142511</id>
+  </point>
+  <point>
+    <name>Сюрюк</name>
+    <district>Хустский район</district>
+    <id>142500</id>
+  </point>
+  <point>
+    <name>Тополин</name>
+    <district>Хустский район</district>
+    <id>21447</id>
+  </point>
+  <point>
+    <name>Хустец</name>
+    <district>Хустский район</district>
+    <id>21399</id>
+  </point>
+  <point>
+    <name>Шаян</name>
+    <district>Хустский район</district>
+    <id>142494</id>
+  </point>
+  <point>
+    <name>Широкое</name>
+    <district>Хустский район</district>
+    <id>142510</id>
+  </point>
+  <point>
+    <name>Яблоновка</name>
+    <district>Хустский район</district>
+    <id>21276</id>
+  </point>
+  <point>
+    <name>Хуст</name>
+    <district>Хуст</district>
+    <id>374</id>
+  </point>
+  <point>
+    <name>Заречное</name>
+    <district>Хуст</district>
+    <id>142346</id>
+  </point>
+  <point>
+    <name>Киреши</name>
+    <district>Хуст</district>
+    <id>21372</id>
+  </point>
+  <point>
+    <name>Чертиж</name>
+    <district>Хуст</district>
+    <id>142347</id>
+  </point>
+  <point>
+    <name>Чоп</name>
+    <district>Чоп</district>
+    <id>375</id>
+  </point>
+</region>

@@ -1,0 +1,566 @@
+<country name="Индонезия" count="94">
+  <point>
+    <name>Батам / Ханг Надим (аэропорт)</name>
+    <region>Архипелаг Риау</region>
+    <district>Батам / Ханг Надим (аэропорт)</district>
+    <id>337590</id>
+  </point>
+  <point>
+    <name>Танджунпинанг / Киджанг (аэропорт)</name>
+    <region>Архипелаг Риау</region>
+    <district>Танджунпинанг / Киджанг (аэропорт)</district>
+    <id>337589</id>
+  </point>
+  <point>
+    <name>Танджунпинанг</name>
+    <region>Архипелаг Риау</region>
+    <district>Танджунпинанг</district>
+    <id>348427</id>
+  </point>
+  <point>
+    <name>Ханг-Надим (аэропорт)</name>
+    <region>Архипелаг Риау</region>
+    <district>Ханг-Надим (аэропорт)</district>
+    <id>508436</id>
+  </point>
+  <point>
+    <name>Банда-Ачех (аэропорт)</name>
+    <region>Ачех</region>
+    <district>Банда-Ачех (аэропорт)</district>
+    <id>337596</id>
+  </point>
+  <point>
+    <name>Банда-Ачех</name>
+    <region>Ачех</region>
+    <district>Банда-Ачех</district>
+    <id>348425</id>
+  </point>
+  <point>
+    <name>Сабанг / Кат Бау</name>
+    <region>Ачех</region>
+    <district>Сабанг / Кат Бау</district>
+    <id>337598</id>
+  </point>
+  <point>
+    <name>Денпасар (аэропорт)</name>
+    <region>Бали</region>
+    <district>Денпасар (аэропорт)</district>
+    <id>337522</id>
+  </point>
+  <point>
+    <name>Денпасар</name>
+    <region>Бали</region>
+    <district>Денпасар</district>
+    <id>348429</id>
+  </point>
+  <point>
+    <name>Нгурах-Рай (аэропорт)</name>
+    <region>Бали</region>
+    <district>Нгурах-Рай (аэропорт)</district>
+    <id>508574</id>
+  </point>
+  <point>
+    <name>Панкалпинанг</name>
+    <region>Бангка-Белитунг</region>
+    <district>Панкалпинанг</district>
+    <id>337579</id>
+  </point>
+  <point>
+    <name>Серанг</name>
+    <region>Бантен</region>
+    <district>Серанг</district>
+    <id>337557</id>
+  </point>
+  <point>
+    <name>Бенгкулу (аэропорт)</name>
+    <region>Бенгкулу</region>
+    <district>Бенгкулу (аэропорт)</district>
+    <id>337577</id>
+  </point>
+  <point>
+    <name>Керинчи (аэропорт)</name>
+    <region>Бенгкулу</region>
+    <district>Керинчи (аэропорт)</district>
+    <id>337581</id>
+  </point>
+  <point>
+    <name>Джуанда (аэропорт)</name>
+    <region>Восточная Ява</region>
+    <district>Джуанда (аэропорт)</district>
+    <id>508471</id>
+  </point>
+  <point>
+    <name>Сурабая / Джуанда (аэропорт)</name>
+    <region>Восточная Ява</region>
+    <district>Сурабая / Джуанда (аэропорт)</district>
+    <id>337543</id>
+  </point>
+  <point>
+    <name>Сурабая</name>
+    <region>Восточная Ява</region>
+    <district>Сурабая</district>
+    <id>337544</id>
+  </point>
+  <point>
+    <name>Алор / Мали-Калахахи</name>
+    <region>Восточные Малые Зондские острова</region>
+    <district>Алор / Мали-Калахахи</district>
+    <id>337515</id>
+  </point>
+  <point>
+    <name>Купанг / Эль-Тари (аэропорт)</name>
+    <region>Восточные Малые Зондские острова</region>
+    <district>Купанг / Эль-Тари (аэропорт)</district>
+    <id>337513</id>
+  </point>
+  <point>
+    <name>Рутенг / Сатартасик</name>
+    <region>Восточные Малые Зондские острова</region>
+    <district>Рутенг / Сатартасик</district>
+    <id>337518</id>
+  </point>
+  <point>
+    <name>Баликпапан (аэропорт)</name>
+    <region>Восточный Калимантан</region>
+    <district>Баликпапан (аэропорт)</district>
+    <id>337562</id>
+  </point>
+  <point>
+    <name>Калимарау (аэропорт)</name>
+    <region>Восточный Калимантан</region>
+    <district>Калимарау (аэропорт)</district>
+    <id>337571</id>
+  </point>
+  <point>
+    <name>Лонг-Баван (аэропорт)</name>
+    <region>Восточный Калимантан</region>
+    <district>Лонг-Баван (аэропорт)</district>
+    <id>337574</id>
+  </point>
+  <point>
+    <name>Самаринда (аэропорт)</name>
+    <region>Восточный Калимантан</region>
+    <district>Самаринда (аэропорт)</district>
+    <id>337564</id>
+  </point>
+  <point>
+    <name>Самаринда</name>
+    <region>Восточный Калимантан</region>
+    <district>Самаринда</district>
+    <id>348434</id>
+  </point>
+  <point>
+    <name>Таракан</name>
+    <region>Восточный Калимантан</region>
+    <district>Таракан</district>
+    <id>337572</id>
+  </point>
+  <point>
+    <name>Горонтало</name>
+    <region>Горонтало</region>
+    <district>Горонтало</district>
+    <id>337533</id>
+  </point>
+  <point>
+    <name>Джакарта</name>
+    <region>Джакарта</region>
+    <district>Джакарта</district>
+    <id>337394</id>
+  </point>
+  <point>
+    <name>Восточная Джакарта / им. Халима Перданакусума (аэропорт)</name>
+    <region>Джакарта</region>
+    <district>Восточная Джакарта / им. Халима Перданакусума (аэропорт)</district>
+    <id>508934</id>
+  </point>
+  <point>
+    <name>Джакарта (обсерватория)</name>
+    <region>Джакарта</region>
+    <district>Джакарта (обсерватория)</district>
+    <id>337554</id>
+  </point>
+  <point>
+    <name>Джакарта / Сукарно-Хатта (аэропорт)</name>
+    <region>Джакарта</region>
+    <district>Джакарта / Сукарно-Хатта (аэропорт)</district>
+    <id>337553</id>
+  </point>
+  <point>
+    <name>Джамби / Султан-Таха (аэропорт)</name>
+    <region>Джамби</region>
+    <district>Джамби / Султан-Таха (аэропорт)</district>
+    <id>337582</id>
+  </point>
+  <point>
+    <name>Джокъякарта</name>
+    <region>Джокъякарта</region>
+    <district>Джокъякарта</district>
+    <id>348428</id>
+  </point>
+  <point>
+    <name>Минангкабау (аэропорт)</name>
+    <region>Западная Суматра</region>
+    <district>Минангкабау (аэропорт)</district>
+    <id>508545</id>
+  </point>
+  <point>
+    <name>Паданг (аэропорт)</name>
+    <region>Западная Суматра</region>
+    <district>Паданг (аэропорт)</district>
+    <id>337585</id>
+  </point>
+  <point>
+    <name>Бандунг (аэропорт)</name>
+    <region>Западная Ява</region>
+    <district>Бандунг (аэропорт)</district>
+    <id>337551</id>
+  </point>
+  <point>
+    <name>Ситеко / Пунчак</name>
+    <region>Западная Ява</region>
+    <district>Ситеко / Пунчак</district>
+    <id>337552</id>
+  </point>
+  <point>
+    <name>Маноквари</name>
+    <region>Западное Папуа</region>
+    <district>Маноквари</district>
+    <id>337505</id>
+  </point>
+  <point>
+    <name>Соронг / Джефман</name>
+    <region>Западное Папуа</region>
+    <district>Соронг / Джефман</district>
+    <id>337506</id>
+  </point>
+  <point>
+    <name>Ломбок (аэропорт)</name>
+    <region>Западные Малые Зондские острова</region>
+    <district>Ломбок (аэропорт)</district>
+    <id>508514</id>
+  </point>
+  <point>
+    <name>Матарам / Селапаранг (аэропорт)</name>
+    <region>Западные Малые Зондские острова</region>
+    <district>Матарам / Селапаранг (аэропорт)</district>
+    <id>337521</id>
+  </point>
+  <point>
+    <name>Матарам</name>
+    <region>Западные Малые Зондские острова</region>
+    <district>Матарам</district>
+    <id>348430</id>
+  </point>
+  <point>
+    <name>Нангапинох</name>
+    <region>Западный Калимантан</region>
+    <district>Нангапинох</district>
+    <id>337569</id>
+  </point>
+  <point>
+    <name>Пангсума (аэропорт)</name>
+    <region>Западный Калимантан</region>
+    <district>Пангсума (аэропорт)</district>
+    <id>337567</id>
+  </point>
+  <point>
+    <name>Понтианак (аэропорт)</name>
+    <region>Западный Калимантан</region>
+    <district>Понтианак (аэропорт)</district>
+    <id>337566</id>
+  </point>
+  <point>
+    <name>Понтианак</name>
+    <region>Западный Калимантан</region>
+    <district>Понтианак</district>
+    <id>348431</id>
+  </point>
+  <point>
+    <name>Синтанг</name>
+    <region>Западный Калимантан</region>
+    <district>Синтанг</district>
+    <id>337568</id>
+  </point>
+  <point>
+    <name>Сри Аман (аэропорт)</name>
+    <region>Западный Калимантан</region>
+    <district>Сри Аман (аэропорт)</district>
+    <id>509617</id>
+  </point>
+  <point>
+    <name>Маджене</name>
+    <region>Западный Сулавеси</region>
+    <district>Маджене</district>
+    <id>337529</id>
+  </point>
+  <point>
+    <name>Мамуджу</name>
+    <region>Западный Сулавеси</region>
+    <district>Мамуджу</district>
+    <id>348439</id>
+  </point>
+  <point>
+    <name>Бандар-Лампунг</name>
+    <region>Лампунг</region>
+    <district>Бандар-Лампунг</district>
+    <id>348426</id>
+  </point>
+  <point>
+    <name>Танджунг-Каранг</name>
+    <region>Лампунг</region>
+    <district>Танджунг-Каранг</district>
+    <id>337576</id>
+  </point>
+  <point>
+    <name>Амбон / Паттимура (аэропорт)</name>
+    <region>Малуку</region>
+    <district>Амбон / Паттимура (аэропорт)</district>
+    <id>337494</id>
+  </point>
+  <point>
+    <name>Амбон</name>
+    <region>Малуку</region>
+    <district>Амбон</district>
+    <id>348440</id>
+  </point>
+  <point>
+    <name>Туал</name>
+    <region>Малуку</region>
+    <district>Туал</district>
+    <id>337488</id>
+  </point>
+  <point>
+    <name>Биак / им. Франса Кайсиепо (аэропорт)</name>
+    <region>Папуа</region>
+    <district>Биак / им. Франса Кайсиепо (аэропорт)</district>
+    <id>337504</id>
+  </point>
+  <point>
+    <name>Вамена</name>
+    <region>Папуа</region>
+    <district>Вамена</district>
+    <id>337498</id>
+  </point>
+  <point>
+    <name>Джаяпура / Сентани</name>
+    <region>Папуа</region>
+    <district>Джаяпура / Сентани</district>
+    <id>337497</id>
+  </point>
+  <point>
+    <name>Джаяпура (метеостанция)</name>
+    <region>Папуа</region>
+    <district>Джаяпура (метеостанция)</district>
+    <id>337496</id>
+  </point>
+  <point>
+    <name>Джаяпура</name>
+    <region>Папуа</region>
+    <district>Джаяпура</district>
+    <id>348445</id>
+  </point>
+  <point>
+    <name>Мерауке / Мопах</name>
+    <region>Папуа</region>
+    <district>Мерауке / Мопах</district>
+    <id>337485</id>
+  </point>
+  <point>
+    <name>Сарми / Марарена</name>
+    <region>Папуа</region>
+    <district>Сарми / Марарена</district>
+    <id>337502</id>
+  </point>
+  <point>
+    <name>Тана Мера</name>
+    <region>Папуа</region>
+    <district>Тана Мера</district>
+    <id>337487</id>
+  </point>
+  <point>
+    <name>Энаротали</name>
+    <region>Папуа</region>
+    <district>Энаротали</district>
+    <id>337491</id>
+  </point>
+  <point>
+    <name>Жапура (аэропорт)</name>
+    <region>Риау</region>
+    <district>Жапура (аэропорт)</district>
+    <id>337584</id>
+  </point>
+  <point>
+    <name>Паканбару (аэропорт)</name>
+    <region>Риау</region>
+    <district>Паканбару (аэропорт)</district>
+    <id>337588</id>
+  </point>
+  <point>
+    <name>Гунунгситоли (аэропорт)</name>
+    <region>Северная Суматра</region>
+    <district>Гунунгситоли (аэропорт)</district>
+    <id>337591</id>
+  </point>
+  <point>
+    <name>Медан / Белаван</name>
+    <region>Северная Суматра</region>
+    <district>Медан / Белаван</district>
+    <id>337594</id>
+  </point>
+  <point>
+    <name>Медан</name>
+    <region>Северная Суматра</region>
+    <district>Медан</district>
+    <id>337593</id>
+  </point>
+  <point>
+    <name>Галела / Гамар-Маламу</name>
+    <region>Северное Малуку</region>
+    <district>Галела / Гамар-Маламу</district>
+    <id>337509</id>
+  </point>
+  <point>
+    <name>Тернате</name>
+    <region>Северное Малуку</region>
+    <district>Тернате</district>
+    <id>337508</id>
+  </point>
+  <point>
+    <name>Манадо (аэропорт)</name>
+    <region>Северный Сулавеси</region>
+    <district>Манадо (аэропорт)</district>
+    <id>337536</id>
+  </point>
+  <point>
+    <name>Манадо</name>
+    <region>Северный Сулавеси</region>
+    <district>Манадо</district>
+    <id>348435</id>
+  </point>
+  <point>
+    <name>Наха / Тахуна</name>
+    <region>Северный Сулавеси</region>
+    <district>Наха / Тахуна</district>
+    <id>337537</id>
+  </point>
+  <point>
+    <name>Адисумармо (аэропорт)</name>
+    <region>Центральная Ява</region>
+    <district>Адисумармо (аэропорт)</district>
+    <id>510382</id>
+  </point>
+  <point>
+    <name>Ахмад Яни (аэропорт)</name>
+    <region>Центральная Ява</region>
+    <district>Ахмад Яни (аэропорт)</district>
+    <id>508251</id>
+  </point>
+  <point>
+    <name>Семаранг (аэропорт)</name>
+    <region>Центральная Ява</region>
+    <district>Семаранг (аэропорт)</district>
+    <id>337546</id>
+  </point>
+  <point>
+    <name>Семаранг</name>
+    <region>Центральная Ява</region>
+    <district>Семаранг</district>
+    <id>337547</id>
+  </point>
+  <point>
+    <name>Искандар (аэропорт)</name>
+    <region>Центральный Калимантан</region>
+    <district>Искандар (аэропорт)</district>
+    <id>337561</id>
+  </point>
+  <point>
+    <name>Паланкарая (аэропорт)</name>
+    <region>Центральный Калимантан</region>
+    <district>Паланкарая (аэропорт)</district>
+    <id>337560</id>
+  </point>
+  <point>
+    <name>Паланкарая</name>
+    <region>Центральный Калимантан</region>
+    <district>Паланкарая</district>
+    <id>348432</id>
+  </point>
+  <point>
+    <name>Лувук / Бубунг</name>
+    <region>Центральный Сулавеси</region>
+    <district>Лувук / Бубунг</district>
+    <id>337531</id>
+  </point>
+  <point>
+    <name>Палу / Мутиара (аэропорт)</name>
+    <region>Центральный Сулавеси</region>
+    <district>Палу / Мутиара (аэропорт)</district>
+    <id>337532</id>
+  </point>
+  <point>
+    <name>Палу</name>
+    <region>Центральный Сулавеси</region>
+    <district>Палу</district>
+    <id>348436</id>
+  </point>
+  <point>
+    <name>Бау-Бау / Бето Амбири</name>
+    <region>Юго-Восточный Сулавеси</region>
+    <district>Бау-Бау / Бето Амбири</district>
+    <id>337523</id>
+  </point>
+  <point>
+    <name>Кендари (аэропорт)</name>
+    <region>Юго-Восточный Сулавеси</region>
+    <district>Кендари (аэропорт)</district>
+    <id>337526</id>
+  </point>
+  <point>
+    <name>Кендари</name>
+    <region>Юго-Восточный Сулавеси</region>
+    <district>Кендари</district>
+    <id>348438</id>
+  </point>
+  <point>
+    <name>Колака / Помала</name>
+    <region>Юго-Восточный Сулавеси</region>
+    <district>Колака / Помала</district>
+    <id>337527</id>
+  </point>
+  <point>
+    <name>Палембанг (аэропорт)</name>
+    <region>Южная Суматра</region>
+    <district>Палембанг (аэропорт)</district>
+    <id>337580</id>
+  </point>
+  <point>
+    <name>Банджармасин (аэропорт)</name>
+    <region>Южный Калимантан</region>
+    <district>Банджармасин (аэропорт)</district>
+    <id>337559</id>
+  </point>
+  <point>
+    <name>Банджармасин</name>
+    <region>Южный Калимантан</region>
+    <district>Банджармасин</district>
+    <id>348433</id>
+  </point>
+  <point>
+    <name>Анди Джемма (аэропорт)</name>
+    <region>Южный Сулавеси</region>
+    <district>Анди Джемма (аэропорт)</district>
+    <id>337528</id>
+  </point>
+  <point>
+    <name>Макасар</name>
+    <region>Южный Сулавеси</region>
+    <district>Макасар</district>
+    <id>348437</id>
+  </point>
+  <point>
+    <name>Уджунгпанданг (аэропорт)</name>
+    <region>Южный Сулавеси</region>
+    <district>Уджунгпанданг (аэропорт)</district>
+    <id>337525</id>
+  </point>
+</country>

@@ -1,0 +1,908 @@
+<country name="Thailand" count="151">
+  <point>
+    <name>Amnat Charoen</name>
+    <region>Amnat Charoen</region>
+    <district>Amnat Charoen</district>
+    <id>180955</id>
+  </point>
+  <point>
+    <name>Ang Thong</name>
+    <region>Ang Thong</region>
+    <district>Ang Thong</district>
+    <id>180956</id>
+  </point>
+  <point>
+    <name>Ayutthaya</name>
+    <region>Ayutthaya</region>
+    <district>Ayutthaya</district>
+    <id>170817</id>
+  </point>
+  <point>
+    <name>Bangkok</name>
+    <region>Bangkok</region>
+    <district>Bangkok</district>
+    <id>170509</id>
+  </point>
+  <point>
+    <name>Bangkok (weather station 48455)</name>
+    <region>Bangkok</region>
+    <district>Bangkok (weather station 48455)</district>
+    <id>11487</id>
+  </point>
+  <point>
+    <name>Bangkok (weather station 48457)</name>
+    <region>Bangkok</region>
+    <district>Bangkok (weather station 48457)</district>
+    <id>170510</id>
+  </point>
+  <point>
+    <name>Bangkok / Don Muang (airport)</name>
+    <region>Bangkok</region>
+    <district>Bangkok / Don Muang (airport)</district>
+    <id>11488</id>
+  </point>
+  <point>
+    <name>Buri Ram</name>
+    <region>Buri Ram</region>
+    <district>Buri Ram</district>
+    <id>170503</id>
+  </point>
+  <point>
+    <name>Buri Ram (airport)</name>
+    <region>Buri Ram</region>
+    <district>Buri Ram (airport)</district>
+    <id>510428</id>
+  </point>
+  <point>
+    <name>Nang Rong</name>
+    <region>Buri Ram</region>
+    <district>Nang Rong</district>
+    <id>170502</id>
+  </point>
+  <point>
+    <name>Chachoengsao</name>
+    <region>Chachoengsao</region>
+    <district>Chachoengsao</district>
+    <id>170826</id>
+  </point>
+  <point>
+    <name>Chai Nat</name>
+    <region>Chai Nat</region>
+    <district>Chai Nat</district>
+    <id>170814</id>
+  </point>
+  <point>
+    <name>Chaiyaphum</name>
+    <region>Chaiyaphum</region>
+    <district>Chaiyaphum</district>
+    <id>11474</id>
+  </point>
+  <point>
+    <name>Chanthaburi</name>
+    <region>Chanthaburi</region>
+    <district>Chanthaburi</district>
+    <id>11499</id>
+  </point>
+  <point>
+    <name>Phliu</name>
+    <region>Chanthaburi</region>
+    <district>Phliu</district>
+    <id>170830</id>
+  </point>
+  <point>
+    <name>Chiang Mai (airport)</name>
+    <region>Chiang Mai</region>
+    <district>Chiang Mai (airport)</district>
+    <id>11454</id>
+  </point>
+  <point>
+    <name>Doi Ang Khang</name>
+    <region>Chiang Mai</region>
+    <district>Doi Ang Khang</district>
+    <id>170800</id>
+  </point>
+  <point>
+    <name>Chiang Rai</name>
+    <region>Chiang Rai</region>
+    <district>Chiang Rai</district>
+    <id>11450</id>
+  </point>
+  <point>
+    <name>Chaing Rai (weather station 48304)</name>
+    <region>Chiang Rai</region>
+    <district>Chaing Rai (weather station 48304)</district>
+    <id>170801</id>
+  </point>
+  <point>
+    <name>Chiang Rai (airport)</name>
+    <region>Chiang Rai</region>
+    <district>Chiang Rai (airport)</district>
+    <id>508332</id>
+  </point>
+  <point>
+    <name>Bangkok / Suvarnabhumi (airport)</name>
+    <region>Chon Buri</region>
+    <district>Bangkok / Suvarnabhumi (airport)</district>
+    <id>11490</id>
+  </point>
+  <point>
+    <name>Ko Sichang Island</name>
+    <region>Chon Buri</region>
+    <district>Ko Sichang Island</district>
+    <id>11491</id>
+  </point>
+  <point>
+    <name>Phatthaya</name>
+    <region>Chon Buri</region>
+    <district>Phatthaya</district>
+    <id>11492</id>
+  </point>
+  <point>
+    <name>Chumphon (airport)</name>
+    <region>Chumphon</region>
+    <district>Chumphon (airport)</district>
+    <id>11502</id>
+  </point>
+  <point>
+    <name>Sawi</name>
+    <region>Chumphon</region>
+    <district>Sawi</district>
+    <id>170831</id>
+  </point>
+  <point>
+    <name>Kalasin</name>
+    <region>Kalasin</region>
+    <district>Kalasin</district>
+    <id>151837</id>
+  </point>
+  <point>
+    <name>Kamalasai</name>
+    <region>Kalasin</region>
+    <district>Kamalasai</district>
+    <id>170498</id>
+  </point>
+  <point>
+    <name>Kamphaeng Phet</name>
+    <region>Kamphaeng Phet</region>
+    <district>Kamphaeng Phet</district>
+    <id>11470</id>
+  </point>
+  <point>
+    <name>Kanchanaburi</name>
+    <region>Kanchanaburi</region>
+    <district>Kanchanaburi</district>
+    <id>11486</id>
+  </point>
+  <point>
+    <name>Thong Pha Phum</name>
+    <region>Kanchanaburi</region>
+    <district>Thong Pha Phum</district>
+    <id>11480</id>
+  </point>
+  <point>
+    <name>Khon Kaen</name>
+    <region>Khon Kaen</region>
+    <district>Khon Kaen</district>
+    <id>11471</id>
+  </point>
+  <point>
+    <name>Khon Kaen (airport)</name>
+    <region>Khon Kaen</region>
+    <district>Khon Kaen (airport)</district>
+    <id>507982</id>
+  </point>
+  <point>
+    <name>Tha Phra</name>
+    <region>Khon Kaen</region>
+    <district>Tha Phra</district>
+    <id>170810</id>
+  </point>
+  <point>
+    <name>Krabi</name>
+    <region>Krabi</region>
+    <district>Krabi</district>
+    <id>11508</id>
+  </point>
+  <point>
+    <name>Ko Lanta</name>
+    <region>Krabi</region>
+    <district>Ko Lanta</district>
+    <id>11511</id>
+  </point>
+  <point>
+    <name>Krabi (airport)</name>
+    <region>Krabi</region>
+    <district>Krabi (airport)</district>
+    <id>508492</id>
+  </point>
+  <point>
+    <name>Lampang (airport)</name>
+    <region>Lampang</region>
+    <district>Lampang (airport)</district>
+    <id>11455</id>
+  </point>
+  <point>
+    <name>Lampang</name>
+    <region>Lampang</region>
+    <district>Lampang</district>
+    <id>170804</id>
+  </point>
+  <point>
+    <name>Thoen</name>
+    <region>Lampang</region>
+    <district>Thoen</district>
+    <id>170802</id>
+  </point>
+  <point>
+    <name>Lamphun</name>
+    <region>Lamphun</region>
+    <district>Lamphun</district>
+    <id>11456</id>
+  </point>
+  <point>
+    <name>Loei (airport)</name>
+    <region>Loei</region>
+    <district>Loei (airport)</district>
+    <id>11461</id>
+  </point>
+  <point>
+    <name>Loei (weather station 48350)</name>
+    <region>Loei</region>
+    <district>Loei (weather station 48350)</district>
+    <id>170805</id>
+  </point>
+  <point>
+    <name>Lop Buri</name>
+    <region>Lop Buri</region>
+    <district>Lop Buri</district>
+    <id>11482</id>
+  </point>
+  <point>
+    <name>Bua Chum</name>
+    <region>Lop Buri</region>
+    <district>Bua Chum</district>
+    <id>11479</id>
+  </point>
+  <point>
+    <name>Laem Chabang</name>
+    <region>Lop Buri</region>
+    <district>Laem Chabang</district>
+    <id>11494</id>
+  </point>
+  <point>
+    <name>Mae Hong Son (airport)</name>
+    <region>Mae Hong Son</region>
+    <district>Mae Hong Son (airport)</district>
+    <id>11449</id>
+  </point>
+  <point>
+    <name>Mae Sariang</name>
+    <region>Mae Hong Son</region>
+    <district>Mae Sariang</district>
+    <id>11453</id>
+  </point>
+  <point>
+    <name>Maha Sarakham</name>
+    <region>Maha Sarakham</region>
+    <district>Maha Sarakham</district>
+    <id>180957</id>
+  </point>
+  <point>
+    <name>Kosum Phisai</name>
+    <region>Maha Sarakham</region>
+    <district>Kosum Phisai</district>
+    <id>170495</id>
+  </point>
+  <point>
+    <name>Mukdahan</name>
+    <region>Mukdahan</region>
+    <district>Mukdahan</district>
+    <id>11472</id>
+  </point>
+  <point>
+    <name>Nakhon Nayok</name>
+    <region>Nakhon Nayok</region>
+    <district>Nakhon Nayok</district>
+    <id>180958</id>
+  </point>
+  <point>
+    <name>Nakhon Pathom (weather station)</name>
+    <region>Nakhon Pathom</region>
+    <district>Nakhon Pathom (weather station)</district>
+    <id>170807</id>
+  </point>
+  <point>
+    <name>Nakhon Pathom</name>
+    <region>Nakhon Pathom</region>
+    <district>Nakhon Pathom</district>
+    <id>11464</id>
+  </point>
+  <point>
+    <name>Nakhon Pathom (weather station 48451)</name>
+    <region>Nakhon Pathom</region>
+    <district>Nakhon Pathom (weather station 48451)</district>
+    <id>170824</id>
+  </point>
+  <point>
+    <name>Nakhon Phanom (airport)</name>
+    <region>Nakhon Pathom</region>
+    <district>Nakhon Phanom (airport)</district>
+    <id>508561</id>
+  </point>
+  <point>
+    <name>Nakhon Ratchasima</name>
+    <region>Nakhon Ratchasima</region>
+    <district>Nakhon Ratchasima</district>
+    <id>11484</id>
+  </point>
+  <point>
+    <name>Chok Chai</name>
+    <region>Nakhon Ratchasima</region>
+    <district>Chok Chai</district>
+    <id>170501</id>
+  </point>
+  <point>
+    <name>Pakchong (weather station)</name>
+    <region>Nakhon Ratchasima</region>
+    <district>Pakchong (weather station)</district>
+    <id>170823</id>
+  </point>
+  <point>
+    <name>Nakhon Sawan</name>
+    <region>Nakhon Sawan</region>
+    <district>Nakhon Sawan</district>
+    <id>11473</id>
+  </point>
+  <point>
+    <name>Tak Fa</name>
+    <region>Nakhon Sawan</region>
+    <district>Tak Fa</district>
+    <id>170813</id>
+  </point>
+  <point>
+    <name>Nakhon Si Thammarat</name>
+    <region>Nakhon Si Thammarat</region>
+    <district>Nakhon Si Thammarat</district>
+    <id>11506</id>
+  </point>
+  <point>
+    <name>Chawang</name>
+    <region>Nakhon Si Thammarat</region>
+    <district>Chawang</district>
+    <id>170512</id>
+  </point>
+  <point>
+    <name>Nakhon Si Thammarat (airport)</name>
+    <region>Nakhon Si Thammarat</region>
+    <district>Nakhon Si Thammarat (airport)</district>
+    <id>509616</id>
+  </point>
+  <point>
+    <name>Nakhon Si Thammarat (weather station)</name>
+    <region>Nakhon Si Thammarat</region>
+    <district>Nakhon Si Thammarat (weather station)</district>
+    <id>170832</id>
+  </point>
+  <point>
+    <name>Nan (airport)</name>
+    <region>Nan</region>
+    <district>Nan (airport)</district>
+    <id>11458</id>
+  </point>
+  <point>
+    <name>Nan (weather station 48333)</name>
+    <region>Nan</region>
+    <district>Nan (weather station 48333)</district>
+    <id>170803</id>
+  </point>
+  <point>
+    <name>Tha Wang Pha</name>
+    <region>Nan</region>
+    <district>Tha Wang Pha</district>
+    <id>11452</id>
+  </point>
+  <point>
+    <name>Thung Chang</name>
+    <region>Nan</region>
+    <district>Thung Chang</district>
+    <id>170490</id>
+  </point>
+  <point>
+    <name>Narathiwat (airport)</name>
+    <region>Narathiwat</region>
+    <district>Narathiwat (airport)</district>
+    <id>11517</id>
+  </point>
+  <point>
+    <name>Nong Bua Lamphu</name>
+    <region>Nong Bua Lamphu</region>
+    <district>Nong Bua Lamphu</district>
+    <id>170808</id>
+  </point>
+  <point>
+    <name>Nong Khai</name>
+    <region>Nong Khai</region>
+    <district>Nong Khai</district>
+    <id>11460</id>
+  </point>
+  <point>
+    <name>Nonthaburi</name>
+    <region>Nonthaburi</region>
+    <district>Nonthaburi</district>
+    <id>151836</id>
+  </point>
+  <point>
+    <name>Pathum Thani</name>
+    <region>Pathum Thani</region>
+    <district>Pathum Thani</district>
+    <id>170818</id>
+  </point>
+  <point>
+    <name>Pattani</name>
+    <region>Pattani</region>
+    <district>Pattani</district>
+    <id>11516</id>
+  </point>
+  <point>
+    <name>Phang Nga</name>
+    <region>Phang Nga</region>
+    <district>Phang Nga</district>
+    <id>13726</id>
+  </point>
+  <point>
+    <name>Takua</name>
+    <region>Phang Nga</region>
+    <district>Takua</district>
+    <id>170513</id>
+  </point>
+  <point>
+    <name>Phatthalung</name>
+    <region>Phatthalung</region>
+    <district>Phatthalung</district>
+    <id>170834</id>
+  </point>
+  <point>
+    <name>Phayao</name>
+    <region>Phayao</region>
+    <district>Phayao</district>
+    <id>11451</id>
+  </point>
+  <point>
+    <name>Phetchabun</name>
+    <region>Phetchabun</region>
+    <district>Phetchabun</district>
+    <id>11469</id>
+  </point>
+  <point>
+    <name>Lomsak</name>
+    <region>Phetchabun</region>
+    <district>Lomsak</district>
+    <id>170518</id>
+  </point>
+  <point>
+    <name>Wichian Buri</name>
+    <region>Phetchabun</region>
+    <district>Wichian Buri</district>
+    <id>11477</id>
+  </point>
+  <point>
+    <name>Phetchaburi</name>
+    <region>Phetchaburi</region>
+    <district>Phetchaburi</district>
+    <id>11495</id>
+  </point>
+  <point>
+    <name>Phichit</name>
+    <region>Phichit</region>
+    <district>Phichit</district>
+    <id>180959</id>
+  </point>
+  <point>
+    <name>Rong Chang</name>
+    <region>Phichit</region>
+    <district>Rong Chang</district>
+    <id>170811</id>
+  </point>
+  <point>
+    <name>Phitsanulok</name>
+    <region>Phitsanulok</region>
+    <district>Phitsanulok</district>
+    <id>11468</id>
+  </point>
+  <point>
+    <name>Phitsanulok (airport)</name>
+    <region>Phitsanulok</region>
+    <district>Phitsanulok (airport)</district>
+    <id>508601</id>
+  </point>
+  <point>
+    <name>Phrae (airport)</name>
+    <region>Phrae</region>
+    <district>Phrae (airport)</district>
+    <id>11457</id>
+  </point>
+  <point>
+    <name>Phuket</name>
+    <region>Phuket</region>
+    <district>Phuket</district>
+    <id>11509</id>
+  </point>
+  <point>
+    <name>Phuket (airport)</name>
+    <region>Phuket</region>
+    <district>Phuket (airport)</district>
+    <id>11510</id>
+  </point>
+  <point>
+    <name>Prachin Buri</name>
+    <region>Prachin Buri</region>
+    <district>Prachin Buri</district>
+    <id>11483</id>
+  </point>
+  <point>
+    <name>Kabin Buri</name>
+    <region>Prachin Buri</region>
+    <district>Kabin Buri</district>
+    <id>170506</id>
+  </point>
+  <point>
+    <name>Prachuap Khiri Khan</name>
+    <region>Prachuap Khiri Khan</region>
+    <district>Prachuap Khiri Khan</district>
+    <id>11500</id>
+  </point>
+  <point>
+    <name>Hua Hin (airport)</name>
+    <region>Prachuap Khiri Khan</region>
+    <district>Hua Hin (airport)</district>
+    <id>11496</id>
+  </point>
+  <point>
+    <name>Nong Phlub</name>
+    <region>Prachuap Khiri Khan</region>
+    <district>Nong Phlub</district>
+    <id>170828</id>
+  </point>
+  <point>
+    <name>Ranong</name>
+    <region>Ranong</region>
+    <district>Ranong</district>
+    <id>11503</id>
+  </point>
+  <point>
+    <name>Ratchaburi</name>
+    <region>Ratchaburi</region>
+    <district>Ratchaburi</district>
+    <id>170827</id>
+  </point>
+  <point>
+    <name>Rayong / Utapao (airport)</name>
+    <region>Rayong</region>
+    <district>Rayong / Utapao (airport)</district>
+    <id>11498</id>
+  </point>
+  <point>
+    <name>Aranyaprathet</name>
+    <region>Rayong</region>
+    <district>Aranyaprathet</district>
+    <id>11493</id>
+  </point>
+  <point>
+    <name>Huai Pong</name>
+    <region>Rayong</region>
+    <district>Huai Pong</district>
+    <id>170829</id>
+  </point>
+  <point>
+    <name>Sattahip</name>
+    <region>Rayong</region>
+    <district>Sattahip</district>
+    <id>11497</id>
+  </point>
+  <point>
+    <name>Roi Et</name>
+    <region>Roi Et</region>
+    <district>Roi Et</district>
+    <id>170815</id>
+  </point>
+  <point>
+    <name>Roi Et (airport)</name>
+    <region>Roi Et</region>
+    <district>Roi Et (airport)</district>
+    <id>508631</id>
+  </point>
+  <point>
+    <name>Roi Et (weather station 48405)</name>
+    <region>Roi Et</region>
+    <district>Roi Et (weather station 48405)</district>
+    <id>11475</id>
+  </point>
+  <point>
+    <name>Sa Kaeo</name>
+    <region>Sa Kaeo</region>
+    <district>Sa Kaeo</district>
+    <id>180960</id>
+  </point>
+  <point>
+    <name>Sa Khwuan</name>
+    <region>Sa Kaeo</region>
+    <district>Sa Khwuan</district>
+    <id>170508</id>
+  </point>
+  <point>
+    <name>Sakon Nakhon</name>
+    <region>Sakon Nakhon</region>
+    <district>Sakon Nakhon</district>
+    <id>11463</id>
+  </point>
+  <point>
+    <name>Sakon Nakhon (airport)</name>
+    <region>Sakon Nakhon</region>
+    <district>Sakon Nakhon (airport)</district>
+    <id>508978</id>
+  </point>
+  <point>
+    <name>Sakon Nakhon / Huai Yang</name>
+    <region>Sakon Nakhon</region>
+    <district>Sakon Nakhon / Huai Yang</district>
+    <id>170806</id>
+  </point>
+  <point>
+    <name>Samut Prakan</name>
+    <region>Samut Prakan</region>
+    <district>Samut Prakan</district>
+    <id>170819</id>
+  </point>
+  <point>
+    <name>Bangna</name>
+    <region>Samut Prakan</region>
+    <district>Bangna</district>
+    <id>170825</id>
+  </point>
+  <point>
+    <name>Suvarnabhumi (airport)</name>
+    <region>Samut Prakan</region>
+    <district>Suvarnabhumi (airport)</district>
+    <id>170821</id>
+  </point>
+  <point>
+    <name>Samut Sakhon</name>
+    <region>Samut Sakhon</region>
+    <district>Samut Sakhon</district>
+    <id>180961</id>
+  </point>
+  <point>
+    <name>Samut Songkhram</name>
+    <region>Samut Songkhram</region>
+    <district>Samut Songkhram</district>
+    <id>180962</id>
+  </point>
+  <point>
+    <name>Saraburi</name>
+    <region>Saraburi</region>
+    <district>Saraburi</district>
+    <id>170500</id>
+  </point>
+  <point>
+    <name>Satun</name>
+    <region>Satun</region>
+    <district>Satun</district>
+    <id>11515</id>
+  </point>
+  <point>
+    <name>Si Sa Ket</name>
+    <region>Si Sa Ket</region>
+    <district>Si Sa Ket</district>
+    <id>170816</id>
+  </point>
+  <point>
+    <name>Sing Buri</name>
+    <region>Sing Buri</region>
+    <district>Sing Buri</district>
+    <id>180963</id>
+  </point>
+  <point>
+    <name>Songkhla (airport)</name>
+    <region>Songkhla</region>
+    <district>Songkhla (airport)</district>
+    <id>11513</id>
+  </point>
+  <point>
+    <name>Hat Yai (airport)</name>
+    <region>Songkhla</region>
+    <district>Hat Yai (airport)</district>
+    <id>11514</id>
+  </point>
+  <point>
+    <name>Kho Hong</name>
+    <region>Songkhla</region>
+    <district>Kho Hong</district>
+    <id>170836</id>
+  </point>
+  <point>
+    <name>Sadao</name>
+    <region>Songkhla</region>
+    <district>Sadao</district>
+    <id>170576</id>
+  </point>
+  <point>
+    <name>Sukhothai</name>
+    <region>Sukhothai</region>
+    <district>Sukhothai</district>
+    <id>151834</id>
+  </point>
+  <point>
+    <name>Si Samrong</name>
+    <region>Sukhothai</region>
+    <district>Si Samrong</district>
+    <id>170809</id>
+  </point>
+  <point>
+    <name>Sukhothai (airport)</name>
+    <region>Sukhothai</region>
+    <district>Sukhothai (airport)</district>
+    <id>508693</id>
+  </point>
+  <point>
+    <name>Suphan Buri</name>
+    <region>Suphan Buri</region>
+    <district>Suphan Buri</district>
+    <id>11481</id>
+  </point>
+  <point>
+    <name>U Thong</name>
+    <region>Suphan Buri</region>
+    <district>U Thong</district>
+    <id>170820</id>
+  </point>
+  <point>
+    <name>Surat Thani (airport)</name>
+    <region>Surat Thani</region>
+    <district>Surat Thani (airport)</district>
+    <id>11505</id>
+  </point>
+  <point>
+    <name>Ko Samui / Maret</name>
+    <region>Surat Thani</region>
+    <district>Ko Samui / Maret</district>
+    <id>11504</id>
+  </point>
+  <point>
+    <name>Prasang</name>
+    <region>Surat Thani</region>
+    <district>Prasang</district>
+    <id>170511</id>
+  </point>
+  <point>
+    <name>Samui (airport)</name>
+    <region>Surat Thani</region>
+    <district>Samui (airport)</district>
+    <id>508644</id>
+  </point>
+  <point>
+    <name>Surat Thani</name>
+    <region>Surat Thani</region>
+    <district>Surat Thani</district>
+    <id>170833</id>
+  </point>
+  <point>
+    <name>Surin</name>
+    <region>Surin</region>
+    <district>Surin</district>
+    <id>11485</id>
+  </point>
+  <point>
+    <name>Surin (weather station 48433)</name>
+    <region>Surin</region>
+    <district>Surin (weather station 48433)</district>
+    <id>170822</id>
+  </point>
+  <point>
+    <name>Tha-Tum</name>
+    <region>Surin</region>
+    <district>Tha-Tum</district>
+    <id>11478</id>
+  </point>
+  <point>
+    <name>Tak</name>
+    <region>Tak</region>
+    <district>Tak</district>
+    <id>11466</id>
+  </point>
+  <point>
+    <name>Bhumibol Dam</name>
+    <region>Tak</region>
+    <district>Bhumibol Dam</district>
+    <id>11467</id>
+  </point>
+  <point>
+    <name>Mae Sot</name>
+    <region>Tak</region>
+    <district>Mae Sot</district>
+    <id>170812</id>
+  </point>
+  <point>
+    <name>Mae Sot (weather station 48375)</name>
+    <region>Tak</region>
+    <district>Mae Sot (weather station 48375)</district>
+    <id>11465</id>
+  </point>
+  <point>
+    <name>Mae Sot (weather station 48387)</name>
+    <region>Tak</region>
+    <district>Mae Sot (weather station 48387)</district>
+    <id>510032</id>
+  </point>
+  <point>
+    <name>Umphang</name>
+    <region>Tak</region>
+    <district>Umphang</district>
+    <id>170496</id>
+  </point>
+  <point>
+    <name>Trang (airport)</name>
+    <region>Trang</region>
+    <district>Trang (airport)</district>
+    <id>11512</id>
+  </point>
+  <point>
+    <name>Trat</name>
+    <region>Trat</region>
+    <district>Trat</district>
+    <id>151833</id>
+  </point>
+  <point>
+    <name>Khlong Yai</name>
+    <region>Trat</region>
+    <district>Khlong Yai</district>
+    <id>11501</id>
+  </point>
+  <point>
+    <name>Trat (airport)</name>
+    <region>Trat</region>
+    <district>Trat (airport)</district>
+    <id>508715</id>
+  </point>
+  <point>
+    <name>Ubon Ratchathani (airport)</name>
+    <region>Ubon Ratchathani</region>
+    <district>Ubon Ratchathani (airport)</district>
+    <id>11476</id>
+  </point>
+  <point>
+    <name>Ubon Ratchathani</name>
+    <region>Ubon Ratchathani</region>
+    <district>Ubon Ratchathani</district>
+    <id>510045</id>
+  </point>
+  <point>
+    <name>Udon Thani (airport)</name>
+    <region>Udon Thani</region>
+    <district>Udon Thani (airport)</district>
+    <id>11462</id>
+  </point>
+  <point>
+    <name>Uthai Thani</name>
+    <region>Uthai Thani</region>
+    <district>Uthai Thani</district>
+    <id>180964</id>
+  </point>
+  <point>
+    <name>Uttaradit</name>
+    <region>Uttaradit</region>
+    <district>Uttaradit</district>
+    <id>11459</id>
+  </point>
+  <point>
+    <name>Yala</name>
+    <region>Yala</region>
+    <district>Yala</district>
+    <id>170838</id>
+  </point>
+  <point>
+    <name>Yasothon</name>
+    <region>Yasothon</region>
+    <district>Yasothon</district>
+    <id>151832</id>
+  </point>
+</country>

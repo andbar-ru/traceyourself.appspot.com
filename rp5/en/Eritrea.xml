@@ -1,0 +1,44 @@
+<country name="Eritrea" count="7">
+  <point>
+    <name>Keren</name>
+    <region>Anseba</region>
+    <district>Keren</district>
+    <id>292117</id>
+  </point>
+  <point>
+    <name>Mendefera</name>
+    <region>Debub</region>
+    <district>Mendefera</district>
+    <id>292115</id>
+  </point>
+  <point>
+    <name>Barentu</name>
+    <region>Gash-Barka</region>
+    <district>Barentu</district>
+    <id>292116</id>
+  </point>
+  <point>
+    <name>Asmara (airport)</name>
+    <region>Maekel</region>
+    <district>Asmara (airport)</district>
+    <id>10603</id>
+  </point>
+  <point>
+    <name>Massawa</name>
+    <region>Northern Red Sea Region</region>
+    <district>Massawa</district>
+    <id>10604</id>
+  </point>
+  <point>
+    <name>Nakfa</name>
+    <region>Northern Red Sea Region</region>
+    <district>Nakfa</district>
+    <id>10602</id>
+  </point>
+  <point>
+    <name>Assab</name>
+    <region>Southern Red Sea Region</region>
+    <district>Assab</district>
+    <id>10605</id>
+  </point>
+</country>

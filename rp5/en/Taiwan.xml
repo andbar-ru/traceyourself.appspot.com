@@ -1,0 +1,2366 @@
+<country name="Taiwan" count="394">
+  <point>
+    <name>Changhua</name>
+    <region>Changhua County</region>
+    <district>Changhua</district>
+    <id>180927</id>
+  </point>
+  <point>
+    <name>Huatan</name>
+    <region>Changhua County</region>
+    <district>Huatan</district>
+    <id>212739</id>
+  </point>
+  <point>
+    <name>Pitou</name>
+    <region>Changhua County</region>
+    <district>Pitou</district>
+    <id>212815</id>
+  </point>
+  <point>
+    <name>Sihu</name>
+    <region>Changhua County</region>
+    <district>Sihu</district>
+    <id>213087</id>
+  </point>
+  <point>
+    <name>Beidou</name>
+    <region>Changhua County</region>
+    <district>Beidou</district>
+    <id>212698</id>
+  </point>
+  <point>
+    <name>Dacheng</name>
+    <region>Changhua County</region>
+    <district>Dacheng</district>
+    <id>256017</id>
+  </point>
+  <point>
+    <name>Dacun</name>
+    <region>Changhua County</region>
+    <district>Dacun</district>
+    <id>256082</id>
+  </point>
+  <point>
+    <name>Erlin</name>
+    <region>Changhua County</region>
+    <district>Erlin</district>
+    <id>256091</id>
+  </point>
+  <point>
+    <name>Ershuei</name>
+    <region>Changhua County</region>
+    <district>Ershuei</district>
+    <id>256101</id>
+  </point>
+  <point>
+    <name>Fangyuan</name>
+    <region>Changhua County</region>
+    <district>Fangyuan</district>
+    <id>256111</id>
+  </point>
+  <point>
+    <name>Fenyuan</name>
+    <region>Changhua County</region>
+    <district>Fenyuan</district>
+    <id>256122</id>
+  </point>
+  <point>
+    <name>Fusing</name>
+    <region>Changhua County</region>
+    <district>Fusing</district>
+    <id>256132</id>
+  </point>
+  <point>
+    <name>Hemei</name>
+    <region>Changhua County</region>
+    <district>Hemei</district>
+    <id>212699</id>
+  </point>
+  <point>
+    <name>Jhutang</name>
+    <region>Changhua County</region>
+    <district>Jhutang</district>
+    <id>212765</id>
+  </point>
+  <point>
+    <name>Lugang</name>
+    <region>Changhua County</region>
+    <district>Lugang</district>
+    <id>212790</id>
+  </point>
+  <point>
+    <name>Pusin</name>
+    <region>Changhua County</region>
+    <district>Pusin</district>
+    <id>212829</id>
+  </point>
+  <point>
+    <name>Puyan</name>
+    <region>Changhua County</region>
+    <district>Puyan</district>
+    <id>212890</id>
+  </point>
+  <point>
+    <name>Shengang</name>
+    <region>Changhua County</region>
+    <district>Shengang</district>
+    <id>212961</id>
+  </point>
+  <point>
+    <name>Shetou</name>
+    <region>Changhua County</region>
+    <district>Shetou</district>
+    <id>213002</id>
+  </point>
+  <point>
+    <name>Siansi</name>
+    <region>Changhua County</region>
+    <district>Siansi</district>
+    <id>213069</id>
+  </point>
+  <point>
+    <name>Sijhou</name>
+    <region>Changhua County</region>
+    <district>Sijhou</district>
+    <id>213128</id>
+  </point>
+  <point>
+    <name>Sioushuei</name>
+    <region>Changhua County</region>
+    <district>Sioushuei</district>
+    <id>213154</id>
+  </point>
+  <point>
+    <name>Tianjhong</name>
+    <region>Changhua County</region>
+    <district>Tianjhong</district>
+    <id>213178</id>
+  </point>
+  <point>
+    <name>Tianwei</name>
+    <region>Changhua County</region>
+    <district>Tianwei</district>
+    <id>213234</id>
+  </point>
+  <point>
+    <name>Yongjing</name>
+    <region>Changhua County</region>
+    <district>Yongjing</district>
+    <id>213269</id>
+  </point>
+  <point>
+    <name>Yuanlin</name>
+    <region>Changhua County</region>
+    <district>Yuanlin</district>
+    <id>213296</id>
+  </point>
+  <point>
+    <name>Chiayi</name>
+    <region>Chiayi City</region>
+    <district>Chiayi</district>
+    <id>12455</id>
+  </point>
+  <point>
+    <name>Chiayi West</name>
+    <region>Chiayi City</region>
+    <district>Chiayi West</district>
+    <id>213337</id>
+  </point>
+  <point>
+    <name>Ali Shan</name>
+    <region>Chiayi County</region>
+    <district>Ali Shan</district>
+    <id>11335</id>
+  </point>
+  <point>
+    <name>Budai</name>
+    <region>Chiayi County</region>
+    <district>Budai</district>
+    <id>256018</id>
+  </point>
+  <point>
+    <name>Dalin</name>
+    <region>Chiayi County</region>
+    <district>Dalin</district>
+    <id>256019</id>
+  </point>
+  <point>
+    <name>Dapu</name>
+    <region>Chiayi County</region>
+    <district>Dapu</district>
+    <id>256028</id>
+  </point>
+  <point>
+    <name>Dongshih</name>
+    <region>Chiayi County</region>
+    <district>Dongshih</district>
+    <id>256037</id>
+  </point>
+  <point>
+    <name>Fanlu</name>
+    <region>Chiayi County</region>
+    <district>Fanlu</district>
+    <id>256047</id>
+  </point>
+  <point>
+    <name>Jhongpu</name>
+    <region>Chiayi County</region>
+    <district>Jhongpu</district>
+    <id>256057</id>
+  </point>
+  <point>
+    <name>Jhuci</name>
+    <region>Chiayi County</region>
+    <district>Jhuci</district>
+    <id>256066</id>
+  </point>
+  <point>
+    <name>Lioujiao</name>
+    <region>Chiayi County</region>
+    <district>Lioujiao</district>
+    <id>256077</id>
+  </point>
+  <point>
+    <name>Lucao</name>
+    <region>Chiayi County</region>
+    <district>Lucao</district>
+    <id>256080</id>
+  </point>
+  <point>
+    <name>Maunt-Alishan</name>
+    <region>Chiayi County</region>
+    <district>Maunt-Alishan</district>
+    <id>12459</id>
+  </point>
+  <point>
+    <name>Maunt-Morrison</name>
+    <region>Chiayi County</region>
+    <district>Maunt-Morrison</district>
+    <id>12461</id>
+  </point>
+  <point>
+    <name>Meishan</name>
+    <region>Chiayi County</region>
+    <district>Meishan</district>
+    <id>256081</id>
+  </point>
+  <point>
+    <name>Minsyong</name>
+    <region>Chiayi County</region>
+    <district>Minsyong</district>
+    <id>256083</id>
+  </point>
+  <point>
+    <name>Puzih</name>
+    <region>Chiayi County</region>
+    <district>Puzih</district>
+    <id>256084</id>
+  </point>
+  <point>
+    <name>Shueishang</name>
+    <region>Chiayi County</region>
+    <district>Shueishang</district>
+    <id>256085</id>
+  </point>
+  <point>
+    <name>Sikou</name>
+    <region>Chiayi County</region>
+    <district>Sikou</district>
+    <id>256086</id>
+  </point>
+  <point>
+    <name>Singang</name>
+    <region>Chiayi County</region>
+    <district>Singang</district>
+    <id>256087</id>
+  </point>
+  <point>
+    <name>Taibao</name>
+    <region>Chiayi County</region>
+    <district>Taibao</district>
+    <id>180919</id>
+  </point>
+  <point>
+    <name>Yijhu</name>
+    <region>Chiayi County</region>
+    <district>Yijhu</district>
+    <id>256088</id>
+  </point>
+  <point>
+    <name>Hsinchu</name>
+    <region>Hsinchu City</region>
+    <district>Hsinchu</district>
+    <id>12463</id>
+  </point>
+  <point>
+    <name>Hsinchu East</name>
+    <region>Hsinchu City</region>
+    <district>Hsinchu East</district>
+    <id>256089</id>
+  </point>
+  <point>
+    <name>Siangshan</name>
+    <region>Hsinchu City</region>
+    <district>Siangshan</district>
+    <id>256090</id>
+  </point>
+  <point>
+    <name>Xinzhu</name>
+    <region>Hsinchu City</region>
+    <district>Xinzhu</district>
+    <id>11314</id>
+  </point>
+  <point>
+    <name>Baoshan</name>
+    <region>Hsinchu County</region>
+    <district>Baoshan</district>
+    <id>256092</id>
+  </point>
+  <point>
+    <name>Beipu</name>
+    <region>Hsinchu County</region>
+    <district>Beipu</district>
+    <id>256093</id>
+  </point>
+  <point>
+    <name>Cyonglin</name>
+    <region>Hsinchu County</region>
+    <district>Cyonglin</district>
+    <id>256094</id>
+  </point>
+  <point>
+    <name>Emei</name>
+    <region>Hsinchu County</region>
+    <district>Emei</district>
+    <id>256095</id>
+  </point>
+  <point>
+    <name>Guansi</name>
+    <region>Hsinchu County</region>
+    <district>Guansi</district>
+    <id>256096</id>
+  </point>
+  <point>
+    <name>Hengshan</name>
+    <region>Hsinchu County</region>
+    <district>Hengshan</district>
+    <id>256097</id>
+  </point>
+  <point>
+    <name>Hukou</name>
+    <region>Hsinchu County</region>
+    <district>Hukou</district>
+    <id>256098</id>
+  </point>
+  <point>
+    <name>Jhubei</name>
+    <region>Hsinchu County</region>
+    <district>Jhubei</district>
+    <id>180921</id>
+  </point>
+  <point>
+    <name>Jhudong</name>
+    <region>Hsinchu County</region>
+    <district>Jhudong</district>
+    <id>256099</id>
+  </point>
+  <point>
+    <name>Jianshih</name>
+    <region>Hsinchu County</region>
+    <district>Jianshih</district>
+    <id>256100</id>
+  </point>
+  <point>
+    <name>Sinfong</name>
+    <region>Hsinchu County</region>
+    <district>Sinfong</district>
+    <id>256102</id>
+  </point>
+  <point>
+    <name>Sinpu</name>
+    <region>Hsinchu County</region>
+    <district>Sinpu</district>
+    <id>256103</id>
+  </point>
+  <point>
+    <name>Wufong</name>
+    <region>Hsinchu County</region>
+    <district>Wufong</district>
+    <id>256104</id>
+  </point>
+  <point>
+    <name>Hualien</name>
+    <region>Hualien County</region>
+    <district>Hualien</district>
+    <id>12441</id>
+  </point>
+  <point>
+    <name>Hualian (weather station 59362)</name>
+    <region>Hualien County</region>
+    <district>Hualian (weather station 59362)</district>
+    <id>11337</id>
+  </point>
+  <point>
+    <name>Rueisuei</name>
+    <region>Hualien County</region>
+    <district>Rueisuei</district>
+    <id>256112</id>
+  </point>
+  <point>
+    <name>Yuli</name>
+    <region>Hualien County</region>
+    <district>Yuli</district>
+    <id>256117</id>
+  </point>
+  <point>
+    <name>Fongbin</name>
+    <region>Hualien County</region>
+    <district>Fongbin</district>
+    <id>256105</id>
+  </point>
+  <point>
+    <name>Fonglin</name>
+    <region>Hualien County</region>
+    <district>Fonglin</district>
+    <id>256106</id>
+  </point>
+  <point>
+    <name>Fuli</name>
+    <region>Hualien County</region>
+    <district>Fuli</district>
+    <id>256107</id>
+  </point>
+  <point>
+    <name>Guangfu</name>
+    <region>Hualien County</region>
+    <district>Guangfu</district>
+    <id>256108</id>
+  </point>
+  <point>
+    <name>Jhuosi</name>
+    <region>Hualien County</region>
+    <district>Jhuosi</district>
+    <id>256109</id>
+  </point>
+  <point>
+    <name>Ji-an</name>
+    <region>Hualien County</region>
+    <district>Ji-an</district>
+    <id>256110</id>
+  </point>
+  <point>
+    <name>Shoufong</name>
+    <region>Hualien County</region>
+    <district>Shoufong</district>
+    <id>256113</id>
+  </point>
+  <point>
+    <name>Sincheng</name>
+    <region>Hualien County</region>
+    <district>Sincheng</district>
+    <id>256114</id>
+  </point>
+  <point>
+    <name>Sioulin</name>
+    <region>Hualien County</region>
+    <district>Sioulin</district>
+    <id>256115</id>
+  </point>
+  <point>
+    <name>Wanrong</name>
+    <region>Hualien County</region>
+    <district>Wanrong</district>
+    <id>256116</id>
+  </point>
+  <point>
+    <name>Kaohsiung</name>
+    <region>Kaohsiung City</region>
+    <district>Kaohsiung</district>
+    <id>12451</id>
+  </point>
+  <point>
+    <name>Kaohsiung (airport)</name>
+    <region>Kaohsiung City</region>
+    <district>Kaohsiung (airport)</district>
+    <id>12449</id>
+  </point>
+  <point>
+    <name>Nanzih</name>
+    <region>Kaohsiung City</region>
+    <district>Nanzih</district>
+    <id>256123</id>
+  </point>
+  <point>
+    <name>Sanmin</name>
+    <region>Kaohsiung City</region>
+    <district>Sanmin</district>
+    <id>256124</id>
+  </point>
+  <point>
+    <name>Cianjhen</name>
+    <region>Kaohsiung City</region>
+    <district>Cianjhen</district>
+    <id>256118</id>
+  </point>
+  <point>
+    <name>Cianjin</name>
+    <region>Kaohsiung City</region>
+    <district>Cianjin</district>
+    <id>256119</id>
+  </point>
+  <point>
+    <name>Cijin</name>
+    <region>Kaohsiung City</region>
+    <district>Cijin</district>
+    <id>256120</id>
+  </point>
+  <point>
+    <name>Gaoxiong</name>
+    <region>Kaohsiung City</region>
+    <district>Gaoxiong</district>
+    <id>11348</id>
+  </point>
+  <point>
+    <name>Gushan</name>
+    <region>Kaohsiung City</region>
+    <district>Gushan</district>
+    <id>256121</id>
+  </point>
+  <point>
+    <name>Lingya</name>
+    <region>Kaohsiung City</region>
+    <district>Lingya</district>
+    <id>310524</id>
+  </point>
+  <point>
+    <name>Siaogang</name>
+    <region>Kaohsiung City</region>
+    <district>Siaogang</district>
+    <id>256125</id>
+  </point>
+  <point>
+    <name>Sinsing</name>
+    <region>Kaohsiung City</region>
+    <district>Sinsing</district>
+    <id>256126</id>
+  </point>
+  <point>
+    <name>Yancheng</name>
+    <region>Kaohsiung City</region>
+    <district>Yancheng</district>
+    <id>256127</id>
+  </point>
+  <point>
+    <name>Zuoying</name>
+    <region>Kaohsiung City</region>
+    <district>Zuoying</district>
+    <id>256128</id>
+  </point>
+  <point>
+    <name>Alian</name>
+    <region>Kaohsiung County</region>
+    <district>Alian</district>
+    <id>256129</id>
+  </point>
+  <point>
+    <name>Chungli</name>
+    <region>Kaohsiung County</region>
+    <district>Chungli</district>
+    <id>151830</id>
+  </point>
+  <point>
+    <name>Ciaotou</name>
+    <region>Kaohsiung County</region>
+    <district>Ciaotou</district>
+    <id>256130</id>
+  </point>
+  <point>
+    <name>Cishan</name>
+    <region>Kaohsiung County</region>
+    <district>Cishan</district>
+    <id>256131</id>
+  </point>
+  <point>
+    <name>Daliao</name>
+    <region>Kaohsiung County</region>
+    <district>Daliao</district>
+    <id>256133</id>
+  </point>
+  <point>
+    <name>Dashe</name>
+    <region>Kaohsiung County</region>
+    <district>Dashe</district>
+    <id>256134</id>
+  </point>
+  <point>
+    <name>Dashu</name>
+    <region>Kaohsiung County</region>
+    <district>Dashu</district>
+    <id>256135</id>
+  </point>
+  <point>
+    <name>Fongshan</name>
+    <region>Kaohsiung County</region>
+    <district>Fongshan</district>
+    <id>180917</id>
+  </point>
+  <point>
+    <name>Gangshan</name>
+    <region>Kaohsiung County</region>
+    <district>Gangshan</district>
+    <id>12452</id>
+  </point>
+  <point>
+    <name>Hunei</name>
+    <region>Kaohsiung County</region>
+    <district>Hunei</district>
+    <id>256136</id>
+  </point>
+  <point>
+    <name>Jiading</name>
+    <region>Kaohsiung County</region>
+    <district>Jiading</district>
+    <id>256137</id>
+  </point>
+  <point>
+    <name>Jiasian</name>
+    <region>Kaohsiung County</region>
+    <district>Jiasian</district>
+    <id>256138</id>
+  </point>
+  <point>
+    <name>Linyuan</name>
+    <region>Kaohsiung County</region>
+    <district>Linyuan</district>
+    <id>256139</id>
+  </point>
+  <point>
+    <name>Liouguei</name>
+    <region>Kaohsiung County</region>
+    <district>Liouguei</district>
+    <id>256140</id>
+  </point>
+  <point>
+    <name>Lujhu</name>
+    <region>Kaohsiung County</region>
+    <district>Lujhu</district>
+    <id>212700</id>
+  </point>
+  <point>
+    <name>Maolin</name>
+    <region>Kaohsiung County</region>
+    <district>Maolin</district>
+    <id>212701</id>
+  </point>
+  <point>
+    <name>Meinong</name>
+    <region>Kaohsiung County</region>
+    <district>Meinong</district>
+    <id>212708</id>
+  </point>
+  <point>
+    <name>Mituo</name>
+    <region>Kaohsiung County</region>
+    <district>Mituo</district>
+    <id>212709</id>
+  </point>
+  <point>
+    <name>Namasia</name>
+    <region>Kaohsiung County</region>
+    <district>Namasia</district>
+    <id>212710</id>
+  </point>
+  <point>
+    <name>Neimen</name>
+    <region>Kaohsiung County</region>
+    <district>Neimen</district>
+    <id>212724</id>
+  </point>
+  <point>
+    <name>Niaosong</name>
+    <region>Kaohsiung County</region>
+    <district>Niaosong</district>
+    <id>212727</id>
+  </point>
+  <point>
+    <name>Renwu</name>
+    <region>Kaohsiung County</region>
+    <district>Renwu</district>
+    <id>212728</id>
+  </point>
+  <point>
+    <name>Shanlin</name>
+    <region>Kaohsiung County</region>
+    <district>Shanlin</district>
+    <id>212737</id>
+  </point>
+  <point>
+    <name>Taoyuan</name>
+    <region>Kaohsiung County</region>
+    <district>Taoyuan</district>
+    <id>212738</id>
+  </point>
+  <point>
+    <name>Tianliao</name>
+    <region>Kaohsiung County</region>
+    <district>Tianliao</district>
+    <id>212740</id>
+  </point>
+  <point>
+    <name>Yanchao</name>
+    <region>Kaohsiung County</region>
+    <district>Yanchao</district>
+    <id>212741</id>
+  </point>
+  <point>
+    <name>Yong-an</name>
+    <region>Kaohsiung County</region>
+    <district>Yong-an</district>
+    <id>212751</id>
+  </point>
+  <point>
+    <name>Zihguan</name>
+    <region>Kaohsiung County</region>
+    <district>Zihguan</district>
+    <id>212753</id>
+  </point>
+  <point>
+    <name>Keelung</name>
+    <region>Keelung City</region>
+    <district>Keelung</district>
+    <id>310523</id>
+  </point>
+  <point>
+    <name>Anle</name>
+    <region>Keelung City</region>
+    <district>Anle</district>
+    <id>212754</id>
+  </point>
+  <point>
+    <name>Cidu</name>
+    <region>Keelung City</region>
+    <district>Cidu</district>
+    <id>212755</id>
+  </point>
+  <point>
+    <name>Ren-ai</name>
+    <region>Keelung City</region>
+    <district>Ren-ai</district>
+    <id>212764</id>
+  </point>
+  <point>
+    <name>Jhongjheng</name>
+    <region>Keelung City</region>
+    <district>Jhongjheng</district>
+    <id>12439</id>
+  </point>
+  <point>
+    <name>Jhongshan</name>
+    <region>Keelung City</region>
+    <district>Jhongshan</district>
+    <id>212756</id>
+  </point>
+  <point>
+    <name>Nuannuan</name>
+    <region>Keelung City</region>
+    <district>Nuannuan</district>
+    <id>212757</id>
+  </point>
+  <point>
+    <name>Sinyi</name>
+    <region>Keelung City</region>
+    <district>Sinyi</district>
+    <id>212770</id>
+  </point>
+  <point>
+    <name>Kinmen</name>
+    <region>Kinmen County</region>
+    <district>Kinmen</district>
+    <id>12447</id>
+  </point>
+  <point>
+    <name>Jinsha</name>
+    <region>Kinmen County</region>
+    <district>Jinsha</district>
+    <id>212773</id>
+  </point>
+  <point>
+    <name>Lieyu</name>
+    <region>Kinmen County</region>
+    <district>Lieyu</district>
+    <id>212774</id>
+  </point>
+  <point>
+    <name>Wuciou</name>
+    <region>Kinmen County</region>
+    <district>Wuciou</district>
+    <id>212775</id>
+  </point>
+  <point>
+    <name>Jincheng</name>
+    <region>Kinmen County</region>
+    <district>Jincheng</district>
+    <id>310527</id>
+  </point>
+  <point>
+    <name>Jinhu</name>
+    <region>Kinmen County</region>
+    <district>Jinhu</district>
+    <id>212771</id>
+  </point>
+  <point>
+    <name>Jinning</name>
+    <region>Kinmen County</region>
+    <district>Jinning</district>
+    <id>212772</id>
+  </point>
+  <point>
+    <name>Beigan</name>
+    <region>Lienchiang County</region>
+    <district>Beigan</district>
+    <id>212781</id>
+  </point>
+  <point>
+    <name>Dongyin</name>
+    <region>Lienchiang County</region>
+    <district>Dongyin</district>
+    <id>212788</id>
+  </point>
+  <point>
+    <name>Jyuguang</name>
+    <region>Lienchiang County</region>
+    <district>Jyuguang</district>
+    <id>212789</id>
+  </point>
+  <point>
+    <name>Matsu</name>
+    <region>Lienchiang County</region>
+    <district>Matsu</district>
+    <id>12438</id>
+  </point>
+  <point>
+    <name>Miaoli</name>
+    <region>Miaoli County</region>
+    <district>Miaoli</district>
+    <id>180918</id>
+  </point>
+  <point>
+    <name>Dahu</name>
+    <region>Miaoli County</region>
+    <district>Dahu</district>
+    <id>212791</id>
+  </point>
+  <point>
+    <name>Jhuolan</name>
+    <region>Miaoli County</region>
+    <district>Jhuolan</district>
+    <id>212798</id>
+  </point>
+  <point>
+    <name>Sanyi</name>
+    <region>Miaoli County</region>
+    <district>Sanyi</district>
+    <id>212806</id>
+  </point>
+  <point>
+    <name>Gongguan</name>
+    <region>Miaoli County</region>
+    <district>Gongguan</district>
+    <id>212792</id>
+  </point>
+  <point>
+    <name>Houlong</name>
+    <region>Miaoli County</region>
+    <district>Houlong</district>
+    <id>212793</id>
+  </point>
+  <point>
+    <name>Jhunan</name>
+    <region>Miaoli County</region>
+    <district>Jhunan</district>
+    <id>212797</id>
+  </point>
+  <point>
+    <name>Nanjhuang</name>
+    <region>Miaoli County</region>
+    <district>Nanjhuang</district>
+    <id>212799</id>
+  </point>
+  <point>
+    <name>Sanwan</name>
+    <region>Miaoli County</region>
+    <district>Sanwan</district>
+    <id>212805</id>
+  </point>
+  <point>
+    <name>Shihtan</name>
+    <region>Miaoli County</region>
+    <district>Shihtan</district>
+    <id>212816</id>
+  </point>
+  <point>
+    <name>Sihu</name>
+    <region>Miaoli County</region>
+    <district>Sihu</district>
+    <id>212817</id>
+  </point>
+  <point>
+    <name>Tai-an</name>
+    <region>Miaoli County</region>
+    <district>Tai-an</district>
+    <id>212818</id>
+  </point>
+  <point>
+    <name>Tongluo</name>
+    <region>Miaoli County</region>
+    <district>Tongluo</district>
+    <id>212821</id>
+  </point>
+  <point>
+    <name>Tongsiao</name>
+    <region>Miaoli County</region>
+    <district>Tongsiao</district>
+    <id>212823</id>
+  </point>
+  <point>
+    <name>Toufen</name>
+    <region>Miaoli County</region>
+    <district>Toufen</district>
+    <id>212824</id>
+  </point>
+  <point>
+    <name>Touwu</name>
+    <region>Miaoli County</region>
+    <district>Touwu</district>
+    <id>212825</id>
+  </point>
+  <point>
+    <name>Yuanli</name>
+    <region>Miaoli County</region>
+    <district>Yuanli</district>
+    <id>212826</id>
+  </point>
+  <point>
+    <name>Zaociao</name>
+    <region>Miaoli County</region>
+    <district>Zaociao</district>
+    <id>212827</id>
+  </point>
+  <point>
+    <name>Nantou</name>
+    <region>Nantou County</region>
+    <district>Nantou</district>
+    <id>151831</id>
+  </point>
+  <point>
+    <name>Caotun</name>
+    <region>Nantou County</region>
+    <district>Caotun</district>
+    <id>212863</id>
+  </point>
+  <point>
+    <name>Puli</name>
+    <region>Nantou County</region>
+    <district>Puli</district>
+    <id>212889</id>
+  </point>
+  <point>
+    <name>Ren-ai</name>
+    <region>Nantou County</region>
+    <district>Ren-ai</district>
+    <id>212912</id>
+  </point>
+  <point>
+    <name>Guosing</name>
+    <region>Nantou County</region>
+    <district>Guosing</district>
+    <id>212864</id>
+  </point>
+  <point>
+    <name>Jhongliao</name>
+    <region>Nantou County</region>
+    <district>Jhongliao</district>
+    <id>212873</id>
+  </point>
+  <point>
+    <name>Jhushan</name>
+    <region>Nantou County</region>
+    <district>Jhushan</district>
+    <id>212874</id>
+  </point>
+  <point>
+    <name>Jiji</name>
+    <region>Nantou County</region>
+    <district>Jiji</district>
+    <id>212882</id>
+  </point>
+  <point>
+    <name>Lugu</name>
+    <region>Nantou County</region>
+    <district>Lugu</district>
+    <id>212883</id>
+  </point>
+  <point>
+    <name>Mingjian</name>
+    <region>Nantou County</region>
+    <district>Mingjian</district>
+    <id>212884</id>
+  </point>
+  <point>
+    <name>Shueili</name>
+    <region>Nantou County</region>
+    <district>Shueili</district>
+    <id>212919</id>
+  </point>
+  <point>
+    <name>Sinyi</name>
+    <region>Nantou County</region>
+    <district>Sinyi</district>
+    <id>212926</id>
+  </point>
+  <point>
+    <name>Yuchih</name>
+    <region>Nantou County</region>
+    <district>Yuchih</district>
+    <id>212927</id>
+  </point>
+  <point>
+    <name>Baisha</name>
+    <region>Penghu County</region>
+    <district>Baisha</district>
+    <id>212928</id>
+  </point>
+  <point>
+    <name>Cimei</name>
+    <region>Penghu County</region>
+    <district>Cimei</district>
+    <id>212945</id>
+  </point>
+  <point>
+    <name>Husi</name>
+    <region>Penghu County</region>
+    <district>Husi</district>
+    <id>212948</id>
+  </point>
+  <point>
+    <name>Magong</name>
+    <region>Penghu County</region>
+    <district>Magong</district>
+    <id>180920</id>
+  </point>
+  <point>
+    <name>Makung</name>
+    <region>Penghu County</region>
+    <district>Makung</district>
+    <id>12445</id>
+  </point>
+  <point>
+    <name>Penghu</name>
+    <region>Penghu County</region>
+    <district>Penghu</district>
+    <id>12446</id>
+  </point>
+  <point>
+    <name>Siyu</name>
+    <region>Penghu County</region>
+    <district>Siyu</district>
+    <id>212949</id>
+  </point>
+  <point>
+    <name>Wang-an</name>
+    <region>Penghu County</region>
+    <district>Wang-an</district>
+    <id>212960</id>
+  </point>
+  <point>
+    <name>Pingtung</name>
+    <region>Pingtung County</region>
+    <district>Pingtung</district>
+    <id>12456</id>
+  </point>
+  <point>
+    <name>Donggang</name>
+    <region>Pingtung County</region>
+    <district>Donggang</district>
+    <id>12454</id>
+  </point>
+  <point>
+    <name>Hengchun (weather station 59559)</name>
+    <region>Pingtung County</region>
+    <district>Hengchun (weather station 59559)</district>
+    <id>11349</id>
+  </point>
+  <point>
+    <name>Jiadong</name>
+    <region>Pingtung County</region>
+    <district>Jiadong</district>
+    <id>12473</id>
+  </point>
+  <point>
+    <name>Changjhih</name>
+    <region>Pingtung County</region>
+    <district>Changjhih</district>
+    <id>212962</id>
+  </point>
+  <point>
+    <name>Chaojhou</name>
+    <region>Pingtung County</region>
+    <district>Chaojhou</district>
+    <id>212963</id>
+  </point>
+  <point>
+    <name>Checheng</name>
+    <region>Pingtung County</region>
+    <district>Checheng</district>
+    <id>212968</id>
+  </point>
+  <point>
+    <name>Chunrih</name>
+    <region>Pingtung County</region>
+    <district>Chunrih</district>
+    <id>212969</id>
+  </point>
+  <point>
+    <name>Fangliao</name>
+    <region>Pingtung County</region>
+    <district>Fangliao</district>
+    <id>212997</id>
+  </point>
+  <point>
+    <name>Fangshan</name>
+    <region>Pingtung County</region>
+    <district>Fangshan</district>
+    <id>212998</id>
+  </point>
+  <point>
+    <name>Gaoshu</name>
+    <region>Pingtung County</region>
+    <district>Gaoshu</district>
+    <id>212999</id>
+  </point>
+  <point>
+    <name>Hengchun</name>
+    <region>Pingtung County</region>
+    <district>Hengchun</district>
+    <id>12458</id>
+  </point>
+  <point>
+    <name>Jhutian</name>
+    <region>Pingtung County</region>
+    <district>Jhutian</district>
+    <id>213000</id>
+  </point>
+  <point>
+    <name>Jiouru</name>
+    <region>Pingtung County</region>
+    <district>Jiouru</district>
+    <id>213010</id>
+  </point>
+  <point>
+    <name>Kanding</name>
+    <region>Pingtung County</region>
+    <district>Kanding</district>
+    <id>213023</id>
+  </point>
+  <point>
+    <name>Laiyi</name>
+    <region>Pingtung County</region>
+    <district>Laiyi</district>
+    <id>213024</id>
+  </point>
+  <point>
+    <name>Ligang</name>
+    <region>Pingtung County</region>
+    <district>Ligang</district>
+    <id>213025</id>
+  </point>
+  <point>
+    <name>Linbian</name>
+    <region>Pingtung County</region>
+    <district>Linbian</district>
+    <id>213026</id>
+  </point>
+  <point>
+    <name>Linluo</name>
+    <region>Pingtung County</region>
+    <district>Linluo</district>
+    <id>213035</id>
+  </point>
+  <point>
+    <name>Liouciou</name>
+    <region>Pingtung County</region>
+    <district>Liouciou</district>
+    <id>213050</id>
+  </point>
+  <point>
+    <name>Majia</name>
+    <region>Pingtung County</region>
+    <district>Majia</district>
+    <id>213060</id>
+  </point>
+  <point>
+    <name>Manjhou</name>
+    <region>Pingtung County</region>
+    <district>Manjhou</district>
+    <id>213061</id>
+  </point>
+  <point>
+    <name>Mudan</name>
+    <region>Pingtung County</region>
+    <district>Mudan</district>
+    <id>213073</id>
+  </point>
+  <point>
+    <name>Nanjhou</name>
+    <region>Pingtung County</region>
+    <district>Nanjhou</district>
+    <id>213074</id>
+  </point>
+  <point>
+    <name>Neipu</name>
+    <region>Pingtung County</region>
+    <district>Neipu</district>
+    <id>213075</id>
+  </point>
+  <point>
+    <name>Pingtung North</name>
+    <region>Pingtung County</region>
+    <district>Pingtung North</district>
+    <id>12464</id>
+  </point>
+  <point>
+    <name>Sandimen</name>
+    <region>Pingtung County</region>
+    <district>Sandimen</district>
+    <id>213076</id>
+  </point>
+  <point>
+    <name>Shihzih</name>
+    <region>Pingtung County</region>
+    <district>Shihzih</district>
+    <id>213082</id>
+  </point>
+  <point>
+    <name>Sinpi</name>
+    <region>Pingtung County</region>
+    <district>Sinpi</district>
+    <id>213083</id>
+  </point>
+  <point>
+    <name>Sinyuan</name>
+    <region>Pingtung County</region>
+    <district>Sinyuan</district>
+    <id>213084</id>
+  </point>
+  <point>
+    <name>Taiwu</name>
+    <region>Pingtung County</region>
+    <district>Taiwu</district>
+    <id>213085</id>
+  </point>
+  <point>
+    <name>Wandan</name>
+    <region>Pingtung County</region>
+    <district>Wandan</district>
+    <id>213086</id>
+  </point>
+  <point>
+    <name>Wanluan</name>
+    <region>Pingtung County</region>
+    <district>Wanluan</district>
+    <id>213094</id>
+  </point>
+  <point>
+    <name>Wutai</name>
+    <region>Pingtung County</region>
+    <district>Wutai</district>
+    <id>213095</id>
+  </point>
+  <point>
+    <name>Yanpu</name>
+    <region>Pingtung County</region>
+    <district>Yanpu</district>
+    <id>213105</id>
+  </point>
+  <point>
+    <name>Pratas</name>
+    <region>Pratas islands</region>
+    <district>Pratas</district>
+    <id>12476</id>
+  </point>
+  <point>
+    <name>Dongsha Islands</name>
+    <region>South China Sea Islands</region>
+    <district>Dongsha Islands</district>
+    <id>212828</id>
+  </point>
+  <point>
+    <name>Spratly Islands</name>
+    <region>South China Sea Islands</region>
+    <district>Spratly Islands</district>
+    <id>256016</id>
+  </point>
+  <point>
+    <name>Taichung</name>
+    <region>Taichung City</region>
+    <district>Taichung</district>
+    <id>12457</id>
+  </point>
+  <point>
+    <name>Nantun</name>
+    <region>Taichung City</region>
+    <district>Nantun</district>
+    <id>213114</id>
+  </point>
+  <point>
+    <name>Situn</name>
+    <region>Taichung City</region>
+    <district>Situn</district>
+    <id>213120</id>
+  </point>
+  <point>
+    <name>Taichung North</name>
+    <region>Taichung City</region>
+    <district>Taichung North</district>
+    <id>213119</id>
+  </point>
+  <point>
+    <name>Beitun</name>
+    <region>Taichung City</region>
+    <district>Beitun</district>
+    <id>213106</id>
+  </point>
+  <point>
+    <name>Taichung Central</name>
+    <region>Taichung City</region>
+    <district>Taichung Central</district>
+    <id>213107</id>
+  </point>
+  <point>
+    <name>Taichung East</name>
+    <region>Taichung City</region>
+    <district>Taichung East</district>
+    <id>213113</id>
+  </point>
+  <point>
+    <name>Taichung South</name>
+    <region>Taichung City</region>
+    <district>Taichung South</district>
+    <id>213127</id>
+  </point>
+  <point>
+    <name>Cingshuei</name>
+    <region>Taichung County</region>
+    <district>Cingshuei</district>
+    <id>213129</id>
+  </point>
+  <point>
+    <name>Da-an</name>
+    <region>Taichung County</region>
+    <district>Da-an</district>
+    <id>213130</id>
+  </point>
+  <point>
+    <name>Dadu</name>
+    <region>Taichung County</region>
+    <district>Dadu</district>
+    <id>213131</id>
+  </point>
+  <point>
+    <name>Dajia</name>
+    <region>Taichung County</region>
+    <district>Dajia</district>
+    <id>213132</id>
+  </point>
+  <point>
+    <name>Dali</name>
+    <region>Taichung County</region>
+    <district>Dali</district>
+    <id>213135</id>
+  </point>
+  <point>
+    <name>Daya</name>
+    <region>Taichung County</region>
+    <district>Daya</district>
+    <id>213146</id>
+  </point>
+  <point>
+    <name>Dongshih</name>
+    <region>Taichung County</region>
+    <district>Dongshih</district>
+    <id>213147</id>
+  </point>
+  <point>
+    <name>Fongyuan</name>
+    <region>Taichung County</region>
+    <district>Fongyuan</district>
+    <id>180926</id>
+  </point>
+  <point>
+    <name>Heping</name>
+    <region>Taichung County</region>
+    <district>Heping</district>
+    <id>213148</id>
+  </point>
+  <point>
+    <name>Houli</name>
+    <region>Taichung County</region>
+    <district>Houli</district>
+    <id>213157</id>
+  </point>
+  <point>
+    <name>Longjing</name>
+    <region>Taichung County</region>
+    <district>Longjing</district>
+    <id>213158</id>
+  </point>
+  <point>
+    <name>Shalu</name>
+    <region>Taichung County</region>
+    <district>Shalu</district>
+    <id>213159</id>
+  </point>
+  <point>
+    <name>Shengang</name>
+    <region>Taichung County</region>
+    <district>Shengang</district>
+    <id>213160</id>
+  </point>
+  <point>
+    <name>Shihgang</name>
+    <region>Taichung County</region>
+    <district>Shihgang</district>
+    <id>213161</id>
+  </point>
+  <point>
+    <name>Sinshe</name>
+    <region>Taichung County</region>
+    <district>Sinshe</district>
+    <id>213162</id>
+  </point>
+  <point>
+    <name>Taichung (airport)</name>
+    <region>Taichung County</region>
+    <district>Taichung (airport)</district>
+    <id>12472</id>
+  </point>
+  <point>
+    <name>Taiping</name>
+    <region>Taichung County</region>
+    <district>Taiping</district>
+    <id>213163</id>
+  </point>
+  <point>
+    <name>Tanzih</name>
+    <region>Taichung County</region>
+    <district>Tanzih</district>
+    <id>213176</id>
+  </point>
+  <point>
+    <name>Waipu</name>
+    <region>Taichung County</region>
+    <district>Waipu</district>
+    <id>213177</id>
+  </point>
+  <point>
+    <name>Wuci</name>
+    <region>Taichung County</region>
+    <district>Wuci</district>
+    <id>12474</id>
+  </point>
+  <point>
+    <name>Wufong</name>
+    <region>Taichung County</region>
+    <district>Wufong</district>
+    <id>213179</id>
+  </point>
+  <point>
+    <name>Wurih</name>
+    <region>Taichung County</region>
+    <district>Wurih</district>
+    <id>213191</id>
+  </point>
+  <point>
+    <name>Tainan (airport)</name>
+    <region>Tainan City</region>
+    <district>Tainan (airport)</district>
+    <id>12450</id>
+  </point>
+  <point>
+    <name>Tainan</name>
+    <region>Tainan City</region>
+    <district>Tainan</district>
+    <id>11336</id>
+  </point>
+  <point>
+    <name>Tainan East</name>
+    <region>Tainan City</region>
+    <district>Tainan East</district>
+    <id>213204</id>
+  </point>
+  <point>
+    <name>Tainan West Central</name>
+    <region>Tainan City</region>
+    <district>Tainan West Central</district>
+    <id>213221</id>
+  </point>
+  <point>
+    <name>Annan</name>
+    <region>Tainan City</region>
+    <district>Annan</district>
+    <id>213192</id>
+  </point>
+  <point>
+    <name>Anping</name>
+    <region>Tainan City</region>
+    <district>Anping</district>
+    <id>310525</id>
+  </point>
+  <point>
+    <name>Tainan North</name>
+    <region>Tainan City</region>
+    <district>Tainan North</district>
+    <id>213209</id>
+  </point>
+  <point>
+    <name>Tainan South</name>
+    <region>Tainan City</region>
+    <district>Tainan South</district>
+    <id>213210</id>
+  </point>
+  <point>
+    <name>Anding</name>
+    <region>Tainan County</region>
+    <district>Anding</district>
+    <id>213223</id>
+  </point>
+  <point>
+    <name>Baihe</name>
+    <region>Tainan County</region>
+    <district>Baihe</district>
+    <id>213233</id>
+  </point>
+  <point>
+    <name>Beimen</name>
+    <region>Tainan County</region>
+    <district>Beimen</district>
+    <id>213235</id>
+  </point>
+  <point>
+    <name>Cigu</name>
+    <region>Tainan County</region>
+    <district>Cigu</district>
+    <id>213244</id>
+  </point>
+  <point>
+    <name>Danei</name>
+    <region>Tainan County</region>
+    <district>Danei</district>
+    <id>213251</id>
+  </point>
+  <point>
+    <name>Dongshan</name>
+    <region>Tainan County</region>
+    <district>Dongshan</district>
+    <id>213254</id>
+  </point>
+  <point>
+    <name>Guanmiao</name>
+    <region>Tainan County</region>
+    <district>Guanmiao</district>
+    <id>213258</id>
+  </point>
+  <point>
+    <name>Guantian</name>
+    <region>Tainan County</region>
+    <district>Guantian</district>
+    <id>213259</id>
+  </point>
+  <point>
+    <name>Gueiren</name>
+    <region>Tainan County</region>
+    <district>Gueiren</district>
+    <id>213265</id>
+  </point>
+  <point>
+    <name>Houbi</name>
+    <region>Tainan County</region>
+    <district>Houbi</district>
+    <id>213266</id>
+  </point>
+  <point>
+    <name>Jiali</name>
+    <region>Tainan County</region>
+    <district>Jiali</district>
+    <id>213267</id>
+  </point>
+  <point>
+    <name>Jiangjyun</name>
+    <region>Tainan County</region>
+    <district>Jiangjyun</district>
+    <id>213268</id>
+  </point>
+  <point>
+    <name>Lioujia</name>
+    <region>Tainan County</region>
+    <district>Lioujia</district>
+    <id>213270</id>
+  </point>
+  <point>
+    <name>Liouying</name>
+    <region>Tainan County</region>
+    <district>Liouying</district>
+    <id>213271</id>
+  </point>
+  <point>
+    <name>Longci</name>
+    <region>Tainan County</region>
+    <district>Longci</district>
+    <id>213272</id>
+  </point>
+  <point>
+    <name>Madou</name>
+    <region>Tainan County</region>
+    <district>Madou</district>
+    <id>213273</id>
+  </point>
+  <point>
+    <name>Nanhua</name>
+    <region>Tainan County</region>
+    <district>Nanhua</district>
+    <id>213283</id>
+  </point>
+  <point>
+    <name>Nansi</name>
+    <region>Tainan County</region>
+    <district>Nansi</district>
+    <id>213284</id>
+  </point>
+  <point>
+    <name>Rende</name>
+    <region>Tainan County</region>
+    <district>Rende</district>
+    <id>213285</id>
+  </point>
+  <point>
+    <name>Shanhua</name>
+    <region>Tainan County</region>
+    <district>Shanhua</district>
+    <id>213286</id>
+  </point>
+  <point>
+    <name>Shanshang</name>
+    <region>Tainan County</region>
+    <district>Shanshang</district>
+    <id>213287</id>
+  </point>
+  <point>
+    <name>Siaying</name>
+    <region>Tainan County</region>
+    <district>Siaying</district>
+    <id>213288</id>
+  </point>
+  <point>
+    <name>Sigang</name>
+    <region>Tainan County</region>
+    <district>Sigang</district>
+    <id>213297</id>
+  </point>
+  <point>
+    <name>Sinhua</name>
+    <region>Tainan County</region>
+    <district>Sinhua</district>
+    <id>213306</id>
+  </point>
+  <point>
+    <name>Sinshih</name>
+    <region>Tainan County</region>
+    <district>Sinshih</district>
+    <id>213307</id>
+  </point>
+  <point>
+    <name>Sinying</name>
+    <region>Tainan County</region>
+    <district>Sinying</district>
+    <id>180925</id>
+  </point>
+  <point>
+    <name>Syuejia</name>
+    <region>Tainan County</region>
+    <district>Syuejia</district>
+    <id>213308</id>
+  </point>
+  <point>
+    <name>Yanshuei</name>
+    <region>Tainan County</region>
+    <district>Yanshuei</district>
+    <id>213312</id>
+  </point>
+  <point>
+    <name>Yongkang</name>
+    <region>Tainan County</region>
+    <district>Yongkang</district>
+    <id>213313</id>
+  </point>
+  <point>
+    <name>Yujing</name>
+    <region>Tainan County</region>
+    <district>Yujing</district>
+    <id>213314</id>
+  </point>
+  <point>
+    <name>Zuojhen</name>
+    <region>Tainan County</region>
+    <district>Zuojhen</district>
+    <id>213316</id>
+  </point>
+  <point>
+    <name>Taipei</name>
+    <region>Taipei City</region>
+    <district>Taipei</district>
+    <id>11297</id>
+  </point>
+  <point>
+    <name>Banciao</name>
+    <region>Taipei City</region>
+    <district>Banciao</district>
+    <id>180922</id>
+  </point>
+  <point>
+    <name>Beitou</name>
+    <region>Taipei City</region>
+    <district>Beitou</district>
+    <id>213317</id>
+  </point>
+  <point>
+    <name>Songshan (airport)</name>
+    <region>Taipei City</region>
+    <district>Songshan (airport)</district>
+    <id>12440</id>
+  </point>
+  <point>
+    <name>Da-an</name>
+    <region>Taipei City</region>
+    <district>Da-an</district>
+    <id>213318</id>
+  </point>
+  <point>
+    <name>Datong</name>
+    <region>Taipei City</region>
+    <district>Datong</district>
+    <id>213321</id>
+  </point>
+  <point>
+    <name>Jhongjheng</name>
+    <region>Taipei City</region>
+    <district>Jhongjheng</district>
+    <id>213322</id>
+  </point>
+  <point>
+    <name>Jhongshan</name>
+    <region>Taipei City</region>
+    <district>Jhongshan</district>
+    <id>213323</id>
+  </point>
+  <point>
+    <name>Nangang</name>
+    <region>Taipei City</region>
+    <district>Nangang</district>
+    <id>213332</id>
+  </point>
+  <point>
+    <name>Neihu</name>
+    <region>Taipei City</region>
+    <district>Neihu</district>
+    <id>213334</id>
+  </point>
+  <point>
+    <name>Shihlin</name>
+    <region>Taipei City</region>
+    <district>Shihlin</district>
+    <id>213335</id>
+  </point>
+  <point>
+    <name>Sinyi</name>
+    <region>Taipei City</region>
+    <district>Sinyi</district>
+    <id>310526</id>
+  </point>
+  <point>
+    <name>Wanhua</name>
+    <region>Taipei City</region>
+    <district>Wanhua</district>
+    <id>213336</id>
+  </point>
+  <point>
+    <name>Wunshan</name>
+    <region>Taipei City</region>
+    <district>Wunshan</district>
+    <id>213338</id>
+  </point>
+  <point>
+    <name>Bali</name>
+    <region>Taipei County</region>
+    <district>Bali</district>
+    <id>256141</id>
+  </point>
+  <point>
+    <name>Gongliao</name>
+    <region>Taipei County</region>
+    <district>Gongliao</district>
+    <id>256144</id>
+  </point>
+  <point>
+    <name>Pinglin</name>
+    <region>Taipei County</region>
+    <district>Pinglin</district>
+    <id>256149</id>
+  </point>
+  <point>
+    <name>Danshuei</name>
+    <region>Taipei County</region>
+    <district>Danshuei</district>
+    <id>256143</id>
+  </point>
+  <point>
+    <name>Jhonghe</name>
+    <region>Taipei County</region>
+    <district>Jhonghe</district>
+    <id>256145</id>
+  </point>
+  <point>
+    <name>Jinshan</name>
+    <region>Taipei County</region>
+    <district>Jinshan</district>
+    <id>256146</id>
+  </point>
+  <point>
+    <name>Linkou</name>
+    <region>Taipei County</region>
+    <district>Linkou</district>
+    <id>256147</id>
+  </point>
+  <point>
+    <name>Lujhou</name>
+    <region>Taipei County</region>
+    <district>Lujhou</district>
+    <id>256148</id>
+  </point>
+  <point>
+    <name>Pingsi</name>
+    <region>Taipei County</region>
+    <district>Pingsi</district>
+    <id>256150</id>
+  </point>
+  <point>
+    <name>Rueifang</name>
+    <region>Taipei County</region>
+    <district>Rueifang</district>
+    <id>256151</id>
+  </point>
+  <point>
+    <name>Sanchong</name>
+    <region>Taipei County</region>
+    <district>Sanchong</district>
+    <id>256152</id>
+  </point>
+  <point>
+    <name>Sanjhih</name>
+    <region>Taipei County</region>
+    <district>Sanjhih</district>
+    <id>256153</id>
+  </point>
+  <point>
+    <name>Sansia</name>
+    <region>Taipei County</region>
+    <district>Sansia</district>
+    <id>256154</id>
+  </point>
+  <point>
+    <name>Shenkeng</name>
+    <region>Taipei County</region>
+    <district>Shenkeng</district>
+    <id>256155</id>
+  </point>
+  <point>
+    <name>Shihding</name>
+    <region>Taipei County</region>
+    <district>Shihding</district>
+    <id>256156</id>
+  </point>
+  <point>
+    <name>Shihmen</name>
+    <region>Taipei County</region>
+    <district>Shihmen</district>
+    <id>256157</id>
+  </point>
+  <point>
+    <name>Shuangsi</name>
+    <region>Taipei County</region>
+    <district>Shuangsi</district>
+    <id>256158</id>
+  </point>
+  <point>
+    <name>Shulin</name>
+    <region>Taipei County</region>
+    <district>Shulin</district>
+    <id>256159</id>
+  </point>
+  <point>
+    <name>Sijhih</name>
+    <region>Taipei County</region>
+    <district>Sijhih</district>
+    <id>256160</id>
+  </point>
+  <point>
+    <name>Sindian</name>
+    <region>Taipei County</region>
+    <district>Sindian</district>
+    <id>256161</id>
+  </point>
+  <point>
+    <name>Sinjhuang</name>
+    <region>Taipei County</region>
+    <district>Sinjhuang</district>
+    <id>256162</id>
+  </point>
+  <point>
+    <name>Taishan</name>
+    <region>Taipei County</region>
+    <district>Taishan</district>
+    <id>256163</id>
+  </point>
+  <point>
+    <name>Tucheng</name>
+    <region>Taipei County</region>
+    <district>Tucheng</district>
+    <id>256164</id>
+  </point>
+  <point>
+    <name>Wanli</name>
+    <region>Taipei County</region>
+    <district>Wanli</district>
+    <id>256165</id>
+  </point>
+  <point>
+    <name>Wugu</name>
+    <region>Taipei County</region>
+    <district>Wugu</district>
+    <id>256166</id>
+  </point>
+  <point>
+    <name>Wulai</name>
+    <region>Taipei County</region>
+    <district>Wulai</district>
+    <id>256167</id>
+  </point>
+  <point>
+    <name>Yingge</name>
+    <region>Taipei County</region>
+    <district>Yingge</district>
+    <id>256168</id>
+  </point>
+  <point>
+    <name>Yonghe</name>
+    <region>Taipei County</region>
+    <district>Yonghe</district>
+    <id>256169</id>
+  </point>
+  <point>
+    <name>Taitung</name>
+    <region>Taitung County</region>
+    <district>Taitung</district>
+    <id>11350</id>
+  </point>
+  <point>
+    <name>Chenggong</name>
+    <region>Taitung County</region>
+    <district>Chenggong</district>
+    <id>12466</id>
+  </point>
+  <point>
+    <name>Dawu</name>
+    <region>Taitung County</region>
+    <district>Dawu</district>
+    <id>12460</id>
+  </point>
+  <point>
+    <name>Lanyu</name>
+    <region>Taitung County</region>
+    <district>Lanyu</district>
+    <id>12467</id>
+  </point>
+  <point>
+    <name>Beinan</name>
+    <region>Taitung County</region>
+    <district>Beinan</district>
+    <id>256020</id>
+  </point>
+  <point>
+    <name>Changbin</name>
+    <region>Taitung County</region>
+    <district>Changbin</district>
+    <id>256021</id>
+  </point>
+  <point>
+    <name>Chihhang</name>
+    <region>Taitung County</region>
+    <district>Chihhang</district>
+    <id>12465</id>
+  </point>
+  <point>
+    <name>Chihshang</name>
+    <region>Taitung County</region>
+    <district>Chihshang</district>
+    <id>256022</id>
+  </point>
+  <point>
+    <name>Daren</name>
+    <region>Taitung County</region>
+    <district>Daren</district>
+    <id>256023</id>
+  </point>
+  <point>
+    <name>Donghe</name>
+    <region>Taitung County</region>
+    <district>Donghe</district>
+    <id>256024</id>
+  </point>
+  <point>
+    <name>Guanshan</name>
+    <region>Taitung County</region>
+    <district>Guanshan</district>
+    <id>256025</id>
+  </point>
+  <point>
+    <name>Haiduan</name>
+    <region>Taitung County</region>
+    <district>Haiduan</district>
+    <id>256026</id>
+  </point>
+  <point>
+    <name>Jinfong</name>
+    <region>Taitung County</region>
+    <district>Jinfong</district>
+    <id>256027</id>
+  </point>
+  <point>
+    <name>Luye</name>
+    <region>Taitung County</region>
+    <district>Luye</district>
+    <id>256029</id>
+  </point>
+  <point>
+    <name>Lyudao</name>
+    <region>Taitung County</region>
+    <district>Lyudao</district>
+    <id>256030</id>
+  </point>
+  <point>
+    <name>Taimali</name>
+    <region>Taitung County</region>
+    <district>Taimali</district>
+    <id>256031</id>
+  </point>
+  <point>
+    <name>Xingang</name>
+    <region>Taitung County</region>
+    <district>Xingang</district>
+    <id>11338</id>
+  </point>
+  <point>
+    <name>Yanping</name>
+    <region>Taitung County</region>
+    <district>Yanping</district>
+    <id>256032</id>
+  </point>
+  <point>
+    <name>Taoyuan</name>
+    <region>Taoyuan County</region>
+    <district>Taoyuan</district>
+    <id>180924</id>
+  </point>
+  <point>
+    <name>Gueishan</name>
+    <region>Taoyuan County</region>
+    <district>Gueishan</district>
+    <id>256039</id>
+  </point>
+  <point>
+    <name>Longtan</name>
+    <region>Taoyuan County</region>
+    <district>Longtan</district>
+    <id>256041</id>
+  </point>
+  <point>
+    <name>Taiwan Taoyuan (airport)</name>
+    <region>Taoyuan County</region>
+    <district>Taiwan Taoyuan (airport)</district>
+    <id>12437</id>
+  </point>
+  <point>
+    <name>Bade</name>
+    <region>Taoyuan County</region>
+    <district>Bade</district>
+    <id>256033</id>
+  </point>
+  <point>
+    <name>Dasi</name>
+    <region>Taoyuan County</region>
+    <district>Dasi</district>
+    <id>256034</id>
+  </point>
+  <point>
+    <name>Dayuan</name>
+    <region>Taoyuan County</region>
+    <district>Dayuan</district>
+    <id>256035</id>
+  </point>
+  <point>
+    <name>Fusing</name>
+    <region>Taoyuan County</region>
+    <district>Fusing</district>
+    <id>256036</id>
+  </point>
+  <point>
+    <name>Guanyin</name>
+    <region>Taoyuan County</region>
+    <district>Guanyin</district>
+    <id>256038</id>
+  </point>
+  <point>
+    <name>Jhongli</name>
+    <region>Taoyuan County</region>
+    <district>Jhongli</district>
+    <id>256040</id>
+  </point>
+  <point>
+    <name>Lujhu</name>
+    <region>Taoyuan County</region>
+    <district>Lujhu</district>
+    <id>256042</id>
+  </point>
+  <point>
+    <name>Pingjhen</name>
+    <region>Taoyuan County</region>
+    <district>Pingjhen</district>
+    <id>256043</id>
+  </point>
+  <point>
+    <name>Sinwu</name>
+    <region>Taoyuan County</region>
+    <district>Sinwu</district>
+    <id>256044</id>
+  </point>
+  <point>
+    <name>Yangmei</name>
+    <region>Taoyuan County</region>
+    <district>Yangmei</district>
+    <id>256045</id>
+  </point>
+  <point>
+    <name>Yilan</name>
+    <region>Yilan County</region>
+    <district>Yilan</district>
+    <id>12443</id>
+  </point>
+  <point>
+    <name>Luodong</name>
+    <region>Yilan County</region>
+    <district>Luodong</district>
+    <id>256052</id>
+  </point>
+  <point>
+    <name>Nan-ao</name>
+    <region>Yilan County</region>
+    <district>Nan-ao</district>
+    <id>256053</id>
+  </point>
+  <point>
+    <name>Su-ao</name>
+    <region>Yilan County</region>
+    <district>Su-ao</district>
+    <id>12442</id>
+  </point>
+  <point>
+    <name>Datong</name>
+    <region>Yilan County</region>
+    <district>Datong</district>
+    <id>256046</id>
+  </point>
+  <point>
+    <name>Diaoyutai</name>
+    <region>Yilan County</region>
+    <district>Diaoyutai</district>
+    <id>256048</id>
+  </point>
+  <point>
+    <name>Dongshan</name>
+    <region>Yilan County</region>
+    <district>Dongshan</district>
+    <id>256049</id>
+  </point>
+  <point>
+    <name>Jhuangwei</name>
+    <region>Yilan County</region>
+    <district>Jhuangwei</district>
+    <id>256050</id>
+  </point>
+  <point>
+    <name>Jiaosi</name>
+    <region>Yilan County</region>
+    <district>Jiaosi</district>
+    <id>256051</id>
+  </point>
+  <point>
+    <name>Sansing</name>
+    <region>Yilan County</region>
+    <district>Sansing</district>
+    <id>256054</id>
+  </point>
+  <point>
+    <name>Toucheng</name>
+    <region>Yilan County</region>
+    <district>Toucheng</district>
+    <id>256055</id>
+  </point>
+  <point>
+    <name>Wujie</name>
+    <region>Yilan County</region>
+    <district>Wujie</district>
+    <id>256056</id>
+  </point>
+  <point>
+    <name>Yilan (weather station 59162)</name>
+    <region>Yilan County</region>
+    <district>Yilan (weather station 59162)</district>
+    <id>11316</id>
+  </point>
+  <point>
+    <name>Yuanshan</name>
+    <region>Yilan County</region>
+    <district>Yuanshan</district>
+    <id>256058</id>
+  </point>
+  <point>
+    <name>Baojhong</name>
+    <region>Yunlin County</region>
+    <district>Baojhong</district>
+    <id>256059</id>
+  </point>
+  <point>
+    <name>Beigang</name>
+    <region>Yunlin County</region>
+    <district>Beigang</district>
+    <id>256060</id>
+  </point>
+  <point>
+    <name>Cihtong</name>
+    <region>Yunlin County</region>
+    <district>Cihtong</district>
+    <id>256061</id>
+  </point>
+  <point>
+    <name>Dapi</name>
+    <region>Yunlin County</region>
+    <district>Dapi</district>
+    <id>256062</id>
+  </point>
+  <point>
+    <name>Dongshih</name>
+    <region>Yunlin County</region>
+    <district>Dongshih</district>
+    <id>256063</id>
+  </point>
+  <point>
+    <name>Douliou</name>
+    <region>Yunlin County</region>
+    <district>Douliou</district>
+    <id>180928</id>
+  </point>
+  <point>
+    <name>Dounan</name>
+    <region>Yunlin County</region>
+    <district>Dounan</district>
+    <id>256064</id>
+  </point>
+  <point>
+    <name>Erlun</name>
+    <region>Yunlin County</region>
+    <district>Erlun</district>
+    <id>256065</id>
+  </point>
+  <point>
+    <name>Gukeng</name>
+    <region>Yunlin County</region>
+    <district>Gukeng</district>
+    <id>256067</id>
+  </point>
+  <point>
+    <name>Huwei</name>
+    <region>Yunlin County</region>
+    <district>Huwei</district>
+    <id>256068</id>
+  </point>
+  <point>
+    <name>Kouhu</name>
+    <region>Yunlin County</region>
+    <district>Kouhu</district>
+    <id>256069</id>
+  </point>
+  <point>
+    <name>Linnei</name>
+    <region>Yunlin County</region>
+    <district>Linnei</district>
+    <id>256070</id>
+  </point>
+  <point>
+    <name>Lunbei</name>
+    <region>Yunlin County</region>
+    <district>Lunbei</district>
+    <id>256071</id>
+  </point>
+  <point>
+    <name>Mailiao</name>
+    <region>Yunlin County</region>
+    <district>Mailiao</district>
+    <id>256072</id>
+  </point>
+  <point>
+    <name>Shueilin</name>
+    <region>Yunlin County</region>
+    <district>Shueilin</district>
+    <id>256073</id>
+  </point>
+  <point>
+    <name>Sihhu</name>
+    <region>Yunlin County</region>
+    <district>Sihhu</district>
+    <id>256074</id>
+  </point>
+  <point>
+    <name>Siluo</name>
+    <region>Yunlin County</region>
+    <district>Siluo</district>
+    <id>256075</id>
+  </point>
+  <point>
+    <name>Taisi</name>
+    <region>Yunlin County</region>
+    <district>Taisi</district>
+    <id>256076</id>
+  </point>
+  <point>
+    <name>Tuku</name>
+    <region>Yunlin County</region>
+    <district>Tuku</district>
+    <id>256078</id>
+  </point>
+  <point>
+    <name>Yuanchang</name>
+    <region>Yunlin County</region>
+    <district>Yuanchang</district>
+    <id>256079</id>
+  </point>
+</country>

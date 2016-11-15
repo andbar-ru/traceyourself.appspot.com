@@ -1,0 +1,680 @@
+<country name="Азербайджан" count="113">
+  <point>
+    <name>Хырдалан</name>
+    <region>Абшеронский район</region>
+    <district>Хырдалан</district>
+    <id>10973</id>
+  </point>
+  <point>
+    <name>Агдам</name>
+    <region>Агдамский район</region>
+    <district>Агдам</district>
+    <id>9952</id>
+  </point>
+  <point>
+    <name>Агдаш</name>
+    <region>Агдашский район</region>
+    <district>Агдаш</district>
+    <id>10977</id>
+  </point>
+  <point>
+    <name>Агджабеди</name>
+    <region>Агджабединский район</region>
+    <district>Агджабеди</district>
+    <id>10975</id>
+  </point>
+  <point>
+    <name>Аджигабул</name>
+    <region>Аджигабульский район</region>
+    <district>Аджигабул</district>
+    <id>4579</id>
+  </point>
+  <point>
+    <name>Джафархан</name>
+    <region>Аджигабульский район</region>
+    <district>Джафархан</district>
+    <id>9961</id>
+  </point>
+  <point>
+    <name>Кази-Магомед (аэродром)</name>
+    <region>Аджигабульский район</region>
+    <district>Кази-Магомед (аэродром)</district>
+    <id>9940</id>
+  </point>
+  <point>
+    <name>Акстафа</name>
+    <region>Акстафинский район</region>
+    <district>Акстафа</district>
+    <id>10970</id>
+  </point>
+  <point>
+    <name>Агстафа (аэропорт)</name>
+    <region>Акстафинский район</region>
+    <district>Агстафа (аэропорт)</district>
+    <id>9896</id>
+  </point>
+  <point>
+    <name>Йеыранчел</name>
+    <region>Акстафинский район</region>
+    <district>Йеыранчел</district>
+    <id>9895</id>
+  </point>
+  <point>
+    <name>Астара</name>
+    <region>Астаринский район</region>
+    <district>Астара</district>
+    <id>9981</id>
+  </point>
+  <point>
+    <name>Ахсу</name>
+    <region>Ахсуйский район</region>
+    <district>Ахсу</district>
+    <id>13080</id>
+  </point>
+  <point>
+    <name>Баку / Забрат (аэропорт)</name>
+    <region>Баку</region>
+    <district>Баку / Забрат (аэропорт)</district>
+    <id>9943</id>
+  </point>
+  <point>
+    <name>Баку</name>
+    <region>Баку</region>
+    <district>Баку</district>
+    <id>9941</id>
+  </point>
+  <point>
+    <name>Баку / им. Гейдара Алиева (аэропорт)</name>
+    <region>Баку</region>
+    <district>Баку / им. Гейдара Алиева (аэропорт)</district>
+    <id>9946</id>
+  </point>
+  <point>
+    <name>Пираллахи</name>
+    <region>Баку</region>
+    <district>Пираллахи</district>
+    <id>9947</id>
+  </point>
+  <point>
+    <name>Алят</name>
+    <region>Баку</region>
+    <district>Алят</district>
+    <id>9964</id>
+  </point>
+  <point>
+    <name>Артём</name>
+    <region>Баку</region>
+    <district>Артём</district>
+    <id>2892</id>
+  </point>
+  <point>
+    <name>Бузовна</name>
+    <region>Баку</region>
+    <district>Бузовна</district>
+    <id>2930</id>
+  </point>
+  <point>
+    <name>Мардакян</name>
+    <region>Баку</region>
+    <district>Мардакян</district>
+    <id>2915</id>
+  </point>
+  <point>
+    <name>Маштага</name>
+    <region>Баку</region>
+    <district>Маштага</district>
+    <id>9944</id>
+  </point>
+  <point>
+    <name>Нефт-Дашлары</name>
+    <region>Баку</region>
+    <district>Нефт-Дашлары</district>
+    <id>9945</id>
+  </point>
+  <point>
+    <name>о. Чилов</name>
+    <region>Баку</region>
+    <district>о. Чилов</district>
+    <id>9948</id>
+  </point>
+  <point>
+    <name>Шубаны</name>
+    <region>Баку</region>
+    <district>Шубаны</district>
+    <id>9942</id>
+  </point>
+  <point>
+    <name>Барда</name>
+    <region>Бардинский район</region>
+    <district>Барда</district>
+    <id>9937</id>
+  </point>
+  <point>
+    <name>Бейлаган (аэродром)</name>
+    <region>Бейлаганский район</region>
+    <district>Бейлаган (аэродром)</district>
+    <id>9959</id>
+  </point>
+  <point>
+    <name>Белокан</name>
+    <region>Белоканский район</region>
+    <district>Белокан</district>
+    <id>13083</id>
+  </point>
+  <point>
+    <name>Билясувар</name>
+    <region>Билясуварский район</region>
+    <district>Билясувар</district>
+    <id>9976</id>
+  </point>
+  <point>
+    <name>Габала</name>
+    <region>Габалинский район</region>
+    <district>Габала</district>
+    <id>9920</id>
+  </point>
+  <point>
+    <name>Геокчай</name>
+    <region>Геокчайский район</region>
+    <district>Геокчай</district>
+    <id>9923</id>
+  </point>
+  <point>
+    <name>Габала (аэропорт)</name>
+    <region>Геокчайский район</region>
+    <district>Габала (аэропорт)</district>
+    <id>509614</id>
+  </point>
+  <point>
+    <name>Геранбой</name>
+    <region>Геранбойский район</region>
+    <district>Геранбой</district>
+    <id>4558</id>
+  </point>
+  <point>
+    <name>Гёйгёль</name>
+    <region>Гёйгёльский район</region>
+    <district>Гёйгёль</district>
+    <id>9935</id>
+  </point>
+  <point>
+    <name>Гобустан</name>
+    <region>Гобустанский район</region>
+    <district>Гобустан</district>
+    <id>2795</id>
+  </point>
+  <point>
+    <name>Мараза</name>
+    <region>Гобустанский район</region>
+    <district>Мараза</district>
+    <id>9926</id>
+  </point>
+  <point>
+    <name>Гянджа</name>
+    <region>Гянджа</region>
+    <district>Гянджа</district>
+    <id>9918</id>
+  </point>
+  <point>
+    <name>Гянджа (аэропорт)</name>
+    <region>Гянджа</region>
+    <district>Гянджа (аэропорт)</district>
+    <id>9919</id>
+  </point>
+  <point>
+    <name>Дашкесан</name>
+    <region>Дашкесанский район</region>
+    <district>Дашкесан</district>
+    <id>9934</id>
+  </point>
+  <point>
+    <name>Джалилабад</name>
+    <region>Джалилабадский район</region>
+    <district>Джалилабад</district>
+    <id>13103</id>
+  </point>
+  <point>
+    <name>Гыоытапа</name>
+    <region>Джалилабадский район</region>
+    <district>Гыоытапа</district>
+    <id>9977</id>
+  </point>
+  <point>
+    <name>Джебраил</name>
+    <region>Джебраильский район</region>
+    <district>Джебраил</district>
+    <id>151235</id>
+  </point>
+  <point>
+    <name>Евлах</name>
+    <region>Евлахский район</region>
+    <district>Евлах</district>
+    <id>9922</id>
+  </point>
+  <point>
+    <name>Закаталы</name>
+    <region>Закатальский район</region>
+    <district>Закаталы</district>
+    <id>9888</id>
+  </point>
+  <point>
+    <name>Алибай</name>
+    <region>Закатальский район</region>
+    <district>Алибай</district>
+    <id>9891</id>
+  </point>
+  <point>
+    <name>Даначы</name>
+    <region>Закатальский район</region>
+    <district>Даначы</district>
+    <id>9890</id>
+  </point>
+  <point>
+    <name>Закаталы (аэропорт)</name>
+    <region>Закатальский район</region>
+    <district>Закаталы (аэропорт)</district>
+    <id>509615</id>
+  </point>
+  <point>
+    <name>Зангелан</name>
+    <region>Зангеланский район</region>
+    <district>Зангелан</district>
+    <id>201286</id>
+  </point>
+  <point>
+    <name>Зардоб</name>
+    <region>Зардобский район</region>
+    <district>Зардоб</district>
+    <id>9938</id>
+  </point>
+  <point>
+    <name>Имишли</name>
+    <region>Имишлинский район</region>
+    <district>Имишли</district>
+    <id>9963</id>
+  </point>
+  <point>
+    <name>Исмаиллы</name>
+    <region>Исмаиллинский район</region>
+    <district>Исмаиллы</district>
+    <id>9924</id>
+  </point>
+  <point>
+    <name>Казах</name>
+    <region>Казахский район</region>
+    <district>Казах</district>
+    <id>2784</id>
+  </point>
+  <point>
+    <name>Кахи</name>
+    <region>Кахский район</region>
+    <district>Кахи</district>
+    <id>2726</id>
+  </point>
+  <point>
+    <name>Кедабек</name>
+    <region>Кедабекский район</region>
+    <district>Кедабек</district>
+    <id>9916</id>
+  </point>
+  <point>
+    <name>Кельбаджар</name>
+    <region>Кельбаджарский район</region>
+    <district>Кельбаджар</district>
+    <id>201590</id>
+  </point>
+  <point>
+    <name>Истису</name>
+    <region>Кельбаджарский район</region>
+    <district>Истису</district>
+    <id>9951</id>
+  </point>
+  <point>
+    <name>Кубатлы</name>
+    <region>Кубатлинский район</region>
+    <district>Кубатлы</district>
+    <id>201760</id>
+  </point>
+  <point>
+    <name>Куба</name>
+    <region>Кубинский район</region>
+    <district>Куба</district>
+    <id>9903</id>
+  </point>
+  <point>
+    <name>Гириз</name>
+    <region>Кубинский район</region>
+    <district>Гириз</district>
+    <id>9902</id>
+  </point>
+  <point>
+    <name>Красная Слобода</name>
+    <region>Кубинский район</region>
+    <district>Красная Слобода</district>
+    <id>2904</id>
+  </point>
+  <point>
+    <name>Хиналиг</name>
+    <region>Кубинский район</region>
+    <district>Хиналиг</district>
+    <id>9904</id>
+  </point>
+  <point>
+    <name>Халтан</name>
+    <region>Кубинский район</region>
+    <district>Халтан</district>
+    <id>9905</id>
+  </point>
+  <point>
+    <name>Кусары</name>
+    <region>Кусарский район</region>
+    <district>Кусары</district>
+    <id>2806</id>
+  </point>
+  <point>
+    <name>Кюрдамир</name>
+    <region>Кюрдамирский район</region>
+    <district>Кюрдамир</district>
+    <id>9939</id>
+  </point>
+  <point>
+    <name>Лачин</name>
+    <region>Лачинский район</region>
+    <district>Лачин</district>
+    <id>9956</id>
+  </point>
+  <point>
+    <name>Ленкорань (аэропорт)</name>
+    <region>Ленкоранский район</region>
+    <district>Ленкорань (аэропорт)</district>
+    <id>9980</id>
+  </point>
+  <point>
+    <name>Лерик</name>
+    <region>Лерикский район</region>
+    <district>Лерик</district>
+    <id>9979</id>
+  </point>
+  <point>
+    <name>Калваз</name>
+    <region>Лерикский район</region>
+    <district>Калваз</district>
+    <id>9970</id>
+  </point>
+  <point>
+    <name>Масаллы</name>
+    <region>Масаллинский район</region>
+    <district>Масаллы</district>
+    <id>10920</id>
+  </point>
+  <point>
+    <name>Мингечаур</name>
+    <region>Мингечаур</region>
+    <district>Мингечаур</district>
+    <id>9921</id>
+  </point>
+  <point>
+    <name>Аскеран</name>
+    <region>Нагорно-Карабахская Республика</region>
+    <district>Аскеран</district>
+    <id>151234</id>
+  </point>
+  <point>
+    <name>Гадрут</name>
+    <region>Нагорно-Карабахская Республика</region>
+    <district>Гадрут</district>
+    <id>13702</id>
+  </point>
+  <point>
+    <name>Минйиван</name>
+    <region>Нагорно-Карабахская Республика</region>
+    <district>Минйиван</district>
+    <id>9975</id>
+  </point>
+  <point>
+    <name>Степанакерт</name>
+    <region>Нагорно-Карабахская Республика</region>
+    <district>Степанакерт</district>
+    <id>2873</id>
+  </point>
+  <point>
+    <name>Физули</name>
+    <region>Нагорно-Карабахская Республика</region>
+    <district>Физули</district>
+    <id>9960</id>
+  </point>
+  <point>
+    <name>Ходжалы (аэропорт)</name>
+    <region>Нагорно-Карабахская Республика</region>
+    <district>Ходжалы (аэропорт)</district>
+    <id>9954</id>
+  </point>
+  <point>
+    <name>Хояванд</name>
+    <region>Нагорно-Карабахская Республика</region>
+    <district>Хояванд</district>
+    <id>9958</id>
+  </point>
+  <point>
+    <name>Шуша</name>
+    <region>Нагорно-Карабахская Республика</region>
+    <district>Шуша</district>
+    <id>9957</id>
+  </point>
+  <point>
+    <name>Нафталан</name>
+    <region>Нафталан</region>
+    <district>Нафталан</district>
+    <id>10922</id>
+  </point>
+  <point>
+    <name>Нахичевань</name>
+    <region>Нахичеванская Автономная Республика</region>
+    <district>Нахичевань</district>
+    <id>9966</id>
+  </point>
+  <point>
+    <name>Джульфа</name>
+    <region>Нахичеванская Автономная Республика</region>
+    <district>Джульфа</district>
+    <id>9969</id>
+  </point>
+  <point>
+    <name>Нахичевань (аэропорт)</name>
+    <region>Нахичеванская Автономная Республика</region>
+    <district>Нахичевань (аэропорт)</district>
+    <id>508119</id>
+  </point>
+  <point>
+    <name>Ордубад</name>
+    <region>Нахичеванская Автономная Республика</region>
+    <district>Ордубад</district>
+    <id>9972</id>
+  </point>
+  <point>
+    <name>Парагачай</name>
+    <region>Нахичеванская Автономная Республика</region>
+    <district>Парагачай</district>
+    <id>9968</id>
+  </point>
+  <point>
+    <name>Садарак</name>
+    <region>Нахичеванская Автономная Республика</region>
+    <district>Садарак</district>
+    <id>2912</id>
+  </point>
+  <point>
+    <name>Шарур</name>
+    <region>Нахичеванская Автономная Республика</region>
+    <district>Шарур</district>
+    <id>9950</id>
+  </point>
+  <point>
+    <name>Шахбуз</name>
+    <region>Нахичеванская Автономная Республика</region>
+    <district>Шахбуз</district>
+    <id>9967</id>
+  </point>
+  <point>
+    <name>Нефтечала</name>
+    <region>Нефтечалинский район</region>
+    <district>Нефтечала</district>
+    <id>9965</id>
+  </point>
+  <point>
+    <name>Огуз</name>
+    <region>Огузский район</region>
+    <district>Огуз</district>
+    <id>9899</id>
+  </point>
+  <point>
+    <name>Саатлы</name>
+    <region>Саатлинский район</region>
+    <district>Саатлы</district>
+    <id>2812</id>
+  </point>
+  <point>
+    <name>Сабирабад</name>
+    <region>Сабирабадский район</region>
+    <district>Сабирабад</district>
+    <id>2821</id>
+  </point>
+  <point>
+    <name>Сальян</name>
+    <region>Сальянский район</region>
+    <district>Сальян</district>
+    <id>9962</id>
+  </point>
+  <point>
+    <name>Набиагалы</name>
+    <region>Самухский район</region>
+    <district>Набиагалы</district>
+    <id>201761</id>
+  </point>
+  <point>
+    <name>Сиазань</name>
+    <region>Сиазаньский район</region>
+    <district>Сиазань</district>
+    <id>2846</id>
+  </point>
+  <point>
+    <name>Сумгайыт</name>
+    <region>Сумгайыт</region>
+    <district>Сумгайыт</district>
+    <id>9928</id>
+  </point>
+  <point>
+    <name>Тертер</name>
+    <region>Тертерский район</region>
+    <district>Тертер</district>
+    <id>9936</id>
+  </point>
+  <point>
+    <name>Товуз</name>
+    <region>Товузский район</region>
+    <district>Товуз</district>
+    <id>2853</id>
+  </point>
+  <point>
+    <name>Уджар</name>
+    <region>Уджарский район</region>
+    <district>Уджар</district>
+    <id>2857</id>
+  </point>
+  <point>
+    <name>Физули</name>
+    <region>Физулинский район</region>
+    <district>Физули</district>
+    <id>203035</id>
+  </point>
+  <point>
+    <name>Ханкенди</name>
+    <region>Ханкенди</region>
+    <district>Ханкенди</district>
+    <id>9953</id>
+  </point>
+  <point>
+    <name>Хачмас (аэродром)</name>
+    <region>Хачмасский район</region>
+    <district>Хачмас (аэродром)</district>
+    <id>9901</id>
+  </point>
+  <point>
+    <name>Набран</name>
+    <region>Хачмасский район</region>
+    <district>Набран</district>
+    <id>9900</id>
+  </point>
+  <point>
+    <name>Худат</name>
+    <region>Хачмасский район</region>
+    <district>Худат</district>
+    <id>2926</id>
+  </point>
+  <point>
+    <name>Ходжавенд</name>
+    <region>Ходжавендский район</region>
+    <district>Ходжавенд</district>
+    <id>2891</id>
+  </point>
+  <point>
+    <name>Ходжалы</name>
+    <region>Ходжалинский район</region>
+    <district>Ходжалы</district>
+    <id>212407</id>
+  </point>
+  <point>
+    <name>Хызы</name>
+    <region>Хызынский район</region>
+    <district>Хызы</district>
+    <id>2880</id>
+  </point>
+  <point>
+    <name>Алтиагач</name>
+    <region>Хызынский район</region>
+    <district>Алтиагач</district>
+    <id>9925</id>
+  </point>
+  <point>
+    <name>Шабран</name>
+    <region>Шабранский район</region>
+    <district>Шабран</district>
+    <id>13116</id>
+  </point>
+  <point>
+    <name>Шамкир</name>
+    <region>Шамкирский район</region>
+    <district>Шамкир</district>
+    <id>9917</id>
+  </point>
+  <point>
+    <name>Шеки</name>
+    <region>Шекинский район</region>
+    <district>Шеки</district>
+    <id>9898</id>
+  </point>
+  <point>
+    <name>Шемаха</name>
+    <region>Шемахинский район</region>
+    <district>Шемаха</district>
+    <id>9927</id>
+  </point>
+  <point>
+    <name>Ширван</name>
+    <region>Ширван</region>
+    <district>Ширван</district>
+    <id>2845</id>
+  </point>
+  <point>
+    <name>Шуша</name>
+    <region>Шушинский район</region>
+    <district>Шуша</district>
+    <id>212408</id>
+  </point>
+  <point>
+    <name>Ярдымлы</name>
+    <region>Ярдымлинский район</region>
+    <district>Ярдымлы</district>
+    <id>9978</id>
+  </point>
+</country>

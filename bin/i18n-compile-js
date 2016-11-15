@@ -1,0 +1,8 @@
+#!/bin/bash
+cd ~/GAE/traceyourself-hrd/src
+for lang in "en" "ru"
+do
+  po2json ./locale/$lang/LC_MESSAGES/messages.js.po > ./js/locale/$lang/messages.js
+  # change metadata (domain key)
+  sed -ri 's/("":\{)[^}]*"Plural-Forms":"\s*([^"]+)"[^}]*(\})/\1"domain":"messages", "lang":"'$lang'", "plural_forms":"\2;"\3/;s/^/i18n = /' ./js/locale/$lang/messages.js
+done

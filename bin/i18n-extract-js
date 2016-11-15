@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ~/GAE/traceyourself-hrd/src
+pybabel extract --no-wrap -F babel.js.cfg -o ./locale/messages.js.pot ./

@@ -1,0 +1,248 @@
+<country name="Portugal" count="41">
+  <point>
+    <name>Aveiro</name>
+    <region>Aveiro</region>
+    <district>Aveiro</district>
+    <id>152032</id>
+  </point>
+  <point>
+    <name>Ovar (airport)</name>
+    <region>Aveiro</region>
+    <district>Ovar (airport)</district>
+    <id>5860</id>
+  </point>
+  <point>
+    <name>Angra do Heroismo (weather station)</name>
+    <region>Azores</region>
+    <district>Angra do Heroismo (weather station)</district>
+    <id>5819</id>
+  </point>
+  <point>
+    <name>Castelo Branco / Horta (airport)</name>
+    <region>Azores</region>
+    <district>Castelo Branco / Horta (airport)</district>
+    <id>5812</id>
+  </point>
+  <point>
+    <name>Horta (weather station)</name>
+    <region>Azores</region>
+    <district>Horta (weather station)</district>
+    <id>5813</id>
+  </point>
+  <point>
+    <name>Lajes (airport)</name>
+    <region>Azores</region>
+    <district>Lajes (airport)</district>
+    <id>5818</id>
+  </point>
+  <point>
+    <name>Ponta Delgada (airport)</name>
+    <region>Azores</region>
+    <district>Ponta Delgada (airport)</district>
+    <id>5821</id>
+  </point>
+  <point>
+    <name>Santa Cruz das Flores (airport)</name>
+    <region>Azores</region>
+    <district>Santa Cruz das Flores (airport)</district>
+    <id>5806</id>
+  </point>
+  <point>
+    <name>Santa Maria (airport)</name>
+    <region>Azores</region>
+    <district>Santa Maria (airport)</district>
+    <id>5825</id>
+  </point>
+  <point>
+    <name>Beja (airport)</name>
+    <region>Beja</region>
+    <district>Beja (airport)</district>
+    <id>5888</id>
+  </point>
+  <point>
+    <name>Beja (weather station)</name>
+    <region>Beja</region>
+    <district>Beja (weather station)</district>
+    <id>170438</id>
+  </point>
+  <point>
+    <name>Braga</name>
+    <region>Braga</region>
+    <district>Braga</district>
+    <id>152058</id>
+  </point>
+  <point>
+    <name>Braganca</name>
+    <region>Braganca</region>
+    <district>Braganca</district>
+    <id>5896</id>
+  </point>
+  <point>
+    <name>Castelo Branco</name>
+    <region>Castelo Branco</region>
+    <district>Castelo Branco</district>
+    <id>5893</id>
+  </point>
+  <point>
+    <name>Covilha</name>
+    <region>Castelo Branco</region>
+    <district>Covilha</district>
+    <id>152091</id>
+  </point>
+  <point>
+    <name>Coimbra</name>
+    <region>Coimbra</region>
+    <district>Coimbra</district>
+    <id>5870</id>
+  </point>
+  <point>
+    <name>Coimbra / Cernache</name>
+    <region>Coimbra</region>
+    <district>Coimbra / Cernache</district>
+    <id>5868</id>
+  </point>
+  <point>
+    <name>Evora</name>
+    <region>Evora</region>
+    <district>Evora</district>
+    <id>5880</id>
+  </point>
+  <point>
+    <name>Faro (airport)</name>
+    <region>Faro</region>
+    <district>Faro (airport)</district>
+    <id>5872</id>
+  </point>
+  <point>
+    <name>Sagres</name>
+    <region>Faro</region>
+    <district>Sagres</district>
+    <id>5852</id>
+  </point>
+  <point>
+    <name>Guarda</name>
+    <region>Guarda</region>
+    <district>Guarda</district>
+    <id>152045</id>
+  </point>
+  <point>
+    <name>Leiria</name>
+    <region>Leiria</region>
+    <district>Leiria</district>
+    <id>152087</id>
+  </point>
+  <point>
+    <name>Monte Real (airport)</name>
+    <region>Leiria</region>
+    <district>Monte Real (airport)</district>
+    <id>5854</id>
+  </point>
+  <point>
+    <name>Sintra / Granja (airport)</name>
+    <region>Leiria</region>
+    <district>Sintra / Granja (airport)</district>
+    <id>5835</id>
+  </point>
+  <point>
+    <name>Lisbon</name>
+    <region>Lisbon</region>
+    <district>Lisbon</district>
+    <id>5898</id>
+  </point>
+  <point>
+    <name>Alverca (airport)</name>
+    <region>Lisbon</region>
+    <district>Alverca (airport)</district>
+    <id>5851</id>
+  </point>
+  <point>
+    <name>Cabo Carvoeiro</name>
+    <region>Lisbon</region>
+    <district>Cabo Carvoeiro</district>
+    <id>348485</id>
+  </point>
+  <point>
+    <name>Lisbon / Portela (airport)</name>
+    <region>Lisbon</region>
+    <district>Lisbon / Portela (airport)</district>
+    <id>5849</id>
+  </point>
+  <point>
+    <name>Funchal</name>
+    <region>Madeira</region>
+    <district>Funchal</district>
+    <id>10220</id>
+  </point>
+  <point>
+    <name>Madeira / Funchal (airport)</name>
+    <region>Madeira</region>
+    <district>Madeira / Funchal (airport)</district>
+    <id>508519</id>
+  </point>
+  <point>
+    <name>Porto Santo (airport)</name>
+    <region>Madeira</region>
+    <district>Porto Santo (airport)</district>
+    <id>10221</id>
+  </point>
+  <point>
+    <name>Portalegre</name>
+    <region>Portalegre</region>
+    <district>Portalegre</district>
+    <id>5895</id>
+  </point>
+  <point>
+    <name>Porto (airport)</name>
+    <region>Porto</region>
+    <district>Porto (airport)</district>
+    <id>5866</id>
+  </point>
+  <point>
+    <name>Santarem</name>
+    <region>Santarem</region>
+    <district>Santarem</district>
+    <id>170731</id>
+  </point>
+  <point>
+    <name>Setubal</name>
+    <region>Setubal</region>
+    <district>Setubal</district>
+    <id>170757</id>
+  </point>
+  <point>
+    <name>Montijo (airport)</name>
+    <region>Setubal</region>
+    <district>Montijo (airport)</district>
+    <id>5836</id>
+  </point>
+  <point>
+    <name>Sines Montes Chaos</name>
+    <region>Setubal</region>
+    <district>Sines Montes Chaos</district>
+    <id>5857</id>
+  </point>
+  <point>
+    <name>Viana do Castelo</name>
+    <region>Viana do Castelo</region>
+    <district>Viana do Castelo</district>
+    <id>5859</id>
+  </point>
+  <point>
+    <name>Castelo do Neiva</name>
+    <region>Viana do Castelo</region>
+    <district>Castelo do Neiva</district>
+    <id>170711</id>
+  </point>
+  <point>
+    <name>Vila Real</name>
+    <region>Vila Real</region>
+    <district>Vila Real</district>
+    <id>5890</id>
+  </point>
+  <point>
+    <name>Viseu</name>
+    <region>Viseu</region>
+    <district>Viseu</district>
+    <id>5881</id>
+  </point>
+</country>

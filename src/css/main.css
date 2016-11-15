@@ -1,0 +1,293 @@
+/* Глобальные настройки */
+body {
+	font: 10pt Arial,"Liberation Sans",sans-serif;
+}
+h1 {
+	color: #0A3F76;
+	font: bold 2.2em "Myriad Pro Cond","Arial Narrow",sans-serif;
+}
+h5 {
+	font-size: 1em;
+}
+a:link {
+	color: #4689b9;
+}
+.clear {
+	clear: both;
+}
+.warnings, .required, .error, .error input {
+	color: red;
+}
+.dangerous {
+	background: #ff3333;
+}
+.note {
+	color: gray;
+	font-size: 0.8em;
+}
+.disabled {
+  color: gray;
+}
+.hidden {
+  display: none;
+}
+.complex {
+	font-weight: bold;
+}
+.empty {
+	color:white;
+}
+.js_required {
+	background-color: red;
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+}
+#popup_form {
+	padding: 10px;
+	background-color: #ddd;
+}
+#popup_form h4, #popup_form div {
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+/* Горизонтальные списки */
+ul.horiz_list {
+	display: inline;
+	padding: 0;
+}
+ul.horiz_list li {
+	list-style: none;
+	display: inline;
+}
+
+#center {
+	width: 1024px;
+	height: 1250px;
+	margin: 0 auto;
+}
+
+/* Шапка */
+#header {
+	position: relative;
+	height: 377px;
+	background: #235d93 url("/img/header_bg.jpg");
+	border-bottom: 2px solid white;
+}
+#logo {
+	position: absolute;
+	top: 12px;
+	left: 25px;
+}
+.toggle {
+  height: 20px;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+.toggle p {
+  float: left;
+  margin: 0;
+  padding: 0;
+  margin-right: 6px;
+  height: 20px;
+  line-height: 20px;
+}
+.switch {
+  float: left;
+  height: 20px;
+  width: 100px;
+  padding: 0;
+  background: #144b66;
+  border-bottom: 1px solid #808080;
+  border-radius: 5px;
+}
+.switch a {
+  text-decoration: none;
+  color: white;
+}
+.left_position, .right_position {
+  display: block;
+  float: left;
+  width: 50%;
+  height: 20px;
+  text-align: center;
+  line-height: 20px;
+}
+.left_position {
+  border-radius: 5px 0 0 5px;
+}
+.right_position {
+  border-radius: 0 5px 5px 0;
+}
+.on {
+  background: linear-gradient(#ffeecc, #ffbb33, #cc9529);
+}
+.off {
+  cursor: pointer;
+}
+#langs {
+	position: absolute;
+	top: 6px;
+	left: 420px;
+}
+#animation_toggle {
+  position: absolute;
+  top: 6px;
+  left: 540px;
+}
+/* #langs img {
+	vertical-align: top;
+	margin-right: 1px;
+} */
+#login {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	padding-right: 10px;
+	display: table;
+}
+#login p {
+	display: table-cell;
+	height: 54px;
+	text-align: right;
+	vertical-align: middle;
+	color: #e6e6e6;
+	font: bold 1em Arial,sans-serif;
+}
+#login a {
+	color: #ffc64f;
+}
+
+/* Контейнер для содержания */
+#body {
+	padding-left: 10px;
+	padding-right: 8px;
+	background: url("/img/body_top_bg.png") top left repeat-x, url("/img/body_bottom_bg.png") bottom left repeat-x, #fafafa;
+	-pie-background: url("/img/body_top_bg.png") top left repeat-x, url("/img/body_bottom_bg.png") bottom left repeat-x, #fafafa;
+	position: relative;
+	behavior: url(/htc/PIE.htc);
+}
+#main {
+	position: relative;
+	padding: 0px 5px;
+	top: -40px;
+	background: url("/img/main_left_shadow.png") top left no-repeat, url("/img/main_right_shadow.png") top right no-repeat;
+	-pie-background: url("/img/main_left_shadow.png") top left no-repeat, url("/img/main_right_shadow.png") top right no-repeat;
+	min-height: 300px; /* main_left_shadow + body_bottom_bg */
+	behavior: url(/htc/PIE.htc);
+}
+
+/* Верхняя навигационная панель */
+#top_nav {
+	height: 57px;
+	padding-top: 5px;
+	background: transparent url("/img/nav_bg.png") repeat-x;
+	position: relative;
+}
+#join_now {
+	width: 91px;
+	height: 85px;
+	position: absolute;
+	top: -2px;
+	right: -12px;
+}
+#top_nav ul li {
+	display: table;
+	float: left;
+	/* ~ round((#top_nav-#join_now/2-2*(len(li)-1))/len(li)) */
+	width: 188px;
+	height: 55px;
+	border-left: 1px solid #ababab;
+	border-right: 1px solid #fafafa;
+}
+#top_nav ul li a {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	font-weight: bold;
+	text-decoration: none;
+	color: #3e3e3e;
+}
+#top_nav ul li.first {
+	border-left: none;
+}
+#top_nav ul li.last {
+	border-right: none;
+	/* #top_nav - (li*(len(li)-1)+2*(len(li)-1)) */
+	width: 236px; /* till the end */
+}
+#top_nav ul li.last a {
+	padding-right: 43px; /* около половины блямбы JOIN NOW! */
+}
+#top_nav a:hover {
+	color: #b37a25;
+}
+#top_nav ul li.active {
+	background: url("/img/nav_active_left_bg.png") top left no-repeat, url("/img/nav_active_right_bg.png") top right no-repeat;
+	-pie-background: url("/img/nav_active_left_bg.png") top left no-repeat, url("/img/nav_active_right_bg.png") top right no-repeat;
+	behavior: url(/htc/PIE.htc);
+}
+#top_nav ul li.active a {
+	margin: 0px 1px 0px 2px;
+	background: url("/img/nav_active_bg.png") repeat-x;
+}
+#top_nav li.active a:hover {
+	color: #3e3e3e;
+}
+
+/* Контент */
+#content {
+	color: #252b32;
+	padding: 8px;
+}
+#content h1 {
+	margin: 5px 0px 10px 0px;
+}
+#content p {
+	margin-bottom: 5px;
+}
+#content ol {
+	padding-left: 20px;
+}
+
+/* мягкие переносы */
+#content p {
+	text-align: justify;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+}
+
+/* Подвал и нижняя навигационная панель */
+#footer {
+	margin-top: -20px;
+	padding-bottom: 10px;
+}
+#bottom_nav {
+	text-align: center;
+}
+#bottom_nav li {
+	display: inline; /* для выравнивания ul по центру */
+	padding: 0px 30px;
+}
+#bottom_nav a {
+	color: #3e3e3e;
+	font: bold 1em Arial,sans-serif;
+}
+#bottom_nav li.active a {
+	color: #b37a25;
+}
+#bottom_nav a:hover {
+	color: #b37a25;
+}
+#copyright {
+	color: #3e3e3e;
+	font: 0.8em Arial,sans-serif;
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+

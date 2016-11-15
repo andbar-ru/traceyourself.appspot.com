@@ -1,0 +1,4742 @@
+<country name="Greece" count="790">
+  <point>
+    <name>Athens</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>151418</id>
+  </point>
+  <point>
+    <name>Athens / Filadelfeia</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>9673</id>
+  </point>
+  <point>
+    <name>Elliniko</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>9677</id>
+  </point>
+  <point>
+    <name>Glyfada</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221684</id>
+  </point>
+  <point>
+    <name>Tatoi (airport)</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>9676</id>
+  </point>
+  <point>
+    <name>Ag. Loannis Redis</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221892</id>
+  </point>
+  <point>
+    <name>Agia Paraskevi</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221902</id>
+  </point>
+  <point>
+    <name>Agia Varvara</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221894</id>
+  </point>
+  <point>
+    <name>Agioi Anargyroi</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221919</id>
+  </point>
+  <point>
+    <name>Agios Dimitrios</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221936</id>
+  </point>
+  <point>
+    <name>Alimos</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221678</id>
+  </point>
+  <point>
+    <name>Argyroupoli</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221679</id>
+  </point>
+  <point>
+    <name>Chaidari</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221726</id>
+  </point>
+  <point>
+    <name>Chalandri</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221727</id>
+  </point>
+  <point>
+    <name>Cholargos</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221729</id>
+  </point>
+  <point>
+    <name>Dafni</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221686</id>
+  </point>
+  <point>
+    <name>Egaleo</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221677</id>
+  </point>
+  <point>
+    <name>Ekali</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221687</id>
+  </point>
+  <point>
+    <name>Filothei</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221725</id>
+  </point>
+  <point>
+    <name>Galatsi</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221683</id>
+  </point>
+  <point>
+    <name>Ilio</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221694</id>
+  </point>
+  <point>
+    <name>Ilioupoli</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221691</id>
+  </point>
+  <point>
+    <name>Irakleio</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221692</id>
+  </point>
+  <point>
+    <name>Kaisariani</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221695</id>
+  </point>
+  <point>
+    <name>Kallithea</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221696</id>
+  </point>
+  <point>
+    <name>Kamatero</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221698</id>
+  </point>
+  <point>
+    <name>Kifissia</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221699</id>
+  </point>
+  <point>
+    <name>Lykovrysi</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221700</id>
+  </point>
+  <point>
+    <name>Marousi</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221702</id>
+  </point>
+  <point>
+    <name>Melissia</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221703</id>
+  </point>
+  <point>
+    <name>Metamorfosi</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221704</id>
+  </point>
+  <point>
+    <name>Moschato</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221705</id>
+  </point>
+  <point>
+    <name>Nea Chalkidona</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221713</id>
+  </point>
+  <point>
+    <name>Nea Erythraia</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221706</id>
+  </point>
+  <point>
+    <name>Nea Filadelfeia</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221712</id>
+  </point>
+  <point>
+    <name>Nea Ionia</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221708</id>
+  </point>
+  <point>
+    <name>Nea Penteli</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221709</id>
+  </point>
+  <point>
+    <name>Nea Smyrni</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221710</id>
+  </point>
+  <point>
+    <name>Neo Psychiko</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221714</id>
+  </point>
+  <point>
+    <name>Palaio Faliro</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221715</id>
+  </point>
+  <point>
+    <name>Papagos</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221716</id>
+  </point>
+  <point>
+    <name>Pefki</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221721</id>
+  </point>
+  <point>
+    <name>Penteli</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221717</id>
+  </point>
+  <point>
+    <name>Peristeri</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221719</id>
+  </point>
+  <point>
+    <name>Petroupoli</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221720</id>
+  </point>
+  <point>
+    <name>Politia</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221722</id>
+  </point>
+  <point>
+    <name>Psychiko</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221730</id>
+  </point>
+  <point>
+    <name>Vrilissia</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221681</id>
+  </point>
+  <point>
+    <name>Vyronas</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221682</id>
+  </point>
+  <point>
+    <name>Ymittos</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221724</id>
+  </point>
+  <point>
+    <name>Zografou</name>
+    <region>Attica</region>
+    <district>Athens</district>
+    <id>221690</id>
+  </point>
+  <point>
+    <name>Acharnes</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221736</id>
+  </point>
+  <point>
+    <name>Agios Stefanos</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221731</id>
+  </point>
+  <point>
+    <name>Anavyssos</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221732</id>
+  </point>
+  <point>
+    <name>Anixi</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221734</id>
+  </point>
+  <point>
+    <name>Artemis</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221735</id>
+  </point>
+  <point>
+    <name>Athens (airport)</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>508274</id>
+  </point>
+  <point>
+    <name>Drosia</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221743</id>
+  </point>
+  <point>
+    <name>Gerakas</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221740</id>
+  </point>
+  <point>
+    <name>Glyka Nera</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221741</id>
+  </point>
+  <point>
+    <name>Kadza</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221746</id>
+  </point>
+  <point>
+    <name>Kalyvia Thorikou</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221745</id>
+  </point>
+  <point>
+    <name>Kapandriti</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221747</id>
+  </point>
+  <point>
+    <name>Keratea</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221748</id>
+  </point>
+  <point>
+    <name>Laurium</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221749</id>
+  </point>
+  <point>
+    <name>Marathon</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221750</id>
+  </point>
+  <point>
+    <name>Markopoulo</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221751</id>
+  </point>
+  <point>
+    <name>Nea Makri</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221752</id>
+  </point>
+  <point>
+    <name>Nea Palatia</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221753</id>
+  </point>
+  <point>
+    <name>Paiania</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221754</id>
+  </point>
+  <point>
+    <name>Pallini</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>12628</id>
+  </point>
+  <point>
+    <name>Rafina</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221755</id>
+  </point>
+  <point>
+    <name>Rodopoli</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221756</id>
+  </point>
+  <point>
+    <name>Spata</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221757</id>
+  </point>
+  <point>
+    <name>Stairos</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221759</id>
+  </point>
+  <point>
+    <name>Stamata</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221758</id>
+  </point>
+  <point>
+    <name>Thrakomakedones</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221744</id>
+  </point>
+  <point>
+    <name>Vari</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221737</id>
+  </point>
+  <point>
+    <name>Voula</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221738</id>
+  </point>
+  <point>
+    <name>Vouliagmeni</name>
+    <region>Attica</region>
+    <district>East Attica</district>
+    <id>221739</id>
+  </point>
+  <point>
+    <name>Piraeus</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>12668</id>
+  </point>
+  <point>
+    <name>Abelakia</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222158</id>
+  </point>
+  <point>
+    <name>Aegina Island</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>141490</id>
+  </point>
+  <point>
+    <name>Eadio</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222156</id>
+  </point>
+  <point>
+    <name>Korydallos</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222161</id>
+  </point>
+  <point>
+    <name>Aegina</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222157</id>
+  </point>
+  <point>
+    <name>Drapetsona</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222159</id>
+  </point>
+  <point>
+    <name>Keratsini</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222160</id>
+  </point>
+  <point>
+    <name>Methana</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222162</id>
+  </point>
+  <point>
+    <name>Nikaia</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222163</id>
+  </point>
+  <point>
+    <name>Paloykia</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222164</id>
+  </point>
+  <point>
+    <name>Salamina</name>
+    <region>Attica</region>
+    <district>Piraeus</district>
+    <id>222166</id>
+  </point>
+  <point>
+    <name>Ano Liosia</name>
+    <region>Attica</region>
+    <district>West Attica</district>
+    <id>221760</id>
+  </point>
+  <point>
+    <name>Aspropyrgos</name>
+    <region>Attica</region>
+    <district>West Attica</district>
+    <id>221761</id>
+  </point>
+  <point>
+    <name>Eleusis (airport)</name>
+    <region>Attica</region>
+    <district>West Attica</district>
+    <id>9679</id>
+  </point>
+  <point>
+    <name>Erythres</name>
+    <region>Attica</region>
+    <district>West Attica</district>
+    <id>221763</id>
+  </point>
+  <point>
+    <name>Koropi</name>
+    <region>Attica</region>
+    <district>West Attica</district>
+    <id>221764</id>
+  </point>
+  <point>
+    <name>Mandra</name>
+    <region>Attica</region>
+    <district>West Attica</district>
+    <id>221765</id>
+  </point>
+  <point>
+    <name>Megara</name>
+    <region>Attica</region>
+    <district>West Attica</district>
+    <id>221766</id>
+  </point>
+  <point>
+    <name>Vilia</name>
+    <region>Attica</region>
+    <district>West Attica</district>
+    <id>221762</id>
+  </point>
+  <point>
+    <name>Adikira</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221642</id>
+  </point>
+  <point>
+    <name>Agios Georgios</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221641</id>
+  </point>
+  <point>
+    <name>Aliartos</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>9665</id>
+  </point>
+  <point>
+    <name>Arachova</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221643</id>
+  </point>
+  <point>
+    <name>Dailia</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221645</id>
+  </point>
+  <point>
+    <name>Distomo</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221646</id>
+  </point>
+  <point>
+    <name>Domvrena</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221647</id>
+  </point>
+  <point>
+    <name>Inofita</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221649</id>
+  </point>
+  <point>
+    <name>Livadeia</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>12726</id>
+  </point>
+  <point>
+    <name>Orchomenos</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221650</id>
+  </point>
+  <point>
+    <name>Paralia Distomoy</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221651</id>
+  </point>
+  <point>
+    <name>Parnassos</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>141493</id>
+  </point>
+  <point>
+    <name>Schimatari</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221652</id>
+  </point>
+  <point>
+    <name>Tanagra (airport)</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>9672</id>
+  </point>
+  <point>
+    <name>Thiva</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221648</id>
+  </point>
+  <point>
+    <name>Vagia</name>
+    <region>Central Greece</region>
+    <district>Boeotia</district>
+    <id>221644</id>
+  </point>
+  <point>
+    <name>Agia Anna</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222118</id>
+  </point>
+  <point>
+    <name>Ailonari</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222121</id>
+  </point>
+  <point>
+    <name>Aliveri</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222119</id>
+  </point>
+  <point>
+    <name>Amarinthos</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222120</id>
+  </point>
+  <point>
+    <name>Chalkida</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222085</id>
+  </point>
+  <point>
+    <name>Evia Island</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>141489</id>
+  </point>
+  <point>
+    <name>Istiea</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222122</id>
+  </point>
+  <point>
+    <name>Karistos</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222124</id>
+  </point>
+  <point>
+    <name>Katheni</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222123</id>
+  </point>
+  <point>
+    <name>Kimi</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222127</id>
+  </point>
+  <point>
+    <name>Konistres</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222125</id>
+  </point>
+  <point>
+    <name>Krieza</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222126</id>
+  </point>
+  <point>
+    <name>Limni</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222128</id>
+  </point>
+  <point>
+    <name>Loytra Edipshoy</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222129</id>
+  </point>
+  <point>
+    <name>Madoydi</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222130</id>
+  </point>
+  <point>
+    <name>Marmari</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222131</id>
+  </point>
+  <point>
+    <name>Nea Artaki</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222132</id>
+  </point>
+  <point>
+    <name>Orei</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222137</id>
+  </point>
+  <point>
+    <name>Pshachna</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222136</id>
+  </point>
+  <point>
+    <name>Skiros (airport)</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>9668</id>
+  </point>
+  <point>
+    <name>Steni Dirfyos</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222133</id>
+  </point>
+  <point>
+    <name>Stira</name>
+    <region>Central Greece</region>
+    <district>Euboea</district>
+    <id>222134</id>
+  </point>
+  <point>
+    <name>Karpenisi</name>
+    <region>Central Greece</region>
+    <district>Evrytania</district>
+    <id>222086</id>
+  </point>
+  <point>
+    <name>Agrafa</name>
+    <region>Central Greece</region>
+    <district>Evrytania</district>
+    <id>222138</id>
+  </point>
+  <point>
+    <name>Foyrna</name>
+    <region>Central Greece</region>
+    <district>Evrytania</district>
+    <id>222145</id>
+  </point>
+  <point>
+    <name>Kerasochori</name>
+    <region>Central Greece</region>
+    <district>Evrytania</district>
+    <id>222141</id>
+  </point>
+  <point>
+    <name>Raptopoylo</name>
+    <region>Central Greece</region>
+    <district>Evrytania</district>
+    <id>222144</id>
+  </point>
+  <point>
+    <name>Granitsa</name>
+    <region>Central Greece</region>
+    <district>Evrytania</district>
+    <id>222139</id>
+  </point>
+  <point>
+    <name>Krikello</name>
+    <region>Central Greece</region>
+    <district>Evrytania</district>
+    <id>222142</id>
+  </point>
+  <point>
+    <name>Proysos</name>
+    <region>Central Greece</region>
+    <district>Evrytania</district>
+    <id>222143</id>
+  </point>
+  <point>
+    <name>Amfissa</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222087</id>
+  </point>
+  <point>
+    <name>Delfi</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222149</id>
+  </point>
+  <point>
+    <name>Desfina</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222150</id>
+  </point>
+  <point>
+    <name>Efpalio</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222152</id>
+  </point>
+  <point>
+    <name>Eratini</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222151</id>
+  </point>
+  <point>
+    <name>Galaxidi</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222147</id>
+  </point>
+  <point>
+    <name>Gravia</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222148</id>
+  </point>
+  <point>
+    <name>Krokilio</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222153</id>
+  </point>
+  <point>
+    <name>Lidoriki</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222154</id>
+  </point>
+  <point>
+    <name>Polydroso</name>
+    <region>Central Greece</region>
+    <district>Phocis</district>
+    <id>222155</id>
+  </point>
+  <point>
+    <name>Agios Konstadinos</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221655</id>
+  </point>
+  <point>
+    <name>Amfiklia</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221656</id>
+  </point>
+  <point>
+    <name>Ataladi</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221657</id>
+  </point>
+  <point>
+    <name>Ayios Yeoryios</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221654</id>
+  </point>
+  <point>
+    <name>Domokos</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221658</id>
+  </point>
+  <point>
+    <name>Elatia</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221659</id>
+  </point>
+  <point>
+    <name>Ipati</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221671</id>
+  </point>
+  <point>
+    <name>Kammena Voyrla</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221660</id>
+  </point>
+  <point>
+    <name>Kato Tithorea</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221661</id>
+  </point>
+  <point>
+    <name>Lamia</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>9666</id>
+  </point>
+  <point>
+    <name>Larimna</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221662</id>
+  </point>
+  <point>
+    <name>Livanates</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221663</id>
+  </point>
+  <point>
+    <name>Makrakomi</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221664</id>
+  </point>
+  <point>
+    <name>Malesina</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221665</id>
+  </point>
+  <point>
+    <name>Martino</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221666</id>
+  </point>
+  <point>
+    <name>Molos</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221667</id>
+  </point>
+  <point>
+    <name>Pelasgia</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221668</id>
+  </point>
+  <point>
+    <name>Sperchiada</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221669</id>
+  </point>
+  <point>
+    <name>Stilida</name>
+    <region>Central Greece</region>
+    <district>Phthiotis</district>
+    <id>221670</id>
+  </point>
+  <point>
+    <name>Agios Nikolaos</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222258</id>
+  </point>
+  <point>
+    <name>Arnea</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222259</id>
+  </point>
+  <point>
+    <name>Dafni Agioy Oroys</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222261</id>
+  </point>
+  <point>
+    <name>Galatista</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222260</id>
+  </point>
+  <point>
+    <name>Ierissos</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222262</id>
+  </point>
+  <point>
+    <name>Karies Agioy Oroys</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222263</id>
+  </point>
+  <point>
+    <name>Kassandria</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222264</id>
+  </point>
+  <point>
+    <name>Khalkidiki</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>141466</id>
+  </point>
+  <point>
+    <name>Megali Panagia</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222265</id>
+  </point>
+  <point>
+    <name>Nea Kallikratia</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222266</id>
+  </point>
+  <point>
+    <name>Nea Moydania</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222267</id>
+  </point>
+  <point>
+    <name>Nea Triglia</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222268</id>
+  </point>
+  <point>
+    <name>Neos Marmaras</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222269</id>
+  </point>
+  <point>
+    <name>Nikiti</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222270</id>
+  </point>
+  <point>
+    <name>Ormylia</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>141679</id>
+  </point>
+  <point>
+    <name>Pefkochori</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222271</id>
+  </point>
+  <point>
+    <name>Poligiros</name>
+    <region>Central Macedonia</region>
+    <district>Chalkidiki</district>
+    <id>222088</id>
+  </point>
+  <point>
+    <name>Alexandria</name>
+    <region>Central Macedonia</region>
+    <district>Imathia</district>
+    <id>221943</id>
+  </point>
+  <point>
+    <name>Irinoypoli</name>
+    <region>Central Macedonia</region>
+    <district>Imathia</district>
+    <id>221944</id>
+  </point>
+  <point>
+    <name>Kopanos</name>
+    <region>Central Macedonia</region>
+    <district>Imathia</district>
+    <id>221945</id>
+  </point>
+  <point>
+    <name>Meliki</name>
+    <region>Central Macedonia</region>
+    <district>Imathia</district>
+    <id>221947</id>
+  </point>
+  <point>
+    <name>Naoysa</name>
+    <region>Central Macedonia</region>
+    <district>Imathia</district>
+    <id>221948</id>
+  </point>
+  <point>
+    <name>Pigadia</name>
+    <region>Central Macedonia</region>
+    <district>Imathia</district>
+    <id>141494</id>
+  </point>
+  <point>
+    <name>Seli</name>
+    <region>Central Macedonia</region>
+    <district>Imathia</district>
+    <id>141495</id>
+  </point>
+  <point>
+    <name>Veria</name>
+    <region>Central Macedonia</region>
+    <district>Imathia</district>
+    <id>12610</id>
+  </point>
+  <point>
+    <name>Kilkis</name>
+    <region>Central Macedonia</region>
+    <district>Kilkis</district>
+    <id>12712</id>
+  </point>
+  <point>
+    <name>Axioupoli</name>
+    <region>Central Macedonia</region>
+    <district>Kilkis</district>
+    <id>221987</id>
+  </point>
+  <point>
+    <name>Cherso</name>
+    <region>Central Macedonia</region>
+    <district>Kilkis</district>
+    <id>221993</id>
+  </point>
+  <point>
+    <name>Polikastro</name>
+    <region>Central Macedonia</region>
+    <district>Kilkis</district>
+    <id>221990</id>
+  </point>
+  <point>
+    <name>S. S. Efzonon</name>
+    <region>Central Macedonia</region>
+    <district>Kilkis</district>
+    <id>221991</id>
+  </point>
+  <point>
+    <name>Efropos</name>
+    <region>Central Macedonia</region>
+    <district>Kilkis</district>
+    <id>221989</id>
+  </point>
+  <point>
+    <name>Goymenissa</name>
+    <region>Central Macedonia</region>
+    <district>Kilkis</district>
+    <id>221988</id>
+  </point>
+  <point>
+    <name>S. S. Moyrion</name>
+    <region>Central Macedonia</region>
+    <district>Kilkis</district>
+    <id>221992</id>
+  </point>
+  <point>
+    <name>Pella</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>222089</id>
+  </point>
+  <point>
+    <name>Edessa</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>12727</id>
+  </point>
+  <point>
+    <name>Kria Vrisi</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>222242</id>
+  </point>
+  <point>
+    <name>Skidra</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>222244</id>
+  </point>
+  <point>
+    <name>Voras</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>141478</id>
+  </point>
+  <point>
+    <name>Aridea</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>222237</id>
+  </point>
+  <point>
+    <name>Arnissa</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>222238</id>
+  </point>
+  <point>
+    <name>Exaplatanos</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>222240</id>
+  </point>
+  <point>
+    <name>Giannitsa</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>222239</id>
+  </point>
+  <point>
+    <name>Kariotissa</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>222241</id>
+  </point>
+  <point>
+    <name>Yannitsa</name>
+    <region>Central Macedonia</region>
+    <district>Pella</district>
+    <id>12752</id>
+  </point>
+  <point>
+    <name>Eginio</name>
+    <region>Central Macedonia</region>
+    <district>Pieria</district>
+    <id>221994</id>
+  </point>
+  <point>
+    <name>Katerini</name>
+    <region>Central Macedonia</region>
+    <district>Pieria</district>
+    <id>141492</id>
+  </point>
+  <point>
+    <name>Kitros</name>
+    <region>Central Macedonia</region>
+    <district>Pieria</district>
+    <id>221995</id>
+  </point>
+  <point>
+    <name>Kolindros</name>
+    <region>Central Macedonia</region>
+    <district>Pieria</district>
+    <id>221996</id>
+  </point>
+  <point>
+    <name>Korinos</name>
+    <region>Central Macedonia</region>
+    <district>Pieria</district>
+    <id>221997</id>
+  </point>
+  <point>
+    <name>Leptokaria</name>
+    <region>Central Macedonia</region>
+    <district>Pieria</district>
+    <id>221998</id>
+  </point>
+  <point>
+    <name>Litochoro</name>
+    <region>Central Macedonia</region>
+    <district>Pieria</district>
+    <id>221999</id>
+  </point>
+  <point>
+    <name>Methoni</name>
+    <region>Central Macedonia</region>
+    <district>Pieria</district>
+    <id>222000</id>
+  </point>
+  <point>
+    <name>Platamonas</name>
+    <region>Central Macedonia</region>
+    <district>Pieria</district>
+    <id>222001</id>
+  </point>
+  <point>
+    <name>Serres</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>9648</id>
+  </point>
+  <point>
+    <name>Iraklia</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222247</id>
+  </point>
+  <point>
+    <name>Neo Petritsi</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222251</id>
+  </point>
+  <point>
+    <name>Rodolivos</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222255</id>
+  </point>
+  <point>
+    <name>Strimoniko</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222257</id>
+  </point>
+  <point>
+    <name>Alistrati</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222245</id>
+  </point>
+  <point>
+    <name>Draviskos</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222246</id>
+  </point>
+  <point>
+    <name>Kato Poria</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222248</id>
+  </point>
+  <point>
+    <name>Mairothalassa</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222249</id>
+  </point>
+  <point>
+    <name>Nea Zichni</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222250</id>
+  </point>
+  <point>
+    <name>Neos Skopos</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222252</id>
+  </point>
+  <point>
+    <name>Nigrita</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222253</id>
+  </point>
+  <point>
+    <name>Pedapoli</name>
+    <region>Central Macedonia</region>
+    <district>Serres</district>
+    <id>222254</id>
+  </point>
+  <point>
+    <name>Thessaloniki (airport)</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>9651</id>
+  </point>
+  <point>
+    <name>Chalkidona</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221985</id>
+  </point>
+  <point>
+    <name>Kalamaria</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221962</id>
+  </point>
+  <point>
+    <name>Oreokastro</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221986</id>
+  </point>
+  <point>
+    <name>Polichni</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221976</id>
+  </point>
+  <point>
+    <name>Abelokipi</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221950</id>
+  </point>
+  <point>
+    <name>Agios Pailos</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221949</id>
+  </point>
+  <point>
+    <name>Askos</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221951</id>
+  </point>
+  <point>
+    <name>Asprovalta</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221952</id>
+  </point>
+  <point>
+    <name>Chalastra</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221984</id>
+  </point>
+  <point>
+    <name>Diavata</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221954</id>
+  </point>
+  <point>
+    <name>Efkarpia</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221957</id>
+  </point>
+  <point>
+    <name>Efosmo</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221958</id>
+  </point>
+  <point>
+    <name>Eleftherio</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221955</id>
+  </point>
+  <point>
+    <name>Epanomi</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221956</id>
+  </point>
+  <point>
+    <name>Kalochori</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221963</id>
+  </point>
+  <point>
+    <name>Kimina</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221965</id>
+  </point>
+  <point>
+    <name>Koyfalia</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221964</id>
+  </point>
+  <point>
+    <name>Lagkadas</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221966</id>
+  </point>
+  <point>
+    <name>Lagkadikia</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221967</id>
+  </point>
+  <point>
+    <name>Melissochori</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221968</id>
+  </point>
+  <point>
+    <name>Menemeni</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221969</id>
+  </point>
+  <point>
+    <name>Nea Apollonia</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221970</id>
+  </point>
+  <point>
+    <name>Nea Michaniona</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221971</id>
+  </point>
+  <point>
+    <name>Neapoli</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221972</id>
+  </point>
+  <point>
+    <name>Panorama</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221974</id>
+  </point>
+  <point>
+    <name>Peraia</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221975</id>
+  </point>
+  <point>
+    <name>Pilea</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221977</id>
+  </point>
+  <point>
+    <name>Sikies</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221982</id>
+  </point>
+  <point>
+    <name>Sindos</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221978</id>
+  </point>
+  <point>
+    <name>Sochos</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221979</id>
+  </point>
+  <point>
+    <name>Stairos</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221980</id>
+  </point>
+  <point>
+    <name>Stairoypoli</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221981</id>
+  </point>
+  <point>
+    <name>Thermi</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221960</id>
+  </point>
+  <point>
+    <name>Triandria</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221983</id>
+  </point>
+  <point>
+    <name>Vasilika</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221953</id>
+  </point>
+  <point>
+    <name>Xilopoli</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221973</id>
+  </point>
+  <point>
+    <name>Zagkliveri</name>
+    <region>Central Macedonia</region>
+    <district>Thessaloniki</district>
+    <id>221959</id>
+  </point>
+  <point>
+    <name>Chania</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222091</id>
+  </point>
+  <point>
+    <name>Kalives</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222287</id>
+  </point>
+  <point>
+    <name>Kissamos</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222289</id>
+  </point>
+  <point>
+    <name>Paleochora</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222292</id>
+  </point>
+  <point>
+    <name>Souda / Chania (airport)</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>9688</id>
+  </point>
+  <point>
+    <name>Alikianos</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222282</id>
+  </point>
+  <point>
+    <name>Chora Sfakion</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222296</id>
+  </point>
+  <point>
+    <name>Kandanos</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222288</id>
+  </point>
+  <point>
+    <name>Kolimvari</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222290</id>
+  </point>
+  <point>
+    <name>Moyrnies</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222291</id>
+  </point>
+  <point>
+    <name>Rodovani</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222293</id>
+  </point>
+  <point>
+    <name>Soyda</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222294</id>
+  </point>
+  <point>
+    <name>Vamos</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222284</id>
+  </point>
+  <point>
+    <name>Vathi Chanion</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222283</id>
+  </point>
+  <point>
+    <name>Voykolies</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222285</id>
+  </point>
+  <point>
+    <name>Vrises</name>
+    <region>Crete</region>
+    <district>Chania</district>
+    <id>222286</id>
+  </point>
+  <point>
+    <name>Heraklion (airport)</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>9690</id>
+  </point>
+  <point>
+    <name>Agia Varvara</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222003</id>
+  </point>
+  <point>
+    <name>Kastelli (airport)</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>9695</id>
+  </point>
+  <point>
+    <name>Malia</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222014</id>
+  </point>
+  <point>
+    <name>Tympaki (airport)</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>9694</id>
+  </point>
+  <point>
+    <name>Agios Mironas</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222004</id>
+  </point>
+  <point>
+    <name>Ano Viannos</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222005</id>
+  </point>
+  <point>
+    <name>Archanes</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222007</id>
+  </point>
+  <point>
+    <name>Arkalochori</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222006</id>
+  </point>
+  <point>
+    <name>Dafnes</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222009</id>
+  </point>
+  <point>
+    <name>Gazi</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222008</id>
+  </point>
+  <point>
+    <name>Iraklio</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222011</id>
+  </point>
+  <point>
+    <name>Kroysonas</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222012</id>
+  </point>
+  <point>
+    <name>Limenas Chersonisoy</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222013</id>
+  </point>
+  <point>
+    <name>Mires</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222015</id>
+  </point>
+  <point>
+    <name>Mochos</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222016</id>
+  </point>
+  <point>
+    <name>N. Alikarnassos</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222017</id>
+  </point>
+  <point>
+    <name>Pirgos</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222018</id>
+  </point>
+  <point>
+    <name>Pirgos Iraklioy</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222019</id>
+  </point>
+  <point>
+    <name>Pirgos Monofatsioy</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222020</id>
+  </point>
+  <point>
+    <name>Tibaki</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222021</id>
+  </point>
+  <point>
+    <name>Zaros</name>
+    <region>Crete</region>
+    <district>Heraklion</district>
+    <id>222010</id>
+  </point>
+  <point>
+    <name>Agios Nikolaos</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>222092</id>
+  </point>
+  <point>
+    <name>Chandras</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>222281</id>
+  </point>
+  <point>
+    <name>Eloyda</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>222274</id>
+  </point>
+  <point>
+    <name>Ierapetra</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>9691</id>
+  </point>
+  <point>
+    <name>Kritsa</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>222276</id>
+  </point>
+  <point>
+    <name>Males</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>222277</id>
+  </point>
+  <point>
+    <name>Sitia</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>9692</id>
+  </point>
+  <point>
+    <name>Sitia (airport)</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>510754</id>
+  </point>
+  <point>
+    <name>Stairochori</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>222278</id>
+  </point>
+  <point>
+    <name>Toyrloti</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>222280</id>
+  </point>
+  <point>
+    <name>Tzermiado</name>
+    <region>Crete</region>
+    <district>Lasithi</district>
+    <id>222279</id>
+  </point>
+  <point>
+    <name>Rethymno</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>9693</id>
+  </point>
+  <point>
+    <name>Agia Galini</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>222022</id>
+  </point>
+  <point>
+    <name>Amari</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>222023</id>
+  </point>
+  <point>
+    <name>Crete (island)</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>141485</id>
+  </point>
+  <point>
+    <name>Garazo</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>222025</id>
+  </point>
+  <point>
+    <name>Anogia</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>222024</id>
+  </point>
+  <point>
+    <name>Episkopi</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>222026</id>
+  </point>
+  <point>
+    <name>Mirthios</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>222027</id>
+  </point>
+  <point>
+    <name>Panormos</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>222028</id>
+  </point>
+  <point>
+    <name>Perama Rethimnis</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>222029</id>
+  </point>
+  <point>
+    <name>Spili</name>
+    <region>Crete</region>
+    <district>Rethymno</district>
+    <id>222030</id>
+  </point>
+  <point>
+    <name>Drama</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Drama</district>
+    <id>12710</id>
+  </point>
+  <point>
+    <name>Fotolivos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Drama</district>
+    <id>222031</id>
+  </point>
+  <point>
+    <name>Kiria</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Drama</district>
+    <id>221828</id>
+  </point>
+  <point>
+    <name>Nikiforos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Drama</district>
+    <id>221901</id>
+  </point>
+  <point>
+    <name>Prosotsani</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Drama</district>
+    <id>222002</id>
+  </point>
+  <point>
+    <name>Doxato</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Drama</district>
+    <id>221604</id>
+  </point>
+  <point>
+    <name>Kalabaki</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Drama</district>
+    <id>221742</id>
+  </point>
+  <point>
+    <name>Kato Nefrokopi</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Drama</district>
+    <id>221787</id>
+  </point>
+  <point>
+    <name>Paranesti</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Drama</district>
+    <id>221961</id>
+  </point>
+  <point>
+    <name>Alexandroupoli (airport)</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>9653</id>
+  </point>
+  <point>
+    <name>Didimoticho</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221672</id>
+  </point>
+  <point>
+    <name>Dikea</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221673</id>
+  </point>
+  <point>
+    <name>Feres</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221711</id>
+  </point>
+  <point>
+    <name>Gefira Kipon</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221653</id>
+  </point>
+  <point>
+    <name>Kiprinos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221674</id>
+  </point>
+  <point>
+    <name>Lavara</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221675</id>
+  </point>
+  <point>
+    <name>Metaxades</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221676</id>
+  </point>
+  <point>
+    <name>Nea Vissa</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221680</id>
+  </point>
+  <point>
+    <name>Orestiada</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221685</id>
+  </point>
+  <point>
+    <name>Peplos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221689</id>
+  </point>
+  <point>
+    <name>Rizia</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221693</id>
+  </point>
+  <point>
+    <name>Samothraki</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221697</id>
+  </point>
+  <point>
+    <name>Soyfli</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221701</id>
+  </point>
+  <point>
+    <name>Tichero</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Evros</district>
+    <id>221707</id>
+  </point>
+  <point>
+    <name>Kavala</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>141479</id>
+  </point>
+  <point>
+    <name>Chrysoupoli (weather station)</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>9652</id>
+  </point>
+  <point>
+    <name>Chrysoupoli / Kavala (airport)</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>509193</id>
+  </point>
+  <point>
+    <name>Thassos Island</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>141488</id>
+  </point>
+  <point>
+    <name>Theologos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221733</id>
+  </point>
+  <point>
+    <name>Amigdaleonas</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221718</id>
+  </point>
+  <point>
+    <name>Chania</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221795</id>
+  </point>
+  <point>
+    <name>Chrysoupoli</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221796</id>
+  </point>
+  <point>
+    <name>Eleftheroypoli</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221723</id>
+  </point>
+  <point>
+    <name>Kechrokabos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221768</id>
+  </point>
+  <point>
+    <name>Keramoti</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221767</id>
+  </point>
+  <point>
+    <name>Krinides</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221769</id>
+  </point>
+  <point>
+    <name>Limenaria</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221770</id>
+  </point>
+  <point>
+    <name>Moystheni</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221772</id>
+  </point>
+  <point>
+    <name>Nea Peramos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221779</id>
+  </point>
+  <point>
+    <name>Nikisiani</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221788</id>
+  </point>
+  <point>
+    <name>Thassos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Kavala</district>
+    <id>221728</id>
+  </point>
+  <point>
+    <name>Iasmos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Rhodope</district>
+    <id>221842</id>
+  </point>
+  <point>
+    <name>Komotini</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Rhodope</district>
+    <id>12718</id>
+  </point>
+  <point>
+    <name>Organi</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Rhodope</district>
+    <id>221877</id>
+  </point>
+  <point>
+    <name>Sapes</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Rhodope</district>
+    <id>221882</id>
+  </point>
+  <point>
+    <name>Xilagani</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Rhodope</district>
+    <id>221870</id>
+  </point>
+  <point>
+    <name>Xanthi</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Xanthi</district>
+    <id>222093</id>
+  </point>
+  <point>
+    <name>Echinos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Xanthi</district>
+    <id>222205</id>
+  </point>
+  <point>
+    <name>Eflalo</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Xanthi</district>
+    <id>222204</id>
+  </point>
+  <point>
+    <name>Lagos</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Xanthi</district>
+    <id>222206</id>
+  </point>
+  <point>
+    <name>Stairoypoli</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Xanthi</district>
+    <id>222212</id>
+  </point>
+  <point>
+    <name>Avdira</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Xanthi</district>
+    <id>222197</id>
+  </point>
+  <point>
+    <name>Genisea</name>
+    <region>East Macedonia And Thrace</region>
+    <district>Xanthi</district>
+    <id>222203</id>
+  </point>
+  <point>
+    <name>Arta</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>9661</id>
+  </point>
+  <point>
+    <name>Agnada</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221860</id>
+  </point>
+  <point>
+    <name>Ano Kaledini</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221861</id>
+  </point>
+  <point>
+    <name>Filothei</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221869</id>
+  </point>
+  <point>
+    <name>Miliana</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221865</id>
+  </point>
+  <point>
+    <name>Dimari</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221863</id>
+  </point>
+  <point>
+    <name>Koboti</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221864</id>
+  </point>
+  <point>
+    <name>Neochori</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221866</id>
+  </point>
+  <point>
+    <name>Peta</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221867</id>
+  </point>
+  <point>
+    <name>Rodaigi</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221868</id>
+  </point>
+  <point>
+    <name>Voyrgareli</name>
+    <region>Epirus</region>
+    <district>Arta</district>
+    <id>221862</id>
+  </point>
+  <point>
+    <name>Ioannina</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>12728</id>
+  </point>
+  <point>
+    <name>Delvinaki</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221874</id>
+  </point>
+  <point>
+    <name>Derviziana</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221875</id>
+  </point>
+  <point>
+    <name>Ioannina (airport)</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>9656</id>
+  </point>
+  <point>
+    <name>Metsovo</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221883</id>
+  </point>
+  <point>
+    <name>Asprageli</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221871</id>
+  </point>
+  <point>
+    <name>Doliana</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221876</id>
+  </point>
+  <point>
+    <name>Grevenitio</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221873</id>
+  </point>
+  <point>
+    <name>Kaledzi</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221879</id>
+  </point>
+  <point>
+    <name>Kefalovriso</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221880</id>
+  </point>
+  <point>
+    <name>Konitsa</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221881</id>
+  </point>
+  <point>
+    <name>Paleoseli</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221884</id>
+  </point>
+  <point>
+    <name>Pirsogianni</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221886</id>
+  </point>
+  <point>
+    <name>Pramada</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221885</id>
+  </point>
+  <point>
+    <name>Tsepelovo</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221887</id>
+  </point>
+  <point>
+    <name>Vrosina</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221872</id>
+  </point>
+  <point>
+    <name>Zitsa</name>
+    <region>Epirus</region>
+    <district>Ioannina</district>
+    <id>221878</id>
+  </point>
+  <point>
+    <name>Preveza</name>
+    <region>Epirus</region>
+    <district>Preveza</district>
+    <id>11377</id>
+  </point>
+  <point>
+    <name>Filippiada</name>
+    <region>Epirus</region>
+    <district>Preveza</district>
+    <id>221893</id>
+  </point>
+  <point>
+    <name>Kanallaki</name>
+    <region>Epirus</region>
+    <district>Preveza</district>
+    <id>221889</id>
+  </point>
+  <point>
+    <name>Loyros</name>
+    <region>Epirus</region>
+    <district>Preveza</district>
+    <id>221890</id>
+  </point>
+  <point>
+    <name>Parga</name>
+    <region>Epirus</region>
+    <district>Preveza</district>
+    <id>221891</id>
+  </point>
+  <point>
+    <name>Thesprotiko</name>
+    <region>Epirus</region>
+    <district>Preveza</district>
+    <id>221888</id>
+  </point>
+  <point>
+    <name>Filiates</name>
+    <region>Epirus</region>
+    <district>Thesprotia</district>
+    <id>222216</id>
+  </point>
+  <point>
+    <name>Igoumenitsa</name>
+    <region>Epirus</region>
+    <district>Thesprotia</district>
+    <id>12703</id>
+  </point>
+  <point>
+    <name>Margariti</name>
+    <region>Epirus</region>
+    <district>Thesprotia</district>
+    <id>222214</id>
+  </point>
+  <point>
+    <name>Paramithia</name>
+    <region>Epirus</region>
+    <district>Thesprotia</district>
+    <id>222215</id>
+  </point>
+  <point>
+    <name>Corfu (airport)</name>
+    <region>Ionian Islands</region>
+    <district>Corfu</district>
+    <id>9655</id>
+  </point>
+  <point>
+    <name>Corfu Island</name>
+    <region>Ionian Islands</region>
+    <district>Corfu</district>
+    <id>141484</id>
+  </point>
+  <point>
+    <name>Geos</name>
+    <region>Ionian Islands</region>
+    <district>Corfu</district>
+    <id>221939</id>
+  </point>
+  <point>
+    <name>Kastellani Mesis</name>
+    <region>Ionian Islands</region>
+    <district>Corfu</district>
+    <id>221941</id>
+  </point>
+  <point>
+    <name>Skripero</name>
+    <region>Ionian Islands</region>
+    <district>Corfu</district>
+    <id>221942</id>
+  </point>
+  <point>
+    <name>Karoysades</name>
+    <region>Ionian Islands</region>
+    <district>Corfu</district>
+    <id>221940</id>
+  </point>
+  <point>
+    <name>Agia Effimia</name>
+    <region>Ionian Islands</region>
+    <district>Kefalonia and Ithaca</district>
+    <id>222226</id>
+  </point>
+  <point>
+    <name>Argostoli</name>
+    <region>Ionian Islands</region>
+    <district>Kefalonia and Ithaca</district>
+    <id>222095</id>
+  </point>
+  <point>
+    <name>Fiskardo</name>
+    <region>Ionian Islands</region>
+    <district>Kefalonia and Ithaca</district>
+    <id>222233</id>
+  </point>
+  <point>
+    <name>Ithaki</name>
+    <region>Ionian Islands</region>
+    <district>Kefalonia and Ithaca</district>
+    <id>222228</id>
+  </point>
+  <point>
+    <name>Kefalonia (airport)</name>
+    <region>Ionian Islands</region>
+    <district>Kefalonia and Ithaca</district>
+    <id>9669</id>
+  </point>
+  <point>
+    <name>Lixoyri</name>
+    <region>Ionian Islands</region>
+    <district>Kefalonia and Ithaca</district>
+    <id>222229</id>
+  </point>
+  <point>
+    <name>Poros</name>
+    <region>Ionian Islands</region>
+    <district>Kefalonia and Ithaca</district>
+    <id>222230</id>
+  </point>
+  <point>
+    <name>Sami</name>
+    <region>Ionian Islands</region>
+    <district>Kefalonia and Ithaca</district>
+    <id>222231</id>
+  </point>
+  <point>
+    <name>Stairos Ithakis</name>
+    <region>Ionian Islands</region>
+    <district>Kefalonia and Ithaca</district>
+    <id>222232</id>
+  </point>
+  <point>
+    <name>Lefkada</name>
+    <region>Ionian Islands</region>
+    <district>Lefkada</district>
+    <id>222096</id>
+  </point>
+  <point>
+    <name>Kalamos</name>
+    <region>Ionian Islands</region>
+    <district>Lefkada</district>
+    <id>222235</id>
+  </point>
+  <point>
+    <name>Preveza / Aktion (airport)</name>
+    <region>Ionian Islands</region>
+    <district>Lefkada</district>
+    <id>9657</id>
+  </point>
+  <point>
+    <name>Vathi</name>
+    <region>Ionian Islands</region>
+    <district>Lefkada</district>
+    <id>222234</id>
+  </point>
+  <point>
+    <name>Zakynthos (airport)</name>
+    <region>Ionian Islands</region>
+    <district>Zakynthos</district>
+    <id>141481</id>
+  </point>
+  <point>
+    <name>Katastari</name>
+    <region>Ionian Islands</region>
+    <district>Zakynthos</district>
+    <id>221937</id>
+  </point>
+  <point>
+    <name>Kythira (airport)</name>
+    <region>Ionian Islands</region>
+    <district>Zakynthos</district>
+    <id>9686</id>
+  </point>
+  <point>
+    <name>Macherado</name>
+    <region>Ionian Islands</region>
+    <district>Zakynthos</district>
+    <id>221938</id>
+  </point>
+  <point>
+    <name>Volimes</name>
+    <region>Ionian Islands</region>
+    <district>Zakynthos</district>
+    <id>221935</id>
+  </point>
+  <point>
+    <name>Chios</name>
+    <region>North Aegean</region>
+    <district>Chios</district>
+    <id>222097</id>
+  </point>
+  <point>
+    <name>Chios (airport)</name>
+    <region>North Aegean</region>
+    <district>Chios</district>
+    <id>9674</id>
+  </point>
+  <point>
+    <name>Kalamoti</name>
+    <region>North Aegean</region>
+    <district>Chios</district>
+    <id>222169</id>
+  </point>
+  <point>
+    <name>Kardamila</name>
+    <region>North Aegean</region>
+    <district>Chios</district>
+    <id>222170</id>
+  </point>
+  <point>
+    <name>Pshara</name>
+    <region>North Aegean</region>
+    <district>Chios</district>
+    <id>222172</id>
+  </point>
+  <point>
+    <name>Volissos</name>
+    <region>North Aegean</region>
+    <district>Chios</district>
+    <id>222167</id>
+  </point>
+  <point>
+    <name>Vrodados</name>
+    <region>North Aegean</region>
+    <district>Chios</district>
+    <id>222168</id>
+  </point>
+  <point>
+    <name>Adissa</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221774</id>
+  </point>
+  <point>
+    <name>Agia Paraskefi</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221771</id>
+  </point>
+  <point>
+    <name>Agiasos</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221773</id>
+  </point>
+  <point>
+    <name>Eresos</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221775</id>
+  </point>
+  <point>
+    <name>Kalloni</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221776</id>
+  </point>
+  <point>
+    <name>Lemnos (airport)</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>9660</id>
+  </point>
+  <point>
+    <name>Madamados</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221777</id>
+  </point>
+  <point>
+    <name>Mithimna</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221778</id>
+  </point>
+  <point>
+    <name>Mytilene (airport)</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>9663</id>
+  </point>
+  <point>
+    <name>Pappados</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221780</id>
+  </point>
+  <point>
+    <name>Plomari</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221781</id>
+  </point>
+  <point>
+    <name>Polichnitos</name>
+    <region>North Aegean</region>
+    <district>Lesbos</district>
+    <id>221782</id>
+  </point>
+  <point>
+    <name>Samos (airport)</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>9680</id>
+  </point>
+  <point>
+    <name>Efdilos</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221784</id>
+  </point>
+  <point>
+    <name>Foyrni</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221794</id>
+  </point>
+  <point>
+    <name>Pithagorio</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221790</id>
+  </point>
+  <point>
+    <name>Raches</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221793</id>
+  </point>
+  <point>
+    <name>Agios Kirikos</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221783</id>
+  </point>
+  <point>
+    <name>Karlovasi</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221785</id>
+  </point>
+  <point>
+    <name>Marathokabos</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221786</id>
+  </point>
+  <point>
+    <name>Mitilinii</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221789</id>
+  </point>
+  <point>
+    <name>Pirgos</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221791</id>
+  </point>
+  <point>
+    <name>Pirgos Samoy</name>
+    <region>North Aegean</region>
+    <district>Samos</district>
+    <id>221792</id>
+  </point>
+  <point>
+    <name>Astros</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222065</id>
+  </point>
+  <point>
+    <name>Dimitsana</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222069</id>
+  </point>
+  <point>
+    <name>Karitena</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222070</id>
+  </point>
+  <point>
+    <name>Kato Asea</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222071</id>
+  </point>
+  <point>
+    <name>Kodovazena</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222072</id>
+  </point>
+  <point>
+    <name>Lagkadia</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222073</id>
+  </point>
+  <point>
+    <name>Leodari</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222075</id>
+  </point>
+  <point>
+    <name>Leonidi</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222076</id>
+  </point>
+  <point>
+    <name>Levidi</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222074</id>
+  </point>
+  <point>
+    <name>Megalopoli</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222077</id>
+  </point>
+  <point>
+    <name>Messolonghi</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>12623</id>
+  </point>
+  <point>
+    <name>Paloyba</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222078</id>
+  </point>
+  <point>
+    <name>Paralio Astros</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222079</id>
+  </point>
+  <point>
+    <name>Peloponnese (peninsula)</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>141491</id>
+  </point>
+  <point>
+    <name>Stadio</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222080</id>
+  </point>
+  <point>
+    <name>Tripoli</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>12622</id>
+  </point>
+  <point>
+    <name>Tripoli (airport)</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>9675</id>
+  </point>
+  <point>
+    <name>Tropea</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222081</id>
+  </point>
+  <point>
+    <name>Tyros</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222082</id>
+  </point>
+  <point>
+    <name>Valtesiniko</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222066</id>
+  </point>
+  <point>
+    <name>Vitina</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222068</id>
+  </point>
+  <point>
+    <name>Vlachokerasia</name>
+    <region>Peloponnese</region>
+    <district>Arcadia</district>
+    <id>222067</id>
+  </point>
+  <point>
+    <name>Agia Triada (Merbaka)</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222055</id>
+  </point>
+  <point>
+    <name>Argos</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222056</id>
+  </point>
+  <point>
+    <name>Drepano</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222057</id>
+  </point>
+  <point>
+    <name>Ermioni</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222058</id>
+  </point>
+  <point>
+    <name>Kranidi</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222059</id>
+  </point>
+  <point>
+    <name>Ligoyrio</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222060</id>
+  </point>
+  <point>
+    <name>Nafplion</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>12625</id>
+  </point>
+  <point>
+    <name>Nea Epidairos</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222061</id>
+  </point>
+  <point>
+    <name>Nea Kios</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222062</id>
+  </point>
+  <point>
+    <name>Palea Epidairos</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222063</id>
+  </point>
+  <point>
+    <name>Tolo</name>
+    <region>Peloponnese</region>
+    <district>Argolis</district>
+    <id>222064</id>
+  </point>
+  <point>
+    <name>Agii Theodori</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>222083</id>
+  </point>
+  <point>
+    <name>Archea Korinthos</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221606</id>
+  </point>
+  <point>
+    <name>Athikia</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221605</id>
+  </point>
+  <point>
+    <name>Corinth</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>12720</id>
+  </point>
+  <point>
+    <name>Derveni</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221610</id>
+  </point>
+  <point>
+    <name>Gkoyra</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221609</id>
+  </point>
+  <point>
+    <name>Isthmia</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221612</id>
+  </point>
+  <point>
+    <name>Kaliani</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221613</id>
+  </point>
+  <point>
+    <name>Kiato</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221614</id>
+  </point>
+  <point>
+    <name>Loutraki</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>141468</id>
+  </point>
+  <point>
+    <name>Loytraki</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221615</id>
+  </point>
+  <point>
+    <name>Nemea</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221616</id>
+  </point>
+  <point>
+    <name>Perigiali</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221618</id>
+  </point>
+  <point>
+    <name>Velo</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221607</id>
+  </point>
+  <point>
+    <name>Vrachati</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221608</id>
+  </point>
+  <point>
+    <name>Xilokastro</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221617</id>
+  </point>
+  <point>
+    <name>Zefgolatio</name>
+    <region>Peloponnese</region>
+    <district>Corinthia</district>
+    <id>221611</id>
+  </point>
+  <point>
+    <name>Areopoli</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222103</id>
+  </point>
+  <point>
+    <name>Gerolimenas</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222105</id>
+  </point>
+  <point>
+    <name>Githio</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222106</id>
+  </point>
+  <point>
+    <name>Karyes</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222107</id>
+  </point>
+  <point>
+    <name>Kastorio</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222108</id>
+  </point>
+  <point>
+    <name>Krokees</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222109</id>
+  </point>
+  <point>
+    <name>Molai</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222110</id>
+  </point>
+  <point>
+    <name>Monemvasia</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222111</id>
+  </point>
+  <point>
+    <name>Neapoli</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222112</id>
+  </point>
+  <point>
+    <name>Niata</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222113</id>
+  </point>
+  <point>
+    <name>Papadianika</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222115</id>
+  </point>
+  <point>
+    <name>Skala</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222116</id>
+  </point>
+  <point>
+    <name>Sparti</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222098</id>
+  </point>
+  <point>
+    <name>Vlachiotis</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222104</id>
+  </point>
+  <point>
+    <name>Xirokabi</name>
+    <region>Peloponnese</region>
+    <district>Laconia</district>
+    <id>222114</id>
+  </point>
+  <point>
+    <name>Agios Nikolaos</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221619</id>
+  </point>
+  <point>
+    <name>Androysa</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221620</id>
+  </point>
+  <point>
+    <name>Aristomenis</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221621</id>
+  </point>
+  <point>
+    <name>Chatzis</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221638</id>
+  </point>
+  <point>
+    <name>Chora</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221639</id>
+  </point>
+  <point>
+    <name>Diavolitsi</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221623</id>
+  </point>
+  <point>
+    <name>Dorio</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221624</id>
+  </point>
+  <point>
+    <name>Filiatra</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221637</id>
+  </point>
+  <point>
+    <name>Gargaliani</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221622</id>
+  </point>
+  <point>
+    <name>Kabos</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221626</id>
+  </point>
+  <point>
+    <name>Kalamata (airport)</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>9681</id>
+  </point>
+  <point>
+    <name>Kardamili</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221627</id>
+  </point>
+  <point>
+    <name>Kiparissia</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221630</id>
+  </point>
+  <point>
+    <name>Kopanaki</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221628</id>
+  </point>
+  <point>
+    <name>Koroni</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221629</id>
+  </point>
+  <point>
+    <name>Loga</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221631</id>
+  </point>
+  <point>
+    <name>Meligalas</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221632</id>
+  </point>
+  <point>
+    <name>Messini</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221633</id>
+  </point>
+  <point>
+    <name>Methoni</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>9683</id>
+  </point>
+  <point>
+    <name>Paralia Kalamatas</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221634</id>
+  </point>
+  <point>
+    <name>Petalidi</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221635</id>
+  </point>
+  <point>
+    <name>Pilos</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221636</id>
+  </point>
+  <point>
+    <name>Pshari</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221640</id>
+  </point>
+  <point>
+    <name>Thoyria</name>
+    <region>Peloponnese</region>
+    <district>Messinia</district>
+    <id>221625</id>
+  </point>
+  <point>
+    <name>Adamas</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222032</id>
+  </point>
+  <point>
+    <name>Adiparos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222036</id>
+  </point>
+  <point>
+    <name>Amorgos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222033</id>
+  </point>
+  <point>
+    <name>Anafi</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222034</id>
+  </point>
+  <point>
+    <name>Andros</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222035</id>
+  </point>
+  <point>
+    <name>Chalkio</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222054</id>
+  </point>
+  <point>
+    <name>Eborion</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222038</id>
+  </point>
+  <point>
+    <name>Ermoupoli</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>98809</id>
+  </point>
+  <point>
+    <name>Folegandros</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222053</id>
+  </point>
+  <point>
+    <name>Gairio</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222037</id>
+  </point>
+  <point>
+    <name>Ia</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222046</id>
+  </point>
+  <point>
+    <name>Ios Island</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>141483</id>
+  </point>
+  <point>
+    <name>Ioylis</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222040</id>
+  </point>
+  <point>
+    <name>Kimolos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222041</id>
+  </point>
+  <point>
+    <name>Kithnos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222043</id>
+  </point>
+  <point>
+    <name>Korthio</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222042</id>
+  </point>
+  <point>
+    <name>Milos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>9684</id>
+  </point>
+  <point>
+    <name>Mykonos (airport)</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>508558</id>
+  </point>
+  <point>
+    <name>Mykonos Island</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>141486</id>
+  </point>
+  <point>
+    <name>Naoysa Paroy</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222045</id>
+  </point>
+  <point>
+    <name>Naxos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>9682</id>
+  </point>
+  <point>
+    <name>Naxos Island (airport)</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>508956</id>
+  </point>
+  <point>
+    <name>Panormos Tinoy</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222047</id>
+  </point>
+  <point>
+    <name>Paros</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222048</id>
+  </point>
+  <point>
+    <name>Paros (airport)</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>508594</id>
+  </point>
+  <point>
+    <name>Santorini (airport)</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>9687</id>
+  </point>
+  <point>
+    <name>Santorini Island</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>141480</id>
+  </point>
+  <point>
+    <name>Serifos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222049</id>
+  </point>
+  <point>
+    <name>Sifnos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222051</id>
+  </point>
+  <point>
+    <name>Sikinos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222050</id>
+  </point>
+  <point>
+    <name>Syros Island (airport)</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>508699</id>
+  </point>
+  <point>
+    <name>Thira</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222039</id>
+  </point>
+  <point>
+    <name>Tinos</name>
+    <region>South Aegean</region>
+    <district>Cyclades</district>
+    <id>222052</id>
+  </point>
+  <point>
+    <name>Adimachia</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222297</id>
+  </point>
+  <point>
+    <name>Afadoy</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222300</id>
+  </point>
+  <point>
+    <name>Archagelos</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222298</id>
+  </point>
+  <point>
+    <name>Astipalea</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222299</id>
+  </point>
+  <point>
+    <name>Chalki</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222317</id>
+  </point>
+  <point>
+    <name>Gennadi</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222301</id>
+  </point>
+  <point>
+    <name>Ialisos</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222302</id>
+  </point>
+  <point>
+    <name>Ikaria (airport)</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>510753</id>
+  </point>
+  <point>
+    <name>Ikaria Island</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>141482</id>
+  </point>
+  <point>
+    <name>Kalimnos</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222303</id>
+  </point>
+  <point>
+    <name>Karpathos</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222304</id>
+  </point>
+  <point>
+    <name>Karpathos (airport)</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>9696</id>
+  </point>
+  <point>
+    <name>Kasos</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222305</id>
+  </point>
+  <point>
+    <name>Kastelorizo</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>510751</id>
+  </point>
+  <point>
+    <name>Kos (airport)</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>9685</id>
+  </point>
+  <point>
+    <name>Kremasti</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222306</id>
+  </point>
+  <point>
+    <name>Leros</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222308</id>
+  </point>
+  <point>
+    <name>Leros (airport)</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>510752</id>
+  </point>
+  <point>
+    <name>Lindos</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222309</id>
+  </point>
+  <point>
+    <name>Lipshi</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222307</id>
+  </point>
+  <point>
+    <name>Megisti</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222310</id>
+  </point>
+  <point>
+    <name>Nisiros</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222311</id>
+  </point>
+  <point>
+    <name>Paradisi</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222312</id>
+  </point>
+  <point>
+    <name>Patmos</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222313</id>
+  </point>
+  <point>
+    <name>Rhodes</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222099</id>
+  </point>
+  <point>
+    <name>Rhodes (airport)</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>9689</id>
+  </point>
+  <point>
+    <name>Simi</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222315</id>
+  </point>
+  <point>
+    <name>Tilos</name>
+    <region>South Aegean</region>
+    <district>Dodecanese</district>
+    <id>222316</id>
+  </point>
+  <point>
+    <name>Karditsa</name>
+    <region>Thessaly</region>
+    <district>Karditsa</district>
+    <id>222100</id>
+  </point>
+  <point>
+    <name>Moyzaki</name>
+    <region>Thessaly</region>
+    <district>Karditsa</district>
+    <id>222222</id>
+  </point>
+  <point>
+    <name>Palamas</name>
+    <region>Thessaly</region>
+    <district>Karditsa</district>
+    <id>222223</id>
+  </point>
+  <point>
+    <name>Proastio</name>
+    <region>Thessaly</region>
+    <district>Karditsa</district>
+    <id>222224</id>
+  </point>
+  <point>
+    <name>Sofades</name>
+    <region>Thessaly</region>
+    <district>Karditsa</district>
+    <id>222225</id>
+  </point>
+  <point>
+    <name>Agnadero</name>
+    <region>Thessaly</region>
+    <district>Karditsa</district>
+    <id>222217</id>
+  </point>
+  <point>
+    <name>Anthiro</name>
+    <region>Thessaly</region>
+    <district>Karditsa</district>
+    <id>222218</id>
+  </point>
+  <point>
+    <name>Itea</name>
+    <region>Thessaly</region>
+    <district>Karditsa</district>
+    <id>222219</id>
+  </point>
+  <point>
+    <name>Mesenikolas</name>
+    <region>Thessaly</region>
+    <district>Karditsa</district>
+    <id>222221</id>
+  </point>
+  <point>
+    <name>Larissa (airport)</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>9659</id>
+  </point>
+  <point>
+    <name>Abelonas</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221896</id>
+  </point>
+  <point>
+    <name>Kranea</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221900</id>
+  </point>
+  <point>
+    <name>Platikabos</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221904</id>
+  </point>
+  <point>
+    <name>Verdikoyssa</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221897</id>
+  </point>
+  <point>
+    <name>Agia</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221895</id>
+  </point>
+  <point>
+    <name>Elassona</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221899</id>
+  </point>
+  <point>
+    <name>Falani</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221908</id>
+  </point>
+  <point>
+    <name>Farsala</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221909</id>
+  </point>
+  <point>
+    <name>Gonni</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221898</id>
+  </point>
+  <point>
+    <name>Livadi</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221903</id>
+  </point>
+  <point>
+    <name>Pirgetos</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221905</id>
+  </point>
+  <point>
+    <name>Sikoyri</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221906</id>
+  </point>
+  <point>
+    <name>Tirnavos</name>
+    <region>Thessaly</region>
+    <district>Larissa</district>
+    <id>221907</id>
+  </point>
+  <point>
+    <name>Agria</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221910</id>
+  </point>
+  <point>
+    <name>Almiros</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221911</id>
+  </point>
+  <point>
+    <name>Alonnisos</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221912</id>
+  </point>
+  <point>
+    <name>Anchialos (airport)</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>9662</id>
+  </point>
+  <point>
+    <name>Argalasti</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221913</id>
+  </point>
+  <point>
+    <name>Milies</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221916</id>
+  </point>
+  <point>
+    <name>Milina</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221917</id>
+  </point>
+  <point>
+    <name>N. Ionia Voloy</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221918</id>
+  </point>
+  <point>
+    <name>Nea Agchialos</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221920</id>
+  </point>
+  <point>
+    <name>Portaria</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221921</id>
+  </point>
+  <point>
+    <name>Skiathos Island</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>141487</id>
+  </point>
+  <point>
+    <name>Skiathos Island (airport)</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>508984</id>
+  </point>
+  <point>
+    <name>Skopelos</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221922</id>
+  </point>
+  <point>
+    <name>Soyrpi</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221923</id>
+  </point>
+  <point>
+    <name>Trikeri</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221924</id>
+  </point>
+  <point>
+    <name>Tsagkarada</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221925</id>
+  </point>
+  <point>
+    <name>Velestino</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221914</id>
+  </point>
+  <point>
+    <name>Volos</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>12614</id>
+  </point>
+  <point>
+    <name>Zagora</name>
+    <region>Thessaly</region>
+    <district>Magnesia</district>
+    <id>221915</id>
+  </point>
+  <point>
+    <name>Trikala</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>9658</id>
+  </point>
+  <point>
+    <name>Ichalia</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>221932</id>
+  </point>
+  <point>
+    <name>Karditsa</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>12709</id>
+  </point>
+  <point>
+    <name>Kastanea</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>221929</id>
+  </point>
+  <point>
+    <name>Mirofillo</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>221931</id>
+  </point>
+  <point>
+    <name>Agiofillo</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>221926</id>
+  </point>
+  <point>
+    <name>Farkadona</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>221934</id>
+  </point>
+  <point>
+    <name>Kalabaka</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>221928</id>
+  </point>
+  <point>
+    <name>Mesochora</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>221930</id>
+  </point>
+  <point>
+    <name>Pili</name>
+    <region>Thessaly</region>
+    <district>Trikala</district>
+    <id>221933</id>
+  </point>
+  <point>
+    <name>Agios Stefanos</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221797</id>
+  </point>
+  <point>
+    <name>Akrata</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221800</id>
+  </point>
+  <point>
+    <name>Araxos (airport)</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>9670</id>
+  </point>
+  <point>
+    <name>Aroania</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221801</id>
+  </point>
+  <point>
+    <name>Chalandritsa</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221809</id>
+  </point>
+  <point>
+    <name>Dafni</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221803</id>
+  </point>
+  <point>
+    <name>Diakopto</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221804</id>
+  </point>
+  <point>
+    <name>Egio</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221799</id>
+  </point>
+  <point>
+    <name>Egira</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221798</id>
+  </point>
+  <point>
+    <name>Erimanthia</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221805</id>
+  </point>
+  <point>
+    <name>Kalavrita</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221806</id>
+  </point>
+  <point>
+    <name>Kato Achea</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221807</id>
+  </point>
+  <point>
+    <name>Klitoria</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221808</id>
+  </point>
+  <point>
+    <name>Patras</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>9671</id>
+  </point>
+  <point>
+    <name>Vrachneika</name>
+    <region>West Greece</region>
+    <district>Achaea</district>
+    <id>221802</id>
+  </point>
+  <point>
+    <name>Adirrio</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222178</id>
+  </point>
+  <point>
+    <name>Agios Konstadinos</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222174</id>
+  </point>
+  <point>
+    <name>Agios Vlasios</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222173</id>
+  </point>
+  <point>
+    <name>Agrinio</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>12609</id>
+  </point>
+  <point>
+    <name>Agrinio (airport)</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>9664</id>
+  </point>
+  <point>
+    <name>Amfilochia</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222177</id>
+  </point>
+  <point>
+    <name>Ano Chora</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222179</id>
+  </point>
+  <point>
+    <name>Astakos</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222180</id>
+  </point>
+  <point>
+    <name>Ebesos</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222183</id>
+  </point>
+  <point>
+    <name>Efinochori</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222184</id>
+  </point>
+  <point>
+    <name>Etoliko</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222176</id>
+  </point>
+  <point>
+    <name>Fities</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222202</id>
+  </point>
+  <point>
+    <name>Gavaloy</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222182</id>
+  </point>
+  <point>
+    <name>Katochi</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222187</id>
+  </point>
+  <point>
+    <name>Katoyna</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222186</id>
+  </point>
+  <point>
+    <name>Klepa</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222188</id>
+  </point>
+  <point>
+    <name>Mataragka</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222189</id>
+  </point>
+  <point>
+    <name>Menidi</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222190</id>
+  </point>
+  <point>
+    <name>Mesologi</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222192</id>
+  </point>
+  <point>
+    <name>Messolonghi</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222101</id>
+  </point>
+  <point>
+    <name>Mitikas</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222193</id>
+  </point>
+  <point>
+    <name>Naipaktos</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222194</id>
+  </point>
+  <point>
+    <name>Neochori</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222195</id>
+  </point>
+  <point>
+    <name>Paleros</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222196</id>
+  </point>
+  <point>
+    <name>Panetolio</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222198</id>
+  </point>
+  <point>
+    <name>Paravola</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222199</id>
+  </point>
+  <point>
+    <name>Platanos</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222200</id>
+  </point>
+  <point>
+    <name>Simos</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222201</id>
+  </point>
+  <point>
+    <name>Thermo</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222185</id>
+  </point>
+  <point>
+    <name>Vonitsa</name>
+    <region>West Greece</region>
+    <district>Aetolia-Acarnania</district>
+    <id>222181</id>
+  </point>
+  <point>
+    <name>Amaliada</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221810</id>
+  </point>
+  <point>
+    <name>Andravida (airport)</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>9667</id>
+  </point>
+  <point>
+    <name>Andritsena</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221811</id>
+  </point>
+  <point>
+    <name>Archea Olibia</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221812</id>
+  </point>
+  <point>
+    <name>Efira</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221816</id>
+  </point>
+  <point>
+    <name>Epitalio</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221815</id>
+  </point>
+  <point>
+    <name>Gastoyni</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221814</id>
+  </point>
+  <point>
+    <name>Kallithea</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221818</id>
+  </point>
+  <point>
+    <name>Karatoyla</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221819</id>
+  </point>
+  <point>
+    <name>Katakolo</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221820</id>
+  </point>
+  <point>
+    <name>Killini</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221822</id>
+  </point>
+  <point>
+    <name>Krestena</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221821</id>
+  </point>
+  <point>
+    <name>Labia</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221824</id>
+  </point>
+  <point>
+    <name>Lalas</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221823</id>
+  </point>
+  <point>
+    <name>Lechena</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221825</id>
+  </point>
+  <point>
+    <name>Nea Figalia</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221826</id>
+  </point>
+  <point>
+    <name>Pyrgos</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>12667</id>
+  </point>
+  <point>
+    <name>Tragano</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221827</id>
+  </point>
+  <point>
+    <name>Vartholomio</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221813</id>
+  </point>
+  <point>
+    <name>Zacharo</name>
+    <region>West Greece</region>
+    <district>Ilia</district>
+    <id>221817</id>
+  </point>
+  <point>
+    <name>Florina</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>9649</id>
+  </point>
+  <point>
+    <name>Amideo</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>221852</id>
+  </point>
+  <point>
+    <name>Lechovo</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>221855</id>
+  </point>
+  <point>
+    <name>Vefi</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>221854</id>
+  </point>
+  <point>
+    <name>Xino Nero</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>221857</id>
+  </point>
+  <point>
+    <name>Adartiko</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>221853</id>
+  </point>
+  <point>
+    <name>Agios Germanos</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>221851</id>
+  </point>
+  <point>
+    <name>Filotas</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>221859</id>
+  </point>
+  <point>
+    <name>Meliti</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>221856</id>
+  </point>
+  <point>
+    <name>Sklithro</name>
+    <region>West Macedonia</region>
+    <district>Florina</district>
+    <id>221858</id>
+  </point>
+  <point>
+    <name>Grevena</name>
+    <region>West Macedonia</region>
+    <district>Grevena</district>
+    <id>222102</id>
+  </point>
+  <point>
+    <name>Agios Georgios</name>
+    <region>West Macedonia</region>
+    <district>Grevena</district>
+    <id>222208</id>
+  </point>
+  <point>
+    <name>Deskati</name>
+    <region>West Macedonia</region>
+    <district>Grevena</district>
+    <id>222210</id>
+  </point>
+  <point>
+    <name>Polineri</name>
+    <region>West Macedonia</region>
+    <district>Grevena</district>
+    <id>222211</id>
+  </point>
+  <point>
+    <name>Vasilitsa</name>
+    <region>West Macedonia</region>
+    <district>Grevena</district>
+    <id>141477</id>
+  </point>
+  <point>
+    <name>Kastoria</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>9650</id>
+  </point>
+  <point>
+    <name>Korisos</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>221834</id>
+  </point>
+  <point>
+    <name>Mairochori</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>221836</id>
+  </point>
+  <point>
+    <name>Makrochori</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>221835</id>
+  </point>
+  <point>
+    <name>Vogatsiko</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>221831</id>
+  </point>
+  <point>
+    <name>Akrites</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>221833</id>
+  </point>
+  <point>
+    <name>Argos Orestiko</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>221829</id>
+  </point>
+  <point>
+    <name>Dispilio</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>221832</id>
+  </point>
+  <point>
+    <name>Nestorio</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>221837</id>
+  </point>
+  <point>
+    <name>Vitsi</name>
+    <region>West Macedonia</region>
+    <district>Kastoria</district>
+    <id>221830</id>
+  </point>
+  <point>
+    <name>Kozani</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>9654</id>
+  </point>
+  <point>
+    <name>Eani</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221838</id>
+  </point>
+  <point>
+    <name>Kozani (airport)</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>509742</id>
+  </point>
+  <point>
+    <name>Servia</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221848</id>
+  </point>
+  <point>
+    <name>Tsotili</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221850</id>
+  </point>
+  <point>
+    <name>Eborio</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221840</id>
+  </point>
+  <point>
+    <name>Eratira</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221841</id>
+  </point>
+  <point>
+    <name>Krokos</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221843</id>
+  </point>
+  <point>
+    <name>Neapoli</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221844</id>
+  </point>
+  <point>
+    <name>Pedalofos</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221845</id>
+  </point>
+  <point>
+    <name>Pirgi</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221847</id>
+  </point>
+  <point>
+    <name>Ptolemeda</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221846</id>
+  </point>
+  <point>
+    <name>Siatista</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221849</id>
+  </point>
+  <point>
+    <name>Velvedos</name>
+    <region>West Macedonia</region>
+    <district>Kozani</district>
+    <id>221839</id>
+  </point>
+</country>

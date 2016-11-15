@@ -1,0 +1,492 @@
+<region name="Rhode Island" count="84">
+  <point>
+    <name>Bristol</name>
+    <district>Bristol</district>
+    <id>256653</id>
+  </point>
+  <point>
+    <name>Barrington</name>
+    <district>Bristol</district>
+    <id>281904</id>
+  </point>
+  <point>
+    <name>Prudence Island</name>
+    <district>Bristol</district>
+    <id>281905</id>
+  </point>
+  <point>
+    <name>Warren</name>
+    <district>Bristol</district>
+    <id>281906</id>
+  </point>
+  <point>
+    <name>Coventry</name>
+    <region>Rhode Island</region>
+    <district>Kent</district>
+    <id>281907</id>
+  </point>
+  <point>
+    <name>East Greenwich</name>
+    <region>Rhode Island</region>
+    <district>Kent</district>
+    <id>257540</id>
+  </point>
+  <point>
+    <name>Greene</name>
+    <region>Rhode Island</region>
+    <district>Kent</district>
+    <id>281908</id>
+  </point>
+  <point>
+    <name>Warwick (airport)</name>
+    <region>Rhode Island</region>
+    <district>Kent</district>
+    <id>281909</id>
+  </point>
+  <point>
+    <name>West Greenwich</name>
+    <region>Rhode Island</region>
+    <district>Kent</district>
+    <id>281910</id>
+  </point>
+  <point>
+    <name>West Warwick</name>
+    <region>Rhode Island</region>
+    <district>Kent</district>
+    <id>281911</id>
+  </point>
+  <point>
+    <name>Newport</name>
+    <district>Newport</district>
+    <id>257541</id>
+  </point>
+  <point>
+    <name>Adamsville</name>
+    <district>Newport</district>
+    <id>281912</id>
+  </point>
+  <point>
+    <name>Newport (airport)</name>
+    <district>Newport</district>
+    <id>509629</id>
+  </point>
+  <point>
+    <name>Quonset State (airport)</name>
+    <district>Newport</district>
+    <id>508620</id>
+  </point>
+  <point>
+    <name>Tiverton</name>
+    <district>Newport</district>
+    <id>281918</id>
+  </point>
+  <point>
+    <name>Jamestown</name>
+    <region>Rhode Island</region>
+    <district>Newport</district>
+    <id>281913</id>
+  </point>
+  <point>
+    <name>Little Compton</name>
+    <region>Rhode Island</region>
+    <district>Newport</district>
+    <id>281915</id>
+  </point>
+  <point>
+    <name>Middletown</name>
+    <region>Rhode Island</region>
+    <district>Newport</district>
+    <id>281916</id>
+  </point>
+  <point>
+    <name>Portsmouth</name>
+    <region>Rhode Island</region>
+    <district>Newport</district>
+    <id>281917</id>
+  </point>
+  <point>
+    <name>Providence</name>
+    <district>Providence</district>
+    <id>257542</id>
+  </point>
+  <point>
+    <name>Albion</name>
+    <district>Providence</district>
+    <id>281919</id>
+  </point>
+  <point>
+    <name>Pawtucket</name>
+    <district>Providence</district>
+    <id>281948</id>
+  </point>
+  <point>
+    <name>Pawtucket (airport)</name>
+    <district>Providence</district>
+    <id>508863</id>
+  </point>
+  <point>
+    <name>Valley Falls</name>
+    <district>Providence</district>
+    <id>281956</id>
+  </point>
+  <point>
+    <name>Brown Station</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281920</id>
+  </point>
+  <point>
+    <name>Burrillville</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281921</id>
+  </point>
+  <point>
+    <name>Central Falls</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281922</id>
+  </point>
+  <point>
+    <name>Chepachet</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281923</id>
+  </point>
+  <point>
+    <name>Clayville</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281924</id>
+  </point>
+  <point>
+    <name>Cranston</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281925</id>
+  </point>
+  <point>
+    <name>Cumberland</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281926</id>
+  </point>
+  <point>
+    <name>East Providence</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281927</id>
+  </point>
+  <point>
+    <name>Fiskeville</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281928</id>
+  </point>
+  <point>
+    <name>Forestdale</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281930</id>
+  </point>
+  <point>
+    <name>Foster</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281931</id>
+  </point>
+  <point>
+    <name>Friar Station</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281932</id>
+  </point>
+  <point>
+    <name>Glendale</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281933</id>
+  </point>
+  <point>
+    <name>Greenville</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281934</id>
+  </point>
+  <point>
+    <name>Harmony</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281935</id>
+  </point>
+  <point>
+    <name>Harrisville</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281936</id>
+  </point>
+  <point>
+    <name>Hope</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281937</id>
+  </point>
+  <point>
+    <name>Johnston</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281938</id>
+  </point>
+  <point>
+    <name>Lincoln</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281939</id>
+  </point>
+  <point>
+    <name>Manville</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281941</id>
+  </point>
+  <point>
+    <name>Mapleville</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281942</id>
+  </point>
+  <point>
+    <name>North Providence</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281943</id>
+  </point>
+  <point>
+    <name>North Scituate</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281944</id>
+  </point>
+  <point>
+    <name>North Smithfield</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281945</id>
+  </point>
+  <point>
+    <name>Oakland</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281946</id>
+  </point>
+  <point>
+    <name>Pascoag</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281947</id>
+  </point>
+  <point>
+    <name>Riverside</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281950</id>
+  </point>
+  <point>
+    <name>Rumford</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281951</id>
+  </point>
+  <point>
+    <name>Scituate</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281952</id>
+  </point>
+  <point>
+    <name>Slatersville</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281954</id>
+  </point>
+  <point>
+    <name>Smithfield</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281955</id>
+  </point>
+  <point>
+    <name>Woonsocket</name>
+    <region>Rhode Island</region>
+    <district>Providence</district>
+    <id>281957</id>
+  </point>
+  <point>
+    <name>Ashaway</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281958</id>
+  </point>
+  <point>
+    <name>Block Island</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281959</id>
+  </point>
+  <point>
+    <name>Block Island, Block Island State (airport)</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>509358</id>
+  </point>
+  <point>
+    <name>Bradford</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281960</id>
+  </point>
+  <point>
+    <name>Carolina</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281961</id>
+  </point>
+  <point>
+    <name>Charlestown</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281962</id>
+  </point>
+  <point>
+    <name>Escoheag</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281963</id>
+  </point>
+  <point>
+    <name>Exeter</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281964</id>
+  </point>
+  <point>
+    <name>Hope Valley</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281965</id>
+  </point>
+  <point>
+    <name>Hopkinton</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281966</id>
+  </point>
+  <point>
+    <name>Kenyon</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281967</id>
+  </point>
+  <point>
+    <name>Kingston</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281968</id>
+  </point>
+  <point>
+    <name>Narragansett</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281969</id>
+  </point>
+  <point>
+    <name>New Shoreham</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281970</id>
+  </point>
+  <point>
+    <name>North Kingstown</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281971</id>
+  </point>
+  <point>
+    <name>Peace Dale</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281972</id>
+  </point>
+  <point>
+    <name>Point Judith</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281973</id>
+  </point>
+  <point>
+    <name>Richmond</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281974</id>
+  </point>
+  <point>
+    <name>Rockville</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281975</id>
+  </point>
+  <point>
+    <name>Saunderstown</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281976</id>
+  </point>
+  <point>
+    <name>Shannock</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281977</id>
+  </point>
+  <point>
+    <name>Slocum</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281978</id>
+  </point>
+  <point>
+    <name>South Kingstown</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281979</id>
+  </point>
+  <point>
+    <name>Wakefield</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>257538</id>
+  </point>
+  <point>
+    <name>West Kingston</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281980</id>
+  </point>
+  <point>
+    <name>Westerly (airport)</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281981</id>
+  </point>
+  <point>
+    <name>Wood River Junction</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281982</id>
+  </point>
+  <point>
+    <name>Wyoming</name>
+    <region>Rhode Island</region>
+    <district>Washington</district>
+    <id>281983</id>
+  </point>
+</region>

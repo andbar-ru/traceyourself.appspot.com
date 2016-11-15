@@ -1,0 +1,962 @@
+<country name="Таиланд" count="160">
+  <point>
+    <name>Амнатчарен</name>
+    <region>Амнатчарен</region>
+    <district>Амнатчарен</district>
+    <id>180955</id>
+  </point>
+  <point>
+    <name>Ангтхонг</name>
+    <region>Ангтхонг</region>
+    <district>Ангтхонг</district>
+    <id>180956</id>
+  </point>
+  <point>
+    <name>Аюттхая</name>
+    <region>Аюттхая</region>
+    <district>Аюттхая</district>
+    <id>170817</id>
+  </point>
+  <point>
+    <name>Бангкок</name>
+    <region>Бангкок</region>
+    <district>Бангкок</district>
+    <id>170509</id>
+  </point>
+  <point>
+    <name>Бангкок (метеостанция 48455)</name>
+    <region>Бангкок</region>
+    <district>Бангкок (метеостанция 48455)</district>
+    <id>11487</id>
+  </point>
+  <point>
+    <name>Бангкок (станция пилотов)</name>
+    <region>Бангкок</region>
+    <district>Бангкок (станция пилотов)</district>
+    <id>170510</id>
+  </point>
+  <point>
+    <name>Донмуанг (аэропорт)</name>
+    <region>Бангкок</region>
+    <district>Донмуанг (аэропорт)</district>
+    <id>11488</id>
+  </point>
+  <point>
+    <name>Бурирам</name>
+    <region>Бурирам</region>
+    <district>Бурирам</district>
+    <id>170503</id>
+  </point>
+  <point>
+    <name>Бурирам (аэропорт)</name>
+    <region>Бурирам</region>
+    <district>Бурирам (аэропорт)</district>
+    <id>510428</id>
+  </point>
+  <point>
+    <name>Нанг Ронг</name>
+    <region>Бурирам</region>
+    <district>Нанг Ронг</district>
+    <id>170502</id>
+  </point>
+  <point>
+    <name>Каласин</name>
+    <region>Каласин</region>
+    <district>Каласин</district>
+    <id>151837</id>
+  </point>
+  <point>
+    <name>Камаласаи</name>
+    <region>Каласин</region>
+    <district>Камаласаи</district>
+    <id>170498</id>
+  </point>
+  <point>
+    <name>Кампхэнгпкет</name>
+    <region>Кампхэнгпхет</region>
+    <district>Кампхэнгпкет</district>
+    <id>11470</id>
+  </point>
+  <point>
+    <name>Канчанабури</name>
+    <region>Канчанабури</region>
+    <district>Канчанабури</district>
+    <id>11486</id>
+  </point>
+  <point>
+    <name>Тхонгпхапхум</name>
+    <region>Канчанабури</region>
+    <district>Тхонгпхапхум</district>
+    <id>11480</id>
+  </point>
+  <point>
+    <name>Краби</name>
+    <region>Краби</region>
+    <district>Краби</district>
+    <id>11508</id>
+  </point>
+  <point>
+    <name>Ко-Ланта</name>
+    <region>Краби</region>
+    <district>Ко-Ланта</district>
+    <id>11511</id>
+  </point>
+  <point>
+    <name>Краби (аэропорт)</name>
+    <region>Краби</region>
+    <district>Краби (аэропорт)</district>
+    <id>508492</id>
+  </point>
+  <point>
+    <name>Пхи-Пхи</name>
+    <region>Краби</region>
+    <district>Пхи-Пхи</district>
+    <id>13727</id>
+  </point>
+  <point>
+    <name>Кхонкэн</name>
+    <region>Кхонкэн</region>
+    <district>Кхонкэн</district>
+    <id>11471</id>
+  </point>
+  <point>
+    <name>Кхонкэн (аэропорт)</name>
+    <region>Кхонкэн</region>
+    <district>Кхонкэн (аэропорт)</district>
+    <id>507982</id>
+  </point>
+  <point>
+    <name>Та-Пхра</name>
+    <region>Кхонкэн</region>
+    <district>Та-Пхра</district>
+    <id>170810</id>
+  </point>
+  <point>
+    <name>Лампанг (аэропорт)</name>
+    <region>Лампанг</region>
+    <district>Лампанг (аэропорт)</district>
+    <id>11455</id>
+  </point>
+  <point>
+    <name>Лампанг</name>
+    <region>Лампанг</region>
+    <district>Лампанг</district>
+    <id>170804</id>
+  </point>
+  <point>
+    <name>Тоен</name>
+    <region>Лампанг</region>
+    <district>Тоен</district>
+    <id>170802</id>
+  </point>
+  <point>
+    <name>Лампхун</name>
+    <region>Лампхун</region>
+    <district>Лампхун</district>
+    <id>11456</id>
+  </point>
+  <point>
+    <name>Лей (аэропорт)</name>
+    <region>Лей</region>
+    <district>Лей (аэропорт)</district>
+    <id>11461</id>
+  </point>
+  <point>
+    <name>Лей</name>
+    <region>Лей</region>
+    <district>Лей</district>
+    <id>170805</id>
+  </point>
+  <point>
+    <name>Лопбури</name>
+    <region>Лопбури</region>
+    <district>Лопбури</district>
+    <id>11482</id>
+  </point>
+  <point>
+    <name>Буачум</name>
+    <region>Лопбури</region>
+    <district>Буачум</district>
+    <id>11479</id>
+  </point>
+  <point>
+    <name>Лаемчабанг</name>
+    <region>Лопбури</region>
+    <district>Лаемчабанг</district>
+    <id>11494</id>
+  </point>
+  <point>
+    <name>Махасаракхам</name>
+    <region>Махасаракхам</region>
+    <district>Махасаракхам</district>
+    <id>180957</id>
+  </point>
+  <point>
+    <name>Косумфисай</name>
+    <region>Махасаракхам</region>
+    <district>Косумфисай</district>
+    <id>170495</id>
+  </point>
+  <point>
+    <name>Мукдахан</name>
+    <region>Мукдахан</region>
+    <district>Мукдахан</district>
+    <id>11472</id>
+  </point>
+  <point>
+    <name>Мэхонгсон (аэропорт)</name>
+    <region>Мэхонгсон</region>
+    <district>Мэхонгсон (аэропорт)</district>
+    <id>11449</id>
+  </point>
+  <point>
+    <name>Мэсаранг</name>
+    <region>Мэхонгсон</region>
+    <district>Мэсаранг</district>
+    <id>11453</id>
+  </point>
+  <point>
+    <name>Накхоннайок</name>
+    <region>Накхоннайок</region>
+    <district>Накхоннайок</district>
+    <id>180958</id>
+  </point>
+  <point>
+    <name>Накхонпатхом (метеостанция)</name>
+    <region>Накхонпатхом</region>
+    <district>Накхонпатхом (метеостанция)</district>
+    <id>170807</id>
+  </point>
+  <point>
+    <name>Накхон-Фаном (аэропорт)</name>
+    <region>Накхонпатхом</region>
+    <district>Накхон-Фаном (аэропорт)</district>
+    <id>508561</id>
+  </point>
+  <point>
+    <name>Накхонпатхом</name>
+    <region>Накхонпатхом</region>
+    <district>Накхонпатхом</district>
+    <id>11464</id>
+  </point>
+  <point>
+    <name>Накхонпатхом (метеостанция 48451)</name>
+    <region>Накхонпатхом</region>
+    <district>Накхонпатхом (метеостанция 48451)</district>
+    <id>170824</id>
+  </point>
+  <point>
+    <name>Накхонратчасима</name>
+    <region>Накхонратчасима</region>
+    <district>Накхонратчасима</district>
+    <id>11484</id>
+  </point>
+  <point>
+    <name>Пакчонг (метеостанция)</name>
+    <region>Накхонратчасима</region>
+    <district>Пакчонг (метеостанция)</district>
+    <id>170823</id>
+  </point>
+  <point>
+    <name>Чок Чай</name>
+    <region>Накхонратчасима</region>
+    <district>Чок Чай</district>
+    <id>170501</id>
+  </point>
+  <point>
+    <name>Накхонсаван</name>
+    <region>Накхонсаван</region>
+    <district>Накхонсаван</district>
+    <id>11473</id>
+  </point>
+  <point>
+    <name>Такфа</name>
+    <region>Накхонсаван</region>
+    <district>Такфа</district>
+    <id>170813</id>
+  </point>
+  <point>
+    <name>Накхонситхаммарат</name>
+    <region>Накхонситхаммарат</region>
+    <district>Накхонситхаммарат</district>
+    <id>11506</id>
+  </point>
+  <point>
+    <name>Накхонситхаммарат (аэропорт)</name>
+    <region>Накхонситхаммарат</region>
+    <district>Накхонситхаммарат (аэропорт)</district>
+    <id>509616</id>
+  </point>
+  <point>
+    <name>Накхонситхаммарат (метеостанция)</name>
+    <region>Накхонситхаммарат</region>
+    <district>Накхонситхаммарат (метеостанция)</district>
+    <id>170832</id>
+  </point>
+  <point>
+    <name>Чавенг</name>
+    <region>Накхонситхаммарат</region>
+    <district>Чавенг</district>
+    <id>170512</id>
+  </point>
+  <point>
+    <name>Кханом</name>
+    <region>Накхонситхаммарат</region>
+    <district>Кханом</district>
+    <id>11507</id>
+  </point>
+  <point>
+    <name>Нан (аэропорт)</name>
+    <region>Нан</region>
+    <district>Нан (аэропорт)</district>
+    <id>11458</id>
+  </point>
+  <point>
+    <name>Нан (метеостанция 48333)</name>
+    <region>Нан</region>
+    <district>Нан (метеостанция 48333)</district>
+    <id>170803</id>
+  </point>
+  <point>
+    <name>Таванпха</name>
+    <region>Нан</region>
+    <district>Таванпха</district>
+    <id>11452</id>
+  </point>
+  <point>
+    <name>Тхунг-Чанг</name>
+    <region>Нан</region>
+    <district>Тхунг-Чанг</district>
+    <id>170490</id>
+  </point>
+  <point>
+    <name>Наратхиват (аэропорт)</name>
+    <region>Наратхиват</region>
+    <district>Наратхиват (аэропорт)</district>
+    <id>11517</id>
+  </point>
+  <point>
+    <name>Нонгбуалампху</name>
+    <region>Нонгбуалампху</region>
+    <district>Нонгбуалампху</district>
+    <id>170808</id>
+  </point>
+  <point>
+    <name>Нонгкай</name>
+    <region>Нонгкай</region>
+    <district>Нонгкай</district>
+    <id>11460</id>
+  </point>
+  <point>
+    <name>Нонтхабури</name>
+    <region>Нонтхабури</region>
+    <district>Нонтхабури</district>
+    <id>151836</id>
+  </point>
+  <point>
+    <name>Паккрет</name>
+    <region>Нонтхабури</region>
+    <district>Паккрет</district>
+    <id>151835</id>
+  </point>
+  <point>
+    <name>Паттани</name>
+    <region>Паттани</region>
+    <district>Паттани</district>
+    <id>11516</id>
+  </point>
+  <point>
+    <name>Патхумтхани</name>
+    <region>Патхумтхани</region>
+    <district>Патхумтхани</district>
+    <id>170818</id>
+  </point>
+  <point>
+    <name>Прачинбури</name>
+    <region>Прачинбури</region>
+    <district>Прачинбури</district>
+    <id>11483</id>
+  </point>
+  <point>
+    <name>Кабинбури</name>
+    <region>Прачинбури</region>
+    <district>Кабинбури</district>
+    <id>170506</id>
+  </point>
+  <point>
+    <name>Прачуапкхирикхан</name>
+    <region>Прачуапкхирикхан</region>
+    <district>Прачуапкхирикхан</district>
+    <id>11500</id>
+  </point>
+  <point>
+    <name>Нонгпхлуб</name>
+    <region>Прачуапкхирикхан</region>
+    <district>Нонгпхлуб</district>
+    <id>170828</id>
+  </point>
+  <point>
+    <name>Хуахин (аэропорт)</name>
+    <region>Прачуапкхирикхан</region>
+    <district>Хуахин (аэропорт)</district>
+    <id>11496</id>
+  </point>
+  <point>
+    <name>Пхангнга</name>
+    <region>Пхангнга</region>
+    <district>Пхангнга</district>
+    <id>13726</id>
+  </point>
+  <point>
+    <name>Такуа</name>
+    <region>Пхангнга</region>
+    <district>Такуа</district>
+    <id>170513</id>
+  </point>
+  <point>
+    <name>Хкаолак</name>
+    <region>Пхангнга</region>
+    <district>Хкаолак</district>
+    <id>13724</id>
+  </point>
+  <point>
+    <name>Яо Яи</name>
+    <region>Пхангнга</region>
+    <district>Яо Яи</district>
+    <id>13729</id>
+  </point>
+  <point>
+    <name>Пхатталунг</name>
+    <region>Пхаттхалунг</region>
+    <district>Пхатталунг</district>
+    <id>170834</id>
+  </point>
+  <point>
+    <name>Пхаяу</name>
+    <region>Пхаяу</region>
+    <district>Пхаяу</district>
+    <id>11451</id>
+  </point>
+  <point>
+    <name>Пхетчабун</name>
+    <region>Пхетчабун</region>
+    <district>Пхетчабун</district>
+    <id>11469</id>
+  </point>
+  <point>
+    <name>Вичьянбури</name>
+    <region>Пхетчабун</region>
+    <district>Вичьянбури</district>
+    <id>11477</id>
+  </point>
+  <point>
+    <name>Ломсак</name>
+    <region>Пхетчабун</region>
+    <district>Ломсак</district>
+    <id>170518</id>
+  </point>
+  <point>
+    <name>Пхетчабури</name>
+    <region>Пхетбури(Пхетчатбури)</region>
+    <district>Пхетчабури</district>
+    <id>11495</id>
+  </point>
+  <point>
+    <name>Ча-Ам</name>
+    <region>Пхетбури(Пхетчатбури)</region>
+    <district>Ча-Ам</district>
+    <id>13723</id>
+  </point>
+  <point>
+    <name>Пхитсанулок</name>
+    <region>Пхитсанулок</region>
+    <district>Пхитсанулок</district>
+    <id>11468</id>
+  </point>
+  <point>
+    <name>Пхитсанулок (аэропорт)</name>
+    <region>Пхитсанулок</region>
+    <district>Пхитсанулок (аэропорт)</district>
+    <id>508601</id>
+  </point>
+  <point>
+    <name>Пхичит</name>
+    <region>Пхичит</region>
+    <district>Пхичит</district>
+    <id>180959</id>
+  </point>
+  <point>
+    <name>Ронг-Чанг / Пхичит</name>
+    <region>Пхичит</region>
+    <district>Ронг-Чанг / Пхичит</district>
+    <id>170811</id>
+  </point>
+  <point>
+    <name>Пхрэ (аэропорт)</name>
+    <region>Пхрэ</region>
+    <district>Пхрэ (аэропорт)</district>
+    <id>11457</id>
+  </point>
+  <point>
+    <name>Пхукет</name>
+    <region>Пхукет</region>
+    <district>Пхукет</district>
+    <id>11509</id>
+  </point>
+  <point>
+    <name>Пхукет (аэропорт)</name>
+    <region>Пхукет</region>
+    <district>Пхукет (аэропорт)</district>
+    <id>11510</id>
+  </point>
+  <point>
+    <name>Районг / Утапао (аэропорт)</name>
+    <region>Районг</region>
+    <district>Районг / Утапао (аэропорт)</district>
+    <id>11498</id>
+  </point>
+  <point>
+    <name>Араниапратхет</name>
+    <region>Районг</region>
+    <district>Араниапратхет</district>
+    <id>11493</id>
+  </point>
+  <point>
+    <name>Самет</name>
+    <region>Районг</region>
+    <district>Самет</district>
+    <id>13728</id>
+  </point>
+  <point>
+    <name>Саттахип</name>
+    <region>Районг</region>
+    <district>Саттахип</district>
+    <id>11497</id>
+  </point>
+  <point>
+    <name>Хуайпонг</name>
+    <region>Районг</region>
+    <district>Хуайпонг</district>
+    <id>170829</id>
+  </point>
+  <point>
+    <name>Ранонг</name>
+    <region>Ранонг</region>
+    <district>Ранонг</district>
+    <id>11503</id>
+  </point>
+  <point>
+    <name>Ратчабури</name>
+    <region>Ратбури(Ратчабури)</region>
+    <district>Ратчабури</district>
+    <id>170827</id>
+  </point>
+  <point>
+    <name>Ройет</name>
+    <region>Ройет</region>
+    <district>Ройет</district>
+    <id>170815</id>
+  </point>
+  <point>
+    <name>Рой-Эт (аэропорт)</name>
+    <region>Ройет</region>
+    <district>Рой-Эт (аэропорт)</district>
+    <id>508631</id>
+  </point>
+  <point>
+    <name>Ройет (метеостанция 48405)</name>
+    <region>Ройет</region>
+    <district>Ройет (метеостанция 48405)</district>
+    <id>11475</id>
+  </point>
+  <point>
+    <name>Саконнакхон</name>
+    <region>Саконнакхон</region>
+    <district>Саконнакхон</district>
+    <id>11463</id>
+  </point>
+  <point>
+    <name>Саконнакхон (аэропорт)</name>
+    <region>Саконнакхон</region>
+    <district>Саконнакхон (аэропорт)</district>
+    <id>508978</id>
+  </point>
+  <point>
+    <name>Саконнакхон / Хуай-Йанг</name>
+    <region>Саконнакхон</region>
+    <district>Саконнакхон / Хуай-Йанг</district>
+    <id>170806</id>
+  </point>
+  <point>
+    <name>Сакэу</name>
+    <region>Сакэу</region>
+    <district>Сакэу</district>
+    <id>180960</id>
+  </point>
+  <point>
+    <name>Са-Кхвуан</name>
+    <region>Сакэу</region>
+    <district>Са-Кхвуан</district>
+    <id>170508</id>
+  </point>
+  <point>
+    <name>Самутпракан</name>
+    <region>Самутпракан</region>
+    <district>Самутпракан</district>
+    <id>170819</id>
+  </point>
+  <point>
+    <name>Бангна</name>
+    <region>Самутпракан</region>
+    <district>Бангна</district>
+    <id>170825</id>
+  </point>
+  <point>
+    <name>Суварнабхуми (аэропорт)</name>
+    <region>Самутпракан</region>
+    <district>Суварнабхуми (аэропорт)</district>
+    <id>170821</id>
+  </point>
+  <point>
+    <name>Самутсакхон</name>
+    <region>Самутсакхон</region>
+    <district>Самутсакхон</district>
+    <id>180961</id>
+  </point>
+  <point>
+    <name>Самутсонгкхрам</name>
+    <region>Самутсонгкхрам</region>
+    <district>Самутсонгкхрам</district>
+    <id>180962</id>
+  </point>
+  <point>
+    <name>Сарабури</name>
+    <region>Сарабури</region>
+    <district>Сарабури</district>
+    <id>170500</id>
+  </point>
+  <point>
+    <name>Сатун</name>
+    <region>Сатун</region>
+    <district>Сатун</district>
+    <id>11515</id>
+  </point>
+  <point>
+    <name>Сингбури</name>
+    <region>Сингбури</region>
+    <district>Сингбури</district>
+    <id>180963</id>
+  </point>
+  <point>
+    <name>Сисакет</name>
+    <region>Сисакет</region>
+    <district>Сисакет</district>
+    <id>170816</id>
+  </point>
+  <point>
+    <name>Сонгкхла (аэропорт)</name>
+    <region>Сонгкхла</region>
+    <district>Сонгкхла (аэропорт)</district>
+    <id>11513</id>
+  </point>
+  <point>
+    <name>Кхоконг</name>
+    <region>Сонгкхла</region>
+    <district>Кхоконг</district>
+    <id>170836</id>
+  </point>
+  <point>
+    <name>Садао</name>
+    <region>Сонгкхла</region>
+    <district>Садао</district>
+    <id>170576</id>
+  </point>
+  <point>
+    <name>Хатйай (аэропорт)</name>
+    <region>Сонгкхла</region>
+    <district>Хатйай (аэропорт)</district>
+    <id>11514</id>
+  </point>
+  <point>
+    <name>Сукхотхай</name>
+    <region>Сукхотхай</region>
+    <district>Сукхотхай</district>
+    <id>151834</id>
+  </point>
+  <point>
+    <name>Си-Самронг</name>
+    <region>Сукхотхай</region>
+    <district>Си-Самронг</district>
+    <id>170809</id>
+  </point>
+  <point>
+    <name>Сукхотхай (аэропорт)</name>
+    <region>Сукхотхай</region>
+    <district>Сукхотхай (аэропорт)</district>
+    <id>508693</id>
+  </point>
+  <point>
+    <name>Супханбури</name>
+    <region>Супханбури</region>
+    <district>Супханбури</district>
+    <id>11481</id>
+  </point>
+  <point>
+    <name>У-Тхонг</name>
+    <region>Супханбури</region>
+    <district>У-Тхонг</district>
+    <id>170820</id>
+  </point>
+  <point>
+    <name>Сураттхани (аэропорт)</name>
+    <region>Сураттани</region>
+    <district>Сураттхани (аэропорт)</district>
+    <id>11505</id>
+  </point>
+  <point>
+    <name>Ко-Самуй / Марет</name>
+    <region>Сураттани</region>
+    <district>Ко-Самуй / Марет</district>
+    <id>11504</id>
+  </point>
+  <point>
+    <name>Самуи</name>
+    <region>Сураттани</region>
+    <district>Самуи</district>
+    <id>151392</id>
+  </point>
+  <point>
+    <name>Самуи (аэропорт)</name>
+    <region>Сураттани</region>
+    <district>Самуи (аэропорт)</district>
+    <id>508644</id>
+  </point>
+  <point>
+    <name>Прасанг</name>
+    <region>Сураттани</region>
+    <district>Прасанг</district>
+    <id>170511</id>
+  </point>
+  <point>
+    <name>Сураттхани</name>
+    <region>Сураттани</region>
+    <district>Сураттхани</district>
+    <id>170833</id>
+  </point>
+  <point>
+    <name>Сурин</name>
+    <region>Сурин</region>
+    <district>Сурин</district>
+    <id>11485</id>
+  </point>
+  <point>
+    <name>Сурин (метеостанция 48433)</name>
+    <region>Сурин</region>
+    <district>Сурин (метеостанция 48433)</district>
+    <id>170822</id>
+  </point>
+  <point>
+    <name>Татум</name>
+    <region>Сурин</region>
+    <district>Татум</district>
+    <id>11478</id>
+  </point>
+  <point>
+    <name>Так</name>
+    <region>Так</region>
+    <district>Так</district>
+    <id>11466</id>
+  </point>
+  <point>
+    <name>Бумибол Дам</name>
+    <region>Так</region>
+    <district>Бумибол Дам</district>
+    <id>11467</id>
+  </point>
+  <point>
+    <name>Май-Сот</name>
+    <region>Так</region>
+    <district>Май-Сот</district>
+    <id>170812</id>
+  </point>
+  <point>
+    <name>Май-Сот (метеостанция 48375)</name>
+    <region>Так</region>
+    <district>Май-Сот (метеостанция 48375)</district>
+    <id>11465</id>
+  </point>
+  <point>
+    <name>Май-Сот (метеостанция 48387)</name>
+    <region>Так</region>
+    <district>Май-Сот (метеостанция 48387)</district>
+    <id>510032</id>
+  </point>
+  <point>
+    <name>Умпанг</name>
+    <region>Так</region>
+    <district>Умпанг</district>
+    <id>170496</id>
+  </point>
+  <point>
+    <name>Транг (аэропорт)</name>
+    <region>Транг</region>
+    <district>Транг (аэропорт)</district>
+    <id>11512</id>
+  </point>
+  <point>
+    <name>Трат</name>
+    <region>Трат</region>
+    <district>Трат</district>
+    <id>151833</id>
+  </point>
+  <point>
+    <name>Ко Чанг</name>
+    <region>Трат</region>
+    <district>Ко Чанг</district>
+    <id>13725</id>
+  </point>
+  <point>
+    <name>Кхлонгяй</name>
+    <region>Трат</region>
+    <district>Кхлонгяй</district>
+    <id>11501</id>
+  </point>
+  <point>
+    <name>Трат (аэропорт)</name>
+    <region>Трат</region>
+    <district>Трат (аэропорт)</district>
+    <id>508715</id>
+  </point>
+  <point>
+    <name>Убонратчатхани (аэропорт)</name>
+    <region>Убонратчатхани</region>
+    <district>Убонратчатхани (аэропорт)</district>
+    <id>11476</id>
+  </point>
+  <point>
+    <name>Убонратчатхани</name>
+    <region>Убонратчатхани</region>
+    <district>Убонратчатхани</district>
+    <id>510045</id>
+  </point>
+  <point>
+    <name>Удонтхани (аэропорт)</name>
+    <region>Удонтхани</region>
+    <district>Удонтхани (аэропорт)</district>
+    <id>11462</id>
+  </point>
+  <point>
+    <name>Уттарадит</name>
+    <region>Уттарадит</region>
+    <district>Уттарадит</district>
+    <id>11459</id>
+  </point>
+  <point>
+    <name>Утхайтхани</name>
+    <region>Утхайтхани</region>
+    <district>Утхайтхани</district>
+    <id>180964</id>
+  </point>
+  <point>
+    <name>Чайнат</name>
+    <region>Чайнат</region>
+    <district>Чайнат</district>
+    <id>170814</id>
+  </point>
+  <point>
+    <name>Чайяпхум</name>
+    <region>Чайяпхум</region>
+    <district>Чайяпхум</district>
+    <id>11474</id>
+  </point>
+  <point>
+    <name>Чантхабури</name>
+    <region>Чантхабури</region>
+    <district>Чантхабури</district>
+    <id>11499</id>
+  </point>
+  <point>
+    <name>Пхлио</name>
+    <region>Чантхабури</region>
+    <district>Пхлио</district>
+    <id>170830</id>
+  </point>
+  <point>
+    <name>Чаченгсау</name>
+    <region>Чаченгсау</region>
+    <district>Чаченгсау</district>
+    <id>170826</id>
+  </point>
+  <point>
+    <name>Чиангмай (аэропорт)</name>
+    <region>Чиангмай</region>
+    <district>Чиангмай (аэропорт)</district>
+    <id>11454</id>
+  </point>
+  <point>
+    <name>Дои-Ангканг</name>
+    <region>Чиангмай</region>
+    <district>Дои-Ангканг</district>
+    <id>170800</id>
+  </point>
+  <point>
+    <name>Чианграй</name>
+    <region>Чианграй</region>
+    <district>Чианграй</district>
+    <id>11450</id>
+  </point>
+  <point>
+    <name>Чианграй (аэропорт)</name>
+    <region>Чианграй</region>
+    <district>Чианграй (аэропорт)</district>
+    <id>508332</id>
+  </point>
+  <point>
+    <name>Чианграй (метеостанция 48304)</name>
+    <region>Чианграй</region>
+    <district>Чианграй (метеостанция 48304)</district>
+    <id>170801</id>
+  </point>
+  <point>
+    <name>Бангкок / Суварнабхуми (аэропорт)</name>
+    <region>Чонбури</region>
+    <district>Бангкок / Суварнабхуми (аэропорт)</district>
+    <id>11490</id>
+  </point>
+  <point>
+    <name>Косичанг</name>
+    <region>Чонбури</region>
+    <district>Косичанг</district>
+    <id>11491</id>
+  </point>
+  <point>
+    <name>Паттайя</name>
+    <region>Чонбури</region>
+    <district>Паттайя</district>
+    <id>11492</id>
+  </point>
+  <point>
+    <name>Чумпхон (аэропорт)</name>
+    <region>Чумпхон</region>
+    <district>Чумпхон (аэропорт)</district>
+    <id>11502</id>
+  </point>
+  <point>
+    <name>Сави</name>
+    <region>Чумпхон</region>
+    <district>Сави</district>
+    <id>170831</id>
+  </point>
+  <point>
+    <name>Яла</name>
+    <region>Яла</region>
+    <district>Яла</district>
+    <id>170838</id>
+  </point>
+  <point>
+    <name>Ясотхон</name>
+    <region>Ясотхон</region>
+    <district>Ясотхон</district>
+    <id>151832</id>
+  </point>
+</country>

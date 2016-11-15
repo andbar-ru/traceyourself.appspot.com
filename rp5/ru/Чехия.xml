@@ -1,0 +1,608 @@
+<country name="Чехия" count="101">
+  <point>
+    <name>Гавличкув-Брод</name>
+    <region>Высочина край</region>
+    <district>Гавличкув-Брод</district>
+    <id>141726</id>
+  </point>
+  <point>
+    <name>Дукованы</name>
+    <region>Высочина край</region>
+    <district>Дукованы</district>
+    <id>7676</id>
+  </point>
+  <point>
+    <name>Йиглава</name>
+    <region>Высочина край</region>
+    <district>Йиглава</district>
+    <id>151602</id>
+  </point>
+  <point>
+    <name>Костелни Мислова</name>
+    <region>Высочина край</region>
+    <district>Костелни Мислова</district>
+    <id>7654</id>
+  </point>
+  <point>
+    <name>Крамолин</name>
+    <region>Высочина край</region>
+    <district>Крамолин</district>
+    <id>7651</id>
+  </point>
+  <point>
+    <name>Намнешть-над-Ославой (аэропорт)</name>
+    <region>Высочина край</region>
+    <district>Намнешть-над-Ославой (аэропорт)</district>
+    <id>7675</id>
+  </point>
+  <point>
+    <name>Пршибислав</name>
+    <region>Высочина край</region>
+    <district>Пршибислав</district>
+    <id>7664</id>
+  </point>
+  <point>
+    <name>Тршебич</name>
+    <region>Высочина край</region>
+    <district>Тршебич</district>
+    <id>151597</id>
+  </point>
+  <point>
+    <name>Градец-Кралове</name>
+    <region>Краловеградецкий край</region>
+    <district>Градец-Кралове</district>
+    <id>7658</id>
+  </point>
+  <point>
+    <name>Двур-Кралове</name>
+    <region>Краловеградецкий край</region>
+    <district>Двур-Кралове</district>
+    <id>151586</id>
+  </point>
+  <point>
+    <name>Пец-под-Снежкой</name>
+    <region>Краловеградецкий край</region>
+    <district>Пец-под-Снежкой</district>
+    <id>7657</id>
+  </point>
+  <point>
+    <name>Полом</name>
+    <region>Краловеградецкий край</region>
+    <district>Полом</district>
+    <id>3555</id>
+  </point>
+  <point>
+    <name>Соколов</name>
+    <region>Краловеградецкий край</region>
+    <district>Соколов</district>
+    <id>151567</id>
+  </point>
+  <point>
+    <name>Злин</name>
+    <region>Злинский край</region>
+    <district>Злин</district>
+    <id>151609</id>
+  </point>
+  <point>
+    <name>Всетин</name>
+    <region>Злинский край</region>
+    <district>Всетин</district>
+    <id>151591</id>
+  </point>
+  <point>
+    <name>Холезов</name>
+    <region>Злинский край</region>
+    <district>Холезов</district>
+    <id>7704</id>
+  </point>
+  <point>
+    <name>Карловы Вары (аэропорт)</name>
+    <region>Карловарский край</region>
+    <district>Карловы Вары (аэропорт)</district>
+    <id>7571</id>
+  </point>
+  <point>
+    <name>Аш</name>
+    <region>Карловарский край</region>
+    <district>Аш</district>
+    <id>151594</id>
+  </point>
+  <point>
+    <name>Марианские Лазне</name>
+    <region>Карловарский край</region>
+    <district>Марианские Лазне</district>
+    <id>7572</id>
+  </point>
+  <point>
+    <name>Хеб</name>
+    <region>Карловарский край</region>
+    <district>Хеб</district>
+    <id>7565</id>
+  </point>
+  <point>
+    <name>Пршебуз</name>
+    <region>Карловарский край</region>
+    <district>Пршебуз</district>
+    <id>151570</id>
+  </point>
+  <point>
+    <name>Либерец</name>
+    <region>Либерецкий край</region>
+    <district>Либерец</district>
+    <id>7644</id>
+  </point>
+  <point>
+    <name>Либерец (аэропорт)</name>
+    <region>Либерецкий край</region>
+    <district>Либерец (аэропорт)</district>
+    <id>509565</id>
+  </point>
+  <point>
+    <name>Ческа-Липа</name>
+    <region>Либерецкий край</region>
+    <district>Ческа-Липа</district>
+    <id>151598</id>
+  </point>
+  <point>
+    <name>Яблонец-над-Нисой</name>
+    <region>Либерецкий край</region>
+    <district>Яблонец-над-Нисой</district>
+    <id>151600</id>
+  </point>
+  <point>
+    <name>Гавиржов</name>
+    <region>Моравскосилезский край</region>
+    <district>Гавиржов</district>
+    <id>151589</id>
+  </point>
+  <point>
+    <name>Глучин</name>
+    <region>Моравскосилезский край</region>
+    <district>Глучин</district>
+    <id>151588</id>
+  </point>
+  <point>
+    <name>Карвина</name>
+    <region>Моравскосилезский край</region>
+    <district>Карвина</district>
+    <id>151606</id>
+  </point>
+  <point>
+    <name>Лысая Гора</name>
+    <region>Моравскосилезский край</region>
+    <district>Лысая Гора</district>
+    <id>7712</id>
+  </point>
+  <point>
+    <name>Нови-Йичин</name>
+    <region>Моравскосилезский край</region>
+    <district>Нови-Йичин</district>
+    <id>151572</id>
+  </point>
+  <point>
+    <name>Опава</name>
+    <region>Моравскосилезский край</region>
+    <district>Опава</district>
+    <id>151604</id>
+  </point>
+  <point>
+    <name>Острава / Мошнов (аэропорт)</name>
+    <region>Моравскосилезский край</region>
+    <district>Острава / Мошнов (аэропорт)</district>
+    <id>7706</id>
+  </point>
+  <point>
+    <name>Острава</name>
+    <region>Моравскосилезский край</region>
+    <district>Острава</district>
+    <id>152619</id>
+  </point>
+  <point>
+    <name>Прадед</name>
+    <region>Моравскосилезский край</region>
+    <district>Прадед</district>
+    <id>7689</id>
+  </point>
+  <point>
+    <name>Тршинец</name>
+    <region>Моравскосилезский край</region>
+    <district>Тршинец</district>
+    <id>151596</id>
+  </point>
+  <point>
+    <name>Фридек-Мистек</name>
+    <region>Моравскосилезский край</region>
+    <district>Фридек-Мистек</district>
+    <id>151605</id>
+  </point>
+  <point>
+    <name>Цервена</name>
+    <region>Моравскосилезский край</region>
+    <district>Цервена</district>
+    <id>7693</id>
+  </point>
+  <point>
+    <name>Чески-Тешин</name>
+    <region>Моравскосилезский край</region>
+    <district>Чески-Тешин</district>
+    <id>151565</id>
+  </point>
+  <point>
+    <name>Оломоуц</name>
+    <region>Оломоуцкий край</region>
+    <district>Оломоуц</district>
+    <id>151563</id>
+  </point>
+  <point>
+    <name>Лука</name>
+    <region>Оломоуцкий край</region>
+    <district>Лука</district>
+    <id>7678</id>
+  </point>
+  <point>
+    <name>Пршеров</name>
+    <region>Оломоуцкий край</region>
+    <district>Пршеров</district>
+    <id>7692</id>
+  </point>
+  <point>
+    <name>Шерак</name>
+    <region>Оломоуцкий край</region>
+    <district>Шерак</district>
+    <id>170737</id>
+  </point>
+  <point>
+    <name>Есеник</name>
+    <region>Оломоуцкий край</region>
+    <district>Есеник</district>
+    <id>151585</id>
+  </point>
+  <point>
+    <name>Простеёв (аэропорт)</name>
+    <region>Оломоуцкий край</region>
+    <district>Простеёв (аэропорт)</district>
+    <id>510829</id>
+  </point>
+  <point>
+    <name>Простеёв</name>
+    <region>Оломоуцкий край</region>
+    <district>Простеёв</district>
+    <id>151599</id>
+  </point>
+  <point>
+    <name>Пршеров (авиабаза)</name>
+    <region>Оломоуцкий край</region>
+    <district>Пршеров (авиабаза)</district>
+    <id>509566</id>
+  </point>
+  <point>
+    <name>Шумперк</name>
+    <region>Оломоуцкий край</region>
+    <district>Шумперк</district>
+    <id>151564</id>
+  </point>
+  <point>
+    <name>Пардубице (аэропорт)</name>
+    <region>Пардубицкий край</region>
+    <district>Пардубице (аэропорт)</district>
+    <id>7663</id>
+  </point>
+  <point>
+    <name>Свратуч</name>
+    <region>Пардубицкий край</region>
+    <district>Свратуч</district>
+    <id>7668</id>
+  </point>
+  <point>
+    <name>Усти-над-Орлици</name>
+    <region>Пардубицкий край</region>
+    <district>Усти-над-Орлици</district>
+    <id>7666</id>
+  </point>
+  <point>
+    <name>Хрудим</name>
+    <region>Пардубицкий край</region>
+    <district>Хрудим</district>
+    <id>151566</id>
+  </point>
+  <point>
+    <name>Пльзень</name>
+    <region>Пльзенский край</region>
+    <district>Пльзень</district>
+    <id>152620</id>
+  </point>
+  <point>
+    <name>Пльзень / Лайн (аэропорт)</name>
+    <region>Пльзенский край</region>
+    <district>Пльзень / Лайн (аэропорт)</district>
+    <id>7575</id>
+  </point>
+  <point>
+    <name>Примда</name>
+    <region>Пльзенский край</region>
+    <district>Примда</district>
+    <id>7573</id>
+  </point>
+  <point>
+    <name>Рокицани</name>
+    <region>Пльзенский край</region>
+    <district>Рокицани</district>
+    <id>151568</id>
+  </point>
+  <point>
+    <name>Клатови</name>
+    <region>Пльзенский край</region>
+    <district>Клатови</district>
+    <id>151581</id>
+  </point>
+  <point>
+    <name>Прага</name>
+    <region>Прага</region>
+    <district>Прага</district>
+    <id>152618</id>
+  </point>
+  <point>
+    <name>Прага / Кбели</name>
+    <region>Прага</region>
+    <district>Прага / Кбели</district>
+    <id>7640</id>
+  </point>
+  <point>
+    <name>Прага / Либуш</name>
+    <region>Прага</region>
+    <district>Прага / Либуш</district>
+    <id>7611</id>
+  </point>
+  <point>
+    <name>Прага / Рузине (аэропорт)</name>
+    <region>Прага</region>
+    <district>Прага / Рузине (аэропорт)</district>
+    <id>7610</id>
+  </point>
+  <point>
+    <name>Водоходи (аэропорт)</name>
+    <region>Прага</region>
+    <district>Водоходи (аэропорт)</district>
+    <id>510376</id>
+  </point>
+  <point>
+    <name>Кбели (авиабаза)</name>
+    <region>Прага</region>
+    <district>Кбели (авиабаза)</district>
+    <id>508479</id>
+  </point>
+  <point>
+    <name>Бенешов</name>
+    <region>Среднечешский край</region>
+    <district>Бенешов</district>
+    <id>151593</id>
+  </point>
+  <point>
+    <name>Бероун</name>
+    <region>Среднечешский край</region>
+    <district>Бероун</district>
+    <id>151592</id>
+  </point>
+  <point>
+    <name>Кладно</name>
+    <region>Среднечешский край</region>
+    <district>Кладно</district>
+    <id>151608</id>
+  </point>
+  <point>
+    <name>Колин</name>
+    <region>Среднечешский край</region>
+    <district>Колин</district>
+    <id>151580</id>
+  </point>
+  <point>
+    <name>Кралупи</name>
+    <region>Среднечешский край</region>
+    <district>Кралупи</district>
+    <id>151579</id>
+  </point>
+  <point>
+    <name>Кутна-Гора</name>
+    <region>Среднечешский край</region>
+    <district>Кутна-Гора</district>
+    <id>151578</id>
+  </point>
+  <point>
+    <name>Мельник</name>
+    <region>Среднечешский край</region>
+    <district>Мельник</district>
+    <id>151575</id>
+  </point>
+  <point>
+    <name>Млада-Болеслав</name>
+    <region>Среднечешский край</region>
+    <district>Млада-Болеслав</district>
+    <id>151574</id>
+  </point>
+  <point>
+    <name>Нимбурк</name>
+    <region>Среднечешский край</region>
+    <district>Нимбурк</district>
+    <id>151573</id>
+  </point>
+  <point>
+    <name>Пршибрам</name>
+    <region>Среднечешский край</region>
+    <district>Пршибрам</district>
+    <id>151569</id>
+  </point>
+  <point>
+    <name>Часлав (авиабаза)</name>
+    <region>Среднечешский край</region>
+    <district>Часлав (авиабаза)</district>
+    <id>509564</id>
+  </point>
+  <point>
+    <name>Часлав</name>
+    <region>Среднечешский край</region>
+    <district>Часлав</district>
+    <id>7649</id>
+  </point>
+  <point>
+    <name>Усти-над-Лабем</name>
+    <region>Устецкий край</region>
+    <district>Усти-над-Лабем</district>
+    <id>7599</id>
+  </point>
+  <point>
+    <name>Милесовка</name>
+    <region>Устецкий край</region>
+    <district>Милесовка</district>
+    <id>7591</id>
+  </point>
+  <point>
+    <name>Теплице</name>
+    <region>Устецкий край</region>
+    <district>Теплице</district>
+    <id>13950</id>
+  </point>
+  <point>
+    <name>Тушимице</name>
+    <region>Устецкий край</region>
+    <district>Тушимице</district>
+    <id>7574</id>
+  </point>
+  <point>
+    <name>Дечин</name>
+    <region>Устецкий край</region>
+    <district>Дечин</district>
+    <id>151603</id>
+  </point>
+  <point>
+    <name>Докшаны</name>
+    <region>Устецкий край</region>
+    <district>Докшаны</district>
+    <id>7602</id>
+  </point>
+  <point>
+    <name>Жатец</name>
+    <region>Устецкий край</region>
+    <district>Жатец</district>
+    <id>151584</id>
+  </point>
+  <point>
+    <name>Литомержице</name>
+    <region>Устецкий край</region>
+    <district>Литомержице</district>
+    <id>151577</id>
+  </point>
+  <point>
+    <name>Лоуни</name>
+    <region>Устецкий край</region>
+    <district>Лоуни</district>
+    <id>151576</id>
+  </point>
+  <point>
+    <name>Мост</name>
+    <region>Устецкий край</region>
+    <district>Мост</district>
+    <id>151607</id>
+  </point>
+  <point>
+    <name>Хомутов</name>
+    <region>Устецкий край</region>
+    <district>Хомутов</district>
+    <id>151601</id>
+  </point>
+  <point>
+    <name>Брно / Ребешовице</name>
+    <region>Южноморавский край</region>
+    <district>Брно / Ребешовице</district>
+    <id>7683</id>
+  </point>
+  <point>
+    <name>Брно / Тураны (аэропорт)</name>
+    <region>Южноморавский край</region>
+    <district>Брно / Тураны (аэропорт)</district>
+    <id>7688</id>
+  </point>
+  <point>
+    <name>Брно</name>
+    <region>Южноморавский край</region>
+    <district>Брно</district>
+    <id>152621</id>
+  </point>
+  <point>
+    <name>Вишков</name>
+    <region>Южноморавский край</region>
+    <district>Вишков</district>
+    <id>151590</id>
+  </point>
+  <point>
+    <name>Годонин</name>
+    <region>Южноморавский край</region>
+    <district>Годонин</district>
+    <id>151587</id>
+  </point>
+  <point>
+    <name>Зноймо</name>
+    <region>Южноморавский край</region>
+    <district>Зноймо</district>
+    <id>151583</id>
+  </point>
+  <point>
+    <name>Кучаровице</name>
+    <region>Южноморавский край</region>
+    <district>Кучаровице</district>
+    <id>7677</id>
+  </point>
+  <point>
+    <name>Йиндржихув Градец</name>
+    <region>Южночешский край</region>
+    <district>Йиндржихув Градец</district>
+    <id>151582</id>
+  </point>
+  <point>
+    <name>Козловице</name>
+    <region>Южночешский край</region>
+    <district>Козловице</district>
+    <id>7592</id>
+  </point>
+  <point>
+    <name>Писек</name>
+    <region>Южночешский край</region>
+    <district>Писек</district>
+    <id>151571</id>
+  </point>
+  <point>
+    <name>Табор</name>
+    <region>Южночешский край</region>
+    <district>Табор</district>
+    <id>151595</id>
+  </point>
+  <point>
+    <name>Темелин</name>
+    <region>Южночешский край</region>
+    <district>Темелин</district>
+    <id>7618</id>
+  </point>
+  <point>
+    <name>Хосин</name>
+    <region>Южночешский край</region>
+    <district>Хосин</district>
+    <id>7621</id>
+  </point>
+  <point>
+    <name>Хуранов</name>
+    <region>Южночешский край</region>
+    <district>Хуранов</district>
+    <id>7576</id>
+  </point>
+  <point>
+    <name>Ческе-Будеевице / Рознов</name>
+    <region>Южночешский край</region>
+    <district>Ческе-Будеевице / Рознов</district>
+    <id>170736</id>
+  </point>
+  <point>
+    <name>Ческе-Будеёвице</name>
+    <region>Южночешский край</region>
+    <district>Ческе-Будеёвице</district>
+    <id>7626</id>
+  </point>
+</country>

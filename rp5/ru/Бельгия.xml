@@ -1,0 +1,356 @@
+<country name="Бельгия" count="59">
+  <point>
+    <name>Антверпен</name>
+    <region>Антверпен</region>
+    <district>Антверпен</district>
+    <id>11108</id>
+  </point>
+  <point>
+    <name>Антверпен / Дёрне (аэропорт)</name>
+    <region>Антверпен</region>
+    <district>Антверпен / Дёрне (аэропорт)</district>
+    <id>4547</id>
+  </point>
+  <point>
+    <name>Сент-Катрин-Вавр</name>
+    <region>Антверпен</region>
+    <district>Сент-Катрин-Вавр</district>
+    <id>510347</id>
+  </point>
+  <point>
+    <name>Стабрук</name>
+    <region>Антверпен</region>
+    <district>Стабрук</district>
+    <id>510661</id>
+  </point>
+  <point>
+    <name>Брасхаат</name>
+    <region>Антверпен</region>
+    <district>Брасхаат</district>
+    <id>4551</id>
+  </point>
+  <point>
+    <name>Лир</name>
+    <region>Антверпен</region>
+    <district>Лир</district>
+    <id>11111</id>
+  </point>
+  <point>
+    <name>Мехелен</name>
+    <region>Антверпен</region>
+    <district>Мехелен</district>
+    <id>11117</id>
+  </point>
+  <point>
+    <name>Брюссель</name>
+    <region>Брюссельский столичный округ</region>
+    <district>Брюссель</district>
+    <id>151417</id>
+  </point>
+  <point>
+    <name>Брюссель (аэропорт)</name>
+    <region>Брюссельский столичный округ</region>
+    <district>Брюссель (аэропорт)</district>
+    <id>4549</id>
+  </point>
+  <point>
+    <name>Уккел</name>
+    <region>Брюссельский столичный округ</region>
+    <district>Уккел</district>
+    <id>4541</id>
+  </point>
+  <point>
+    <name>Бовешен (аэропорт)</name>
+    <region>Валлонский Брабант</region>
+    <district>Бовешен (аэропорт)</district>
+    <id>4557</id>
+  </point>
+  <point>
+    <name>Вавр</name>
+    <region>Валлонский Брабант</region>
+    <district>Вавр</district>
+    <id>13748</id>
+  </point>
+  <point>
+    <name>Гент</name>
+    <region>Восточная Фландрия</region>
+    <district>Гент</district>
+    <id>11109</id>
+  </point>
+  <point>
+    <name>Мелле</name>
+    <region>Восточная Фландрия</region>
+    <district>Мелле</district>
+    <id>510346</id>
+  </point>
+  <point>
+    <name>Мунте</name>
+    <region>Восточная Фландрия</region>
+    <district>Мунте</district>
+    <id>4538</id>
+  </point>
+  <point>
+    <name>Семмерзаке</name>
+    <region>Восточная Фландрия</region>
+    <district>Семмерзаке</district>
+    <id>510072</id>
+  </point>
+  <point>
+    <name>Бейтем</name>
+    <region>Западная Фландрия</region>
+    <district>Бейтем</district>
+    <id>170703</id>
+  </point>
+  <point>
+    <name>Брюгге</name>
+    <region>Западная Фландрия</region>
+    <district>Брюгге</district>
+    <id>11107</id>
+  </point>
+  <point>
+    <name>Вестэнде</name>
+    <region>Западная Фландрия</region>
+    <district>Вестэнде</district>
+    <id>13758</id>
+  </point>
+  <point>
+    <name>Зебрюгге</name>
+    <region>Западная Фландрия</region>
+    <district>Зебрюгге</district>
+    <id>510345</id>
+  </point>
+  <point>
+    <name>Ипр</name>
+    <region>Западная Фландрия</region>
+    <district>Ипр</district>
+    <id>13379</id>
+  </point>
+  <point>
+    <name>Кнокке-Хейст</name>
+    <region>Западная Фландрия</region>
+    <district>Кнокке-Хейст</district>
+    <id>13754</id>
+  </point>
+  <point>
+    <name>Коксейде (аэропорт)</name>
+    <region>Западная Фландрия</region>
+    <district>Коксейде (аэропорт)</district>
+    <id>4525</id>
+  </point>
+  <point>
+    <name>Мидделькерк</name>
+    <region>Западная Фландрия</region>
+    <district>Мидделькерк</district>
+    <id>13760</id>
+  </point>
+  <point>
+    <name>Остенде (аэропорт)</name>
+    <region>Западная Фландрия</region>
+    <district>Остенде (аэропорт)</district>
+    <id>4528</id>
+  </point>
+  <point>
+    <name>Остенде (причал)</name>
+    <region>Западная Фландрия</region>
+    <district>Остенде (причал)</district>
+    <id>4534</id>
+  </point>
+  <point>
+    <name>Генк</name>
+    <region>Лимбург</region>
+    <district>Генк</district>
+    <id>4581</id>
+  </point>
+  <point>
+    <name>Гент / Индустриальная Зона</name>
+    <region>Лимбург</region>
+    <district>Гент / Индустриальная Зона</district>
+    <id>4539</id>
+  </point>
+  <point>
+    <name>Дипенбек</name>
+    <region>Лимбург</region>
+    <district>Дипенбек</district>
+    <id>510351</id>
+  </point>
+  <point>
+    <name>Кляйн-Брогель (аэропорт)</name>
+    <region>Лимбург</region>
+    <district>Кляйн-Брогель (аэропорт)</district>
+    <id>4578</id>
+  </point>
+  <point>
+    <name>Синт-Труиден</name>
+    <region>Лимбург</region>
+    <district>Синт-Труиден</district>
+    <id>4567</id>
+  </point>
+  <point>
+    <name>Хасселт</name>
+    <region>Лимбург</region>
+    <district>Хасселт</district>
+    <id>13387</id>
+  </point>
+  <point>
+    <name>Льеж</name>
+    <region>Льеж</region>
+    <district>Льеж</district>
+    <id>11114</id>
+  </point>
+  <point>
+    <name>Льеж / Бьерсет (аэропорт)</name>
+    <region>Льеж</region>
+    <district>Льеж / Бьерсет (аэропорт)</district>
+    <id>4577</id>
+  </point>
+  <point>
+    <name>Мон-Рижи</name>
+    <region>Льеж</region>
+    <district>Мон-Рижи</district>
+    <id>170705</id>
+  </point>
+  <point>
+    <name>Спа / Ла-Сувенир</name>
+    <region>Льеж</region>
+    <district>Спа / Ла-Сувенир</district>
+    <id>4582</id>
+  </point>
+  <point>
+    <name>Спа</name>
+    <region>Льеж</region>
+    <district>Спа</district>
+    <id>13753</id>
+  </point>
+  <point>
+    <name>Турне</name>
+    <region>Льеж</region>
+    <district>Турне</district>
+    <id>13371</id>
+  </point>
+  <point>
+    <name>Эльзенборн (аэропорт)</name>
+    <region>Льеж</region>
+    <district>Эльзенборн (аэропорт)</district>
+    <id>4587</id>
+  </point>
+  <point>
+    <name>Юи</name>
+    <region>Льеж</region>
+    <district>Юи</district>
+    <id>11124</id>
+  </point>
+  <point>
+    <name>Арлон</name>
+    <region>Люксембург</region>
+    <district>Арлон</district>
+    <id>13750</id>
+  </point>
+  <point>
+    <name>Бертрикс</name>
+    <region>Люксембург</region>
+    <district>Бертрикс</district>
+    <id>4565</id>
+  </point>
+  <point>
+    <name>Бюзеноль</name>
+    <region>Люксембург</region>
+    <district>Бюзеноль</district>
+    <id>510352</id>
+  </point>
+  <point>
+    <name>Сент-Юбер</name>
+    <region>Люксембург</region>
+    <district>Сент-Юбер</district>
+    <id>4576</id>
+  </point>
+  <point>
+    <name>Намюр</name>
+    <region>Намюр</region>
+    <district>Намюр</district>
+    <id>11118</id>
+  </point>
+  <point>
+    <name>Флоренн (аэропорт)</name>
+    <region>Намюр</region>
+    <district>Флоренн (аэропорт)</district>
+    <id>4556</id>
+  </point>
+  <point>
+    <name>Эрнаж</name>
+    <region>Намюр</region>
+    <district>Эрнаж</district>
+    <id>170704</id>
+  </point>
+  <point>
+    <name>Юмэн</name>
+    <region>Намюр</region>
+    <district>Юмэн</district>
+    <id>510350</id>
+  </point>
+  <point>
+    <name>Динан</name>
+    <region>Намюр</region>
+    <district>Динан</district>
+    <id>11110</id>
+  </point>
+  <point>
+    <name>Синсин</name>
+    <region>Намюр</region>
+    <district>Синсин</district>
+    <id>4571</id>
+  </point>
+  <point>
+    <name>Гоетсенховен</name>
+    <region>Фламандский Брабант</region>
+    <district>Гоетсенховен</district>
+    <id>4561</id>
+  </point>
+  <point>
+    <name>Лёвен</name>
+    <region>Фламандский Брабант</region>
+    <district>Лёвен</district>
+    <id>11116</id>
+  </point>
+  <point>
+    <name>Мелсбрук</name>
+    <region>Фламандский Брабант</region>
+    <district>Мелсбрук</district>
+    <id>4543</id>
+  </point>
+  <point>
+    <name>Шаффен (аэропорт)</name>
+    <region>Фламандский Брабант</region>
+    <district>Шаффен (аэропорт)</district>
+    <id>4563</id>
+  </point>
+  <point>
+    <name>Монс</name>
+    <region>Эно</region>
+    <district>Монс</district>
+    <id>12213</id>
+  </point>
+  <point>
+    <name>Турне</name>
+    <region>Эно</region>
+    <district>Турне</district>
+    <id>12288</id>
+  </point>
+  <point>
+    <name>Шарлеруа / Госли (аэропорт)</name>
+    <region>Эно</region>
+    <district>Шарлеруа / Госли (аэропорт)</district>
+    <id>4545</id>
+  </point>
+  <point>
+    <name>Шарлеруа</name>
+    <region>Эно</region>
+    <district>Шарлеруа</district>
+    <id>11121</id>
+  </point>
+  <point>
+    <name>Шьевр (аэропорт)</name>
+    <region>Эно</region>
+    <district>Шьевр (аэропорт)</district>
+    <id>4540</id>
+  </point>
+</country>

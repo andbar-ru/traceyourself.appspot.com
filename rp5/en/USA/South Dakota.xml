@@ -1,0 +1,2701 @@
+<region name="South Dakota" count="454">
+  <point>
+    <name>Plankinton</name>
+    <region>South Dakota</region>
+    <district>Aurora</district>
+    <id>256663</id>
+  </point>
+  <point>
+    <name>Stickney</name>
+    <region>South Dakota</region>
+    <district>Aurora</district>
+    <id>282396</id>
+  </point>
+  <point>
+    <name>White Lake</name>
+    <region>South Dakota</region>
+    <district>Aurora</district>
+    <id>282397</id>
+  </point>
+  <point>
+    <name>Cavour</name>
+    <region>South Dakota</region>
+    <district>Beadle</district>
+    <id>282398</id>
+  </point>
+  <point>
+    <name>Hitchcock</name>
+    <region>South Dakota</region>
+    <district>Beadle</district>
+    <id>282399</id>
+  </point>
+  <point>
+    <name>Huron (airport)</name>
+    <region>South Dakota</region>
+    <district>Beadle</district>
+    <id>256664</id>
+  </point>
+  <point>
+    <name>Virgil</name>
+    <region>South Dakota</region>
+    <district>Beadle</district>
+    <id>282400</id>
+  </point>
+  <point>
+    <name>Wessington</name>
+    <region>South Dakota</region>
+    <district>Beadle</district>
+    <id>282401</id>
+  </point>
+  <point>
+    <name>Wolsey</name>
+    <region>South Dakota</region>
+    <district>Beadle</district>
+    <id>282402</id>
+  </point>
+  <point>
+    <name>Yale</name>
+    <region>South Dakota</region>
+    <district>Beadle</district>
+    <id>282403</id>
+  </point>
+  <point>
+    <name>Allen</name>
+    <region>South Dakota</region>
+    <district>Bennett</district>
+    <id>282404</id>
+  </point>
+  <point>
+    <name>Martin</name>
+    <region>South Dakota</region>
+    <district>Bennett</district>
+    <id>256665</id>
+  </point>
+  <point>
+    <name>Tuthill</name>
+    <region>South Dakota</region>
+    <district>Bennett</district>
+    <id>282405</id>
+  </point>
+  <point>
+    <name>Vetal</name>
+    <region>South Dakota</region>
+    <district>Bennett</district>
+    <id>282406</id>
+  </point>
+  <point>
+    <name>Avon</name>
+    <region>South Dakota</region>
+    <district>Bon Homme</district>
+    <id>282407</id>
+  </point>
+  <point>
+    <name>Running Water</name>
+    <region>South Dakota</region>
+    <district>Bon Homme</district>
+    <id>282408</id>
+  </point>
+  <point>
+    <name>Scotland</name>
+    <region>South Dakota</region>
+    <district>Bon Homme</district>
+    <id>282409</id>
+  </point>
+  <point>
+    <name>Springfield</name>
+    <region>South Dakota</region>
+    <district>Bon Homme</district>
+    <id>282410</id>
+  </point>
+  <point>
+    <name>Tabor</name>
+    <region>South Dakota</region>
+    <district>Bon Homme</district>
+    <id>282411</id>
+  </point>
+  <point>
+    <name>Tyndall</name>
+    <region>South Dakota</region>
+    <district>Bon Homme</district>
+    <id>256666</id>
+  </point>
+  <point>
+    <name>Brookings (airport)</name>
+    <district>Brookings</district>
+    <id>256667</id>
+  </point>
+  <point>
+    <name>Aurora</name>
+    <district>Brookings</district>
+    <id>282412</id>
+  </point>
+  <point>
+    <name>Elkton</name>
+    <district>Brookings</district>
+    <id>282415</id>
+  </point>
+  <point>
+    <name>Sinai</name>
+    <district>Brookings</district>
+    <id>282416</id>
+  </point>
+  <point>
+    <name>Ward</name>
+    <district>Brookings</district>
+    <id>282418</id>
+  </point>
+  <point>
+    <name>Bruce</name>
+    <region>South Dakota</region>
+    <district>Brookings</district>
+    <id>282413</id>
+  </point>
+  <point>
+    <name>Bushnell</name>
+    <region>South Dakota</region>
+    <district>Brookings</district>
+    <id>282414</id>
+  </point>
+  <point>
+    <name>Volga</name>
+    <region>South Dakota</region>
+    <district>Brookings</district>
+    <id>282417</id>
+  </point>
+  <point>
+    <name>White</name>
+    <region>South Dakota</region>
+    <district>Brookings</district>
+    <id>282419</id>
+  </point>
+  <point>
+    <name>Aberdeen</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>256668</id>
+  </point>
+  <point>
+    <name>Aberdeen (airport)</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>291952</id>
+  </point>
+  <point>
+    <name>Barnard</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282420</id>
+  </point>
+  <point>
+    <name>Bath</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282421</id>
+  </point>
+  <point>
+    <name>Claremont</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282422</id>
+  </point>
+  <point>
+    <name>Columbia</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282423</id>
+  </point>
+  <point>
+    <name>Ferney</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282424</id>
+  </point>
+  <point>
+    <name>Frederick</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282425</id>
+  </point>
+  <point>
+    <name>Groton</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282426</id>
+  </point>
+  <point>
+    <name>Hecla</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282427</id>
+  </point>
+  <point>
+    <name>Houghton</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282428</id>
+  </point>
+  <point>
+    <name>Mansfield</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282429</id>
+  </point>
+  <point>
+    <name>Stratford</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282430</id>
+  </point>
+  <point>
+    <name>Warner</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282431</id>
+  </point>
+  <point>
+    <name>Westport</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282432</id>
+  </point>
+  <point>
+    <name>Wetonka</name>
+    <region>South Dakota</region>
+    <district>Brown</district>
+    <id>282433</id>
+  </point>
+  <point>
+    <name>Chamberlain (airport)</name>
+    <region>South Dakota</region>
+    <district>Brule</district>
+    <id>256669</id>
+  </point>
+  <point>
+    <name>Kimball</name>
+    <region>South Dakota</region>
+    <district>Brule</district>
+    <id>282435</id>
+  </point>
+  <point>
+    <name>Pukwana</name>
+    <region>South Dakota</region>
+    <district>Brule</district>
+    <id>282436</id>
+  </point>
+  <point>
+    <name>Fort Thompson</name>
+    <region>South Dakota</region>
+    <district>Buffalo</district>
+    <id>282437</id>
+  </point>
+  <point>
+    <name>Gann Valley</name>
+    <region>South Dakota</region>
+    <district>Buffalo</district>
+    <id>256670</id>
+  </point>
+  <point>
+    <name>Belle Fourche</name>
+    <region>South Dakota</region>
+    <district>Butte</district>
+    <id>256671</id>
+  </point>
+  <point>
+    <name>Fruitdale</name>
+    <region>South Dakota</region>
+    <district>Butte</district>
+    <id>282438</id>
+  </point>
+  <point>
+    <name>Newell</name>
+    <region>South Dakota</region>
+    <district>Butte</district>
+    <id>282439</id>
+  </point>
+  <point>
+    <name>Nisland</name>
+    <region>South Dakota</region>
+    <district>Butte</district>
+    <id>282440</id>
+  </point>
+  <point>
+    <name>Vale</name>
+    <region>South Dakota</region>
+    <district>Butte</district>
+    <id>282441</id>
+  </point>
+  <point>
+    <name>Herreid</name>
+    <region>South Dakota</region>
+    <district>Campbell</district>
+    <id>282442</id>
+  </point>
+  <point>
+    <name>Mound City</name>
+    <region>South Dakota</region>
+    <district>Campbell</district>
+    <id>256672</id>
+  </point>
+  <point>
+    <name>Pollock</name>
+    <region>South Dakota</region>
+    <district>Campbell</district>
+    <id>282443</id>
+  </point>
+  <point>
+    <name>Academy</name>
+    <region>South Dakota</region>
+    <district>Charles Mix</district>
+    <id>282444</id>
+  </point>
+  <point>
+    <name>Dante</name>
+    <region>South Dakota</region>
+    <district>Charles Mix</district>
+    <id>282445</id>
+  </point>
+  <point>
+    <name>Geddes</name>
+    <region>South Dakota</region>
+    <district>Charles Mix</district>
+    <id>282446</id>
+  </point>
+  <point>
+    <name>Lake Andes</name>
+    <region>South Dakota</region>
+    <district>Charles Mix</district>
+    <id>257529</id>
+  </point>
+  <point>
+    <name>Marty</name>
+    <region>South Dakota</region>
+    <district>Charles Mix</district>
+    <id>282447</id>
+  </point>
+  <point>
+    <name>Pickstown</name>
+    <region>South Dakota</region>
+    <district>Charles Mix</district>
+    <id>282448</id>
+  </point>
+  <point>
+    <name>Platte</name>
+    <region>South Dakota</region>
+    <district>Charles Mix</district>
+    <id>282449</id>
+  </point>
+  <point>
+    <name>Ravinia</name>
+    <region>South Dakota</region>
+    <district>Charles Mix</district>
+    <id>282450</id>
+  </point>
+  <point>
+    <name>Wagner</name>
+    <region>South Dakota</region>
+    <district>Charles Mix</district>
+    <id>282452</id>
+  </point>
+  <point>
+    <name>Clark</name>
+    <district>Clark</district>
+    <id>257530</id>
+  </point>
+  <point>
+    <name>Bradley</name>
+    <district>Clark</district>
+    <id>282453</id>
+  </point>
+  <point>
+    <name>Garden City</name>
+    <district>Clark</district>
+    <id>282456</id>
+  </point>
+  <point>
+    <name>Vienna</name>
+    <district>Clark</district>
+    <id>282458</id>
+  </point>
+  <point>
+    <name>Willow Lake</name>
+    <district>Clark</district>
+    <id>282459</id>
+  </point>
+  <point>
+    <name>Carpenter</name>
+    <region>South Dakota</region>
+    <district>Clark</district>
+    <id>282454</id>
+  </point>
+  <point>
+    <name>Crocker</name>
+    <region>South Dakota</region>
+    <district>Clark</district>
+    <id>282455</id>
+  </point>
+  <point>
+    <name>Raymond</name>
+    <region>South Dakota</region>
+    <district>Clark</district>
+    <id>282457</id>
+  </point>
+  <point>
+    <name>Burbank</name>
+    <region>South Dakota</region>
+    <district>Clay</district>
+    <id>282460</id>
+  </point>
+  <point>
+    <name>Irene</name>
+    <region>South Dakota</region>
+    <district>Clay</district>
+    <id>282462</id>
+  </point>
+  <point>
+    <name>Meckling</name>
+    <region>South Dakota</region>
+    <district>Clay</district>
+    <id>282463</id>
+  </point>
+  <point>
+    <name>Vermillion</name>
+    <region>South Dakota</region>
+    <district>Clay</district>
+    <id>257531</id>
+  </point>
+  <point>
+    <name>Wakonda</name>
+    <region>South Dakota</region>
+    <district>Clay</district>
+    <id>282464</id>
+  </point>
+  <point>
+    <name>Florence</name>
+    <region>South Dakota</region>
+    <district>Codington</district>
+    <id>282465</id>
+  </point>
+  <point>
+    <name>Henry</name>
+    <region>South Dakota</region>
+    <district>Codington</district>
+    <id>282466</id>
+  </point>
+  <point>
+    <name>Kranzburg</name>
+    <region>South Dakota</region>
+    <district>Codington</district>
+    <id>282467</id>
+  </point>
+  <point>
+    <name>South Shore</name>
+    <region>South Dakota</region>
+    <district>Codington</district>
+    <id>282468</id>
+  </point>
+  <point>
+    <name>Wallace</name>
+    <region>South Dakota</region>
+    <district>Codington</district>
+    <id>282469</id>
+  </point>
+  <point>
+    <name>Watertown (airport)</name>
+    <region>South Dakota</region>
+    <district>Codington</district>
+    <id>257532</id>
+  </point>
+  <point>
+    <name>Waverly</name>
+    <region>South Dakota</region>
+    <district>Codington</district>
+    <id>282470</id>
+  </point>
+  <point>
+    <name>Bullhead</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>282471</id>
+  </point>
+  <point>
+    <name>Keldron</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>282472</id>
+  </point>
+  <point>
+    <name>Little Eagle</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>282473</id>
+  </point>
+  <point>
+    <name>McIntosh</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>257533</id>
+  </point>
+  <point>
+    <name>McLaughlin</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>282474</id>
+  </point>
+  <point>
+    <name>Morristown</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>282475</id>
+  </point>
+  <point>
+    <name>Trail City</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>282476</id>
+  </point>
+  <point>
+    <name>Wakpala</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>282477</id>
+  </point>
+  <point>
+    <name>Walker</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>282478</id>
+  </point>
+  <point>
+    <name>Watauga</name>
+    <region>South Dakota</region>
+    <district>Corson</district>
+    <id>282479</id>
+  </point>
+  <point>
+    <name>Custer (airport)</name>
+    <district>Custer</district>
+    <id>257534</id>
+  </point>
+  <point>
+    <name>Buffalo Gap</name>
+    <district>Custer</district>
+    <id>282480</id>
+  </point>
+  <point>
+    <name>Crazy Horse</name>
+    <district>Custer</district>
+    <id>282481</id>
+  </point>
+  <point>
+    <name>Hermosa</name>
+    <district>Custer</district>
+    <id>282483</id>
+  </point>
+  <point>
+    <name>Pringle</name>
+    <district>Custer</district>
+    <id>282484</id>
+  </point>
+  <point>
+    <name>Fairburn</name>
+    <region>South Dakota</region>
+    <district>Custer</district>
+    <id>282482</id>
+  </point>
+  <point>
+    <name>Ethan</name>
+    <region>South Dakota</region>
+    <district>Davison</district>
+    <id>282485</id>
+  </point>
+  <point>
+    <name>Loomis</name>
+    <region>South Dakota</region>
+    <district>Davison</district>
+    <id>282486</id>
+  </point>
+  <point>
+    <name>Mitchell</name>
+    <region>South Dakota</region>
+    <district>Davison</district>
+    <id>257535</id>
+  </point>
+  <point>
+    <name>Mitchell (airport)</name>
+    <region>South Dakota</region>
+    <district>Davison</district>
+    <id>509311</id>
+  </point>
+  <point>
+    <name>Mount Vernon</name>
+    <region>South Dakota</region>
+    <district>Davison</district>
+    <id>282488</id>
+  </point>
+  <point>
+    <name>Andover</name>
+    <region>South Dakota</region>
+    <district>Day</district>
+    <id>282489</id>
+  </point>
+  <point>
+    <name>Bristol</name>
+    <region>South Dakota</region>
+    <district>Day</district>
+    <id>282490</id>
+  </point>
+  <point>
+    <name>Butler</name>
+    <region>South Dakota</region>
+    <district>Day</district>
+    <id>282491</id>
+  </point>
+  <point>
+    <name>Grenville</name>
+    <region>South Dakota</region>
+    <district>Day</district>
+    <id>282492</id>
+  </point>
+  <point>
+    <name>Lily</name>
+    <region>South Dakota</region>
+    <district>Day</district>
+    <id>282493</id>
+  </point>
+  <point>
+    <name>Pierpont</name>
+    <region>South Dakota</region>
+    <district>Day</district>
+    <id>282494</id>
+  </point>
+  <point>
+    <name>Roslyn</name>
+    <region>South Dakota</region>
+    <district>Day</district>
+    <id>282495</id>
+  </point>
+  <point>
+    <name>Waubay</name>
+    <region>South Dakota</region>
+    <district>Day</district>
+    <id>282496</id>
+  </point>
+  <point>
+    <name>Webster</name>
+    <region>South Dakota</region>
+    <district>Day</district>
+    <id>257536</id>
+  </point>
+  <point>
+    <name>Altamont</name>
+    <region>South Dakota</region>
+    <district>Deuel</district>
+    <id>282497</id>
+  </point>
+  <point>
+    <name>Astoria</name>
+    <region>South Dakota</region>
+    <district>Deuel</district>
+    <id>282498</id>
+  </point>
+  <point>
+    <name>Bemis</name>
+    <region>South Dakota</region>
+    <district>Deuel</district>
+    <id>282499</id>
+  </point>
+  <point>
+    <name>Brandt</name>
+    <region>South Dakota</region>
+    <district>Deuel</district>
+    <id>282500</id>
+  </point>
+  <point>
+    <name>Clear Lake</name>
+    <region>South Dakota</region>
+    <district>Deuel</district>
+    <id>257537</id>
+  </point>
+  <point>
+    <name>Gary</name>
+    <region>South Dakota</region>
+    <district>Deuel</district>
+    <id>282501</id>
+  </point>
+  <point>
+    <name>Goodwin</name>
+    <region>South Dakota</region>
+    <district>Deuel</district>
+    <id>282502</id>
+  </point>
+  <point>
+    <name>Toronto</name>
+    <region>South Dakota</region>
+    <district>Deuel</district>
+    <id>282503</id>
+  </point>
+  <point>
+    <name>Eagle Butte</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>282504</id>
+  </point>
+  <point>
+    <name>Firesteel</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>282505</id>
+  </point>
+  <point>
+    <name>Glencross</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>282506</id>
+  </point>
+  <point>
+    <name>Isabel</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>282507</id>
+  </point>
+  <point>
+    <name>La Plant</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>282508</id>
+  </point>
+  <point>
+    <name>Lantry</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>282509</id>
+  </point>
+  <point>
+    <name>Parade</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>282510</id>
+  </point>
+  <point>
+    <name>Ridgeview</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>282511</id>
+  </point>
+  <point>
+    <name>Timber Lake</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>257526</id>
+  </point>
+  <point>
+    <name>Whitehorse</name>
+    <region>South Dakota</region>
+    <district>Dewey</district>
+    <id>282512</id>
+  </point>
+  <point>
+    <name>Armour</name>
+    <region>South Dakota</region>
+    <district>Douglas</district>
+    <id>257527</id>
+  </point>
+  <point>
+    <name>Corsica</name>
+    <region>South Dakota</region>
+    <district>Douglas</district>
+    <id>282513</id>
+  </point>
+  <point>
+    <name>Delmont</name>
+    <region>South Dakota</region>
+    <district>Douglas</district>
+    <id>282514</id>
+  </point>
+  <point>
+    <name>Harrison</name>
+    <region>South Dakota</region>
+    <district>Douglas</district>
+    <id>282515</id>
+  </point>
+  <point>
+    <name>New Holland</name>
+    <region>South Dakota</region>
+    <district>Douglas</district>
+    <id>282516</id>
+  </point>
+  <point>
+    <name>Bowdle</name>
+    <region>South Dakota</region>
+    <district>Edmunds</district>
+    <id>282517</id>
+  </point>
+  <point>
+    <name>Hosmer</name>
+    <region>South Dakota</region>
+    <district>Edmunds</district>
+    <id>282518</id>
+  </point>
+  <point>
+    <name>Ipswich</name>
+    <region>South Dakota</region>
+    <district>Edmunds</district>
+    <id>257528</id>
+  </point>
+  <point>
+    <name>Mina</name>
+    <region>South Dakota</region>
+    <district>Edmunds</district>
+    <id>282519</id>
+  </point>
+  <point>
+    <name>Roscoe</name>
+    <region>South Dakota</region>
+    <district>Edmunds</district>
+    <id>282520</id>
+  </point>
+  <point>
+    <name>Ardmore</name>
+    <region>South Dakota</region>
+    <district>Fall River</district>
+    <id>282521</id>
+  </point>
+  <point>
+    <name>Burdock</name>
+    <region>South Dakota</region>
+    <district>Fall River</district>
+    <id>282522</id>
+  </point>
+  <point>
+    <name>Dewey</name>
+    <region>South Dakota</region>
+    <district>Fall River</district>
+    <id>282523</id>
+  </point>
+  <point>
+    <name>Edgemont</name>
+    <region>South Dakota</region>
+    <district>Fall River</district>
+    <id>282524</id>
+  </point>
+  <point>
+    <name>Hot Springs</name>
+    <region>South Dakota</region>
+    <district>Fall River</district>
+    <id>257455</id>
+  </point>
+  <point>
+    <name>Oelrichs</name>
+    <region>South Dakota</region>
+    <district>Fall River</district>
+    <id>282525</id>
+  </point>
+  <point>
+    <name>Oral</name>
+    <region>South Dakota</region>
+    <district>Fall River</district>
+    <id>282526</id>
+  </point>
+  <point>
+    <name>Provo</name>
+    <region>South Dakota</region>
+    <district>Fall River</district>
+    <id>282527</id>
+  </point>
+  <point>
+    <name>Smithwick</name>
+    <region>South Dakota</region>
+    <district>Fall River</district>
+    <id>282528</id>
+  </point>
+  <point>
+    <name>Faulkton</name>
+    <district>Faulk</district>
+    <id>257456</id>
+  </point>
+  <point>
+    <name>Cresbard</name>
+    <district>Faulk</district>
+    <id>282529</id>
+  </point>
+  <point>
+    <name>Norbeck</name>
+    <district>Faulk</district>
+    <id>282531</id>
+  </point>
+  <point>
+    <name>Onaka</name>
+    <district>Faulk</district>
+    <id>282532</id>
+  </point>
+  <point>
+    <name>Wecota</name>
+    <district>Faulk</district>
+    <id>282535</id>
+  </point>
+  <point>
+    <name>Miranda</name>
+    <region>South Dakota</region>
+    <district>Faulk</district>
+    <id>282530</id>
+  </point>
+  <point>
+    <name>Rockham</name>
+    <region>South Dakota</region>
+    <district>Faulk</district>
+    <id>282533</id>
+  </point>
+  <point>
+    <name>Seneca</name>
+    <region>South Dakota</region>
+    <district>Faulk</district>
+    <id>282534</id>
+  </point>
+  <point>
+    <name>Albee</name>
+    <region>South Dakota</region>
+    <district>Grant</district>
+    <id>282536</id>
+  </point>
+  <point>
+    <name>Big Stone City</name>
+    <region>South Dakota</region>
+    <district>Grant</district>
+    <id>282537</id>
+  </point>
+  <point>
+    <name>Labolt</name>
+    <region>South Dakota</region>
+    <district>Grant</district>
+    <id>282538</id>
+  </point>
+  <point>
+    <name>Marvin</name>
+    <region>South Dakota</region>
+    <district>Grant</district>
+    <id>282539</id>
+  </point>
+  <point>
+    <name>Milbank</name>
+    <region>South Dakota</region>
+    <district>Grant</district>
+    <id>257457</id>
+  </point>
+  <point>
+    <name>Revillo</name>
+    <region>South Dakota</region>
+    <district>Grant</district>
+    <id>282540</id>
+  </point>
+  <point>
+    <name>Stockholm</name>
+    <region>South Dakota</region>
+    <district>Grant</district>
+    <id>282541</id>
+  </point>
+  <point>
+    <name>Strandburg</name>
+    <region>South Dakota</region>
+    <district>Grant</district>
+    <id>282542</id>
+  </point>
+  <point>
+    <name>Twin Brooks</name>
+    <region>South Dakota</region>
+    <district>Grant</district>
+    <id>282543</id>
+  </point>
+  <point>
+    <name>Bonesteel</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>282544</id>
+  </point>
+  <point>
+    <name>Burke</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>257458</id>
+  </point>
+  <point>
+    <name>Dallas</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>282545</id>
+  </point>
+  <point>
+    <name>Dixon</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>282546</id>
+  </point>
+  <point>
+    <name>Fairfax</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>282548</id>
+  </point>
+  <point>
+    <name>Gregory</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>282549</id>
+  </point>
+  <point>
+    <name>Herrick</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>282550</id>
+  </point>
+  <point>
+    <name>Iona</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>282551</id>
+  </point>
+  <point>
+    <name>Lucas</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>282552</id>
+  </point>
+  <point>
+    <name>Saint Charles</name>
+    <region>South Dakota</region>
+    <district>Gregory</district>
+    <id>282553</id>
+  </point>
+  <point>
+    <name>Midland</name>
+    <region>South Dakota</region>
+    <district>Haakon</district>
+    <id>282554</id>
+  </point>
+  <point>
+    <name>Milesville</name>
+    <region>South Dakota</region>
+    <district>Haakon</district>
+    <id>282555</id>
+  </point>
+  <point>
+    <name>Ottumwa</name>
+    <region>South Dakota</region>
+    <district>Haakon</district>
+    <id>282556</id>
+  </point>
+  <point>
+    <name>Philip</name>
+    <region>South Dakota</region>
+    <district>Haakon</district>
+    <id>257459</id>
+  </point>
+  <point>
+    <name>Philip (airport)</name>
+    <region>South Dakota</region>
+    <district>Haakon</district>
+    <id>509958</id>
+  </point>
+  <point>
+    <name>Bryant</name>
+    <region>South Dakota</region>
+    <district>Hamlin</district>
+    <id>282558</id>
+  </point>
+  <point>
+    <name>Castlewood</name>
+    <region>South Dakota</region>
+    <district>Hamlin</district>
+    <id>282559</id>
+  </point>
+  <point>
+    <name>Dempster</name>
+    <region>South Dakota</region>
+    <district>Hamlin</district>
+    <id>282560</id>
+  </point>
+  <point>
+    <name>Estelline</name>
+    <region>South Dakota</region>
+    <district>Hamlin</district>
+    <id>282561</id>
+  </point>
+  <point>
+    <name>Hayti</name>
+    <region>South Dakota</region>
+    <district>Hamlin</district>
+    <id>257360</id>
+  </point>
+  <point>
+    <name>Hazel</name>
+    <region>South Dakota</region>
+    <district>Hamlin</district>
+    <id>282562</id>
+  </point>
+  <point>
+    <name>Lake Norden</name>
+    <region>South Dakota</region>
+    <district>Hamlin</district>
+    <id>282563</id>
+  </point>
+  <point>
+    <name>Miller</name>
+    <region>South Dakota</region>
+    <district>Hand</district>
+    <id>257361</id>
+  </point>
+  <point>
+    <name>Orient</name>
+    <region>South Dakota</region>
+    <district>Hand</district>
+    <id>282564</id>
+  </point>
+  <point>
+    <name>Ree Heights</name>
+    <region>South Dakota</region>
+    <district>Hand</district>
+    <id>282565</id>
+  </point>
+  <point>
+    <name>Saint Lawrence</name>
+    <region>South Dakota</region>
+    <district>Hand</district>
+    <id>282566</id>
+  </point>
+  <point>
+    <name>Alexandria</name>
+    <region>South Dakota</region>
+    <district>Hanson</district>
+    <id>257362</id>
+  </point>
+  <point>
+    <name>Emery</name>
+    <region>South Dakota</region>
+    <district>Hanson</district>
+    <id>282567</id>
+  </point>
+  <point>
+    <name>Farmer</name>
+    <region>South Dakota</region>
+    <district>Hanson</district>
+    <id>282568</id>
+  </point>
+  <point>
+    <name>Fulton</name>
+    <region>South Dakota</region>
+    <district>Hanson</district>
+    <id>282569</id>
+  </point>
+  <point>
+    <name>Buffalo (airport)</name>
+    <region>South Dakota</region>
+    <district>Harding</district>
+    <id>257363</id>
+  </point>
+  <point>
+    <name>Camp Crook</name>
+    <region>South Dakota</region>
+    <district>Harding</district>
+    <id>282570</id>
+  </point>
+  <point>
+    <name>Ludlow</name>
+    <region>South Dakota</region>
+    <district>Harding</district>
+    <id>282571</id>
+  </point>
+  <point>
+    <name>Ralph</name>
+    <region>South Dakota</region>
+    <district>Harding</district>
+    <id>282572</id>
+  </point>
+  <point>
+    <name>Redig</name>
+    <region>South Dakota</region>
+    <district>Harding</district>
+    <id>282573</id>
+  </point>
+  <point>
+    <name>Reva</name>
+    <region>South Dakota</region>
+    <district>Harding</district>
+    <id>282575</id>
+  </point>
+  <point>
+    <name>Sky Ranch</name>
+    <region>South Dakota</region>
+    <district>Harding</district>
+    <id>282576</id>
+  </point>
+  <point>
+    <name>Blunt</name>
+    <region>South Dakota</region>
+    <district>Hughes</district>
+    <id>282577</id>
+  </point>
+  <point>
+    <name>Harrold</name>
+    <region>South Dakota</region>
+    <district>Hughes</district>
+    <id>282578</id>
+  </point>
+  <point>
+    <name>Pierre</name>
+    <region>South Dakota</region>
+    <district>Hughes</district>
+    <id>257364</id>
+  </point>
+  <point>
+    <name>Pierre (airport)</name>
+    <region>South Dakota</region>
+    <district>Hughes</district>
+    <id>509709</id>
+  </point>
+  <point>
+    <name>Dimock</name>
+    <region>South Dakota</region>
+    <district>Hutchinson</district>
+    <id>282579</id>
+  </point>
+  <point>
+    <name>Freeman</name>
+    <region>South Dakota</region>
+    <district>Hutchinson</district>
+    <id>282580</id>
+  </point>
+  <point>
+    <name>Kaylor</name>
+    <region>South Dakota</region>
+    <district>Hutchinson</district>
+    <id>282581</id>
+  </point>
+  <point>
+    <name>Menno</name>
+    <region>South Dakota</region>
+    <district>Hutchinson</district>
+    <id>282582</id>
+  </point>
+  <point>
+    <name>Olivet</name>
+    <region>South Dakota</region>
+    <district>Hutchinson</district>
+    <id>257365</id>
+  </point>
+  <point>
+    <name>Parkston</name>
+    <region>South Dakota</region>
+    <district>Hutchinson</district>
+    <id>282584</id>
+  </point>
+  <point>
+    <name>Tripp</name>
+    <region>South Dakota</region>
+    <district>Hutchinson</district>
+    <id>282585</id>
+  </point>
+  <point>
+    <name>Highmore</name>
+    <region>South Dakota</region>
+    <district>Hyde</district>
+    <id>257366</id>
+  </point>
+  <point>
+    <name>Holabird</name>
+    <region>South Dakota</region>
+    <district>Hyde</district>
+    <id>282586</id>
+  </point>
+  <point>
+    <name>Stephan</name>
+    <region>South Dakota</region>
+    <district>Hyde</district>
+    <id>282587</id>
+  </point>
+  <point>
+    <name>Belvidere</name>
+    <region>South Dakota</region>
+    <district>Jackson</district>
+    <id>282588</id>
+  </point>
+  <point>
+    <name>Interior</name>
+    <region>South Dakota</region>
+    <district>Jackson</district>
+    <id>282589</id>
+  </point>
+  <point>
+    <name>Kadoka</name>
+    <region>South Dakota</region>
+    <district>Jackson</district>
+    <id>257367</id>
+  </point>
+  <point>
+    <name>Long Valley</name>
+    <region>South Dakota</region>
+    <district>Jackson</district>
+    <id>282590</id>
+  </point>
+  <point>
+    <name>Wanblee</name>
+    <region>South Dakota</region>
+    <district>Jackson</district>
+    <id>282591</id>
+  </point>
+  <point>
+    <name>Alpena</name>
+    <region>South Dakota</region>
+    <district>Jerauld</district>
+    <id>282593</id>
+  </point>
+  <point>
+    <name>Lane</name>
+    <region>South Dakota</region>
+    <district>Jerauld</district>
+    <id>282594</id>
+  </point>
+  <point>
+    <name>Wessington Springs</name>
+    <region>South Dakota</region>
+    <district>Jerauld</district>
+    <id>257368</id>
+  </point>
+  <point>
+    <name>Draper</name>
+    <region>South Dakota</region>
+    <district>Jones</district>
+    <id>282595</id>
+  </point>
+  <point>
+    <name>Murdo</name>
+    <region>South Dakota</region>
+    <district>Jones</district>
+    <id>257369</id>
+  </point>
+  <point>
+    <name>Okaton</name>
+    <region>South Dakota</region>
+    <district>Jones</district>
+    <id>282596</id>
+  </point>
+  <point>
+    <name>Arlington</name>
+    <region>South Dakota</region>
+    <district>Kingsbury</district>
+    <id>282597</id>
+  </point>
+  <point>
+    <name>Badger</name>
+    <region>South Dakota</region>
+    <district>Kingsbury</district>
+    <id>282598</id>
+  </point>
+  <point>
+    <name>Bancroft</name>
+    <region>South Dakota</region>
+    <district>Kingsbury</district>
+    <id>282599</id>
+  </point>
+  <point>
+    <name>De Smet</name>
+    <region>South Dakota</region>
+    <district>Kingsbury</district>
+    <id>257370</id>
+  </point>
+  <point>
+    <name>Erwin</name>
+    <region>South Dakota</region>
+    <district>Kingsbury</district>
+    <id>282601</id>
+  </point>
+  <point>
+    <name>Hetland</name>
+    <region>South Dakota</region>
+    <district>Kingsbury</district>
+    <id>282602</id>
+  </point>
+  <point>
+    <name>Iroquois</name>
+    <region>South Dakota</region>
+    <district>Kingsbury</district>
+    <id>282603</id>
+  </point>
+  <point>
+    <name>Lake Preston</name>
+    <region>South Dakota</region>
+    <district>Kingsbury</district>
+    <id>282604</id>
+  </point>
+  <point>
+    <name>Oldham</name>
+    <region>South Dakota</region>
+    <district>Kingsbury</district>
+    <id>282605</id>
+  </point>
+  <point>
+    <name>Chester</name>
+    <region>South Dakota</region>
+    <district>Lake</district>
+    <id>282606</id>
+  </point>
+  <point>
+    <name>Madison</name>
+    <region>South Dakota</region>
+    <district>Lake</district>
+    <id>257371</id>
+  </point>
+  <point>
+    <name>Madison (airport)</name>
+    <region>South Dakota</region>
+    <district>Lake</district>
+    <id>508520</id>
+  </point>
+  <point>
+    <name>Nunda</name>
+    <region>South Dakota</region>
+    <district>Lake</district>
+    <id>282607</id>
+  </point>
+  <point>
+    <name>Ramona</name>
+    <region>South Dakota</region>
+    <district>Lake</district>
+    <id>282608</id>
+  </point>
+  <point>
+    <name>Rutland</name>
+    <region>South Dakota</region>
+    <district>Lake</district>
+    <id>282609</id>
+  </point>
+  <point>
+    <name>Wentworth</name>
+    <region>South Dakota</region>
+    <district>Lake</district>
+    <id>282610</id>
+  </point>
+  <point>
+    <name>Winfred</name>
+    <region>South Dakota</region>
+    <district>Lake</district>
+    <id>282611</id>
+  </point>
+  <point>
+    <name>Central City</name>
+    <region>South Dakota</region>
+    <district>Lawrence</district>
+    <id>282612</id>
+  </point>
+  <point>
+    <name>Deadwood</name>
+    <region>South Dakota</region>
+    <district>Lawrence</district>
+    <id>257372</id>
+  </point>
+  <point>
+    <name>Lead</name>
+    <region>South Dakota</region>
+    <district>Lawrence</district>
+    <id>282613</id>
+  </point>
+  <point>
+    <name>Nemo</name>
+    <region>South Dakota</region>
+    <district>Lawrence</district>
+    <id>282614</id>
+  </point>
+  <point>
+    <name>Saint Onge</name>
+    <region>South Dakota</region>
+    <district>Lawrence</district>
+    <id>282615</id>
+  </point>
+  <point>
+    <name>Spearfish</name>
+    <region>South Dakota</region>
+    <district>Lawrence</district>
+    <id>282616</id>
+  </point>
+  <point>
+    <name>Spearfish (airport)</name>
+    <region>South Dakota</region>
+    <district>Lawrence</district>
+    <id>509713</id>
+  </point>
+  <point>
+    <name>Whitewood</name>
+    <region>South Dakota</region>
+    <district>Lawrence</district>
+    <id>282617</id>
+  </point>
+  <point>
+    <name>Canton</name>
+    <region>South Dakota</region>
+    <district>Lincoln</district>
+    <id>257373</id>
+  </point>
+  <point>
+    <name>Fairview</name>
+    <region>South Dakota</region>
+    <district>Lincoln</district>
+    <id>282618</id>
+  </point>
+  <point>
+    <name>Harrisburg</name>
+    <region>South Dakota</region>
+    <district>Lincoln</district>
+    <id>282619</id>
+  </point>
+  <point>
+    <name>Hudson</name>
+    <region>South Dakota</region>
+    <district>Lincoln</district>
+    <id>282620</id>
+  </point>
+  <point>
+    <name>Lennox</name>
+    <region>South Dakota</region>
+    <district>Lincoln</district>
+    <id>282621</id>
+  </point>
+  <point>
+    <name>Tea</name>
+    <region>South Dakota</region>
+    <district>Lincoln</district>
+    <id>282623</id>
+  </point>
+  <point>
+    <name>Worthing</name>
+    <region>South Dakota</region>
+    <district>Lincoln</district>
+    <id>282624</id>
+  </point>
+  <point>
+    <name>Kennebec</name>
+    <region>South Dakota</region>
+    <district>Lyman</district>
+    <id>257374</id>
+  </point>
+  <point>
+    <name>Lower Brule</name>
+    <region>South Dakota</region>
+    <district>Lyman</district>
+    <id>282625</id>
+  </point>
+  <point>
+    <name>Oacoma</name>
+    <region>South Dakota</region>
+    <district>Lyman</district>
+    <id>282626</id>
+  </point>
+  <point>
+    <name>Presho</name>
+    <region>South Dakota</region>
+    <district>Lyman</district>
+    <id>282627</id>
+  </point>
+  <point>
+    <name>Reliance</name>
+    <region>South Dakota</region>
+    <district>Lyman</district>
+    <id>282628</id>
+  </point>
+  <point>
+    <name>Vivian</name>
+    <region>South Dakota</region>
+    <district>Lyman</district>
+    <id>282629</id>
+  </point>
+  <point>
+    <name>Amherst</name>
+    <region>South Dakota</region>
+    <district>Marshall</district>
+    <id>282630</id>
+  </point>
+  <point>
+    <name>Britton</name>
+    <region>South Dakota</region>
+    <district>Marshall</district>
+    <id>257375</id>
+  </point>
+  <point>
+    <name>Eden</name>
+    <region>South Dakota</region>
+    <district>Marshall</district>
+    <id>282631</id>
+  </point>
+  <point>
+    <name>Lake City</name>
+    <region>South Dakota</region>
+    <district>Marshall</district>
+    <id>282632</id>
+  </point>
+  <point>
+    <name>Langford</name>
+    <region>South Dakota</region>
+    <district>Marshall</district>
+    <id>282633</id>
+  </point>
+  <point>
+    <name>Veblen</name>
+    <region>South Dakota</region>
+    <district>Marshall</district>
+    <id>282634</id>
+  </point>
+  <point>
+    <name>Bridgewater</name>
+    <region>South Dakota</region>
+    <district>McCook</district>
+    <id>282635</id>
+  </point>
+  <point>
+    <name>Canistota</name>
+    <region>South Dakota</region>
+    <district>McCook</district>
+    <id>282636</id>
+  </point>
+  <point>
+    <name>Dolton</name>
+    <region>South Dakota</region>
+    <district>McCook</district>
+    <id>282637</id>
+  </point>
+  <point>
+    <name>Montrose</name>
+    <region>South Dakota</region>
+    <district>McCook</district>
+    <id>282638</id>
+  </point>
+  <point>
+    <name>Salem</name>
+    <region>South Dakota</region>
+    <district>McCook</district>
+    <id>257377</id>
+  </point>
+  <point>
+    <name>Spencer</name>
+    <region>South Dakota</region>
+    <district>McCook</district>
+    <id>282639</id>
+  </point>
+  <point>
+    <name>Artas</name>
+    <region>South Dakota</region>
+    <district>McPherson</district>
+    <id>282640</id>
+  </point>
+  <point>
+    <name>Eureka</name>
+    <region>South Dakota</region>
+    <district>McPherson</district>
+    <id>282641</id>
+  </point>
+  <point>
+    <name>Leola</name>
+    <region>South Dakota</region>
+    <district>McPherson</district>
+    <id>257378</id>
+  </point>
+  <point>
+    <name>Longlake</name>
+    <region>South Dakota</region>
+    <district>McPherson</district>
+    <id>282643</id>
+  </point>
+  <point>
+    <name>Bethlehem</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282644</id>
+  </point>
+  <point>
+    <name>Black Hawk</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282645</id>
+  </point>
+  <point>
+    <name>Ellsworth (airbase)</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282646</id>
+  </point>
+  <point>
+    <name>Enning</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282647</id>
+  </point>
+  <point>
+    <name>Faith</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282648</id>
+  </point>
+  <point>
+    <name>Fort Meade</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282649</id>
+  </point>
+  <point>
+    <name>Hereford</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282650</id>
+  </point>
+  <point>
+    <name>Howes</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282651</id>
+  </point>
+  <point>
+    <name>Marcus</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282652</id>
+  </point>
+  <point>
+    <name>Mud Butte</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282654</id>
+  </point>
+  <point>
+    <name>Opal</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282655</id>
+  </point>
+  <point>
+    <name>Piedmont</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282656</id>
+  </point>
+  <point>
+    <name>Plainview</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282657</id>
+  </point>
+  <point>
+    <name>Red Owl</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282658</id>
+  </point>
+  <point>
+    <name>Stoneville</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282659</id>
+  </point>
+  <point>
+    <name>Sturgis</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>257379</id>
+  </point>
+  <point>
+    <name>Summerset</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282660</id>
+  </point>
+  <point>
+    <name>Union Center</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282661</id>
+  </point>
+  <point>
+    <name>White Owl</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282663</id>
+  </point>
+  <point>
+    <name>Zeona</name>
+    <region>South Dakota</region>
+    <district>Meade</district>
+    <id>282664</id>
+  </point>
+  <point>
+    <name>Cedarbutte</name>
+    <region>South Dakota</region>
+    <district>Mellette</district>
+    <id>282665</id>
+  </point>
+  <point>
+    <name>Norris</name>
+    <region>South Dakota</region>
+    <district>Mellette</district>
+    <id>282666</id>
+  </point>
+  <point>
+    <name>White River</name>
+    <region>South Dakota</region>
+    <district>Mellette</district>
+    <id>257380</id>
+  </point>
+  <point>
+    <name>Wood</name>
+    <region>South Dakota</region>
+    <district>Mellette</district>
+    <id>282667</id>
+  </point>
+  <point>
+    <name>Canova</name>
+    <region>South Dakota</region>
+    <district>Miner</district>
+    <id>282668</id>
+  </point>
+  <point>
+    <name>Carthage</name>
+    <region>South Dakota</region>
+    <district>Miner</district>
+    <id>282669</id>
+  </point>
+  <point>
+    <name>Fedora</name>
+    <region>South Dakota</region>
+    <district>Miner</district>
+    <id>282670</id>
+  </point>
+  <point>
+    <name>Howard</name>
+    <region>South Dakota</region>
+    <district>Miner</district>
+    <id>257381</id>
+  </point>
+  <point>
+    <name>Roswell</name>
+    <region>South Dakota</region>
+    <district>Miner</district>
+    <id>282672</id>
+  </point>
+  <point>
+    <name>Baltic</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282673</id>
+  </point>
+  <point>
+    <name>Brandon</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282674</id>
+  </point>
+  <point>
+    <name>Buffalo Ridge</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282675</id>
+  </point>
+  <point>
+    <name>Colton</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282676</id>
+  </point>
+  <point>
+    <name>Corson</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282677</id>
+  </point>
+  <point>
+    <name>Crooks</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282678</id>
+  </point>
+  <point>
+    <name>Dell Rapids</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282679</id>
+  </point>
+  <point>
+    <name>Garretson</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282680</id>
+  </point>
+  <point>
+    <name>Hartford</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282682</id>
+  </point>
+  <point>
+    <name>Humboldt</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282683</id>
+  </point>
+  <point>
+    <name>Lyons</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282684</id>
+  </point>
+  <point>
+    <name>Renner</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282685</id>
+  </point>
+  <point>
+    <name>Rowena</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282686</id>
+  </point>
+  <point>
+    <name>Sherman</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282687</id>
+  </point>
+  <point>
+    <name>Sioux Falls (airport)</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>257382</id>
+  </point>
+  <point>
+    <name>Sioux Falls (weather station)</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>348413</id>
+  </point>
+  <point>
+    <name>Valley Springs</name>
+    <region>South Dakota</region>
+    <district>Minnehaha</district>
+    <id>282690</id>
+  </point>
+  <point>
+    <name>Colman</name>
+    <region>South Dakota</region>
+    <district>Moody</district>
+    <id>282691</id>
+  </point>
+  <point>
+    <name>Egan</name>
+    <region>South Dakota</region>
+    <district>Moody</district>
+    <id>282692</id>
+  </point>
+  <point>
+    <name>Flandreau</name>
+    <region>South Dakota</region>
+    <district>Moody</district>
+    <id>257383</id>
+  </point>
+  <point>
+    <name>Trent</name>
+    <region>South Dakota</region>
+    <district>Moody</district>
+    <id>282693</id>
+  </point>
+  <point>
+    <name>Box Elder</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282694</id>
+  </point>
+  <point>
+    <name>Caputa</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282695</id>
+  </point>
+  <point>
+    <name>Cottonwood</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282696</id>
+  </point>
+  <point>
+    <name>Creighton</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282697</id>
+  </point>
+  <point>
+    <name>Elm Springs</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282698</id>
+  </point>
+  <point>
+    <name>Hill City</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282699</id>
+  </point>
+  <point>
+    <name>Keystone</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282700</id>
+  </point>
+  <point>
+    <name>New Underwood</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282701</id>
+  </point>
+  <point>
+    <name>Owanka</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282702</id>
+  </point>
+  <point>
+    <name>Quinn</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282703</id>
+  </point>
+  <point>
+    <name>Rapid City</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>257384</id>
+  </point>
+  <point>
+    <name>Rapid City (airport)</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>291953</id>
+  </point>
+  <point>
+    <name>Rochford</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282705</id>
+  </point>
+  <point>
+    <name>Rockerville</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282706</id>
+  </point>
+  <point>
+    <name>Scenic</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282707</id>
+  </point>
+  <point>
+    <name>Silver City</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282708</id>
+  </point>
+  <point>
+    <name>Wall</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282709</id>
+  </point>
+  <point>
+    <name>Wasta</name>
+    <region>South Dakota</region>
+    <district>Pennington</district>
+    <id>282710</id>
+  </point>
+  <point>
+    <name>Bison</name>
+    <region>South Dakota</region>
+    <district>Perkins</district>
+    <id>257385</id>
+  </point>
+  <point>
+    <name>Glad Valley</name>
+    <region>South Dakota</region>
+    <district>Perkins</district>
+    <id>282711</id>
+  </point>
+  <point>
+    <name>Lemmon</name>
+    <region>South Dakota</region>
+    <district>Perkins</district>
+    <id>282712</id>
+  </point>
+  <point>
+    <name>Lodgepole</name>
+    <region>South Dakota</region>
+    <district>Perkins</district>
+    <id>282713</id>
+  </point>
+  <point>
+    <name>Meadow</name>
+    <region>South Dakota</region>
+    <district>Perkins</district>
+    <id>282714</id>
+  </point>
+  <point>
+    <name>Prairie City</name>
+    <region>South Dakota</region>
+    <district>Perkins</district>
+    <id>282715</id>
+  </point>
+  <point>
+    <name>Shadehill</name>
+    <region>South Dakota</region>
+    <district>Perkins</district>
+    <id>282716</id>
+  </point>
+  <point>
+    <name>Thunder Hawk</name>
+    <region>South Dakota</region>
+    <district>Perkins</district>
+    <id>282717</id>
+  </point>
+  <point>
+    <name>Gettysburg</name>
+    <region>South Dakota</region>
+    <district>Potter</district>
+    <id>257386</id>
+  </point>
+  <point>
+    <name>Hoven</name>
+    <region>South Dakota</region>
+    <district>Potter</district>
+    <id>282718</id>
+  </point>
+  <point>
+    <name>Lebanon</name>
+    <region>South Dakota</region>
+    <district>Potter</district>
+    <id>282719</id>
+  </point>
+  <point>
+    <name>Tolstoy</name>
+    <region>South Dakota</region>
+    <district>Potter</district>
+    <id>282721</id>
+  </point>
+  <point>
+    <name>Agency Village</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>282722</id>
+  </point>
+  <point>
+    <name>Claire City</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>282723</id>
+  </point>
+  <point>
+    <name>Corona</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>282724</id>
+  </point>
+  <point>
+    <name>New Effington</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>282725</id>
+  </point>
+  <point>
+    <name>Ortley</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>282726</id>
+  </point>
+  <point>
+    <name>Peever</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>282727</id>
+  </point>
+  <point>
+    <name>Rosholt</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>282728</id>
+  </point>
+  <point>
+    <name>Sisseton (airport)</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>257376</id>
+  </point>
+  <point>
+    <name>Summit</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>282729</id>
+  </point>
+  <point>
+    <name>Wilmot</name>
+    <region>South Dakota</region>
+    <district>Roberts</district>
+    <id>282731</id>
+  </point>
+  <point>
+    <name>Artesian</name>
+    <region>South Dakota</region>
+    <district>Sanborn</district>
+    <id>282732</id>
+  </point>
+  <point>
+    <name>Forestburg</name>
+    <region>South Dakota</region>
+    <district>Sanborn</district>
+    <id>282733</id>
+  </point>
+  <point>
+    <name>Letcher</name>
+    <region>South Dakota</region>
+    <district>Sanborn</district>
+    <id>282734</id>
+  </point>
+  <point>
+    <name>Woonsocket</name>
+    <region>South Dakota</region>
+    <district>Sanborn</district>
+    <id>256673</id>
+  </point>
+  <point>
+    <name>Batesland</name>
+    <region>South Dakota</region>
+    <district>Shannon</district>
+    <id>282735</id>
+  </point>
+  <point>
+    <name>Denby</name>
+    <region>South Dakota</region>
+    <district>Shannon</district>
+    <id>282736</id>
+  </point>
+  <point>
+    <name>Kyle</name>
+    <region>South Dakota</region>
+    <district>Shannon</district>
+    <id>282737</id>
+  </point>
+  <point>
+    <name>Manderson</name>
+    <region>South Dakota</region>
+    <district>Shannon</district>
+    <id>282738</id>
+  </point>
+  <point>
+    <name>Oglala</name>
+    <region>South Dakota</region>
+    <district>Shannon</district>
+    <id>282739</id>
+  </point>
+  <point>
+    <name>Pine Ridge (airport)</name>
+    <region>South Dakota</region>
+    <district>Shannon</district>
+    <id>256674</id>
+  </point>
+  <point>
+    <name>Porcupine</name>
+    <region>South Dakota</region>
+    <district>Shannon</district>
+    <id>282740</id>
+  </point>
+  <point>
+    <name>Wounded Knee</name>
+    <region>South Dakota</region>
+    <district>Shannon</district>
+    <id>282741</id>
+  </point>
+  <point>
+    <name>Ashton</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282742</id>
+  </point>
+  <point>
+    <name>Athol</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282743</id>
+  </point>
+  <point>
+    <name>Brentford</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282744</id>
+  </point>
+  <point>
+    <name>Chelsea</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282745</id>
+  </point>
+  <point>
+    <name>Conde</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282746</id>
+  </point>
+  <point>
+    <name>Doland</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282747</id>
+  </point>
+  <point>
+    <name>Frankfort</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282748</id>
+  </point>
+  <point>
+    <name>Mellette</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282750</id>
+  </point>
+  <point>
+    <name>Northville</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282751</id>
+  </point>
+  <point>
+    <name>Redfield</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>256675</id>
+  </point>
+  <point>
+    <name>Tulare</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282752</id>
+  </point>
+  <point>
+    <name>Turton</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282753</id>
+  </point>
+  <point>
+    <name>Verdon</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282754</id>
+  </point>
+  <point>
+    <name>Zell</name>
+    <region>South Dakota</region>
+    <district>Spink</district>
+    <id>282755</id>
+  </point>
+  <point>
+    <name>Fort Pierre</name>
+    <region>South Dakota</region>
+    <district>Stanley</district>
+    <id>256676</id>
+  </point>
+  <point>
+    <name>Hayes</name>
+    <region>South Dakota</region>
+    <district>Stanley</district>
+    <id>282756</id>
+  </point>
+  <point>
+    <name>Mission Ridge</name>
+    <region>South Dakota</region>
+    <district>Stanley</district>
+    <id>282757</id>
+  </point>
+  <point>
+    <name>Agar</name>
+    <region>South Dakota</region>
+    <district>Sully</district>
+    <id>282759</id>
+  </point>
+  <point>
+    <name>Onida</name>
+    <region>South Dakota</region>
+    <district>Sully</district>
+    <id>256677</id>
+  </point>
+  <point>
+    <name>Mission</name>
+    <region>South Dakota</region>
+    <district>Todd</district>
+    <id>256678</id>
+  </point>
+  <point>
+    <name>Okreek</name>
+    <region>South Dakota</region>
+    <district>Todd</district>
+    <id>282760</id>
+  </point>
+  <point>
+    <name>Parmelee</name>
+    <region>South Dakota</region>
+    <district>Todd</district>
+    <id>282761</id>
+  </point>
+  <point>
+    <name>Rosebud</name>
+    <region>South Dakota</region>
+    <district>Todd</district>
+    <id>282762</id>
+  </point>
+  <point>
+    <name>Saint Francis</name>
+    <region>South Dakota</region>
+    <district>Todd</district>
+    <id>282763</id>
+  </point>
+  <point>
+    <name>Carter</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>282764</id>
+  </point>
+  <point>
+    <name>Clearfield</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>282765</id>
+  </point>
+  <point>
+    <name>Colome</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>282766</id>
+  </point>
+  <point>
+    <name>Hamill</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>282768</id>
+  </point>
+  <point>
+    <name>Ideal</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>282769</id>
+  </point>
+  <point>
+    <name>Keyapaha</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>282770</id>
+  </point>
+  <point>
+    <name>Millboro</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>282771</id>
+  </point>
+  <point>
+    <name>Wewela</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>282772</id>
+  </point>
+  <point>
+    <name>Winner</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>256679</id>
+  </point>
+  <point>
+    <name>Winner (airport)</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>508750</id>
+  </point>
+  <point>
+    <name>Witten</name>
+    <region>South Dakota</region>
+    <district>Tripp</district>
+    <id>282773</id>
+  </point>
+  <point>
+    <name>Centerville</name>
+    <region>South Dakota</region>
+    <district>Turner</district>
+    <id>282774</id>
+  </point>
+  <point>
+    <name>Chancellor</name>
+    <region>South Dakota</region>
+    <district>Turner</district>
+    <id>282775</id>
+  </point>
+  <point>
+    <name>Davis</name>
+    <region>South Dakota</region>
+    <district>Turner</district>
+    <id>282776</id>
+  </point>
+  <point>
+    <name>Hurley</name>
+    <region>South Dakota</region>
+    <district>Turner</district>
+    <id>282778</id>
+  </point>
+  <point>
+    <name>Marion</name>
+    <region>South Dakota</region>
+    <district>Turner</district>
+    <id>282779</id>
+  </point>
+  <point>
+    <name>Monroe</name>
+    <region>South Dakota</region>
+    <district>Turner</district>
+    <id>282780</id>
+  </point>
+  <point>
+    <name>Parker</name>
+    <region>South Dakota</region>
+    <district>Turner</district>
+    <id>256680</id>
+  </point>
+  <point>
+    <name>Viborg</name>
+    <region>South Dakota</region>
+    <district>Turner</district>
+    <id>282781</id>
+  </point>
+  <point>
+    <name>Alcester</name>
+    <region>South Dakota</region>
+    <district>Union</district>
+    <id>282782</id>
+  </point>
+  <point>
+    <name>Beresford</name>
+    <region>South Dakota</region>
+    <district>Union</district>
+    <id>282783</id>
+  </point>
+  <point>
+    <name>Dakota Dunes</name>
+    <region>South Dakota</region>
+    <district>Union</district>
+    <id>282784</id>
+  </point>
+  <point>
+    <name>Elk Point</name>
+    <region>South Dakota</region>
+    <district>Union</district>
+    <id>256681</id>
+  </point>
+  <point>
+    <name>Jefferson</name>
+    <region>South Dakota</region>
+    <district>Union</district>
+    <id>282785</id>
+  </point>
+  <point>
+    <name>McCook Lake</name>
+    <region>South Dakota</region>
+    <district>Union</district>
+    <id>282786</id>
+  </point>
+  <point>
+    <name>North Sioux City</name>
+    <region>South Dakota</region>
+    <district>Union</district>
+    <id>282787</id>
+  </point>
+  <point>
+    <name>Akaska</name>
+    <region>South Dakota</region>
+    <district>Walworth</district>
+    <id>282788</id>
+  </point>
+  <point>
+    <name>Glenham</name>
+    <region>South Dakota</region>
+    <district>Walworth</district>
+    <id>282789</id>
+  </point>
+  <point>
+    <name>Java</name>
+    <region>South Dakota</region>
+    <district>Walworth</district>
+    <id>282790</id>
+  </point>
+  <point>
+    <name>Lowry</name>
+    <region>South Dakota</region>
+    <district>Walworth</district>
+    <id>282791</id>
+  </point>
+  <point>
+    <name>Mobridge (airport)</name>
+    <region>South Dakota</region>
+    <district>Walworth</district>
+    <id>282792</id>
+  </point>
+  <point>
+    <name>Selby</name>
+    <region>South Dakota</region>
+    <district>Walworth</district>
+    <id>256682</id>
+  </point>
+  <point>
+    <name>Yankton (airport)</name>
+    <district>Yankton</district>
+    <id>256683</id>
+  </point>
+  <point>
+    <name>Lesterville</name>
+    <district>Yankton</district>
+    <id>282794</id>
+  </point>
+  <point>
+    <name>Mission Hill</name>
+    <district>Yankton</district>
+    <id>282796</id>
+  </point>
+  <point>
+    <name>Utica</name>
+    <district>Yankton</district>
+    <id>282797</id>
+  </point>
+  <point>
+    <name>Volin</name>
+    <district>Yankton</district>
+    <id>282798</id>
+  </point>
+  <point>
+    <name>Gayville</name>
+    <region>South Dakota</region>
+    <district>Yankton</district>
+    <id>282793</id>
+  </point>
+  <point>
+    <name>Cherry Creek</name>
+    <region>South Dakota</region>
+    <district>Ziebach</district>
+    <id>282799</id>
+  </point>
+  <point>
+    <name>Dupree</name>
+    <region>South Dakota</region>
+    <district>Ziebach</district>
+    <id>256684</id>
+  </point>
+  <point>
+    <name>Faith (airport)</name>
+    <region>South Dakota</region>
+    <district>Ziebach</district>
+    <id>509382</id>
+  </point>
+</region>

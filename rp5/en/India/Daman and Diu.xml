@@ -1,0 +1,44 @@
+<region name="Daman and Diu" count="8">
+  <point>
+    <name>Daman</name>
+    <district>Daman</district>
+    <id>12170</id>
+  </point>
+  <point>
+    <name>Dholar</name>
+    <district>Daman</district>
+    <id>188292</id>
+  </point>
+  <point>
+    <name>Kachigam</name>
+    <district>Daman</district>
+    <id>188293</id>
+  </point>
+  <point>
+    <name>Magarwada</name>
+    <district>Daman</district>
+    <id>188294</id>
+  </point>
+  <point>
+    <name>Marvad</name>
+    <district>Daman</district>
+    <id>188295</id>
+  </point>
+  <point>
+    <name>Bhimpore</name>
+    <region>Daman and Diu</region>
+    <district>Daman</district>
+    <id>188289</id>
+  </point>
+  <point>
+    <name>Dabhel</name>
+    <region>Daman and Diu</region>
+    <district>Daman</district>
+    <id>188290</id>
+  </point>
+  <point>
+    <name>Diu</name>
+    <district>Diu</district>
+    <id>12168</id>
+  </point>
+</region>

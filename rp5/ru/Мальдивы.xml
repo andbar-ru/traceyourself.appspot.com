@@ -1,0 +1,212 @@
+<country name="Мальдивы" count="35">
+  <point>
+    <name>Адду Атолл</name>
+    <region>Адду</region>
+    <district>Адду Атолл</district>
+    <id>13992</id>
+  </point>
+  <point>
+    <name>Ган</name>
+    <region>Адду</region>
+    <district>Ган</district>
+    <id>12363</id>
+  </point>
+  <point>
+    <name>Хитхадхоо</name>
+    <region>Адду</region>
+    <district>Хитхадхоо</district>
+    <id>212658</id>
+  </point>
+  <point>
+    <name>Махибаду</name>
+    <region>Алифу-Дхаал</region>
+    <district>Махибаду</district>
+    <id>504462</id>
+  </point>
+  <point>
+    <name>Ари Атолл</name>
+    <region>Алифу</region>
+    <district>Ари Атолл</district>
+    <id>13993</id>
+  </point>
+  <point>
+    <name>Расду</name>
+    <region>Алифу</region>
+    <district>Расду</district>
+    <id>212631</id>
+  </point>
+  <point>
+    <name>Баа Атолл</name>
+    <region>Баа</region>
+    <district>Баа Атолл</district>
+    <id>13994</id>
+  </point>
+  <point>
+    <name>Эйдхафуши</name>
+    <region>Баа</region>
+    <district>Эйдхафуши</district>
+    <id>212681</id>
+  </point>
+  <point>
+    <name>Фелиду</name>
+    <region>Вааву</region>
+    <district>Фелиду</district>
+    <id>212682</id>
+  </point>
+  <point>
+    <name>Виллинджили</name>
+    <region>Гаафу Алифу</region>
+    <district>Виллинджили</district>
+    <id>212632</id>
+  </point>
+  <point>
+    <name>Каадедхдху</name>
+    <region>Гаафу Даалу</region>
+    <district>Каадедхдху</district>
+    <id>429816</id>
+  </point>
+  <point>
+    <name>Тинаду</name>
+    <region>Гаафу Даалу</region>
+    <district>Тинаду</district>
+    <id>212677</id>
+  </point>
+  <point>
+    <name>Фувамула</name>
+    <region>Гнавияни</region>
+    <district>Фувамула</district>
+    <id>212633</id>
+  </point>
+  <point>
+    <name>Даалу Атолл</name>
+    <region>Дхаалу</region>
+    <district>Даалу Атолл</district>
+    <id>152220</id>
+  </point>
+  <point>
+    <name>Кудахуваду</name>
+    <region>Дхаалу</region>
+    <district>Кудахуваду</district>
+    <id>212638</id>
+  </point>
+  <point>
+    <name>Северный Мале Атолл</name>
+    <region>Каафу</region>
+    <district>Северный Мале Атолл</district>
+    <id>13998</id>
+  </point>
+  <point>
+    <name>Тулусду</name>
+    <region>Каафу</region>
+    <district>Тулусду</district>
+    <id>212679</id>
+  </point>
+  <point>
+    <name>Южный Мале Атолл</name>
+    <region>Каафу</region>
+    <district>Южный Мале Атолл</district>
+    <id>13999</id>
+  </point>
+  <point>
+    <name>Кадхдху</name>
+    <region>Лаамуз</region>
+    <district>Кадхдху</district>
+    <id>12362</id>
+  </point>
+  <point>
+    <name>Фунадху</name>
+    <region>Лаамуз</region>
+    <district>Фунадху</district>
+    <id>212639</id>
+  </point>
+  <point>
+    <name>Лавияни Атолл</name>
+    <region>Лавийани</region>
+    <district>Лавияни Атолл</district>
+    <id>13995</id>
+  </point>
+  <point>
+    <name>Наифару</name>
+    <region>Лавийани</region>
+    <district>Наифару</district>
+    <id>212641</id>
+  </point>
+  <point>
+    <name>Мале (аэропорт)</name>
+    <region>Мале</region>
+    <district>Мале (аэропорт)</district>
+    <id>12361</id>
+  </point>
+  <point>
+    <name>Колофури (Атолл Миму)</name>
+    <region>Мииму</region>
+    <district>Колофури (Атолл Миму)</district>
+    <id>152221</id>
+  </point>
+  <point>
+    <name>Мули</name>
+    <region>Мииму</region>
+    <district>Мули</district>
+    <id>212642</id>
+  </point>
+  <point>
+    <name>Манадху</name>
+    <region>Нуну</region>
+    <district>Манадху</district>
+    <id>212656</id>
+  </point>
+  <point>
+    <name>Раа Атолл</name>
+    <region>Раа</region>
+    <district>Раа Атолл</district>
+    <id>13997</id>
+  </point>
+  <point>
+    <name>Унгуфаару</name>
+    <region>Раа</region>
+    <district>Унгуфаару</district>
+    <id>212657</id>
+  </point>
+  <point>
+    <name>Вейманду</name>
+    <region>Тхаа</region>
+    <district>Вейманду</district>
+    <id>212659</id>
+  </point>
+  <point>
+    <name>Ниланде Атолл</name>
+    <region>Фааву</region>
+    <district>Ниланде Атолл</district>
+    <id>13996</id>
+  </point>
+  <point>
+    <name>Филитейо</name>
+    <region>Фааву</region>
+    <district>Филитейо</district>
+    <id>152219</id>
+  </point>
+  <point>
+    <name>Диду</name>
+    <region>Хаа-Алифу</region>
+    <district>Диду</district>
+    <id>212661</id>
+  </point>
+  <point>
+    <name>Кулхудхуффуши</name>
+    <region>Хаа-Дхаалу</region>
+    <district>Кулхудхуффуши</district>
+    <id>212668</id>
+  </point>
+  <point>
+    <name>Ханимаду</name>
+    <region>Хаа-Дхаалу</region>
+    <district>Ханимаду</district>
+    <id>12360</id>
+  </point>
+  <point>
+    <name>Миланду</name>
+    <region>Шавийани</region>
+    <district>Миланду</district>
+    <id>212680</id>
+  </point>
+</country>

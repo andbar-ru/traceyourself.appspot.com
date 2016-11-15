@@ -1,0 +1,314 @@
+<country name="Израиль" count="52">
+  <point>
+    <name>Иерусалим</name>
+    <region>Иерусалимский округ</region>
+    <district>Иерусалим</district>
+    <id>10017</id>
+  </point>
+  <point>
+    <name>Джерихо / Иерихон</name>
+    <region>Иерусалимский округ</region>
+    <district>Иерусалим</district>
+    <id>10025</id>
+  </point>
+  <point>
+    <name>Иерусалим (аэропорт)</name>
+    <region>Иерусалимский округ</region>
+    <district>Иерусалим</district>
+    <id>10026</id>
+  </point>
+  <point>
+    <name>Вифлеем</name>
+    <region>Иудея и Самария</region>
+    <district>Вифлеем</district>
+    <id>152442</id>
+  </point>
+  <point>
+    <name>Модиин-Илит</name>
+    <region>Иудея и Самария</region>
+    <district>Модиин-Илит</district>
+    <id>253107</id>
+  </point>
+  <point>
+    <name>Тальмон</name>
+    <region>Иудея и Самария</region>
+    <district>Тальмон</district>
+    <id>141422</id>
+  </point>
+  <point>
+    <name>Акко</name>
+    <region>Северный округ</region>
+    <district>Акко (подокруг)</district>
+    <id>152445</id>
+  </point>
+  <point>
+    <name>Кармиэль</name>
+    <region>Северный округ</region>
+    <district>Акко (подокруг)</district>
+    <id>152608</id>
+  </point>
+  <point>
+    <name>Голан</name>
+    <region>Северный округ</region>
+    <district>Голан</district>
+    <id>253099</id>
+  </point>
+  <point>
+    <name>Изреэль</name>
+    <region>Северный округ</region>
+    <district>Изреэль (подокруг)</district>
+    <id>253096</id>
+  </point>
+  <point>
+    <name>Кинерет</name>
+    <region>Северный округ</region>
+    <district>Кинерет (подокруг)</district>
+    <id>253097</id>
+  </point>
+  <point>
+    <name>Тверия</name>
+    <region>Северный округ</region>
+    <district>Кинерет (подокруг)</district>
+    <id>152444</id>
+  </point>
+  <point>
+    <name>Назарет</name>
+    <region>Северный округ</region>
+    <district>Назарет (подокруг)</district>
+    <id>152443</id>
+  </point>
+  <point>
+    <name>Цфат</name>
+    <region>Северный округ</region>
+    <district>Цфат (подокруг)</district>
+    <id>170345</id>
+  </point>
+  <point>
+    <name>Рош-Пинна (аэропорт)</name>
+    <region>Северный округ</region>
+    <district>Цфат (подокруг)</district>
+    <id>508634</id>
+  </point>
+  <point>
+    <name>Газа</name>
+    <region>Сектор Газа</region>
+    <district>Газа</district>
+    <id>10527</id>
+  </point>
+  <point>
+    <name>Тель-Авив</name>
+    <region>Тель-Авивский округ</region>
+    <district>Тель-Авив-Яффа</district>
+    <id>152597</id>
+  </point>
+  <point>
+    <name>Бат-Ям</name>
+    <region>Тель-Авивский округ</region>
+    <district>Бат-Ям</district>
+    <id>152607</id>
+  </point>
+  <point>
+    <name>Сде-Дов (аэропорт)</name>
+    <region>Тель-Авивский округ</region>
+    <district>Рамла</district>
+    <id>508658</id>
+  </point>
+  <point>
+    <name>Тель-Авив / Бен-Гурион (аэропорт)</name>
+    <region>Тель-Авивский округ</region>
+    <district>Тель-Авив-Яффа</district>
+    <id>10016</id>
+  </point>
+  <point>
+    <name>Азор</name>
+    <region>Тель-Авивский округ</region>
+    <district>Азор</district>
+    <id>253102</id>
+  </point>
+  <point>
+    <name>Бней-Брак</name>
+    <region>Тель-Авивский округ</region>
+    <district>Бней-Брак</district>
+    <id>152604</id>
+  </point>
+  <point>
+    <name>Герцлия</name>
+    <region>Тель-Авивский округ</region>
+    <district>Герцлия</district>
+    <id>152606</id>
+  </point>
+  <point>
+    <name>Гиватаим</name>
+    <region>Тель-Авивский округ</region>
+    <district>Гиватаим</district>
+    <id>253103</id>
+  </point>
+  <point>
+    <name>Кирьят-Оно</name>
+    <region>Тель-Авивский округ</region>
+    <district>Кирьят-Оно</district>
+    <id>253105</id>
+  </point>
+  <point>
+    <name>Кфар-Шмарьягу</name>
+    <region>Тель-Авивский округ</region>
+    <district>Кфар-Шмарьягу</district>
+    <id>253104</id>
+  </point>
+  <point>
+    <name>Ор-Йехуда</name>
+    <region>Тель-Авивский округ</region>
+    <district>Ор-Йехуда</district>
+    <id>253101</id>
+  </point>
+  <point>
+    <name>Рамат-Ган</name>
+    <region>Тель-Авивский округ</region>
+    <district>Рамат-Ган</district>
+    <id>152605</id>
+  </point>
+  <point>
+    <name>Рамат-ха-Шарон</name>
+    <region>Тель-Авивский округ</region>
+    <district>Рамат-ха-Шарон</district>
+    <id>253106</id>
+  </point>
+  <point>
+    <name>Холон</name>
+    <region>Тель-Авивский округ</region>
+    <district>Холон</district>
+    <id>152603</id>
+  </point>
+  <point>
+    <name>Хайфа</name>
+    <region>Хайфский округ</region>
+    <district>Хайфа</district>
+    <id>510011</id>
+  </point>
+  <point>
+    <name>Кирьят-Ата</name>
+    <region>Хайфский округ</region>
+    <district>Хайфа</district>
+    <id>152609</id>
+  </point>
+  <point>
+    <name>Хадера</name>
+    <region>Хайфский округ</region>
+    <district>Хадера</district>
+    <id>253100</id>
+  </point>
+  <point>
+    <name>Хайфа (аэропорт)</name>
+    <region>Хайфский округ</region>
+    <district>Хайфа</district>
+    <id>10013</id>
+  </point>
+  <point>
+    <name>Нетания</name>
+    <region>Центральный округ</region>
+    <district>Нетания</district>
+    <id>152446</id>
+  </point>
+  <point>
+    <name>Петах-Тиква</name>
+    <region>Центральный округ</region>
+    <district>Петах-Тиква</district>
+    <id>151230</id>
+  </point>
+  <point>
+    <name>Кфар-Сава</name>
+    <region>Центральный округ</region>
+    <district>Петах-Тиква</district>
+    <id>152599</id>
+  </point>
+  <point>
+    <name>Раанана</name>
+    <region>Центральный округ</region>
+    <district>Петах-Тиква</district>
+    <id>152600</id>
+  </point>
+  <point>
+    <name>Рамла</name>
+    <region>Центральный округ</region>
+    <district>Рамла</district>
+    <id>152593</id>
+  </point>
+  <point>
+    <name>Бейт-Даган</name>
+    <region>Центральный округ</region>
+    <district>Рамла</district>
+    <id>10015</id>
+  </point>
+  <point>
+    <name>Лод</name>
+    <region>Центральный округ</region>
+    <district>Рамла</district>
+    <id>152601</id>
+  </point>
+  <point>
+    <name>Тель-Авив (аэропорт Сде Дов)</name>
+    <region>Тель-Авивский округ</region>
+    <district>Рамла</district>
+    <id>10014</id>
+  </point>
+  <point>
+    <name>Реховот</name>
+    <region>Центральный округ</region>
+    <district>Реховот</district>
+    <id>152598</id>
+  </point>
+  <point>
+    <name>Ришон-ле-Цион</name>
+    <region>Центральный округ</region>
+    <district>Реховот</district>
+    <id>152594</id>
+  </point>
+  <point>
+    <name>Ашкелон</name>
+    <region>Южный округ</region>
+    <district>Ашкелон</district>
+    <id>152596</id>
+  </point>
+  <point>
+    <name>Ашдод</name>
+    <region>Южный округ</region>
+    <district>Ашкелон</district>
+    <id>152595</id>
+  </point>
+  <point>
+    <name>Кирьят-Гат</name>
+    <region>Южный округ</region>
+    <district>Ашкелон</district>
+    <id>152602</id>
+  </point>
+  <point>
+    <name>Беэр-Шева</name>
+    <region>Южный округ</region>
+    <district>Беэр-Шева</district>
+    <id>10018</id>
+  </point>
+  <point>
+    <name>Арад</name>
+    <region>Южный округ</region>
+    <district>Беэр-Шева</district>
+    <id>141607</id>
+  </point>
+  <point>
+    <name>Беэр-Шева (аэропорт)</name>
+    <region>Южный округ</region>
+    <district>Беэр-Шева</district>
+    <id>508245</id>
+  </point>
+  <point>
+    <name>Увда (аэропорт)</name>
+    <region>Южный округ</region>
+    <district>Беэр-Шева</district>
+    <id>10019</id>
+  </point>
+  <point>
+    <name>Эйлат (аэропорт)</name>
+    <region>Южный округ</region>
+    <district>Беэр-Шева</district>
+    <id>10020</id>
+  </point>
+</country>

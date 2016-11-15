@@ -1,0 +1,257 @@
+<region name="Санкт-Петербург" count="51">
+  <point>
+    <name>Колпино</name>
+    <district>Колпинский район</district>
+    <id>4175</id>
+  </point>
+  <point>
+    <name>Металлострой</name>
+    <district>Колпинский район</district>
+    <id>5320</id>
+  </point>
+  <point>
+    <name>Петро-Славянка</name>
+    <district>Колпинский район</district>
+    <id>6611</id>
+  </point>
+  <point>
+    <name>Понтонный</name>
+    <district>Колпинский район</district>
+    <id>6170</id>
+  </point>
+  <point>
+    <name>Усть-Ижора</name>
+    <district>Колпинский район</district>
+    <id>8563</id>
+  </point>
+  <point>
+    <name>Саперный</name>
+    <district>Колпинский район</district>
+    <id>7288</id>
+  </point>
+  <point>
+    <name>Кронштадт</name>
+    <district>Кронштадт</district>
+    <id>4552</id>
+  </point>
+  <point>
+    <name>Петергоф</name>
+    <district>Петродворцовый</district>
+    <id>6600</id>
+  </point>
+  <point>
+    <name>Стрельна</name>
+    <district>Петродворцовый</district>
+    <id>7826</id>
+  </point>
+  <point>
+    <name>Пушкин</name>
+    <district>Пушкинский район</district>
+    <id>6960</id>
+  </point>
+  <point>
+    <name>Александровская</name>
+    <district>Пушкинский район</district>
+    <id>983</id>
+  </point>
+  <point>
+    <name>Павловск</name>
+    <district>Пушкинский район</district>
+    <id>6421</id>
+  </point>
+  <point>
+    <name>Тярлево</name>
+    <district>Пушкинский район</district>
+    <id>8382</id>
+  </point>
+  <point>
+    <name>Шушары</name>
+    <district>Пушкинский район</district>
+    <id>96215</id>
+  </point>
+  <point>
+    <name>Санкт-Петербург</name>
+    <district/>
+    <id>7285</id>
+  </point>
+  <point>
+    <name>Санкт-Петербург (сев-запад)</name>
+    <district>Санкт-Петербург (сев-запад)</district>
+    <id>9491</id>
+  </point>
+  <point>
+    <name>Санкт-Петербург (север)</name>
+    <district>Санкт-Петербург (север)</district>
+    <id>7717</id>
+  </point>
+  <point>
+    <name>Санкт-Петербург (юг)</name>
+    <district>Санкт-Петербург (юг)</district>
+    <id>9488</id>
+  </point>
+  <point>
+    <name>Санкт-Петербург (юго-запад)</name>
+    <district>Санкт-Петербург (юго-запад)</district>
+    <id>9489</id>
+  </point>
+  <point>
+    <name>Большевик</name>
+    <district>Большевик</district>
+    <id>1705</id>
+  </point>
+  <point>
+    <name>Горелово</name>
+    <district>Горелово</district>
+    <id>2610</id>
+  </point>
+  <point>
+    <name>Горская</name>
+    <district>Горская</district>
+    <id>2657</id>
+  </point>
+  <point>
+    <name>Детскосельский (совхоз)</name>
+    <district>Детскосельский (совхоз)</district>
+    <id>2848</id>
+  </point>
+  <point>
+    <name>Зеленогорск</name>
+    <district>Зеленогорск</district>
+    <id>3328</id>
+  </point>
+  <point>
+    <name>Каменка</name>
+    <district>Каменка</district>
+    <id>96945</id>
+  </point>
+  <point>
+    <name>Комарово</name>
+    <district>Комарово</district>
+    <id>7707</id>
+  </point>
+  <point>
+    <name>Кондакопшино</name>
+    <district>Кондакопшино</district>
+    <id>96179</id>
+  </point>
+  <point>
+    <name>Конная лахта</name>
+    <district>Конная лахта</district>
+    <id>94977</id>
+  </point>
+  <point>
+    <name>Красное Село</name>
+    <district>Красное Село</district>
+    <id>4440</id>
+  </point>
+  <point>
+    <name>Левашово</name>
+    <district>Левашово</district>
+    <id>94976</id>
+  </point>
+  <point>
+    <name>Лисий Нос</name>
+    <district>Лисий Нос</district>
+    <id>4938</id>
+  </point>
+  <point>
+    <name>Молодежное</name>
+    <district>Молодежное</district>
+    <id>97028</id>
+  </point>
+  <point>
+    <name>Московская Славянка</name>
+    <district>Московская Славянка</district>
+    <id>5493</id>
+  </point>
+  <point>
+    <name>Ольгино</name>
+    <district>Ольгино</district>
+    <id>94967</id>
+  </point>
+  <point>
+    <name>Осиновая роща</name>
+    <district>Осиновая роща</district>
+    <id>96958</id>
+  </point>
+  <point>
+    <name>Парголово</name>
+    <district>Парголово</district>
+    <id>6466</id>
+  </point>
+  <point>
+    <name>Песочный</name>
+    <district>Песочный</district>
+    <id>6572</id>
+  </point>
+  <point>
+    <name>Пулково (аэропорт)</name>
+    <district>Пулково (аэропорт)</district>
+    <id>470322</id>
+  </point>
+  <point>
+    <name>Репино</name>
+    <district>Репино</district>
+    <id>7075</id>
+  </point>
+  <point>
+    <name>Санкт-Петербург (восток)</name>
+    <district>Санкт-Петербург (восток)</district>
+    <id>9486</id>
+  </point>
+  <point>
+    <name>Санкт-Петербург (запад)</name>
+    <district>Санкт-Петербург (запад)</district>
+    <id>9490</id>
+  </point>
+  <point>
+    <name>Санкт-Петербург (сев-восток)</name>
+    <district>Санкт-Петербург (сев-восток)</district>
+    <id>9485</id>
+  </point>
+  <point>
+    <name>Санкт-Петербург (юго-восток)</name>
+    <district>Санкт-Петербург (юго-восток)</district>
+    <id>9487</id>
+  </point>
+  <point>
+    <name>Серово</name>
+    <district>Серово</district>
+    <id>97027</id>
+  </point>
+  <point>
+    <name>Сестрорецк</name>
+    <district>Сестрорецк</district>
+    <id>7486</id>
+  </point>
+  <point>
+    <name>Смолячково</name>
+    <district>Смолячково</district>
+    <id>97029</id>
+  </point>
+  <point>
+    <name>Солнечное</name>
+    <district>Солнечное</district>
+    <id>95075</id>
+  </point>
+  <point>
+    <name>Сосновая поляна</name>
+    <district>Сосновая поляна</district>
+    <id>97030</id>
+  </point>
+  <point>
+    <name>Тарховка</name>
+    <district>Тарховка</district>
+    <id>8040</id>
+  </point>
+  <point>
+    <name>Троицкое</name>
+    <district>Троицкое</district>
+    <id>96385</id>
+  </point>
+  <point>
+    <name>Ушково</name>
+    <district>Ушково</district>
+    <id>97003</id>
+  </point>
+</region>

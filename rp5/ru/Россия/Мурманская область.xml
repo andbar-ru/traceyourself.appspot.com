@@ -1,0 +1,902 @@
+<region name="Мурманская область" count="180">
+  <point>
+    <name>Апатиты</name>
+    <district>Апатиты</district>
+    <id>1122</id>
+  </point>
+  <point>
+    <name>Тик-Губа</name>
+    <district>Апатиты</district>
+    <id>158480</id>
+  </point>
+  <point>
+    <name>Хибины</name>
+    <district>Апатиты</district>
+    <id>103771</id>
+  </point>
+  <point>
+    <name>Гаджиево</name>
+    <district>Гаджиево</district>
+    <id>2499</id>
+  </point>
+  <point>
+    <name>Кувшинская Салма</name>
+    <district>Гаджиево</district>
+    <id>103726</id>
+  </point>
+  <point>
+    <name>Сайда Губа</name>
+    <district>Гаджиево</district>
+    <id>103724</id>
+  </point>
+  <point>
+    <name>Заозерск</name>
+    <district>Заозерск</district>
+    <id>3271</id>
+  </point>
+  <point>
+    <name>Западная Лица</name>
+    <district>Заозерск</district>
+    <id>1702</id>
+  </point>
+  <point>
+    <name>Кандалакша</name>
+    <district>Кандалакша</district>
+    <id>3770</id>
+  </point>
+  <point>
+    <name>Алакуртти</name>
+    <district>Кандалакша</district>
+    <id>963</id>
+  </point>
+  <point>
+    <name>Зареченск</name>
+    <district>Кандалакша</district>
+    <id>3288</id>
+  </point>
+  <point>
+    <name>Зеленоборский</name>
+    <district>Кандалакша</district>
+    <id>3326</id>
+  </point>
+  <point>
+    <name>Колвица</name>
+    <district>Кандалакша</district>
+    <id>103796</id>
+  </point>
+  <point>
+    <name>Белое Море</name>
+    <district>Кандалакша</district>
+    <id>103794</id>
+  </point>
+  <point>
+    <name>Витино (порт)</name>
+    <district>Кандалакша</district>
+    <id>510548</id>
+  </point>
+  <point>
+    <name>Жемчужная</name>
+    <district>Кандалакша</district>
+    <id>103792</id>
+  </point>
+  <point>
+    <name>Кайралы</name>
+    <district>Кандалакша</district>
+    <id>103813</id>
+  </point>
+  <point>
+    <name>Кандалакша (порт)</name>
+    <district>Кандалакша</district>
+    <id>510546</id>
+  </point>
+  <point>
+    <name>Княжая Губа</name>
+    <district>Кандалакша</district>
+    <id>103789</id>
+  </point>
+  <point>
+    <name>Ковда</name>
+    <district>Кандалакша</district>
+    <id>4099</id>
+  </point>
+  <point>
+    <name>Ковдозеро</name>
+    <district>Кандалакша</district>
+    <id>103697</id>
+  </point>
+  <point>
+    <name>Куолаярви</name>
+    <district>Кандалакша</district>
+    <id>4695</id>
+  </point>
+  <point>
+    <name>Лесозаводский</name>
+    <district>Кандалакша</district>
+    <id>4901</id>
+  </point>
+  <point>
+    <name>Лувеньга</name>
+    <district>Кандалакша</district>
+    <id>103788</id>
+  </point>
+  <point>
+    <name>Нивский</name>
+    <district>Кандалакша</district>
+    <id>5757</id>
+  </point>
+  <point>
+    <name>Нямозеро</name>
+    <district>Кандалакша</district>
+    <id>6143</id>
+  </point>
+  <point>
+    <name>Пинозеро</name>
+    <district>Кандалакша</district>
+    <id>158482</id>
+  </point>
+  <point>
+    <name>Пояконда</name>
+    <district>Кандалакша</district>
+    <id>103751</id>
+  </point>
+  <point>
+    <name>Приозерный</name>
+    <district>Кандалакша</district>
+    <id>103753</id>
+  </point>
+  <point>
+    <name>Проливы</name>
+    <district>Кандалакша</district>
+    <id>103791</id>
+  </point>
+  <point>
+    <name>Ручьи</name>
+    <district>Кандалакша</district>
+    <id>103793</id>
+  </point>
+  <point>
+    <name>Федосеевка</name>
+    <district>Кандалакша</district>
+    <id>103795</id>
+  </point>
+  <point>
+    <name>Кировск</name>
+    <district>Кировск</district>
+    <id>4017</id>
+  </point>
+  <point>
+    <name>Кировск (АМС)</name>
+    <district>Кировск</district>
+    <id>510547</id>
+  </point>
+  <point>
+    <name>Коашва</name>
+    <district>Кировск</district>
+    <id>103778</id>
+  </point>
+  <point>
+    <name>Октябрьский</name>
+    <district>Кировск</district>
+    <id>103780</id>
+  </point>
+  <point>
+    <name>Титан</name>
+    <district>Кировск</district>
+    <id>103777</id>
+  </point>
+  <point>
+    <name>Зашеек на Умбозере</name>
+    <district>Кировск</district>
+    <id>103779</id>
+  </point>
+  <point>
+    <name>Умбозеро</name>
+    <district>Кировск</district>
+    <id>103781</id>
+  </point>
+  <point>
+    <name>Ковдор</name>
+    <district>Ковдорский район</district>
+    <id>4100</id>
+  </point>
+  <point>
+    <name>Ена</name>
+    <district>Ковдорский район</district>
+    <id>158477</id>
+  </point>
+  <point>
+    <name>Енский</name>
+    <district>Ковдорский район</district>
+    <id>103762</id>
+  </point>
+  <point>
+    <name>Лейпи</name>
+    <district>Ковдорский район</district>
+    <id>103758</id>
+  </point>
+  <point>
+    <name>Риколатва</name>
+    <district>Ковдорский район</district>
+    <id>103761</id>
+  </point>
+  <point>
+    <name>Куропта</name>
+    <district>Ковдорский район</district>
+    <id>103756</id>
+  </point>
+  <point>
+    <name>Слюда</name>
+    <district>Ковдорский район</district>
+    <id>103757</id>
+  </point>
+  <point>
+    <name>Кола</name>
+    <district>Кольский район</district>
+    <id>4152</id>
+  </point>
+  <point>
+    <name>Верхнетуломский</name>
+    <district>Кольский район</district>
+    <id>2120</id>
+  </point>
+  <point>
+    <name>Видяево</name>
+    <district>Кольский район</district>
+    <id>2243</id>
+  </point>
+  <point>
+    <name>Мурмаши (аэропорт)</name>
+    <district>Кольский район</district>
+    <id>5539</id>
+  </point>
+  <point>
+    <name>Териберка</name>
+    <district>Кольский район</district>
+    <id>8119</id>
+  </point>
+  <point>
+    <name>Верховье Лотта</name>
+    <district>Кольский район</district>
+    <id>2191</id>
+  </point>
+  <point>
+    <name>Выходной</name>
+    <district>Кольский район</district>
+    <id>103720</id>
+  </point>
+  <point>
+    <name>Голицино</name>
+    <district>Кольский район</district>
+    <id>2575</id>
+  </point>
+  <point>
+    <name>Голубые Ручьи</name>
+    <district>Кольский район</district>
+    <id>103721</id>
+  </point>
+  <point>
+    <name>Дальние Зеленцы</name>
+    <district>Кольский район</district>
+    <id>103700</id>
+  </point>
+  <point>
+    <name>Килпъявр</name>
+    <district>Кольский район</district>
+    <id>103715</id>
+  </point>
+  <point>
+    <name>Кильдинстрой</name>
+    <district>Кольский район</district>
+    <id>3983</id>
+  </point>
+  <point>
+    <name>Кица</name>
+    <district>Кольский район</district>
+    <id>103703</id>
+  </point>
+  <point>
+    <name>Куцколь</name>
+    <district>Кольский район</district>
+    <id>103702</id>
+  </point>
+  <point>
+    <name>Лопарская</name>
+    <district>Кольский район</district>
+    <id>4991</id>
+  </point>
+  <point>
+    <name>Магнетиты</name>
+    <district>Кольский район</district>
+    <id>103723</id>
+  </point>
+  <point>
+    <name>Междуречье</name>
+    <district>Кольский район</district>
+    <id>103718</id>
+  </point>
+  <point>
+    <name>Минькино</name>
+    <district>Кольский район</district>
+    <id>158478</id>
+  </point>
+  <point>
+    <name>Мишуково</name>
+    <district>Кольский район</district>
+    <id>103719</id>
+  </point>
+  <point>
+    <name>Моккет</name>
+    <district>Кольский район</district>
+    <id>103712</id>
+  </point>
+  <point>
+    <name>Мокрая Кица</name>
+    <district>Кольский район</district>
+    <id>103704</id>
+  </point>
+  <point>
+    <name>Молочный</name>
+    <district>Кольский район</district>
+    <id>103685</id>
+  </point>
+  <point>
+    <name>Ниванкюль</name>
+    <district>Кольский район</district>
+    <id>10092</id>
+  </point>
+  <point>
+    <name>Новая Титовка</name>
+    <district>Кольский район</district>
+    <id>103743</id>
+  </point>
+  <point>
+    <name>Нял</name>
+    <district>Кольский район</district>
+    <id>103713</id>
+  </point>
+  <point>
+    <name>Перевальяр</name>
+    <district>Кольский район</district>
+    <id>141342</id>
+  </point>
+  <point>
+    <name>Песчаный</name>
+    <district>Кольский район</district>
+    <id>103705</id>
+  </point>
+  <point>
+    <name>Порт-Владимир</name>
+    <district>Кольский район</district>
+    <id>6831</id>
+  </point>
+  <point>
+    <name>Пулозеро</name>
+    <district>Кольский район</district>
+    <id>6945</id>
+  </point>
+  <point>
+    <name>Пушной</name>
+    <district>Кольский район</district>
+    <id>103706</id>
+  </point>
+  <point>
+    <name>Пяйве</name>
+    <district>Кольский район</district>
+    <id>103714</id>
+  </point>
+  <point>
+    <name>Серебрянский</name>
+    <district>Кольский район</district>
+    <id>103687</id>
+  </point>
+  <point>
+    <name>Тайбола</name>
+    <district>Кольский район</district>
+    <id>7966</id>
+  </point>
+  <point>
+    <name>Тулома</name>
+    <district>Кольский район</district>
+    <id>103716</id>
+  </point>
+  <point>
+    <name>Туманный</name>
+    <district>Кольский район</district>
+    <id>40803</id>
+  </point>
+  <point>
+    <name>Ура-Губа</name>
+    <district>Кольский район</district>
+    <id>8478</id>
+  </point>
+  <point>
+    <name>Чан-Ручей</name>
+    <district>Кольский район</district>
+    <id>103717</id>
+  </point>
+  <point>
+    <name>Шонгуй</name>
+    <district>Кольский район</district>
+    <id>9260</id>
+  </point>
+  <point>
+    <name>Ловозеро</name>
+    <district>Ловозерский район</district>
+    <id>4959</id>
+  </point>
+  <point>
+    <name>Краснощелье</name>
+    <district>Ловозерский район</district>
+    <id>4471</id>
+  </point>
+  <point>
+    <name>Ревда</name>
+    <district>Ловозерский район</district>
+    <id>7067</id>
+  </point>
+  <point>
+    <name>Сосновец (остров)</name>
+    <district>Ловозерский район</district>
+    <id>152565</id>
+  </point>
+  <point>
+    <name>Сосновка</name>
+    <district>Ловозерский район</district>
+    <id>7670</id>
+  </point>
+  <point>
+    <name>Нивка</name>
+    <district>Ловозерский район</district>
+    <id>103710</id>
+  </point>
+  <point>
+    <name>Мончегорск</name>
+    <district>Мончегорск</district>
+    <id>5454</id>
+  </point>
+  <point>
+    <name>Верхний Нюд</name>
+    <district>Мончегорск</district>
+    <id>158483</id>
+  </point>
+  <point>
+    <name>Лапландский Заповедник</name>
+    <district>Мончегорск</district>
+    <id>158484</id>
+  </point>
+  <point>
+    <name>Мурманск</name>
+    <district>Мурманск</district>
+    <id>5538</id>
+  </point>
+  <point>
+    <name>Оленегорск</name>
+    <district>Оленегорск</district>
+    <id>6257</id>
+  </point>
+  <point>
+    <name>Высокий</name>
+    <district>Оленегорск</district>
+    <id>103707</id>
+  </point>
+  <point>
+    <name>Имандра</name>
+    <district>Оленегорск</district>
+    <id>103773</id>
+  </point>
+  <point>
+    <name>Протоки</name>
+    <district>Оленегорск</district>
+    <id>103709</id>
+  </point>
+  <point>
+    <name>Рижгуба</name>
+    <district>Оленегорск</district>
+    <id>103775</id>
+  </point>
+  <point>
+    <name>Апатитовая</name>
+    <district>Оленегорск</district>
+    <id>1121</id>
+  </point>
+  <point>
+    <name>Куна</name>
+    <district>Оленегорск</district>
+    <id>103776</id>
+  </point>
+  <point>
+    <name>Лапландия</name>
+    <district>Оленегорск</district>
+    <id>4822</id>
+  </point>
+  <point>
+    <name>Рудный</name>
+    <district>Оленегорск</district>
+    <id>103774</id>
+  </point>
+  <point>
+    <name>Средняя</name>
+    <district>Оленегорск</district>
+    <id>103708</id>
+  </point>
+  <point>
+    <name>Островной</name>
+    <district>Островной</district>
+    <id>152640</id>
+  </point>
+  <point>
+    <name>Гремиха</name>
+    <district>Островной</district>
+    <id>2692</id>
+  </point>
+  <point>
+    <name>Каневка</name>
+    <district>Островной</district>
+    <id>3773</id>
+  </point>
+  <point>
+    <name>Лумбовка</name>
+    <district>Островной</district>
+    <id>5037</id>
+  </point>
+  <point>
+    <name>Святой Нос (метеостанция)</name>
+    <district>Островной</district>
+    <id>2693</id>
+  </point>
+  <point>
+    <name>Городецкий Маяк</name>
+    <district>Островной</district>
+    <id>158488</id>
+  </point>
+  <point>
+    <name>Дроздовка</name>
+    <district>Островной</district>
+    <id>158486</id>
+  </point>
+  <point>
+    <name>Корабельное</name>
+    <district>Островной</district>
+    <id>103690</id>
+  </point>
+  <point>
+    <name>Мыс Черный</name>
+    <district>Островной</district>
+    <id>158487</id>
+  </point>
+  <point>
+    <name>Святой Нос</name>
+    <district>Островной</district>
+    <id>103698</id>
+  </point>
+  <point>
+    <name>Терско-Орловский Маяк</name>
+    <district>Островной</district>
+    <id>103691</id>
+  </point>
+  <point>
+    <name>Баренцбург</name>
+    <district>Печенгский район</district>
+    <id>10205</id>
+  </point>
+  <point>
+    <name>Большое Озерко</name>
+    <district>Печенгский район</district>
+    <id>103744</id>
+  </point>
+  <point>
+    <name>Вайда-Губа</name>
+    <district>Печенгский район</district>
+    <id>103742</id>
+  </point>
+  <point>
+    <name>Заполярный</name>
+    <district>Печенгский район</district>
+    <id>3284</id>
+  </point>
+  <point>
+    <name>Земляное</name>
+    <district>Печенгский район</district>
+    <id>103741</id>
+  </point>
+  <point>
+    <name>Зубовка</name>
+    <district>Печенгский район</district>
+    <id>103746</id>
+  </point>
+  <point>
+    <name>Кирпичный Завод</name>
+    <district>Печенгский район</district>
+    <id>103701</id>
+  </point>
+  <point>
+    <name>Корзуново</name>
+    <district>Печенгский район</district>
+    <id>103734</id>
+  </point>
+  <point>
+    <name>Лиинахамари</name>
+    <district>Печенгский район</district>
+    <id>4923</id>
+  </point>
+  <point>
+    <name>Луостари</name>
+    <district>Печенгский район</district>
+    <id>103737</id>
+  </point>
+  <point>
+    <name>Мыс Скорбеевский</name>
+    <district>Печенгский район</district>
+    <id>103745</id>
+  </point>
+  <point>
+    <name>Никель</name>
+    <district>Печенгский район</district>
+    <id>5833</id>
+  </point>
+  <point>
+    <name>Печенга</name>
+    <district>Печенгский район</district>
+    <id>6619</id>
+  </point>
+  <point>
+    <name>Приречный</name>
+    <district>Печенгский район</district>
+    <id>13842</id>
+  </point>
+  <point>
+    <name>Раякоски</name>
+    <district>Печенгский район</district>
+    <id>158479</id>
+  </point>
+  <point>
+    <name>Сальмиярви</name>
+    <district>Печенгский район</district>
+    <id>103733</id>
+  </point>
+  <point>
+    <name>Спутник</name>
+    <district>Печенгский район</district>
+    <id>103738</id>
+  </point>
+  <point>
+    <name>Титовка</name>
+    <district>Печенгский район</district>
+    <id>103711</id>
+  </point>
+  <point>
+    <name>Цыпнаволок</name>
+    <district>Печенгский район</district>
+    <id>10091</id>
+  </point>
+  <point>
+    <name>Янискоски</name>
+    <district>Печенгский район</district>
+    <id>141320</id>
+  </point>
+  <point>
+    <name>Полярные Зори</name>
+    <district>Полярные Зори</district>
+    <id>6795</id>
+  </point>
+  <point>
+    <name>Африканда</name>
+    <district>Полярные Зори</district>
+    <id>1223</id>
+  </point>
+  <point>
+    <name>Зашеек</name>
+    <district>Полярные Зори</district>
+    <id>3308</id>
+  </point>
+  <point>
+    <name>Пиренга</name>
+    <district>Полярные Зори</district>
+    <id>103763</id>
+  </point>
+  <point>
+    <name>Уполокша</name>
+    <district>Полярные Зори</district>
+    <id>103760</id>
+  </point>
+  <point>
+    <name>Восточная Губа</name>
+    <district>Полярные Зори</district>
+    <id>103764</id>
+  </point>
+  <point>
+    <name>Питкуль</name>
+    <district>Полярные Зори</district>
+    <id>103768</id>
+  </point>
+  <point>
+    <name>Червас</name>
+    <district>Полярные Зори</district>
+    <id>103765</id>
+  </point>
+  <point>
+    <name>Полярный</name>
+    <district>Полярный</district>
+    <id>6797</id>
+  </point>
+  <point>
+    <name>Белокаменка</name>
+    <district>Полярный</district>
+    <id>103722</id>
+  </point>
+  <point>
+    <name>Горячие Ручьи</name>
+    <district>Полярный</district>
+    <id>158485</id>
+  </point>
+  <point>
+    <name>Ретинское</name>
+    <district>Полярный</district>
+    <id>103725</id>
+  </point>
+  <point>
+    <name>Тюва-Губа</name>
+    <district>Полярный</district>
+    <id>8367</id>
+  </point>
+  <point>
+    <name>Североморск</name>
+    <district>Североморск</district>
+    <id>7380</id>
+  </point>
+  <point>
+    <name>Восточный Кильдин</name>
+    <district>Североморск</district>
+    <id>103731</id>
+  </point>
+  <point>
+    <name>Западный Кильдин</name>
+    <district>Североморск</district>
+    <id>103748</id>
+  </point>
+  <point>
+    <name>Сафоново</name>
+    <district>Североморск</district>
+    <id>103686</id>
+  </point>
+  <point>
+    <name>Североморск-3</name>
+    <district>Североморск</district>
+    <id>103728</id>
+  </point>
+  <point>
+    <name>Верхний Кильдин</name>
+    <district>Североморск</district>
+    <id>103747</id>
+  </point>
+  <point>
+    <name>Восточная Лица</name>
+    <district>Североморск</district>
+    <id>103688</id>
+  </point>
+  <point>
+    <name>Гранитный</name>
+    <district>Североморск</district>
+    <id>103729</id>
+  </point>
+  <point>
+    <name>Малооленье</name>
+    <district>Североморск</district>
+    <id>103730</id>
+  </point>
+  <point>
+    <name>Росляково</name>
+    <district>Североморск</district>
+    <id>7142</id>
+  </point>
+  <point>
+    <name>Харловка</name>
+    <district>Североморск</district>
+    <id>8768</id>
+  </point>
+  <point>
+    <name>Щукозеро</name>
+    <district>Североморск</district>
+    <id>103727</id>
+  </point>
+  <point>
+    <name>Снежногорск</name>
+    <district>Снежногорск</district>
+    <id>7568</id>
+  </point>
+  <point>
+    <name>Варзуга</name>
+    <district>Терский район</district>
+    <id>2005</id>
+  </point>
+  <point>
+    <name>Восточное Мунозеро</name>
+    <district>Терский район</district>
+    <id>103798</id>
+  </point>
+  <point>
+    <name>Вялозеро</name>
+    <district>Терский район</district>
+    <id>103808</id>
+  </point>
+  <point>
+    <name>Индель</name>
+    <district>Терский район</district>
+    <id>103809</id>
+  </point>
+  <point>
+    <name>Канозеро</name>
+    <district>Терский район</district>
+    <id>103806</id>
+  </point>
+  <point>
+    <name>Кашкаранцы</name>
+    <district>Терский район</district>
+    <id>103693</id>
+  </point>
+  <point>
+    <name>Кузомень</name>
+    <district>Терский район</district>
+    <id>4628</id>
+  </point>
+  <point>
+    <name>Кузрека</name>
+    <district>Терский район</district>
+    <id>103810</id>
+  </point>
+  <point>
+    <name>Мосеево</name>
+    <district>Терский район</district>
+    <id>103811</id>
+  </point>
+  <point>
+    <name>Оленица</name>
+    <district>Терский район</district>
+    <id>6261</id>
+  </point>
+  <point>
+    <name>Погост</name>
+    <district>Терский район</district>
+    <id>103803</id>
+  </point>
+  <point>
+    <name>Пялица</name>
+    <district>Терский район</district>
+    <id>1842</id>
+  </point>
+  <point>
+    <name>Сосновка</name>
+    <district>Терский район</district>
+    <id>103800</id>
+  </point>
+  <point>
+    <name>Стрельна</name>
+    <district>Терский район</district>
+    <id>7825</id>
+  </point>
+  <point>
+    <name>Тетрино</name>
+    <district>Терский район</district>
+    <id>103696</id>
+  </point>
+  <point>
+    <name>Умба</name>
+    <district>Терский район</district>
+    <id>8460</id>
+  </point>
+  <point>
+    <name>Чаваньга (река)</name>
+    <district>Терский район</district>
+    <id>8895</id>
+  </point>
+  <point>
+    <name>Чаваньга</name>
+    <district>Терский район</district>
+    <id>103694</id>
+  </point>
+  <point>
+    <name>Чапома</name>
+    <district>Терский район</district>
+    <id>103695</id>
+  </point>
+</region>

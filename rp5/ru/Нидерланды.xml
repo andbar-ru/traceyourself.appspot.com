@@ -1,0 +1,494 @@
+<country name="Нидерланды" count="82">
+  <point>
+    <name>Апелдорн</name>
+    <region>Гелдерланд</region>
+    <district>Апелдорн</district>
+    <id>152134</id>
+  </point>
+  <point>
+    <name>Арнем</name>
+    <region>Гелдерланд</region>
+    <district>Арнем</district>
+    <id>152152</id>
+  </point>
+  <point>
+    <name>Делен (аэропорт)</name>
+    <region>Гелдерланд</region>
+    <district>Делен (аэропорт)</district>
+    <id>4352</id>
+  </point>
+  <point>
+    <name>Зютфен</name>
+    <region>Гелдерланд</region>
+    <district>Зютфен</district>
+    <id>152144</id>
+  </point>
+  <point>
+    <name>Неймеген</name>
+    <region>Гелдерланд</region>
+    <district>Неймеген</district>
+    <id>152140</id>
+  </point>
+  <point>
+    <name>Хервейнен</name>
+    <region>Гелдерланд</region>
+    <district>Хервейнен</district>
+    <id>4490</id>
+  </point>
+  <point>
+    <name>Гронинген / Элде (аэропорт)</name>
+    <region>Гронинген</region>
+    <district>Гронинген / Элде (аэропорт)</district>
+    <id>4375</id>
+  </point>
+  <point>
+    <name>Лауверсог</name>
+    <region>Гронинген</region>
+    <district>Лауверсог</district>
+    <id>348347</id>
+  </point>
+  <point>
+    <name>Лауверсог / Awg-1 (платформа)</name>
+    <region>Гронинген</region>
+    <district>Лауверсог / Awg-1 (платформа)</district>
+    <id>4359</id>
+  </point>
+  <point>
+    <name>Ньив-Берта</name>
+    <region>Гронинген</region>
+    <district>Ньив-Берта</district>
+    <id>4386</id>
+  </point>
+  <point>
+    <name>Хёйбертгат</name>
+    <region>Гронинген</region>
+    <district>Хёйбертгат</district>
+    <id>4381</id>
+  </point>
+  <point>
+    <name>Ассен</name>
+    <region>Дренте</region>
+    <district>Ассен</district>
+    <id>152151</id>
+  </point>
+  <point>
+    <name>Хогевен</name>
+    <region>Дренте</region>
+    <district>Хогевен</district>
+    <id>4373</id>
+  </point>
+  <point>
+    <name>Вестдорпе (метеостанция 06323)</name>
+    <region>Зеландия</region>
+    <district>Вестдорпе (метеостанция 06323)</district>
+    <id>170455</id>
+  </point>
+  <point>
+    <name>Кадзанд</name>
+    <region>Зеландия</region>
+    <district>Кадзанд</district>
+    <id>4389</id>
+  </point>
+  <point>
+    <name>Мидделбург</name>
+    <region>Зеландия</region>
+    <district>Мидделбург</district>
+    <id>152141</id>
+  </point>
+  <point>
+    <name>Остерсхельде</name>
+    <region>Зеландия</region>
+    <district>Остерсхельде</district>
+    <id>4397</id>
+  </point>
+  <point>
+    <name>Толен</name>
+    <region>Зеландия</region>
+    <district>Толен</district>
+    <id>4437</id>
+  </point>
+  <point>
+    <name>Флиссинген (метеостанция)</name>
+    <region>Зеландия</region>
+    <district>Флиссинген (метеостанция)</district>
+    <id>4394</id>
+  </point>
+  <point>
+    <name>Шаар</name>
+    <region>Зеландия</region>
+    <district>Шаар</district>
+    <id>4402</id>
+  </point>
+  <point>
+    <name>Вестдорпе (метеостанция 06319)</name>
+    <region>Зеландия</region>
+    <district>Вестдорпе (метеостанция 06319)</district>
+    <id>4409</id>
+  </point>
+  <point>
+    <name>Арсен</name>
+    <region>Лимбург</region>
+    <district>Арсен</district>
+    <id>4524</id>
+  </point>
+  <point>
+    <name>Керкраде</name>
+    <region>Лимбург</region>
+    <district>Керкраде</district>
+    <id>152143</id>
+  </point>
+  <point>
+    <name>Маастрихт (аэропорт)</name>
+    <region>Лимбург</region>
+    <district>Маастрихт (аэропорт)</district>
+    <id>4511</id>
+  </point>
+  <point>
+    <name>Ост / Маарланд</name>
+    <region>Лимбург</region>
+    <district>Ост / Маарланд</district>
+    <id>4510</id>
+  </point>
+  <point>
+    <name>Элл</name>
+    <region>Лимбург</region>
+    <district>Элл</district>
+    <id>348349</id>
+  </point>
+  <point>
+    <name>D15-fa-1 Helipad Oil (платформа)</name>
+    <region>Нефтяные платформы в Северном море</region>
+    <district>D15-fa-1 Helipad Oil (платформа)</district>
+    <id>152588</id>
+  </point>
+  <point>
+    <name>A12-cpp Helipad Oil (платформа)</name>
+    <region>Нефтяные платформы в Северном море</region>
+    <district>A12-cpp Helipad Oil (платформа)</district>
+    <id>152587</id>
+  </point>
+  <point>
+    <name>P11-B (платформа)</name>
+    <region>Нефтяные платформы в Северном море</region>
+    <district>P11-B (платформа)</district>
+    <id>170702</id>
+  </point>
+  <point>
+    <name>J6-a Helipad Oil Pla (платформа)</name>
+    <region>Нефтяные платформы в Северном море</region>
+    <district>J6-a Helipad Oil Pla (платформа)</district>
+    <id>152589</id>
+  </point>
+  <point>
+    <name>Гоери (платформа)</name>
+    <region>Нефтяные платформы в Северном море</region>
+    <district>Гоери (платформа)</district>
+    <id>170430</id>
+  </point>
+  <point>
+    <name>Европлатформа (платформа)</name>
+    <region>Нефтяные платформы в Северном море</region>
+    <district>Европлатформа (платформа)</district>
+    <id>170462</id>
+  </point>
+  <point>
+    <name>Ф-3 (платформа)</name>
+    <region>Нефтяные платформы в Северном море</region>
+    <district>Ф-3 (платформа)</district>
+    <id>170461</id>
+  </point>
+  <point>
+    <name>Девентер</name>
+    <region>Оверэйсел</region>
+    <district>Девентер</district>
+    <id>152148</id>
+  </point>
+  <point>
+    <name>Зволле</name>
+    <region>Оверэйсел</region>
+    <district>Зволле</district>
+    <id>152146</id>
+  </point>
+  <point>
+    <name>Твенте</name>
+    <region>Оверэйсел</region>
+    <district>Твенте</district>
+    <id>4388</id>
+  </point>
+  <point>
+    <name>Хейно</name>
+    <region>Оверэйсел</region>
+    <district>Хейно</district>
+    <id>4360</id>
+  </point>
+  <point>
+    <name>Хупсел</name>
+    <region>Оверэйсел</region>
+    <district>Хупсел</district>
+    <id>348348</id>
+  </point>
+  <point>
+    <name>Энсхеде</name>
+    <region>Оверэйсел</region>
+    <district>Энсхеде</district>
+    <id>152155</id>
+  </point>
+  <point>
+    <name>Алкмар</name>
+    <region>Северная Голландия</region>
+    <district>Алкмар</district>
+    <id>152138</id>
+  </point>
+  <point>
+    <name>Амстердам / Схипхол (аэропорт)</name>
+    <region>Северная Голландия</region>
+    <district>Амстердам / Схипхол (аэропорт)</district>
+    <id>4299</id>
+  </point>
+  <point>
+    <name>Беркаут</name>
+    <region>Северная Голландия</region>
+    <district>Беркаут</district>
+    <id>348345</id>
+  </point>
+  <point>
+    <name>Блумендал (платформа)</name>
+    <region>Северная Голландия</region>
+    <district>Блумендал (платформа)</district>
+    <id>4312</id>
+  </point>
+  <point>
+    <name>Вейк-ан-Зее</name>
+    <region>Северная Голландия</region>
+    <district>Вейк-ан-Зее</district>
+    <id>348346</id>
+  </point>
+  <point>
+    <name>Де-Кой (аэропорт)</name>
+    <region>Северная Голландия</region>
+    <district>Де-Кой (аэропорт)</district>
+    <id>4294</id>
+  </point>
+  <point>
+    <name>Текселхорс</name>
+    <region>Северная Голландия</region>
+    <district>Текселхорс</district>
+    <id>4291</id>
+  </point>
+  <point>
+    <name>Харлем</name>
+    <region>Северная Голландия</region>
+    <district>Харлем</district>
+    <id>152154</id>
+  </point>
+  <point>
+    <name>Хоорн</name>
+    <region>Северная Голландия</region>
+    <district>Хоорн</district>
+    <id>4307</id>
+  </point>
+  <point>
+    <name>Эймейден</name>
+    <region>Северная Голландия</region>
+    <district>Эймейден</district>
+    <id>4290</id>
+  </point>
+  <point>
+    <name>Бреда</name>
+    <region>Северный Брабант</region>
+    <district>Бреда</district>
+    <id>152150</id>
+  </point>
+  <point>
+    <name>Волкел (аэропорт)</name>
+    <region>Северный Брабант</region>
+    <district>Волкел (аэропорт)</district>
+    <id>4505</id>
+  </point>
+  <point>
+    <name>Вунсдрехт (аэропорт)</name>
+    <region>Северный Брабант</region>
+    <district>Вунсдрехт (аэропорт)</district>
+    <id>4438</id>
+  </point>
+  <point>
+    <name>Гилзе-Рийен (аэропорт)</name>
+    <region>Северный Брабант</region>
+    <district>Гилзе-Рийен (аэропорт)</district>
+    <id>4489</id>
+  </point>
+  <point>
+    <name>Тилбург</name>
+    <region>Северный Брабант</region>
+    <district>Тилбург</district>
+    <id>152139</id>
+  </point>
+  <point>
+    <name>Хертогенбос</name>
+    <region>Северный Брабант</region>
+    <district>Хертогенбос</district>
+    <id>152156</id>
+  </point>
+  <point>
+    <name>Эйндховен (аэропорт)</name>
+    <region>Северный Брабант</region>
+    <district>Эйндховен (аэропорт)</district>
+    <id>4499</id>
+  </point>
+  <point>
+    <name>Утрехт</name>
+    <region>Утрехт</region>
+    <district>Утрехт</district>
+    <id>152153</id>
+  </point>
+  <point>
+    <name>Амерсфорт</name>
+    <region>Утрехт</region>
+    <district>Амерсфорт</district>
+    <id>152136</id>
+  </point>
+  <point>
+    <name>Де-Билт</name>
+    <region>Утрехт</region>
+    <district>Де-Билт</district>
+    <id>4330</id>
+  </point>
+  <point>
+    <name>Кабау</name>
+    <region>Утрехт</region>
+    <district>Кабау</district>
+    <id>170432</id>
+  </point>
+  <point>
+    <name>Сустерберг</name>
+    <region>Утрехт</region>
+    <district>Сустерберг</district>
+    <id>4334</id>
+  </point>
+  <point>
+    <name>Алмере</name>
+    <region>Флеволанд</region>
+    <district>Алмере</district>
+    <id>152137</id>
+  </point>
+  <point>
+    <name>Лелистад</name>
+    <region>Флеволанд</region>
+    <district>Лелистад</district>
+    <id>4342</id>
+  </point>
+  <point>
+    <name>Маркнессе</name>
+    <region>Флеволанд</region>
+    <district>Маркнессе</district>
+    <id>4351</id>
+  </point>
+  <point>
+    <name>Хоутриб</name>
+    <region>Флеволанд</region>
+    <district>Хоутриб</district>
+    <id>4339</id>
+  </point>
+  <point>
+    <name>L9-ff-1 (платформа)</name>
+    <region>Фрисландия</region>
+    <district>L9-ff-1 (платформа)</district>
+    <id>4322</id>
+  </point>
+  <point>
+    <name>F16-a (платформа)</name>
+    <region>Фрисландия</region>
+    <district>F16-a (платформа)</district>
+    <id>170452</id>
+  </point>
+  <point>
+    <name>F16 (платформа)</name>
+    <region>Фрисландия</region>
+    <district>F16 (платформа)</district>
+    <id>4302</id>
+  </point>
+  <point>
+    <name>Леуварден (аэропорт)</name>
+    <region>Фрисландия</region>
+    <district>Леуварден (аэропорт)</district>
+    <id>4348</id>
+  </point>
+  <point>
+    <name>Ставорен</name>
+    <region>Фрисландия</region>
+    <district>Ставорен</district>
+    <id>4336</id>
+  </point>
+  <point>
+    <name>Терсхеллинг-Хоорн</name>
+    <region>Фрисландия</region>
+    <district>Терсхеллинг-Хоорн</district>
+    <id>4327</id>
+  </point>
+  <point>
+    <name>Амстелвен</name>
+    <region>Южная Голландия</region>
+    <district>Амстелвен</district>
+    <id>152135</id>
+  </point>
+  <point>
+    <name>Валькенбург</name>
+    <region>Южная Голландия</region>
+    <district>Валькенбург</district>
+    <id>4289</id>
+  </point>
+  <point>
+    <name>Ворсхотен (AWS)</name>
+    <region>Южная Голландия</region>
+    <district>Ворсхотен (AWS)</district>
+    <id>510785</id>
+  </point>
+  <point>
+    <name>Гаага</name>
+    <region>Южная Голландия</region>
+    <district>Гаага</district>
+    <id>13858</id>
+  </point>
+  <point>
+    <name>Гауда</name>
+    <region>Южная Голландия</region>
+    <district>Гауда</district>
+    <id>152149</id>
+  </point>
+  <point>
+    <name>Делфт</name>
+    <region>Южная Голландия</region>
+    <district>Делфт</district>
+    <id>152147</id>
+  </point>
+  <point>
+    <name>Зутермер</name>
+    <region>Южная Голландия</region>
+    <district>Зутермер</district>
+    <id>152145</id>
+  </point>
+  <point>
+    <name>Лейден</name>
+    <region>Южная Голландия</region>
+    <district>Лейден</district>
+    <id>152142</id>
+  </point>
+  <point>
+    <name>Роттердам / Гельхавен</name>
+    <region>Южная Голландия</region>
+    <district>Роттердам / Гельхавен</district>
+    <id>4449</id>
+  </point>
+  <point>
+    <name>Роттердам / Зестинховен (аэропорт)</name>
+    <region>Южная Голландия</region>
+    <district>Роттердам / Зестинховен (аэропорт)</district>
+    <id>4469</id>
+  </point>
+  <point>
+    <name>Хук-ван-Холланд</name>
+    <region>Южная Голландия</region>
+    <district>Хук-ван-Холланд</district>
+    <id>4436</id>
+  </point>
+</country>

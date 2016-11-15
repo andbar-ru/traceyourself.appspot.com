@@ -1,0 +1,344 @@
+<country name="Ecuador" count="57">
+  <point>
+    <name>Cuenca</name>
+    <region>Azuay</region>
+    <district>Cuenca</district>
+    <id>347947</id>
+  </point>
+  <point>
+    <name>Cuenca (airport)</name>
+    <region>Azuay</region>
+    <district>Cuenca (airport)</district>
+    <id>338067</id>
+  </point>
+  <point>
+    <name>Guaranda</name>
+    <region>Bolivar</region>
+    <district>Guaranda</district>
+    <id>347948</id>
+  </point>
+  <point>
+    <name>Azogues</name>
+    <region>Canar</region>
+    <district>Azogues</district>
+    <id>347949</id>
+  </point>
+  <point>
+    <name>Canar</name>
+    <region>Canar</region>
+    <district>Canar</district>
+    <id>338068</id>
+  </point>
+  <point>
+    <name>San Gabriel</name>
+    <region>Carchi</region>
+    <district>San Gabriel</district>
+    <id>338101</id>
+  </point>
+  <point>
+    <name>Tulcan</name>
+    <region>Carchi</region>
+    <district>Tulcan</district>
+    <id>338102</id>
+  </point>
+  <point>
+    <name>Riobamba</name>
+    <region>Chimborazo</region>
+    <district>Riobamba</district>
+    <id>338075</id>
+  </point>
+  <point>
+    <name>Corazon</name>
+    <region>Cotopaxi</region>
+    <district>Corazon</district>
+    <id>338081</id>
+  </point>
+  <point>
+    <name>Latacunga (airport)</name>
+    <region>Cotopaxi</region>
+    <district>Latacunga (airport)</district>
+    <id>338086</id>
+  </point>
+  <point>
+    <name>Rumipamba</name>
+    <region>Cotopaxi</region>
+    <district>Rumipamba</district>
+    <id>338080</id>
+  </point>
+  <point>
+    <name>Machala</name>
+    <region>El Oro</region>
+    <district>Machala</district>
+    <id>347950</id>
+  </point>
+  <point>
+    <name>Santa Rosa (airport)</name>
+    <region>El Oro</region>
+    <district>Santa Rosa (airport)</district>
+    <id>338066</id>
+  </point>
+  <point>
+    <name>Esmeraldas</name>
+    <region>Esmeraldas</region>
+    <district>Esmeraldas</district>
+    <id>347951</id>
+  </point>
+  <point>
+    <name>Esmeraldas (airport)</name>
+    <region>Esmeraldas</region>
+    <district>Esmeraldas (airport)</district>
+    <id>338103</id>
+  </point>
+  <point>
+    <name>Puerto Baquerizo Moreno</name>
+    <region>Galapagos</region>
+    <district>Puerto Baquerizo Moreno</district>
+    <id>347952</id>
+  </point>
+  <point>
+    <name>San Cristobal (airport)</name>
+    <region>Galapagos</region>
+    <district>San Cristobal (airport)</district>
+    <id>338105</id>
+  </point>
+  <point>
+    <name>San Cristobal (weather station 84010)</name>
+    <region>Galapagos</region>
+    <district>San Cristobal (weather station 84010)</district>
+    <id>338104</id>
+  </point>
+  <point>
+    <name>Seymour (airport)</name>
+    <region>Galapagos</region>
+    <district>Seymour (airport)</district>
+    <id>338106</id>
+  </point>
+  <point>
+    <name>Guayaquil</name>
+    <region>Guayas</region>
+    <district>Guayaquil</district>
+    <id>338070</id>
+  </point>
+  <point>
+    <name>Guayaquil (airport)</name>
+    <region>Guayas</region>
+    <district>Guayaquil (airport)</district>
+    <id>338071</id>
+  </point>
+  <point>
+    <name>Milagro</name>
+    <region>Guayas</region>
+    <district>Milagro</district>
+    <id>338072</id>
+  </point>
+  <point>
+    <name>Salinas (airport)</name>
+    <region>Guayas</region>
+    <district>Salinas (airport)</district>
+    <id>338073</id>
+  </point>
+  <point>
+    <name>Ibarra</name>
+    <region>Imbabura</region>
+    <district>Ibarra</district>
+    <id>347953</id>
+  </point>
+  <point>
+    <name>Ibarra (airport)</name>
+    <region>Imbabura</region>
+    <district>Ibarra (airport)</district>
+    <id>338100</id>
+  </point>
+  <point>
+    <name>Inguincho</name>
+    <region>Imbabura</region>
+    <district>Inguincho</district>
+    <id>338099</id>
+  </point>
+  <point>
+    <name>Loja</name>
+    <region>Loja</region>
+    <district>Loja</district>
+    <id>338064</id>
+  </point>
+  <point>
+    <name>Catamayo (airport)</name>
+    <region>Loja</region>
+    <district>Catamayo (airport)</district>
+    <id>338065</id>
+  </point>
+  <point>
+    <name>Babahoyo</name>
+    <region>Los Rios</region>
+    <district>Babahoyo</district>
+    <id>347954</id>
+  </point>
+  <point>
+    <name>Pichilingue</name>
+    <region>Los Rios</region>
+    <district>Pichilingue</district>
+    <id>338082</id>
+  </point>
+  <point>
+    <name>Manta (airport)</name>
+    <region>Manabi</region>
+    <district>Manta (airport)</district>
+    <id>338087</id>
+  </point>
+  <point>
+    <name>Portoviejo</name>
+    <region>Manabi</region>
+    <district>Portoviejo</district>
+    <id>338084</id>
+  </point>
+  <point>
+    <name>San Vicente (airport)</name>
+    <region>Manabi</region>
+    <district>San Vicente (airport)</district>
+    <id>338089</id>
+  </point>
+  <point>
+    <name>Macas</name>
+    <region>Morona Santiago</region>
+    <district>Macas</district>
+    <id>347955</id>
+  </point>
+  <point>
+    <name>Macas (airport)</name>
+    <region>Morona Santiago</region>
+    <district>Macas (airport)</district>
+    <id>338069</id>
+  </point>
+  <point>
+    <name>Tena</name>
+    <region>Napo</region>
+    <district>Tena</district>
+    <id>338078</id>
+  </point>
+  <point>
+    <name>El Coca (airport)</name>
+    <region>Orellana</region>
+    <district>El Coca (airport)</district>
+    <id>338090</id>
+  </point>
+  <point>
+    <name>Nuevo Rocafuerte</name>
+    <region>Orellana</region>
+    <district>Nuevo Rocafuerte</district>
+    <id>338085</id>
+  </point>
+  <point>
+    <name>Puerto Francisco de Orellana</name>
+    <region>Orellana</region>
+    <district>Puerto Francisco de Orellana</district>
+    <id>347956</id>
+  </point>
+  <point>
+    <name>Puyo</name>
+    <region>Pastaza</region>
+    <district>Puyo</district>
+    <id>338074</id>
+  </point>
+  <point>
+    <name>Shell Mera (airport)</name>
+    <region>Pastaza</region>
+    <district>Shell Mera (airport)</district>
+    <id>338076</id>
+  </point>
+  <point>
+    <name>Inaquito</name>
+    <region>Pichincha</region>
+    <district>Inaquito</district>
+    <id>338093</id>
+  </point>
+  <point>
+    <name>Izobamba</name>
+    <region>Pichincha</region>
+    <district>Izobamba</district>
+    <id>338091</id>
+  </point>
+  <point>
+    <name>La Concordia</name>
+    <region>Pichincha</region>
+    <district>La Concordia</district>
+    <id>338098</id>
+  </point>
+  <point>
+    <name>Mariscal Sucre (airport)</name>
+    <region>Pichincha</region>
+    <district>Mariscal Sucre (airport)</district>
+    <id>510165</id>
+  </point>
+  <point>
+    <name>Pifo</name>
+    <region>Pichincha</region>
+    <district>Pifo</district>
+    <id>338092</id>
+  </point>
+  <point>
+    <name>Puerto Ila</name>
+    <region>Pichincha</region>
+    <district>Puerto Ila</district>
+    <id>338088</id>
+  </point>
+  <point>
+    <name>Quito</name>
+    <region>Pichincha</region>
+    <district>Quito</district>
+    <id>337462</id>
+  </point>
+  <point>
+    <name>Quito (airport)</name>
+    <region>Pichincha</region>
+    <district>Quito (airport)</district>
+    <id>338094</id>
+  </point>
+  <point>
+    <name>Tomalon</name>
+    <region>Pichincha</region>
+    <district>Tomalon</district>
+    <id>338097</id>
+  </point>
+  <point>
+    <name>Santa Elena</name>
+    <region>Santa Elena</region>
+    <district>Santa Elena</district>
+    <id>347957</id>
+  </point>
+  <point>
+    <name>Santo Domingo de los Colorados</name>
+    <region>Santo Domingo de los Tsachilas</region>
+    <district>Santo Domingo de los Colorados</district>
+    <id>338095</id>
+  </point>
+  <point>
+    <name>Nueva Loja</name>
+    <region>Sucumbios</region>
+    <district>Nueva Loja</district>
+    <id>338096</id>
+  </point>
+  <point>
+    <name>Ambato</name>
+    <region>Tungurahua</region>
+    <district>Ambato</district>
+    <id>347958</id>
+  </point>
+  <point>
+    <name>Ambato (airport)</name>
+    <region>Tungurahua</region>
+    <district>Ambato (airport)</district>
+    <id>338079</id>
+  </point>
+  <point>
+    <name>Cevallos (Quero Chaca)</name>
+    <region>Tungurahua</region>
+    <district>Cevallos (Quero Chaca)</district>
+    <id>338077</id>
+  </point>
+  <point>
+    <name>Zamora</name>
+    <region>Zamora-Chinchipe</region>
+    <district>Zamora</district>
+    <id>347959</id>
+  </point>
+</country>

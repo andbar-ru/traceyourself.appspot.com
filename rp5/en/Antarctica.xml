@@ -1,0 +1,596 @@
+<country name="Antarctica" count="99">
+  <point>
+    <name>Belgrano II</name>
+    <region>Weather stations of Argentina</region>
+    <district>Belgrano II</district>
+    <id>348011</id>
+  </point>
+  <point>
+    <name>Carlini Base</name>
+    <region>Weather stations of Argentina</region>
+    <district>Carlini Base</district>
+    <id>348041</id>
+  </point>
+  <point>
+    <name>Esperanza Base</name>
+    <region>Weather stations of Argentina</region>
+    <district>Esperanza Base</district>
+    <id>348035</id>
+  </point>
+  <point>
+    <name>Marambio</name>
+    <region>Weather stations of Argentina</region>
+    <district>Marambio</district>
+    <id>348022</id>
+  </point>
+  <point>
+    <name>Orcadas Base</name>
+    <region>Weather stations of Argentina</region>
+    <district>Orcadas Base</district>
+    <id>347998</id>
+  </point>
+  <point>
+    <name>San-Martin</name>
+    <region>Weather stations of Argentina</region>
+    <district>San-Martin</district>
+    <id>348031</id>
+  </point>
+  <point>
+    <name>Amery</name>
+    <region>Weather stations of Australia</region>
+    <district>Amery</district>
+    <id>348016</id>
+  </point>
+  <point>
+    <name>Casey</name>
+    <region>Weather stations of Australia</region>
+    <district>Casey</district>
+    <id>348047</id>
+  </point>
+  <point>
+    <name>Casey (Poinsett)</name>
+    <region>Weather stations of Australia</region>
+    <district>Casey (Poinsett)</district>
+    <id>348036</id>
+  </point>
+  <point>
+    <name>Casey Haupt Nunatak</name>
+    <region>Weather stations of Australia</region>
+    <district>Casey Haupt Nunatak</district>
+    <id>348066</id>
+  </point>
+  <point>
+    <name>Casey Skiway South</name>
+    <region>Weather stations of Australia</region>
+    <district>Casey Skiway South</district>
+    <id>429820</id>
+  </point>
+  <point>
+    <name>Casey Snyder Rocks</name>
+    <region>Weather stations of Australia</region>
+    <district>Casey Snyder Rocks</district>
+    <id>348003</id>
+  </point>
+  <point>
+    <name>Davis</name>
+    <region>Weather stations of Australia</region>
+    <district>Davis</district>
+    <id>348042</id>
+  </point>
+  <point>
+    <name>Davis (Whoop Whoop)</name>
+    <region>Weather stations of Australia</region>
+    <district>Davis (Whoop Whoop)</district>
+    <id>429819</id>
+  </point>
+  <point>
+    <name>Dome Argus</name>
+    <region>Weather stations of Australia</region>
+    <district>Dome Argus</district>
+    <id>348059</id>
+  </point>
+  <point>
+    <name>Dome Plateau Eagle</name>
+    <region>Weather stations of Australia</region>
+    <district>Dome Plateau Eagle</district>
+    <id>348006</id>
+  </point>
+  <point>
+    <name>Law Dome Summit</name>
+    <region>Weather stations of Australia</region>
+    <district>Law Dome Summit</district>
+    <id>348040</id>
+  </point>
+  <point>
+    <name>Mawson Station</name>
+    <region>Weather stations of Australia</region>
+    <district>Mawson Station</district>
+    <id>348032</id>
+  </point>
+  <point>
+    <name>Stillwell Island</name>
+    <region>Weather stations of Australia</region>
+    <district>Stillwell Island</district>
+    <id>347993</id>
+  </point>
+  <point>
+    <name>Upper Peterson</name>
+    <region>Weather stations of Australia</region>
+    <district>Upper Peterson</district>
+    <id>348056</id>
+  </point>
+  <point>
+    <name>Wilkins Runway</name>
+    <region>Weather stations of Australia</region>
+    <district>Wilkins Runway</district>
+    <id>510470</id>
+  </point>
+  <point>
+    <name>Arturo-Prat</name>
+    <region>Weather stations of Chile</region>
+    <district>Arturo-Prat</district>
+    <id>348012</id>
+  </point>
+  <point>
+    <name>Bernardo O'Higgins Base</name>
+    <region>Weather stations of Chile</region>
+    <district>Bernardo O`Higgins Base</district>
+    <id>348074</id>
+  </point>
+  <point>
+    <name>Eduardo Frei Montalva Station</name>
+    <region>Weather stations of Chile</region>
+    <district>Eduardo Frei Montalva Station</district>
+    <id>348070</id>
+  </point>
+  <point>
+    <name>Great Wall Station</name>
+    <region>Weather stations of China</region>
+    <district>Great Wall Station</district>
+    <id>348026</id>
+  </point>
+  <point>
+    <name>Zhongshan</name>
+    <region>Weather stations of China</region>
+    <district>Zhongshan</district>
+    <id>348023</id>
+  </point>
+  <point>
+    <name>Nordenskiold Base</name>
+    <region>Weather stations of Finland</region>
+    <district>Nordenskiold Base</district>
+    <id>348009</id>
+  </point>
+  <point>
+    <name>Dumont d'Urville</name>
+    <region>Weather stations of France</region>
+    <district>Dumont d`Urville</district>
+    <id>348039</id>
+  </point>
+  <point>
+    <name>Neumayer</name>
+    <region>Weather stations of Germany</region>
+    <district>Neumayer</district>
+    <id>348068</id>
+  </point>
+  <point>
+    <name>Maitri</name>
+    <region>Weather stations of India</region>
+    <district>Maitri</district>
+    <id>348073</id>
+  </point>
+  <point>
+    <name>Baia Terra Nova</name>
+    <region>Weather stations of Italy</region>
+    <district>Baia Terra Nova</district>
+    <id>348030</id>
+  </point>
+  <point>
+    <name>Cape Phillips</name>
+    <region>Weather stations of Italy</region>
+    <district>Cape Phillips</district>
+    <id>348013</id>
+  </point>
+  <point>
+    <name>Cape Ross</name>
+    <region>Weather stations of Italy</region>
+    <district>Cape Ross</district>
+    <id>348069</id>
+  </point>
+  <point>
+    <name>Concordia</name>
+    <region>Weather stations of Italy</region>
+    <district>Concordia</district>
+    <id>348044</id>
+  </point>
+  <point>
+    <name>Irene</name>
+    <region>Weather stations of Italy</region>
+    <district>Irene</district>
+    <id>429850</id>
+  </point>
+  <point>
+    <name>Mid point</name>
+    <region>Weather stations of Italy</region>
+    <district>Mid point</district>
+    <id>348043</id>
+  </point>
+  <point>
+    <name>Priestley Glacier</name>
+    <region>Weather stations of Italy</region>
+    <district>Priestley Glacier</district>
+    <id>348037</id>
+  </point>
+  <point>
+    <name>Syowa</name>
+    <region>Weather stations of Japan</region>
+    <district>Syowa</district>
+    <id>348007</id>
+  </point>
+  <point>
+    <name>Halvfarryggen (ep11)</name>
+    <region>Weather stations of Netherlands</region>
+    <district>Halvfarryggen (ep11)</district>
+    <id>348019</id>
+  </point>
+  <point>
+    <name>Kohnen</name>
+    <region>Weather stations of Netherlands</region>
+    <district>Kohnen</district>
+    <id>348029</id>
+  </point>
+  <point>
+    <name>Wasa</name>
+    <region>Weather stations of Netherlands</region>
+    <district>Wasa</district>
+    <id>348072</id>
+  </point>
+  <point>
+    <name>Troll</name>
+    <region>Weather stations of Norway</region>
+    <district>Troll</district>
+    <id>348021</id>
+  </point>
+  <point>
+    <name>Dobrowolski Polar Station</name>
+    <region>Weather stations of Poland</region>
+    <district>Dobrowolski Polar Station</district>
+    <id>510639</id>
+  </point>
+  <point>
+    <name>Bellingshausen AWS</name>
+    <region>Weather stations of Russia</region>
+    <district>Bellingshausen AWS</district>
+    <id>348049</id>
+  </point>
+  <point>
+    <name>Druzhnaja-4</name>
+    <region>Weather stations of Russia</region>
+    <district>Druzhnaja-4</district>
+    <id>347994</id>
+  </point>
+  <point>
+    <name>Leningradskaya</name>
+    <region>Weather stations of Russia</region>
+    <district>Leningradskaya</district>
+    <id>348057</id>
+  </point>
+  <point>
+    <name>Mirnyj</name>
+    <region>Weather stations of Russia</region>
+    <district>Mirnyj</district>
+    <id>347997</id>
+  </point>
+  <point>
+    <name>Molodezhnaya</name>
+    <region>Weather stations of Russia</region>
+    <district>Molodezhnaya</district>
+    <id>510638</id>
+  </point>
+  <point>
+    <name>Novolazarevskaya Station</name>
+    <region>Weather stations of Russia</region>
+    <district>Novolazarevskaya Station</district>
+    <id>348018</id>
+  </point>
+  <point>
+    <name>Progress Station</name>
+    <region>Weather stations of Russia</region>
+    <district>Progress Station</district>
+    <id>348051</id>
+  </point>
+  <point>
+    <name>Russkaya Station</name>
+    <region>Weather stations of Russia</region>
+    <district>Russkaya Station</district>
+    <id>510645</id>
+  </point>
+  <point>
+    <name>Vostok Station</name>
+    <region>Weather stations of Russia</region>
+    <district>Vostok Station</district>
+    <id>348079</id>
+  </point>
+  <point>
+    <name>SANAE (AWS)</name>
+    <region>Weather stations of South Africa</region>
+    <district>SANAE (AWS)</district>
+    <id>348048</id>
+  </point>
+  <point>
+    <name>King Sejong</name>
+    <region>Weather stations of South Korea</region>
+    <district>King Sejong</district>
+    <id>348076</id>
+  </point>
+  <point>
+    <name>Juan Carlos I Base</name>
+    <region>Weather stations of Spain</region>
+    <district>Juan Carlos I Base</district>
+    <id>510614</id>
+  </point>
+  <point>
+    <name>Ago-1</name>
+    <region>Weather stations of USA</region>
+    <district>Ago-1</district>
+    <id>348052</id>
+  </point>
+  <point>
+    <name>Ago-2</name>
+    <region>Weather stations of USA</region>
+    <district>Ago-2</district>
+    <id>348020</id>
+  </point>
+  <point>
+    <name>Ago-3</name>
+    <region>Weather stations of USA</region>
+    <district>Ago-3</district>
+    <id>348050</id>
+  </point>
+  <point>
+    <name>Bonaparte Parkpoint</name>
+    <region>Weather stations of USA</region>
+    <district>Bonaparte Parkpoint</district>
+    <id>348015</id>
+  </point>
+  <point>
+    <name>Butler island</name>
+    <region>Weather stations of USA</region>
+    <district>Butler island</district>
+    <id>348002</id>
+  </point>
+  <point>
+    <name>Byrd</name>
+    <region>Weather stations of USA</region>
+    <district>Byrd</district>
+    <id>348034</id>
+  </point>
+  <point>
+    <name>D-10</name>
+    <region>Weather stations of USA</region>
+    <district>D-10</district>
+    <id>348061</id>
+  </point>
+  <point>
+    <name>D-47</name>
+    <region>Weather stations of USA</region>
+    <district>D-47</district>
+    <id>348038</id>
+  </point>
+  <point>
+    <name>Dome C II</name>
+    <region>Weather stations of USA</region>
+    <district>Dome C II</district>
+    <id>348024</id>
+  </point>
+  <point>
+    <name>Dome Fuji</name>
+    <region>Weather stations of USA</region>
+    <district>Dome Fuji</district>
+    <id>348045</id>
+  </point>
+  <point>
+    <name>Elaine</name>
+    <region>Weather stations of USA</region>
+    <district>Elaine</district>
+    <id>348008</id>
+  </point>
+  <point>
+    <name>Elizabeth</name>
+    <region>Weather stations of USA</region>
+    <district>Elizabeth</district>
+    <id>348004</id>
+  </point>
+  <point>
+    <name>Ferrell</name>
+    <region>Weather stations of USA</region>
+    <district>Ferrell</district>
+    <id>348065</id>
+  </point>
+  <point>
+    <name>Gill</name>
+    <region>Weather stations of USA</region>
+    <district>Gill</district>
+    <id>348046</id>
+  </point>
+  <point>
+    <name>Harry</name>
+    <region>Weather stations of USA</region>
+    <district>Harry</district>
+    <id>347995</id>
+  </point>
+  <point>
+    <name>Henry</name>
+    <region>Weather stations of USA</region>
+    <district>Henry</district>
+    <id>348075</id>
+  </point>
+  <point>
+    <name>Larsen Ice Shelf</name>
+    <region>Weather stations of USA</region>
+    <district>Larsen Ice Shelf</district>
+    <id>348067</id>
+  </point>
+  <point>
+    <name>Lettau</name>
+    <region>Weather stations of USA</region>
+    <district>Lettau</district>
+    <id>348058</id>
+  </point>
+  <point>
+    <name>Limbert AWS</name>
+    <region>Weather stations of USA</region>
+    <district>Limbert AWS</district>
+    <id>348014</id>
+  </point>
+  <point>
+    <name>Manuela</name>
+    <region>Weather stations of USA</region>
+    <district>Manuela</district>
+    <id>347999</id>
+  </point>
+  <point>
+    <name>Marble Point</name>
+    <region>Weather stations of USA</region>
+    <district>Marble Point</district>
+    <id>348064</id>
+  </point>
+  <point>
+    <name>Marilyn</name>
+    <region>Weather stations of USA</region>
+    <district>Marilyn</district>
+    <id>348071</id>
+  </point>
+  <point>
+    <name>McMurdo (aerodrome)</name>
+    <region>Weather stations of USA</region>
+    <district>McMurdo (aerodrome)</district>
+    <id>348001</id>
+  </point>
+  <point>
+    <name>Mount Siple</name>
+    <region>Weather stations of USA</region>
+    <district>Mount Siple</district>
+    <id>429856</id>
+  </point>
+  <point>
+    <name>Nico</name>
+    <region>Weather stations of USA</region>
+    <district>Nico</district>
+    <id>348025</id>
+  </point>
+  <point>
+    <name>Palmer Station</name>
+    <region>Weather stations of USA</region>
+    <district>Palmer Station</district>
+    <id>348053</id>
+  </point>
+  <point>
+    <name>Pegasus Field (airstrip)</name>
+    <region>Weather stations of USA</region>
+    <district>Pegasus Field (airstrip)</district>
+    <id>508962</id>
+  </point>
+  <point>
+    <name>Pegasus North</name>
+    <region>Weather stations of USA</region>
+    <district>Pegasus North</district>
+    <id>347992</id>
+  </point>
+  <point>
+    <name>Possession island</name>
+    <region>Weather stations of USA</region>
+    <district>Possession island</district>
+    <id>348033</id>
+  </point>
+  <point>
+    <name>Princess Elizabeth Land</name>
+    <region>Weather stations of USA</region>
+    <district>Princess Elizabeth Land</district>
+    <id>348060</id>
+  </point>
+  <point>
+    <name>Relay station</name>
+    <region>Weather stations of USA</region>
+    <district>Relay station</district>
+    <id>347996</id>
+  </point>
+  <point>
+    <name>Schwerdtfeger</name>
+    <region>Weather stations of USA</region>
+    <district>Schwerdtfeger</district>
+    <id>348027</id>
+  </point>
+  <point>
+    <name>Siple Dome</name>
+    <region>Weather stations of USA</region>
+    <district>Siple Dome</district>
+    <id>348055</id>
+  </point>
+  <point>
+    <name>Sky-Blu</name>
+    <region>Weather stations of USA</region>
+    <district>Sky-Blu</district>
+    <id>348000</id>
+  </point>
+  <point>
+    <name>South Pole (Amundsen–Scott)</name>
+    <region>Weather stations of USA</region>
+    <district>South Pole (Amundsen–Scott)</district>
+    <id>347944</id>
+  </point>
+  <point>
+    <name>Theresa</name>
+    <region>Weather stations of USA</region>
+    <district>Theresa</district>
+    <id>348080</id>
+  </point>
+  <point>
+    <name>Thiel Mountains AWS</name>
+    <region>Weather stations of USA</region>
+    <district>Thiel Mountains AWS</district>
+    <id>348054</id>
+  </point>
+  <point>
+    <name>Vernadsky Research Base</name>
+    <region>Weather stations of Ukraine</region>
+    <district>Vernadsky Research Base</district>
+    <id>348010</id>
+  </point>
+  <point>
+    <name>Baldrick AWS</name>
+    <region>Weather stations of United Kingdom</region>
+    <district>Baldrick AWS</district>
+    <id>348062</id>
+  </point>
+  <point>
+    <name>Brunt AWS</name>
+    <region>Weather stations of United Kingdom</region>
+    <district>Brunt AWS</district>
+    <id>348017</id>
+  </point>
+  <point>
+    <name>Fossil Bluff</name>
+    <region>Weather stations of United Kingdom</region>
+    <district>Fossil Bluff</district>
+    <id>348078</id>
+  </point>
+  <point>
+    <name>Halley</name>
+    <region>Weather stations of United Kingdom</region>
+    <district>Halley</district>
+    <id>348077</id>
+  </point>
+  <point>
+    <name>Rothera</name>
+    <region>Weather stations of United Kingdom</region>
+    <district>Rothera</district>
+    <id>348063</id>
+  </point>
+  <point>
+    <name>Artigas Base</name>
+    <region>Weather stations of Uruguay</region>
+    <district>Artigas Base</district>
+    <id>348005</id>
+  </point>
+</country>

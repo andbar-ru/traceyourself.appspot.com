@@ -1,0 +1,22 @@
+cron:
+# - description: daily solar data
+  # url: /tasks/get_solar_data
+  # schedule: every 6 hours
+  # # timezone: Europe/Moscow
+# - description: daily economical data
+  # url: /tasks/get_ec_data
+  # schedule: every day 23:00
+  # timezone: Asia/Muscat
+# - description: every 6 hours rp5 weather
+  # url: /tasks/rp5
+  # schedule: every 6 hours  # 4,10,16,22
+  # timezone: Asia/Muscat
+# - description: every day rp5 weather archive
+  # url: /tasks/rp5_archive
+  # schedule: every day 23:10
+# - description: every day save rp5 html
+  # url: /tasks/save_rp5_html
+  # schedule: every day 00:00
+# - description: every day errors report
+  # url: /tasks/errors_report
+  # schedule: every day 00:00

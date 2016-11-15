@@ -1,0 +1,2060 @@
+<region name="Alaska" count="352">
+  <point>
+    <name>Akun / Akutan (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>510630</id>
+  </point>
+  <point>
+    <name>Akutan</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>291530</id>
+  </point>
+  <point>
+    <name>Cold Bay (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>291531</id>
+  </point>
+  <point>
+    <name>False Pass</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>291532</id>
+  </point>
+  <point>
+    <name>False Pass (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>508388</id>
+  </point>
+  <point>
+    <name>King Cove</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>291538</id>
+  </point>
+  <point>
+    <name>King Cove (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>508482</id>
+  </point>
+  <point>
+    <name>Nelson Lagoon</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>291545</id>
+  </point>
+  <point>
+    <name>Nelson Lagoon (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>508566</id>
+  </point>
+  <point>
+    <name>Sand Point (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians East</district>
+    <id>256187</id>
+  </point>
+  <point>
+    <name>Adak (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians West</district>
+    <id>291564</id>
+  </point>
+  <point>
+    <name>Atka (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians West</district>
+    <id>291566</id>
+  </point>
+  <point>
+    <name>Dutch Harbor / Unalaska (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians West</district>
+    <id>291569</id>
+  </point>
+  <point>
+    <name>Nikolski</name>
+    <region>Alaska</region>
+    <district>Aleutians West</district>
+    <id>291579</id>
+  </point>
+  <point>
+    <name>Saint George Island (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians West</district>
+    <id>291585</id>
+  </point>
+  <point>
+    <name>Saint Paul Island (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians West</district>
+    <id>291602</id>
+  </point>
+  <point>
+    <name>Shemya / Eareckson (airport)</name>
+    <region>Alaska</region>
+    <district>Aleutians West</district>
+    <id>291877</id>
+  </point>
+  <point>
+    <name>Unalaska</name>
+    <region>Alaska</region>
+    <district>Aleutians West</district>
+    <id>256188</id>
+  </point>
+  <point>
+    <name>Anchorage (airport)</name>
+    <district>Anchorage</district>
+    <id>256189</id>
+  </point>
+  <point>
+    <name>Anchorage / Ted Stevens (airport)</name>
+    <district>Anchorage</district>
+    <id>291872</id>
+  </point>
+  <point>
+    <name>Birchwood (airport)</name>
+    <district>Anchorage</district>
+    <id>508292</id>
+  </point>
+  <point>
+    <name>Eagle River</name>
+    <district>Anchorage</district>
+    <id>291742</id>
+  </point>
+  <point>
+    <name>Lake Hood Seaplane Base / Anchorage (airport)</name>
+    <district>Anchorage</district>
+    <id>508499</id>
+  </point>
+  <point>
+    <name>Chugiak</name>
+    <region>Alaska</region>
+    <district>Anchorage</district>
+    <id>291740</id>
+  </point>
+  <point>
+    <name>Elmendorf (airbase)</name>
+    <region>Alaska</region>
+    <district>Anchorage</district>
+    <id>508380</id>
+  </point>
+  <point>
+    <name>Fort Richardson</name>
+    <region>Alaska</region>
+    <district>Anchorage</district>
+    <id>291751</id>
+  </point>
+  <point>
+    <name>Fort Richardson / Bryant (airport)</name>
+    <region>Alaska</region>
+    <district>Anchorage</district>
+    <id>510154</id>
+  </point>
+  <point>
+    <name>Girdwood</name>
+    <region>Alaska</region>
+    <district>Anchorage</district>
+    <id>291759</id>
+  </point>
+  <point>
+    <name>Indian</name>
+    <region>Alaska</region>
+    <district>Anchorage</district>
+    <id>291766</id>
+  </point>
+  <point>
+    <name>Bethel (airport)</name>
+    <district>Bethel</district>
+    <id>259382</id>
+  </point>
+  <point>
+    <name>Aniak (airport)</name>
+    <district>Bethel</district>
+    <id>291789</id>
+  </point>
+  <point>
+    <name>Red Devil</name>
+    <district>Bethel</district>
+    <id>259472</id>
+  </point>
+  <point>
+    <name>Sparrevohn LRRS (airport)</name>
+    <district>Bethel</district>
+    <id>508679</id>
+  </point>
+  <point>
+    <name>Stony River</name>
+    <district>Bethel</district>
+    <id>259485</id>
+  </point>
+  <point>
+    <name>Akiachak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291776</id>
+  </point>
+  <point>
+    <name>Akiak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291780</id>
+  </point>
+  <point>
+    <name>Atmautluak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291797</id>
+  </point>
+  <point>
+    <name>Cape Newenham LRRS (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>508313</id>
+  </point>
+  <point>
+    <name>Chefornak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291816</id>
+  </point>
+  <point>
+    <name>Chuathbaluk</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291824</id>
+  </point>
+  <point>
+    <name>Crooked Creek</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291831</id>
+  </point>
+  <point>
+    <name>Eek</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291834</id>
+  </point>
+  <point>
+    <name>Goodnews Bay</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291836</id>
+  </point>
+  <point>
+    <name>Kalskag</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291844</id>
+  </point>
+  <point>
+    <name>Kalskag (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>508475</id>
+  </point>
+  <point>
+    <name>Kasigluk</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>291850</id>
+  </point>
+  <point>
+    <name>Kipnuk</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259395</id>
+  </point>
+  <point>
+    <name>Kipnuk (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>508485</id>
+  </point>
+  <point>
+    <name>Kongiganak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259402</id>
+  </point>
+  <point>
+    <name>Kwethluk</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259408</id>
+  </point>
+  <point>
+    <name>Kwethluk (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>510619</id>
+  </point>
+  <point>
+    <name>Kwigillingok</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259413</id>
+  </point>
+  <point>
+    <name>Lower Kalskag</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259414</id>
+  </point>
+  <point>
+    <name>Mekoryuk (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259419</id>
+  </point>
+  <point>
+    <name>Merrill Pass West (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>510309</id>
+  </point>
+  <point>
+    <name>Napakiak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259421</id>
+  </point>
+  <point>
+    <name>Napakiak (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>510617</id>
+  </point>
+  <point>
+    <name>Napaskiak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259428</id>
+  </point>
+  <point>
+    <name>Newtok</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259438</id>
+  </point>
+  <point>
+    <name>Nightmute</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259439</id>
+  </point>
+  <point>
+    <name>Nunapitchuk</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259445</id>
+  </point>
+  <point>
+    <name>Nunapitchuk (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>510620</id>
+  </point>
+  <point>
+    <name>Platinum (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259454</id>
+  </point>
+  <point>
+    <name>Quinhagak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259464</id>
+  </point>
+  <point>
+    <name>Quinhagak (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>510618</id>
+  </point>
+  <point>
+    <name>Sleetmute (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259478</id>
+  </point>
+  <point>
+    <name>Toksook Bay</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259490</id>
+  </point>
+  <point>
+    <name>Toksook Bay (airport)</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>508713</id>
+  </point>
+  <point>
+    <name>Tuluksak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259494</id>
+  </point>
+  <point>
+    <name>Tuntutuliak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259495</id>
+  </point>
+  <point>
+    <name>Tununak</name>
+    <region>Alaska</region>
+    <district>Bethel</district>
+    <id>259496</id>
+  </point>
+  <point>
+    <name>Igiugig</name>
+    <region>Alaska</region>
+    <district>Bristol Bay</district>
+    <id>259497</id>
+  </point>
+  <point>
+    <name>Naknek</name>
+    <region>Alaska</region>
+    <district>Bristol Bay</district>
+    <id>259383</id>
+  </point>
+  <point>
+    <name>South Naknek</name>
+    <region>Alaska</region>
+    <district>Bristol Bay</district>
+    <id>259498</id>
+  </point>
+  <point>
+    <name>South Naknek (airport)</name>
+    <region>Alaska</region>
+    <district>Bristol Bay</district>
+    <id>510488</id>
+  </point>
+  <point>
+    <name>Anderson</name>
+    <region>Alaska</region>
+    <district>Denali</district>
+    <id>259499</id>
+  </point>
+  <point>
+    <name>Cantwell</name>
+    <region>Alaska</region>
+    <district>Denali</district>
+    <id>259504</id>
+  </point>
+  <point>
+    <name>Clear</name>
+    <region>Alaska</region>
+    <district>Denali</district>
+    <id>259511</id>
+  </point>
+  <point>
+    <name>Denali National Park</name>
+    <region>Alaska</region>
+    <district>Denali</district>
+    <id>259514</id>
+  </point>
+  <point>
+    <name>Healy</name>
+    <region>Alaska</region>
+    <district>Denali</district>
+    <id>259384</id>
+  </point>
+  <point>
+    <name>McKinley National Park (airport)</name>
+    <region>Alaska</region>
+    <district>Denali</district>
+    <id>508540</id>
+  </point>
+  <point>
+    <name>Nenana (airport)</name>
+    <region>Alaska</region>
+    <district>Denali</district>
+    <id>259535</id>
+  </point>
+  <point>
+    <name>Dillingham (airport)</name>
+    <district>Dillingham</district>
+    <id>259385</id>
+  </point>
+  <point>
+    <name>Aleknagik</name>
+    <district>Dillingham</district>
+    <id>259538</id>
+  </point>
+  <point>
+    <name>New Stuyahok (airport)</name>
+    <district>Dillingham</district>
+    <id>508569</id>
+  </point>
+  <point>
+    <name>Togiak (airport)</name>
+    <district>Dillingham</district>
+    <id>259590</id>
+  </point>
+  <point>
+    <name>Twin Hills</name>
+    <district>Dillingham</district>
+    <id>259600</id>
+  </point>
+  <point>
+    <name>Clarks Point</name>
+    <region>Alaska</region>
+    <district>Dillingham</district>
+    <id>259546</id>
+  </point>
+  <point>
+    <name>Clarks Point (airport)</name>
+    <region>Alaska</region>
+    <district>Dillingham</district>
+    <id>510517</id>
+  </point>
+  <point>
+    <name>Ekwok</name>
+    <region>Alaska</region>
+    <district>Dillingham</district>
+    <id>259559</id>
+  </point>
+  <point>
+    <name>Koliganek</name>
+    <region>Alaska</region>
+    <district>Dillingham</district>
+    <id>259569</id>
+  </point>
+  <point>
+    <name>Koliganek (airport)</name>
+    <region>Alaska</region>
+    <district>Dillingham</district>
+    <id>508490</id>
+  </point>
+  <point>
+    <name>Manokotak</name>
+    <region>Alaska</region>
+    <district>Dillingham</district>
+    <id>259576</id>
+  </point>
+  <point>
+    <name>Manokotak (airport)</name>
+    <region>Alaska</region>
+    <district>Dillingham</district>
+    <id>508526</id>
+  </point>
+  <point>
+    <name>New Stuyahok</name>
+    <region>Alaska</region>
+    <district>Dillingham</district>
+    <id>259582</id>
+  </point>
+  <point>
+    <name>Fairbanks</name>
+    <district>Fairbanks North Star</district>
+    <id>259386</id>
+  </point>
+  <point>
+    <name>Ester</name>
+    <district>Fairbanks North Star</district>
+    <id>259622</id>
+  </point>
+  <point>
+    <name>Fairbanks (airport)</name>
+    <district>Fairbanks North Star</district>
+    <id>291870</id>
+  </point>
+  <point>
+    <name>Fort Wainwright (airport)</name>
+    <district>Fairbanks North Star</district>
+    <id>259711</id>
+  </point>
+  <point>
+    <name>North Pole</name>
+    <district>Fairbanks North Star</district>
+    <id>259721</id>
+  </point>
+  <point>
+    <name>Badger</name>
+    <region>Alaska</region>
+    <district>Fairbanks North Star</district>
+    <id>259608</id>
+  </point>
+  <point>
+    <name>Coldfoot</name>
+    <region>Alaska</region>
+    <district>Fairbanks North Star</district>
+    <id>259614</id>
+  </point>
+  <point>
+    <name>Eielson (airbase)</name>
+    <region>Alaska</region>
+    <district>Fairbanks North Star</district>
+    <id>508375</id>
+  </point>
+  <point>
+    <name>Salcha</name>
+    <region>Alaska</region>
+    <district>Fairbanks North Star</district>
+    <id>259724</id>
+  </point>
+  <point>
+    <name>Steese</name>
+    <region>Alaska</region>
+    <district>Fairbanks North Star</district>
+    <id>259728</id>
+  </point>
+  <point>
+    <name>Two Rivers</name>
+    <region>Alaska</region>
+    <district>Fairbanks North Star</district>
+    <id>259736</id>
+  </point>
+  <point>
+    <name>Haines (airport)</name>
+    <district>Haines</district>
+    <id>259387</id>
+  </point>
+  <point>
+    <name>Angoon</name>
+    <region>Alaska</region>
+    <district>Hoonah Angoon</district>
+    <id>260733</id>
+  </point>
+  <point>
+    <name>Angoon Seaplane Base (airport)</name>
+    <region>Alaska</region>
+    <district>Hoonah Angoon</district>
+    <id>508265</id>
+  </point>
+  <point>
+    <name>Elfin Cove</name>
+    <region>Alaska</region>
+    <district>Hoonah Angoon</district>
+    <id>260743</id>
+  </point>
+  <point>
+    <name>Elfin Cove (seaplane base)</name>
+    <region>Alaska</region>
+    <district>Hoonah Angoon</district>
+    <id>509883</id>
+  </point>
+  <point>
+    <name>Gustavus (airport)</name>
+    <region>Alaska</region>
+    <district>Hoonah Angoon</district>
+    <id>260756</id>
+  </point>
+  <point>
+    <name>Hoonah (airport)</name>
+    <region>Alaska</region>
+    <district>Hoonah Angoon</district>
+    <id>259314</id>
+  </point>
+  <point>
+    <name>Pelican</name>
+    <region>Alaska</region>
+    <district>Hoonah Angoon</district>
+    <id>260776</id>
+  </point>
+  <point>
+    <name>Tenakee Springs</name>
+    <region>Alaska</region>
+    <district>Hoonah Angoon</district>
+    <id>260796</id>
+  </point>
+  <point>
+    <name>Juneau</name>
+    <district>Juneau</district>
+    <id>259388</id>
+  </point>
+  <point>
+    <name>Auke Bay</name>
+    <district>Juneau</district>
+    <id>259751</id>
+  </point>
+  <point>
+    <name>Douglas</name>
+    <district>Juneau</district>
+    <id>259760</id>
+  </point>
+  <point>
+    <name>Juneau (airport)</name>
+    <district>Juneau</district>
+    <id>291876</id>
+  </point>
+  <point>
+    <name>Anchor Point</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259817</id>
+  </point>
+  <point>
+    <name>Clam Gulch</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259824</id>
+  </point>
+  <point>
+    <name>Cooper Landing</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259830</id>
+  </point>
+  <point>
+    <name>Fritz Creek</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259847</id>
+  </point>
+  <point>
+    <name>Halibut Cove</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259853</id>
+  </point>
+  <point>
+    <name>Homer (airport)</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259862</id>
+  </point>
+  <point>
+    <name>Hope</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259872</id>
+  </point>
+  <point>
+    <name>Kasilof</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259880</id>
+  </point>
+  <point>
+    <name>Kenai (airport)</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259901</id>
+  </point>
+  <point>
+    <name>Moose Pass</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259909</id>
+  </point>
+  <point>
+    <name>Nanwalek</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259910</id>
+  </point>
+  <point>
+    <name>Nikiski</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259911</id>
+  </point>
+  <point>
+    <name>Nikolaevsk</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259912</id>
+  </point>
+  <point>
+    <name>Ninilchik</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259914</id>
+  </point>
+  <point>
+    <name>Port Graham</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259924</id>
+  </point>
+  <point>
+    <name>Seldovia (airport)</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259934</id>
+  </point>
+  <point>
+    <name>Seward (airport)</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259945</id>
+  </point>
+  <point>
+    <name>Soldotna (airport)</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259389</id>
+  </point>
+  <point>
+    <name>Sterling</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259963</id>
+  </point>
+  <point>
+    <name>Tyonek</name>
+    <region>Alaska</region>
+    <district>Kenai Peninsula</district>
+    <id>259970</id>
+  </point>
+  <point>
+    <name>Ketchikan (airport)</name>
+    <district>Ketchikan Gateway</district>
+    <id>259381</id>
+  </point>
+  <point>
+    <name>Edna Bay</name>
+    <district>Ketchikan Gateway</district>
+    <id>259971</id>
+  </point>
+  <point>
+    <name>Kasaan</name>
+    <district>Ketchikan Gateway</district>
+    <id>259982</id>
+  </point>
+  <point>
+    <name>Naukati Bay</name>
+    <district>Ketchikan Gateway</district>
+    <id>260006</id>
+  </point>
+  <point>
+    <name>Ward Cove</name>
+    <district>Ketchikan Gateway</district>
+    <id>260016</id>
+  </point>
+  <point>
+    <name>Kodiak</name>
+    <district>Kodiak Island</district>
+    <id>259305</id>
+  </point>
+  <point>
+    <name>Akhiok</name>
+    <district>Kodiak Island</district>
+    <id>260026</id>
+  </point>
+  <point>
+    <name>Akhiok (airport)</name>
+    <district>Kodiak Island</district>
+    <id>508254</id>
+  </point>
+  <point>
+    <name>Kodiak (airport)</name>
+    <district>Kodiak Island</district>
+    <id>291874</id>
+  </point>
+  <point>
+    <name>Old Harbor</name>
+    <district>Kodiak Island</district>
+    <id>260078</id>
+  </point>
+  <point>
+    <name>Chiniak</name>
+    <region>Alaska</region>
+    <district>Kodiak Island</district>
+    <id>260035</id>
+  </point>
+  <point>
+    <name>Karluk</name>
+    <region>Alaska</region>
+    <district>Kodiak Island</district>
+    <id>260045</id>
+  </point>
+  <point>
+    <name>Larsen Bay</name>
+    <region>Alaska</region>
+    <district>Kodiak Island</district>
+    <id>260072</id>
+  </point>
+  <point>
+    <name>Ouzinkie</name>
+    <region>Alaska</region>
+    <district>Kodiak Island</district>
+    <id>260086</id>
+  </point>
+  <point>
+    <name>Port Lions</name>
+    <region>Alaska</region>
+    <district>Kodiak Island</district>
+    <id>260094</id>
+  </point>
+  <point>
+    <name>Chignik</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260111</id>
+  </point>
+  <point>
+    <name>Chignik (airport)</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>508333</id>
+  </point>
+  <point>
+    <name>Chignik Lagoon</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260119</id>
+  </point>
+  <point>
+    <name>Chignik Lake</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260128</id>
+  </point>
+  <point>
+    <name>Egegik</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260136</id>
+  </point>
+  <point>
+    <name>Egegik (airport)</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>508374</id>
+  </point>
+  <point>
+    <name>Igiugig (airport)</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>508455</id>
+  </point>
+  <point>
+    <name>Iliamna (airport)</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260155</id>
+  </point>
+  <point>
+    <name>King Salmon (airport)</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>259306</id>
+  </point>
+  <point>
+    <name>Kokhanok</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260171</id>
+  </point>
+  <point>
+    <name>Levelock</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260181</id>
+  </point>
+  <point>
+    <name>Nondalton</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260190</id>
+  </point>
+  <point>
+    <name>Pedro Bay</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260200</id>
+  </point>
+  <point>
+    <name>Perryville</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260209</id>
+  </point>
+  <point>
+    <name>Pilot Point</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260215</id>
+  </point>
+  <point>
+    <name>Pilot Point (airport)</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>508604</id>
+  </point>
+  <point>
+    <name>Port Alsworth</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260224</id>
+  </point>
+  <point>
+    <name>Port Alsworth (airport)</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>508967</id>
+  </point>
+  <point>
+    <name>Port Heiden (airport)</name>
+    <region>Alaska</region>
+    <district>Lake and Peninsula borough</district>
+    <id>260233</id>
+  </point>
+  <point>
+    <name>Big Lake</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>260242</id>
+  </point>
+  <point>
+    <name>Chickaloon</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>260253</id>
+  </point>
+  <point>
+    <name>Chulitna River</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>510254</id>
+  </point>
+  <point>
+    <name>Eureka / Skelton (AWS)</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>509791</id>
+  </point>
+  <point>
+    <name>Houston</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>260260</id>
+  </point>
+  <point>
+    <name>Palmer (airport)</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>259307</id>
+  </point>
+  <point>
+    <name>Puntilla (weather station)</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>509790</id>
+  </point>
+  <point>
+    <name>Skwentna</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>260276</id>
+  </point>
+  <point>
+    <name>Skwentna (airport)</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>509594</id>
+  </point>
+  <point>
+    <name>Sutton</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>260286</id>
+  </point>
+  <point>
+    <name>Talkeetna</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>260294</id>
+  </point>
+  <point>
+    <name>Talkeetna (airport)</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>291869</id>
+  </point>
+  <point>
+    <name>Trapper Creek</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>260303</id>
+  </point>
+  <point>
+    <name>Wasilla</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>260341</id>
+  </point>
+  <point>
+    <name>Wasilla (airport)</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>508740</id>
+  </point>
+  <point>
+    <name>Willow</name>
+    <region>Alaska</region>
+    <district>Matanuska Susitna</district>
+    <id>260360</id>
+  </point>
+  <point>
+    <name>Nome</name>
+    <district>Nome</district>
+    <id>259308</id>
+  </point>
+  <point>
+    <name>Gambell (airport)</name>
+    <district>Nome</district>
+    <id>260396</id>
+  </point>
+  <point>
+    <name>Nome (airport)</name>
+    <district>Nome</district>
+    <id>260426</id>
+  </point>
+  <point>
+    <name>Tin City (airport)</name>
+    <district>Nome</district>
+    <id>508710</id>
+  </point>
+  <point>
+    <name>Wales (airport)</name>
+    <district>Nome</district>
+    <id>508735</id>
+  </point>
+  <point>
+    <name>Brevig Mission</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260370</id>
+  </point>
+  <point>
+    <name>Brevig Mission (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>510156</id>
+  </point>
+  <point>
+    <name>Diomede</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260376</id>
+  </point>
+  <point>
+    <name>Elim</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260387</id>
+  </point>
+  <point>
+    <name>Elim (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>510155</id>
+  </point>
+  <point>
+    <name>Golovin</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260405</id>
+  </point>
+  <point>
+    <name>Golovin (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>508419</id>
+  </point>
+  <point>
+    <name>Koyuk (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260416</id>
+  </point>
+  <point>
+    <name>Saint Michael</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260445</id>
+  </point>
+  <point>
+    <name>Savoonga (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260455</id>
+  </point>
+  <point>
+    <name>Shaktoolik</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260460</id>
+  </point>
+  <point>
+    <name>Shaktoolik (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>508661</id>
+  </point>
+  <point>
+    <name>Shishmaref (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260467</id>
+  </point>
+  <point>
+    <name>St. Michael (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>508686</id>
+  </point>
+  <point>
+    <name>Stebbins</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260474</id>
+  </point>
+  <point>
+    <name>Teller</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260475</id>
+  </point>
+  <point>
+    <name>Teller (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>508706</id>
+  </point>
+  <point>
+    <name>Unalakleet (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260476</id>
+  </point>
+  <point>
+    <name>Wales</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260477</id>
+  </point>
+  <point>
+    <name>White Mountain</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>260479</id>
+  </point>
+  <point>
+    <name>White Mountain (airport)</name>
+    <region>Alaska</region>
+    <district>Nome</district>
+    <id>508745</id>
+  </point>
+  <point>
+    <name>Alpine Airstrip (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>508258</id>
+  </point>
+  <point>
+    <name>Anaktuvuk Pass (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>260480</id>
+  </point>
+  <point>
+    <name>Atqasuk</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>260481</id>
+  </point>
+  <point>
+    <name>Atqasuk Edward Burnell Sr. Memorial (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>508276</id>
+  </point>
+  <point>
+    <name>Barrow (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>259309</id>
+  </point>
+  <point>
+    <name>Barter Island LRRS (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>508913</id>
+  </point>
+  <point>
+    <name>Cape Lisburne LRRS (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>508312</id>
+  </point>
+  <point>
+    <name>Deadhorse (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>508360</id>
+  </point>
+  <point>
+    <name>Kaktovik</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>260503</id>
+  </point>
+  <point>
+    <name>Nuiqsut (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>260510</id>
+  </point>
+  <point>
+    <name>Point Hope (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>260516</id>
+  </point>
+  <point>
+    <name>Point Lay (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>260525</id>
+  </point>
+  <point>
+    <name>Point Thomson (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>510794</id>
+  </point>
+  <point>
+    <name>Prudhoe Bay</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>260533</id>
+  </point>
+  <point>
+    <name>Ugnu-Kuparuk (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>508721</id>
+  </point>
+  <point>
+    <name>Wainwright (airport)</name>
+    <region>Alaska</region>
+    <district>North Slope</district>
+    <id>260539</id>
+  </point>
+  <point>
+    <name>Ambler (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260547</id>
+  </point>
+  <point>
+    <name>Buckland (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260554</id>
+  </point>
+  <point>
+    <name>Deering</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260558</id>
+  </point>
+  <point>
+    <name>Deering (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>508361</id>
+  </point>
+  <point>
+    <name>Kiana (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260561</id>
+  </point>
+  <point>
+    <name>Kivalina</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260572</id>
+  </point>
+  <point>
+    <name>Kivalina (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>508488</id>
+  </point>
+  <point>
+    <name>Kobuk</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260581</id>
+  </point>
+  <point>
+    <name>Kotzebue (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>259310</id>
+  </point>
+  <point>
+    <name>Noatak</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260594</id>
+  </point>
+  <point>
+    <name>Noatak (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>508577</id>
+  </point>
+  <point>
+    <name>Noorvik</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260603</id>
+  </point>
+  <point>
+    <name>Red Dog Mine (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>510023</id>
+  </point>
+  <point>
+    <name>Robert Bob Curtis Memorial (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>508628</id>
+  </point>
+  <point>
+    <name>Selawik (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260613</id>
+  </point>
+  <point>
+    <name>Shungnak</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>260623</id>
+  </point>
+  <point>
+    <name>Shungnak (airport)</name>
+    <region>Alaska</region>
+    <district>Northwest Arctic</district>
+    <id>508670</id>
+  </point>
+  <point>
+    <name>Petersburg (airport)</name>
+    <district>Petersburg</district>
+    <id>259318</id>
+  </point>
+  <point>
+    <name>Kake (airport)</name>
+    <district>Petersburg</district>
+    <id>261147</id>
+  </point>
+  <point>
+    <name>Port Alexander</name>
+    <district>Petersburg</district>
+    <id>261163</id>
+  </point>
+  <point>
+    <name>Port Alexander (seaplane base)</name>
+    <district>Petersburg</district>
+    <id>508966</id>
+  </point>
+  <point>
+    <name>Annette Island (airport)</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>508267</id>
+  </point>
+  <point>
+    <name>Coffman Cove</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>260634</id>
+  </point>
+  <point>
+    <name>Craig</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>259311</id>
+  </point>
+  <point>
+    <name>Hydaburg</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>260652</id>
+  </point>
+  <point>
+    <name>Hydaburg Seaplane Base (airport)</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>508454</id>
+  </point>
+  <point>
+    <name>Hyder</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>260654</id>
+  </point>
+  <point>
+    <name>Klawock (airport)</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>260678</id>
+  </point>
+  <point>
+    <name>Metlakatla (seaplane base)</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>260686</id>
+  </point>
+  <point>
+    <name>Meyers Chuck</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>260696</id>
+  </point>
+  <point>
+    <name>Point Baker</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>260705</id>
+  </point>
+  <point>
+    <name>Thorne Bay</name>
+    <region>Alaska</region>
+    <district>Prince of Wales — Ketchikan</district>
+    <id>260715</id>
+  </point>
+  <point>
+    <name>Sitka (airport)</name>
+    <district>Sitka</district>
+    <id>259313</id>
+  </point>
+  <point>
+    <name>Skagway (airport)</name>
+    <district>Skagway</district>
+    <id>260785</id>
+  </point>
+  <point>
+    <name>Chicken</name>
+    <region>Alaska</region>
+    <district>Southeast Fairbanks</district>
+    <id>260806</id>
+  </point>
+  <point>
+    <name>Delta Junction / Allen Army (airport)</name>
+    <region>Alaska</region>
+    <district>Southeast Fairbanks</district>
+    <id>260825</id>
+  </point>
+  <point>
+    <name>Dot Lake</name>
+    <region>Alaska</region>
+    <district>Southeast Fairbanks</district>
+    <id>260835</id>
+  </point>
+  <point>
+    <name>Eagle (airport)</name>
+    <region>Alaska</region>
+    <district>Southeast Fairbanks</district>
+    <id>260844</id>
+  </point>
+  <point>
+    <name>Fort Greely</name>
+    <region>Alaska</region>
+    <district>Southeast Fairbanks</district>
+    <id>260856</id>
+  </point>
+  <point>
+    <name>Mentasta Lake</name>
+    <region>Alaska</region>
+    <district>Southeast Fairbanks</district>
+    <id>260867</id>
+  </point>
+  <point>
+    <name>Northway (airport)</name>
+    <region>Alaska</region>
+    <district>Southeast Fairbanks</district>
+    <id>260878</id>
+  </point>
+  <point>
+    <name>Tanacross</name>
+    <region>Alaska</region>
+    <district>Southeast Fairbanks</district>
+    <id>260886</id>
+  </point>
+  <point>
+    <name>Tok</name>
+    <region>Alaska</region>
+    <district>Southeast Fairbanks</district>
+    <id>259315</id>
+  </point>
+  <point>
+    <name>Valdez</name>
+    <district>Valdez Cordova</district>
+    <id>259316</id>
+  </point>
+  <point>
+    <name>Devils Mountain Lodge (airport)</name>
+    <district>Valdez Cordova</district>
+    <id>508922</id>
+  </point>
+  <point>
+    <name>Gulkana (airport)</name>
+    <district>Valdez Cordova</district>
+    <id>291871</id>
+  </point>
+  <point>
+    <name>Middleton Island (airport)</name>
+    <district>Valdez Cordova</district>
+    <id>291873</id>
+  </point>
+  <point>
+    <name>Valdez (airport)</name>
+    <district>Valdez Cordova</district>
+    <id>509699</id>
+  </point>
+  <point>
+    <name>Chenega Bay</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>260914</id>
+  </point>
+  <point>
+    <name>Chitina</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>260924</id>
+  </point>
+  <point>
+    <name>Copper Center</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>260934</id>
+  </point>
+  <point>
+    <name>Gakona</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>260957</id>
+  </point>
+  <point>
+    <name>Glennallen</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>260977</id>
+  </point>
+  <point>
+    <name>McCarthy (airport)</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>508952</id>
+  </point>
+  <point>
+    <name>Merle K. Mudhole Smith (airport)</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>508543</id>
+  </point>
+  <point>
+    <name>Miers Lake</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>260987</id>
+  </point>
+  <point>
+    <name>Portage Glacier (AWS)</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>509595</id>
+  </point>
+  <point>
+    <name>Slana</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>260998</id>
+  </point>
+  <point>
+    <name>Tatitlek</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>261006</id>
+  </point>
+  <point>
+    <name>Whittier</name>
+    <region>Alaska</region>
+    <district>Valdez Cordova</district>
+    <id>261027</id>
+  </point>
+  <point>
+    <name>Alakanuk</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261037</id>
+  </point>
+  <point>
+    <name>Cape Romanzof (airbase)</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>508314</id>
+  </point>
+  <point>
+    <name>Chevak</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261046</id>
+  </point>
+  <point>
+    <name>Chevak (airport)</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>508331</id>
+  </point>
+  <point>
+    <name>Emmonak (airport)</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261056</id>
+  </point>
+  <point>
+    <name>Hooper Bay (airport)</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>259317</id>
+  </point>
+  <point>
+    <name>Kotlik</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261073</id>
+  </point>
+  <point>
+    <name>Marshall</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261080</id>
+  </point>
+  <point>
+    <name>Marshall Don Hunter Sr. (airport)</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>508531</id>
+  </point>
+  <point>
+    <name>Mountain Village</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261089</id>
+  </point>
+  <point>
+    <name>Mountain Village (airport)</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>508555</id>
+  </point>
+  <point>
+    <name>Nunam Iqua</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261099</id>
+  </point>
+  <point>
+    <name>Pilot Station</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261105</id>
+  </point>
+  <point>
+    <name>Russian Mission</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261114</id>
+  </point>
+  <point>
+    <name>Russian Mission (airport)</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>508638</id>
+  </point>
+  <point>
+    <name>Saint Marys</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261125</id>
+  </point>
+  <point>
+    <name>Scammon Bay</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>261137</id>
+  </point>
+  <point>
+    <name>Scammon Bay (airport)</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>508656</id>
+  </point>
+  <point>
+    <name>St. Mary's (airport)</name>
+    <region>Alaska</region>
+    <district>Wade Hampton</district>
+    <id>508685</id>
+  </point>
+  <point>
+    <name>Wrangell (airport)</name>
+    <district>Wrangell</district>
+    <id>261182</id>
+  </point>
+  <point>
+    <name>Yakutat</name>
+    <district>Yakutat</district>
+    <id>259319</id>
+  </point>
+  <point>
+    <name>Yakutat (airport)</name>
+    <district>Yakutat</district>
+    <id>291875</id>
+  </point>
+  <point>
+    <name>Allakaket</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261203</id>
+  </point>
+  <point>
+    <name>Anvik (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261214</id>
+  </point>
+  <point>
+    <name>Arctic Village (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261223</id>
+  </point>
+  <point>
+    <name>Beaver</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261235</id>
+  </point>
+  <point>
+    <name>Bettles Field (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261246</id>
+  </point>
+  <point>
+    <name>Central</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261256</id>
+  </point>
+  <point>
+    <name>Chalkyitsik</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261266</id>
+  </point>
+  <point>
+    <name>Circle</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261276</id>
+  </point>
+  <point>
+    <name>Farewell Lake (Seaplane Base)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>510253</id>
+  </point>
+  <point>
+    <name>Fort Yukon (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261298</id>
+  </point>
+  <point>
+    <name>Galena (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>259320</id>
+  </point>
+  <point>
+    <name>Grayling</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261314</id>
+  </point>
+  <point>
+    <name>Holy Cross</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261325</id>
+  </point>
+  <point>
+    <name>Holy Cross (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>508448</id>
+  </point>
+  <point>
+    <name>Hughes</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261328</id>
+  </point>
+  <point>
+    <name>Huslia</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261339</id>
+  </point>
+  <point>
+    <name>Huslia (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>508453</id>
+  </point>
+  <point>
+    <name>Indian Mountain (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>508459</id>
+  </point>
+  <point>
+    <name>Kaltag</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261348</id>
+  </point>
+  <point>
+    <name>Kaltag (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>508476</id>
+  </point>
+  <point>
+    <name>Koyukuk</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261358</id>
+  </point>
+  <point>
+    <name>Lake Minchumina</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261368</id>
+  </point>
+  <point>
+    <name>Manley Hot Springs (Airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261379</id>
+  </point>
+  <point>
+    <name>McGrath (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261405</id>
+  </point>
+  <point>
+    <name>Minchumina (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>508546</id>
+  </point>
+  <point>
+    <name>Minto</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261426</id>
+  </point>
+  <point>
+    <name>Nikolai</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261446</id>
+  </point>
+  <point>
+    <name>Nikolai (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>508575</id>
+  </point>
+  <point>
+    <name>Nulato</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261457</id>
+  </point>
+  <point>
+    <name>Rampart</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261458</id>
+  </point>
+  <point>
+    <name>Ruby</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261459</id>
+  </point>
+  <point>
+    <name>Ruby (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>508637</id>
+  </point>
+  <point>
+    <name>Shageluk</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261460</id>
+  </point>
+  <point>
+    <name>Shageluk (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>510516</id>
+  </point>
+  <point>
+    <name>Stevens Village</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261469</id>
+  </point>
+  <point>
+    <name>Takotna</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261480</id>
+  </point>
+  <point>
+    <name>Tanana (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261490</id>
+  </point>
+  <point>
+    <name>Tatalina (airport)</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>508704</id>
+  </point>
+  <point>
+    <name>Venetie</name>
+    <region>Alaska</region>
+    <district>Yukon Koyukuk</district>
+    <id>261500</id>
+  </point>
+</region>

@@ -1,0 +1,20 @@
+<country name="Guadeloupe" count="3">
+  <point>
+    <name>Basse-Terre</name>
+    <region>Basse-Terre</region>
+    <district>Basse-Terre</district>
+    <id>337464</id>
+  </point>
+  <point>
+    <name>Pointe-a-Pitre</name>
+    <region>Pointe-a-Pitre</region>
+    <district>Pointe-a-Pitre</district>
+    <id>351052</id>
+  </point>
+  <point>
+    <name>Pointe-a-Pitre (airport)</name>
+    <region>Pointe-a-Pitre</region>
+    <district>Pointe-a-Pitre (airport)</district>
+    <id>338351</id>
+  </point>
+</country>

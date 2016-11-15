@@ -1,0 +1,1268 @@
+<country name="Sweden" count="211">
+  <point>
+    <name>Hano</name>
+    <region>Blekinge County</region>
+    <district>Hano</district>
+    <id>2411</id>
+  </point>
+  <point>
+    <name>Karlskrona</name>
+    <region>Blekinge County</region>
+    <district>Karlskrona</district>
+    <id>2429</id>
+  </point>
+  <point>
+    <name>Karlskrona-Soderstjerna</name>
+    <region>Blekinge County</region>
+    <district>Karlskrona-Soderstjerna</district>
+    <id>348307</id>
+  </point>
+  <point>
+    <name>Ronneby (airport)</name>
+    <region>Blekinge County</region>
+    <district>Ronneby (airport)</district>
+    <id>2425</id>
+  </point>
+  <point>
+    <name>Utklippan</name>
+    <region>Blekinge County</region>
+    <district>Utklippan</district>
+    <id>348295</id>
+  </point>
+  <point>
+    <name>Borlange (airport)</name>
+    <region>Dalarna County</region>
+    <district>Borlange (airport)</district>
+    <id>2196</id>
+  </point>
+  <point>
+    <name>Falun</name>
+    <region>Dalarna County</region>
+    <district>Falun</district>
+    <id>2195</id>
+  </point>
+  <point>
+    <name>Saelen-Hoegfjaellshotellet</name>
+    <region>Dalarna County</region>
+    <district>Saelen-Hoegfjaellshotellet</district>
+    <id>348300</id>
+  </point>
+  <point>
+    <name>Stora Spaansberget</name>
+    <region>Dalarna County</region>
+    <district>Stora Spaansberget</district>
+    <id>348271</id>
+  </point>
+  <point>
+    <name>Storboo</name>
+    <region>Dalarna County</region>
+    <district>Storboo</district>
+    <id>348258</id>
+  </point>
+  <point>
+    <name>Gavle</name>
+    <region>Gavleborg County</region>
+    <district>Gavle</district>
+    <id>2207</id>
+  </point>
+  <point>
+    <name>Amot</name>
+    <region>Gavleborg County</region>
+    <district>Amot</district>
+    <id>348269</id>
+  </point>
+  <point>
+    <name>Edsbyn</name>
+    <region>Gavleborg County</region>
+    <district>Edsbyn</district>
+    <id>2140</id>
+  </point>
+  <point>
+    <name>Gavle / Sandviken</name>
+    <region>Gavleborg County</region>
+    <district>Gavle / Sandviken</district>
+    <id>2198</id>
+  </point>
+  <point>
+    <name>Kuggoren</name>
+    <region>Gavleborg County</region>
+    <district>Kuggoren</district>
+    <id>2146</id>
+  </point>
+  <point>
+    <name>Farosund-ar</name>
+    <region>Gotland County</region>
+    <district>Farosund-ar</district>
+    <id>348287</id>
+  </point>
+  <point>
+    <name>Gotska Sandoen</name>
+    <region>Gotland County</region>
+    <district>Gotska Sandoen</district>
+    <id>2361</id>
+  </point>
+  <point>
+    <name>Hoburg (weather station 02679)</name>
+    <region>Gotland County</region>
+    <district>Hoburg (weather station 02679)</district>
+    <id>170689</id>
+  </point>
+  <point>
+    <name>Ostergarnsholm</name>
+    <region>Gotland County</region>
+    <district>Ostergarnsholm</district>
+    <id>348289</id>
+  </point>
+  <point>
+    <name>Sjonhembacke / Roma</name>
+    <region>Gotland County</region>
+    <district>Sjonhembacke / Roma</district>
+    <id>348288</id>
+  </point>
+  <point>
+    <name>Visby (airport)</name>
+    <region>Gotland County</region>
+    <district>Visby (airport)</district>
+    <id>2364</id>
+  </point>
+  <point>
+    <name>Broen</name>
+    <region>Halland County</region>
+    <district>Broen</district>
+    <id>348290</id>
+  </point>
+  <point>
+    <name>Hallands Vadero</name>
+    <region>Halland County</region>
+    <district>Hallands Vadero</district>
+    <id>2370</id>
+  </point>
+  <point>
+    <name>Halmstad (airport)</name>
+    <region>Halland County</region>
+    <district>Halmstad (airport)</district>
+    <id>2366</id>
+  </point>
+  <point>
+    <name>Nidingen</name>
+    <region>Halland County</region>
+    <district>Nidingen</district>
+    <id>2280</id>
+  </point>
+  <point>
+    <name>Torup</name>
+    <region>Halland County</region>
+    <district>Torup</district>
+    <id>2401</id>
+  </point>
+  <point>
+    <name>Ullared</name>
+    <region>Halland County</region>
+    <district>Ullared</district>
+    <id>348278</id>
+  </point>
+  <point>
+    <name>Bjornangen / Are</name>
+    <region>Jamtland County</region>
+    <district>Bjornangen / Are</district>
+    <id>348299</id>
+  </point>
+  <point>
+    <name>Blahammaren</name>
+    <region>Jamtland County</region>
+    <district>Blahammaren</district>
+    <id>348248</id>
+  </point>
+  <point>
+    <name>Bortnan</name>
+    <region>Jamtland County</region>
+    <district>Bortnan</district>
+    <id>348261</id>
+  </point>
+  <point>
+    <name>Dravagen</name>
+    <region>Jamtland County</region>
+    <district>Dravagen</district>
+    <id>348260</id>
+  </point>
+  <point>
+    <name>Flatruet</name>
+    <region>Jamtland County</region>
+    <district>Flatruet</district>
+    <id>348259</id>
+  </point>
+  <point>
+    <name>Follinge</name>
+    <region>Jamtland County</region>
+    <district>Follinge</district>
+    <id>348251</id>
+  </point>
+  <point>
+    <name>Gaddede</name>
+    <region>Jamtland County</region>
+    <district>Gaddede</district>
+    <id>2055</id>
+  </point>
+  <point>
+    <name>Gubbhogen</name>
+    <region>Jamtland County</region>
+    <district>Gubbhogen</district>
+    <id>348250</id>
+  </point>
+  <point>
+    <name>Hallhaaxaasen</name>
+    <region>Jamtland County</region>
+    <district>Hallhaaxaasen</district>
+    <id>170366</id>
+  </point>
+  <point>
+    <name>Hoting</name>
+    <region>Jamtland County</region>
+    <district>Hoting</district>
+    <id>348253</id>
+  </point>
+  <point>
+    <name>Hunge</name>
+    <region>Jamtland County</region>
+    <district>Hunge</district>
+    <id>348262</id>
+  </point>
+  <point>
+    <name>Klovsjo</name>
+    <region>Jamtland County</region>
+    <district>Klovsjo</district>
+    <id>2124</id>
+  </point>
+  <point>
+    <name>Korsvattnet</name>
+    <region>Jamtland County</region>
+    <district>Korsvattnet</district>
+    <id>2054</id>
+  </point>
+  <point>
+    <name>Krangede</name>
+    <region>Jamtland County</region>
+    <district>Krangede</district>
+    <id>2070</id>
+  </point>
+  <point>
+    <name>Mattmar</name>
+    <region>Jamtland County</region>
+    <district>Mattmar</district>
+    <id>348249</id>
+  </point>
+  <point>
+    <name>Ostersund</name>
+    <region>Jamtland County</region>
+    <district>Ostersund</district>
+    <id>2061</id>
+  </point>
+  <point>
+    <name>Ostersund / Froson (airport)</name>
+    <region>Jamtland County</region>
+    <district>Ostersund / Froson (airport)</district>
+    <id>2057</id>
+  </point>
+  <point>
+    <name>Storlien</name>
+    <region>Jamtland County</region>
+    <district>Storlien</district>
+    <id>2036</id>
+  </point>
+  <point>
+    <name>Storlien / Visjovalen</name>
+    <region>Jamtland County</region>
+    <district>Storlien / Visjovalen</district>
+    <id>170667</id>
+  </point>
+  <point>
+    <name>Sveg (airport)</name>
+    <region>Jamtland County</region>
+    <district>Sveg (airport)</district>
+    <id>170673</id>
+  </point>
+  <point>
+    <name>Tannas</name>
+    <region>Jamtland County</region>
+    <district>Tannas</district>
+    <id>2115</id>
+  </point>
+  <point>
+    <name>Jonkoping (airport)</name>
+    <region>Jonkoping County</region>
+    <district>Jonkoping (airport)</district>
+    <id>2301</id>
+  </point>
+  <point>
+    <name>Ljungby</name>
+    <region>Jonkoping County</region>
+    <district>Ljungby</district>
+    <id>348292</id>
+  </point>
+  <point>
+    <name>Tomtabacken</name>
+    <region>Jonkoping County</region>
+    <district>Tomtabacken</district>
+    <id>348281</id>
+  </point>
+  <point>
+    <name>Visingso</name>
+    <region>Jonkoping County</region>
+    <district>Visingso</district>
+    <id>348280</id>
+  </point>
+  <point>
+    <name>Kalmar</name>
+    <region>Kalmar County</region>
+    <district>Kalmar</district>
+    <id>2453</id>
+  </point>
+  <point>
+    <name>Gladhammar</name>
+    <region>Kalmar County</region>
+    <district>Gladhammar</district>
+    <id>348285</id>
+  </point>
+  <point>
+    <name>Kalmar (AWS)</name>
+    <region>Kalmar County</region>
+    <district>Kalmar (AWS)</district>
+    <id>2448</id>
+  </point>
+  <point>
+    <name>Kalmar (airport)</name>
+    <region>Kalmar County</region>
+    <district>Kalmar (airport)</district>
+    <id>509064</id>
+  </point>
+  <point>
+    <name>Malilla</name>
+    <region>Kalmar County</region>
+    <district>Malilla</district>
+    <id>2334</id>
+  </point>
+  <point>
+    <name>Olandsbron</name>
+    <region>Kalmar County</region>
+    <district>Olandsbron</district>
+    <id>348306</id>
+  </point>
+  <point>
+    <name>Olandsnorraudde</name>
+    <region>Kalmar County</region>
+    <district>Olandsnorraudde</district>
+    <id>2357</id>
+  </point>
+  <point>
+    <name>Olandssodraudde</name>
+    <region>Kalmar County</region>
+    <district>Olandssodraudde</district>
+    <id>2416</id>
+  </point>
+  <point>
+    <name>Vaxjo</name>
+    <region>Kronoberg County</region>
+    <district>Vaxjo</district>
+    <id>2415</id>
+  </point>
+  <point>
+    <name>Vaxjo (airport)</name>
+    <region>Kronoberg County</region>
+    <district>Vaxjo (airport)</district>
+    <id>508159</id>
+  </point>
+  <point>
+    <name>Alvsbyn</name>
+    <region>Norrbotten County</region>
+    <district>Alvsbyn</district>
+    <id>348245</id>
+  </point>
+  <point>
+    <name>Arjeplog</name>
+    <region>Norrbotten County</region>
+    <district>Arjeplog</district>
+    <id>1959</id>
+  </point>
+  <point>
+    <name>Arvidsjaur</name>
+    <region>Norrbotten County</region>
+    <district>Arvidsjaur</district>
+    <id>170664</id>
+  </point>
+  <point>
+    <name>Arvidsjaur (airport)</name>
+    <region>Norrbotten County</region>
+    <district>Arvidsjaur (airport)</district>
+    <id>508272</id>
+  </point>
+  <point>
+    <name>Buresjon</name>
+    <region>Norrbotten County</region>
+    <district>Buresjon</district>
+    <id>348242</id>
+  </point>
+  <point>
+    <name>Chengde (weather station 02080)</name>
+    <region>Norrbotten County</region>
+    <district>Chengde (weather station 02080)</district>
+    <id>170662</id>
+  </point>
+  <point>
+    <name>Gallivare (airport)</name>
+    <region>Norrbotten County</region>
+    <district>Gallivare (airport)</district>
+    <id>1933</id>
+  </point>
+  <point>
+    <name>Haparanda (weather station 02197)</name>
+    <region>Norrbotten County</region>
+    <district>Haparanda (weather station 02197)</district>
+    <id>2028</id>
+  </point>
+  <point>
+    <name>Jakkvik</name>
+    <region>Norrbotten County</region>
+    <district>Jakkvik</district>
+    <id>348240</id>
+  </point>
+  <point>
+    <name>Jokkmokk</name>
+    <region>Norrbotten County</region>
+    <district>Jokkmokk</district>
+    <id>1969</id>
+  </point>
+  <point>
+    <name>Jokkmokk (airstrip)</name>
+    <region>Norrbotten County</region>
+    <district>Jokkmokk (airstrip)</district>
+    <id>510067</id>
+  </point>
+  <point>
+    <name>Karesuando</name>
+    <region>Norrbotten County</region>
+    <district>Karesuando</district>
+    <id>1934</id>
+  </point>
+  <point>
+    <name>Katterjakk</name>
+    <region>Norrbotten County</region>
+    <district>Katterjakk</district>
+    <id>1911</id>
+  </point>
+  <point>
+    <name>Katterjakk (weather station)</name>
+    <region>Norrbotten County</region>
+    <district>Katterjakk (weather station)</district>
+    <id>170440</id>
+  </point>
+  <point>
+    <name>Kiruna (airport)</name>
+    <region>Norrbotten County</region>
+    <district>Kiruna (airport)</district>
+    <id>1928</id>
+  </point>
+  <point>
+    <name>Kvikkjokk</name>
+    <region>Norrbotten County</region>
+    <district>Kvikkjokk</district>
+    <id>1954</id>
+  </point>
+  <point>
+    <name>Latnivaara</name>
+    <region>Norrbotten County</region>
+    <district>Latnivaara</district>
+    <id>348234</id>
+  </point>
+  <point>
+    <name>Lulea</name>
+    <region>Norrbotten County</region>
+    <district>Lulea</district>
+    <id>2015</id>
+  </point>
+  <point>
+    <name>Lulea / Kallax (airport)</name>
+    <region>Norrbotten County</region>
+    <district>Lulea / Kallax (airport)</district>
+    <id>2021</id>
+  </point>
+  <point>
+    <name>Merkenos</name>
+    <region>Norrbotten County</region>
+    <district>Merkenos</district>
+    <id>170663</id>
+  </point>
+  <point>
+    <name>Naimakka</name>
+    <region>Norrbotten County</region>
+    <district>Naimakka</district>
+    <id>348236</id>
+  </point>
+  <point>
+    <name>Natta Mount</name>
+    <region>Norrbotten County</region>
+    <district>Natta Mount</district>
+    <id>1977</id>
+  </point>
+  <point>
+    <name>Nattavaara</name>
+    <region>Norrbotten County</region>
+    <district>Nattavaara</district>
+    <id>348297</id>
+  </point>
+  <point>
+    <name>Nedre Soppero</name>
+    <region>Norrbotten County</region>
+    <district>Nedre Soppero</district>
+    <id>348235</id>
+  </point>
+  <point>
+    <name>Nikkaluokta</name>
+    <region>Norrbotten County</region>
+    <district>Nikkaluokta</district>
+    <id>1925</id>
+  </point>
+  <point>
+    <name>Pajala</name>
+    <region>Norrbotten County</region>
+    <district>Pajala</district>
+    <id>1940</id>
+  </point>
+  <point>
+    <name>Rensjon</name>
+    <region>Norrbotten County</region>
+    <district>Rensjon</district>
+    <id>348233</id>
+  </point>
+  <point>
+    <name>Ritsem</name>
+    <region>Norrbotten County</region>
+    <district>Ritsem</district>
+    <id>1908</id>
+  </point>
+  <point>
+    <name>Rodkallen</name>
+    <region>Norrbotten County</region>
+    <district>Rodkallen</district>
+    <id>2023</id>
+  </point>
+  <point>
+    <name>Roparudden</name>
+    <region>Norrbotten County</region>
+    <district>Roparudden</district>
+    <id>348241</id>
+  </point>
+  <point>
+    <name>Saittarova</name>
+    <region>Norrbotten County</region>
+    <district>Saittarova</district>
+    <id>348237</id>
+  </point>
+  <point>
+    <name>Savast</name>
+    <region>Norrbotten County</region>
+    <district>Savast</district>
+    <id>348298</id>
+  </point>
+  <point>
+    <name>Stora Sjoefallet</name>
+    <region>Norrbotten County</region>
+    <district>Stora Sjoefallet</district>
+    <id>348232</id>
+  </point>
+  <point>
+    <name>Storon</name>
+    <region>Norrbotten County</region>
+    <district>Storon</district>
+    <id>348246</id>
+  </point>
+  <point>
+    <name>Svartbyn</name>
+    <region>Norrbotten County</region>
+    <district>Svartbyn</district>
+    <id>2010</id>
+  </point>
+  <point>
+    <name>Vajmat</name>
+    <region>Norrbotten County</region>
+    <district>Vajmat</district>
+    <id>348243</id>
+  </point>
+  <point>
+    <name>Vidsel (airport)</name>
+    <region>Norrbotten County</region>
+    <district>Vidsel (airport)</district>
+    <id>1975</id>
+  </point>
+  <point>
+    <name>Ylinenjarvi</name>
+    <region>Norrbotten County</region>
+    <district>Ylinenjarvi</district>
+    <id>348247</id>
+  </point>
+  <point>
+    <name>Orebro (airport)</name>
+    <region>Orebro County</region>
+    <district>Orebro (airport)</district>
+    <id>2189</id>
+  </point>
+  <point>
+    <name>Kilsbergen / Suttarbod</name>
+    <region>Orebro County</region>
+    <district>Kilsbergen / Suttarbod</district>
+    <id>348270</id>
+  </point>
+  <point>
+    <name>Kloten</name>
+    <region>Orebro County</region>
+    <district>Kloten</district>
+    <id>170679</id>
+  </point>
+  <point>
+    <name>Skeppmora</name>
+    <region>Orebro County</region>
+    <district>Skeppmora</district>
+    <id>348272</id>
+  </point>
+  <point>
+    <name>Harstena</name>
+    <region>Ostergotland County</region>
+    <district>Harstena</district>
+    <id>2363</id>
+  </point>
+  <point>
+    <name>Kettstaka</name>
+    <region>Ostergotland County</region>
+    <district>Kettstaka</district>
+    <id>348283</id>
+  </point>
+  <point>
+    <name>Kolmarden / Lomvagen</name>
+    <region>Ostergotland County</region>
+    <district>Kolmarden / Lomvagen</district>
+    <id>348284</id>
+  </point>
+  <point>
+    <name>Kvarn</name>
+    <region>Ostergotland County</region>
+    <district>Kvarn</district>
+    <id>348286</id>
+  </point>
+  <point>
+    <name>Linkoping</name>
+    <region>Ostergotland County</region>
+    <district>Linkoping</district>
+    <id>2331</id>
+  </point>
+  <point>
+    <name>Linkoping / Malmen (airbase)</name>
+    <region>Ostergotland County</region>
+    <district>Linkoping / Malmen (airbase)</district>
+    <id>509860</id>
+  </point>
+  <point>
+    <name>Linkoping / SAAB (airport)</name>
+    <region>Ostergotland County</region>
+    <district>Linkoping / SAAB (airport)</district>
+    <id>508512</id>
+  </point>
+  <point>
+    <name>Malexander (weather station 02552)</name>
+    <region>Ostergotland County</region>
+    <district>Malexander (weather station 02552)</district>
+    <id>348304</id>
+  </point>
+  <point>
+    <name>Malexander (weather station 02564)</name>
+    <region>Ostergotland County</region>
+    <district>Malexander (weather station 02564)</district>
+    <id>2333</id>
+  </point>
+  <point>
+    <name>Norrkoping</name>
+    <region>Ostergotland County</region>
+    <district>Norrkoping</district>
+    <id>2353</id>
+  </point>
+  <point>
+    <name>Norrkoping (airport)</name>
+    <region>Ostergotland County</region>
+    <district>Norrkoping (airport)</district>
+    <id>508052</id>
+  </point>
+  <point>
+    <name>Angelholm</name>
+    <region>Skane County</region>
+    <district>Angelholm</district>
+    <id>2386</id>
+  </point>
+  <point>
+    <name>Angelholm-Helsingborg (airport)</name>
+    <region>Skane County</region>
+    <district>Angelholm-Helsingborg (airport)</district>
+    <id>508263</id>
+  </point>
+  <point>
+    <name>Falsterbo</name>
+    <region>Skane County</region>
+    <district>Falsterbo</district>
+    <id>170687</id>
+  </point>
+  <point>
+    <name>Falsterbo (lighthouse)</name>
+    <region>Skane County</region>
+    <district>Falsterbo (lighthouse)</district>
+    <id>2397</id>
+  </point>
+  <point>
+    <name>Hallandsasen</name>
+    <region>Skane County</region>
+    <district>Hallandsasen</district>
+    <id>348305</id>
+  </point>
+  <point>
+    <name>Hastveda</name>
+    <region>Skane County</region>
+    <district>Hastveda</district>
+    <id>348294</id>
+  </point>
+  <point>
+    <name>Helsingborg</name>
+    <region>Skane County</region>
+    <district>Helsingborg</district>
+    <id>2388</id>
+  </point>
+  <point>
+    <name>Horby</name>
+    <region>Skane County</region>
+    <district>Horby</district>
+    <id>348293</id>
+  </point>
+  <point>
+    <name>Kristianstad</name>
+    <region>Skane County</region>
+    <district>Kristianstad</district>
+    <id>348296</id>
+  </point>
+  <point>
+    <name>Kristianstad / Everod (airport)</name>
+    <region>Skane County</region>
+    <district>Kristianstad / Everod (airport)</district>
+    <id>2418</id>
+  </point>
+  <point>
+    <name>Ljungbyhed (airport)</name>
+    <region>Skane County</region>
+    <district>Ljungbyhed (airport)</district>
+    <id>509016</id>
+  </point>
+  <point>
+    <name>Malmo</name>
+    <region>Skane County</region>
+    <district>Malmo</district>
+    <id>2413</id>
+  </point>
+  <point>
+    <name>Malmo / Sturup (airport)</name>
+    <region>Skane County</region>
+    <district>Malmo / Sturup (airport)</district>
+    <id>2414</id>
+  </point>
+  <point>
+    <name>Rynge</name>
+    <region>Skane County</region>
+    <district>Rynge</district>
+    <id>348291</id>
+  </point>
+  <point>
+    <name>Skillinge</name>
+    <region>Skane County</region>
+    <district>Skillinge</district>
+    <id>2405</id>
+  </point>
+  <point>
+    <name>Eskilstuna</name>
+    <region>Sodermanland County</region>
+    <district>Eskilstuna</district>
+    <id>151519</id>
+  </point>
+  <point>
+    <name>Floda</name>
+    <region>Sodermanland County</region>
+    <district>Floda</district>
+    <id>2222</id>
+  </point>
+  <point>
+    <name>Nykoping</name>
+    <region>Sodermanland County</region>
+    <district>Nykoping</district>
+    <id>151534</id>
+  </point>
+  <point>
+    <name>Stockholm-Skavsta (airport)</name>
+    <region>Sodermanland County</region>
+    <district>Stockholm-Skavsta (airport)</district>
+    <id>508689</id>
+  </point>
+  <point>
+    <name>Stockholm</name>
+    <region>Stockholm County</region>
+    <district>Stockholm</district>
+    <id>2225</id>
+  </point>
+  <point>
+    <name>Stockholm (observatory)</name>
+    <region>Stockholm County</region>
+    <district>Stockholm (observatory)</district>
+    <id>348302</id>
+  </point>
+  <point>
+    <name>Stockholm / Arlanda (airport)</name>
+    <region>Stockholm County</region>
+    <district>Stockholm / Arlanda (airport)</district>
+    <id>2216</id>
+  </point>
+  <point>
+    <name>Stockholm / Bromma (airport)</name>
+    <region>Stockholm County</region>
+    <district>Stockholm / Bromma (airport)</district>
+    <id>2221</id>
+  </point>
+  <point>
+    <name>Adelso</name>
+    <region>Stockholm County</region>
+    <district>Adelso</district>
+    <id>348273</id>
+  </point>
+  <point>
+    <name>Landsort</name>
+    <region>Stockholm County</region>
+    <district>Landsort</district>
+    <id>2348</id>
+  </point>
+  <point>
+    <name>Soderarm</name>
+    <region>Stockholm County</region>
+    <district>Soderarm</district>
+    <id>348274</id>
+  </point>
+  <point>
+    <name>Stockholm (weather station)</name>
+    <region>Stockholm County</region>
+    <district>Stockholm (weather station)</district>
+    <id>2227</id>
+  </point>
+  <point>
+    <name>Svenska Hogarna</name>
+    <region>Stockholm County</region>
+    <district>Svenska Hogarna</district>
+    <id>2234</id>
+  </point>
+  <point>
+    <name>Svenska Hogarna (weather station)</name>
+    <region>Stockholm County</region>
+    <district>Svenska Hogarna (weather station)</district>
+    <id>348303</id>
+  </point>
+  <point>
+    <name>Tullinge</name>
+    <region>Stockholm County</region>
+    <district>Tullinge</district>
+    <id>348301</id>
+  </point>
+  <point>
+    <name>Uppsala</name>
+    <region>Uppsala County</region>
+    <district>Uppsala</district>
+    <id>2211</id>
+  </point>
+  <point>
+    <name>Kyrkbyn</name>
+    <region>Uppsala County</region>
+    <district>Kyrkbyn</district>
+    <id>2210</id>
+  </point>
+  <point>
+    <name>Orskar</name>
+    <region>Uppsala County</region>
+    <district>Orskar</district>
+    <id>2229</id>
+  </point>
+  <point>
+    <name>Uppsala Universitet</name>
+    <region>Uppsala County</region>
+    <district>Uppsala Universitet</district>
+    <id>504495</id>
+  </point>
+  <point>
+    <name>Arvika</name>
+    <region>Varmland County</region>
+    <district>Arvika</district>
+    <id>170677</id>
+  </point>
+  <point>
+    <name>Blomskog</name>
+    <region>Varmland County</region>
+    <district>Blomskog</district>
+    <id>2169</id>
+  </point>
+  <point>
+    <name>Brattmon</name>
+    <region>Varmland County</region>
+    <district>Brattmon</district>
+    <id>348266</id>
+  </point>
+  <point>
+    <name>Daglosen</name>
+    <region>Varmland County</region>
+    <district>Daglosen</district>
+    <id>348268</id>
+  </point>
+  <point>
+    <name>Karlstad</name>
+    <region>Varmland County</region>
+    <district>Karlstad</district>
+    <id>2185</id>
+  </point>
+  <point>
+    <name>Karlstad (airport)</name>
+    <region>Varmland County</region>
+    <district>Karlstad (airport)</district>
+    <id>508477</id>
+  </point>
+  <point>
+    <name>Sunne</name>
+    <region>Varmland County</region>
+    <district>Sunne</district>
+    <id>348267</id>
+  </point>
+  <point>
+    <name>Bjuroklubb</name>
+    <region>Vasterbotten County</region>
+    <district>Bjuroklubb</district>
+    <id>2110</id>
+  </point>
+  <point>
+    <name>Gielas</name>
+    <region>Vasterbotten County</region>
+    <district>Gielas</district>
+    <id>348239</id>
+  </point>
+  <point>
+    <name>Gunnarn</name>
+    <region>Vasterbotten County</region>
+    <district>Gunnarn</district>
+    <id>1960</id>
+  </point>
+  <point>
+    <name>Gunnarn (weather station)</name>
+    <region>Vasterbotten County</region>
+    <district>Gunnarn (weather station)</district>
+    <id>170443</id>
+  </point>
+  <point>
+    <name>Hemavan</name>
+    <region>Vasterbotten County</region>
+    <district>Hemavan</district>
+    <id>170852</id>
+  </point>
+  <point>
+    <name>Hemavan (airport)</name>
+    <region>Vasterbotten County</region>
+    <district>Hemavan (airport)</district>
+    <id>1945</id>
+  </point>
+  <point>
+    <name>Hokmarksberget</name>
+    <region>Vasterbotten County</region>
+    <district>Hokmarksberget</district>
+    <id>348257</id>
+  </point>
+  <point>
+    <name>Holmon</name>
+    <region>Vasterbotten County</region>
+    <district>Holmon</district>
+    <id>2107</id>
+  </point>
+  <point>
+    <name>Lycksele</name>
+    <region>Vasterbotten County</region>
+    <district>Lycksele</district>
+    <id>170669</id>
+  </point>
+  <point>
+    <name>Lycksele (airport)</name>
+    <region>Vasterbotten County</region>
+    <district>Lycksele (airport)</district>
+    <id>508517</id>
+  </point>
+  <point>
+    <name>Malaa-Braennan</name>
+    <region>Vasterbotten County</region>
+    <district>Malaa-Braennan</district>
+    <id>348244</id>
+  </point>
+  <point>
+    <name>Norsjo</name>
+    <region>Vasterbotten County</region>
+    <district>Norsjo</district>
+    <id>170671</id>
+  </point>
+  <point>
+    <name>Petistrask</name>
+    <region>Vasterbotten County</region>
+    <district>Petistrask</district>
+    <id>348256</id>
+  </point>
+  <point>
+    <name>Ristrask</name>
+    <region>Vasterbotten County</region>
+    <district>Ristrask</district>
+    <id>348254</id>
+  </point>
+  <point>
+    <name>Saxnas</name>
+    <region>Vasterbotten County</region>
+    <district>Saxnas</district>
+    <id>348252</id>
+  </point>
+  <point>
+    <name>Skelleftea (airport)</name>
+    <region>Vasterbotten County</region>
+    <district>Skelleftea (airport)</district>
+    <id>2108</id>
+  </point>
+  <point>
+    <name>Stekenjokk</name>
+    <region>Vasterbotten County</region>
+    <district>Stekenjokk</district>
+    <id>348238</id>
+  </point>
+  <point>
+    <name>Storuman (airport)</name>
+    <region>Vasterbotten County</region>
+    <district>Storuman (airport)</district>
+    <id>508691</id>
+  </point>
+  <point>
+    <name>Umea (airport)</name>
+    <region>Vasterbotten County</region>
+    <district>Umea (airport)</district>
+    <id>2106</id>
+  </point>
+  <point>
+    <name>Vilhelmina</name>
+    <region>Vasterbotten County</region>
+    <district>Vilhelmina</district>
+    <id>2066</id>
+  </point>
+  <point>
+    <name>Fredrika</name>
+    <region>Vasternorrland County</region>
+    <district>Fredrika</district>
+    <id>348255</id>
+  </point>
+  <point>
+    <name>Harnosands</name>
+    <region>Vasternorrland County</region>
+    <district>Harnosands</district>
+    <id>141434</id>
+  </point>
+  <point>
+    <name>Junsele</name>
+    <region>Vasternorrland County</region>
+    <district>Junsele</district>
+    <id>2063</id>
+  </point>
+  <point>
+    <name>Kramfors (airport)</name>
+    <region>Vasternorrland County</region>
+    <district>Kramfors (airport)</district>
+    <id>2078</id>
+  </point>
+  <point>
+    <name>Lotsstugan</name>
+    <region>Vasternorrland County</region>
+    <district>Lotsstugan</district>
+    <id>2162</id>
+  </point>
+  <point>
+    <name>Norrhog</name>
+    <region>Vasternorrland County</region>
+    <district>Norrhog</district>
+    <id>348263</id>
+  </point>
+  <point>
+    <name>Ornskoldsvik (airport)</name>
+    <region>Vasternorrland County</region>
+    <district>Ornskoldsvik (airport)</district>
+    <id>2081</id>
+  </point>
+  <point>
+    <name>Rasta</name>
+    <region>Vasternorrland County</region>
+    <district>Rasta</district>
+    <id>348265</id>
+  </point>
+  <point>
+    <name>Sillre</name>
+    <region>Vasternorrland County</region>
+    <district>Sillre</district>
+    <id>348264</id>
+  </point>
+  <point>
+    <name>Skagsudde</name>
+    <region>Vasternorrland County</region>
+    <district>Skagsudde</district>
+    <id>2087</id>
+  </point>
+  <point>
+    <name>Sundsvall / Harnosand (airport)</name>
+    <region>Vasternorrland County</region>
+    <district>Sundsvall / Harnosand (airport)</district>
+    <id>2153</id>
+  </point>
+  <point>
+    <name>Torpshammar</name>
+    <region>Vasternorrland County</region>
+    <district>Torpshammar</district>
+    <id>170675</id>
+  </point>
+  <point>
+    <name>Vaestmarkum</name>
+    <region>Vasternorrland County</region>
+    <district>Vaestmarkum</district>
+    <id>170668</id>
+  </point>
+  <point>
+    <name>Stockholm / Vasteras (airport)</name>
+    <region>Vastmanland County</region>
+    <district>Stockholm / Vasteras (airport)</district>
+    <id>2200</id>
+  </point>
+  <point>
+    <name>Vasteras</name>
+    <region>Vastmanland County</region>
+    <district>Vasteras</district>
+    <id>141566</id>
+  </point>
+  <point>
+    <name>Axstål</name>
+    <region>Vastra Gotaland County</region>
+    <district>Axstål</district>
+    <id>170436</id>
+  </point>
+  <point>
+    <name>Bergarud</name>
+    <region>Vastra Gotaland County</region>
+    <district>Bergarud</district>
+    <id>348277</id>
+  </point>
+  <point>
+    <name>Galleudde</name>
+    <region>Vastra Gotaland County</region>
+    <district>Galleudde</district>
+    <id>170364</id>
+  </point>
+  <point>
+    <name>Gardsjo</name>
+    <region>Vastra Gotaland County</region>
+    <district>Gardsjo</district>
+    <id>170685</id>
+  </point>
+  <point>
+    <name>Goteborg</name>
+    <region>Vastra Gotaland County</region>
+    <district>Goteborg</district>
+    <id>2272</id>
+  </point>
+  <point>
+    <name>Gothenburg / Landvetter (airport)</name>
+    <region>Vastra Gotaland County</region>
+    <district>Gothenburg / Landvetter (airport)</district>
+    <id>2282</id>
+  </point>
+  <point>
+    <name>Gothenburg / Save (airport)</name>
+    <region>Vastra Gotaland County</region>
+    <district>Gothenburg / Save (airport)</district>
+    <id>2263</id>
+  </point>
+  <point>
+    <name>Hud</name>
+    <region>Vastra Gotaland County</region>
+    <district>Hud</district>
+    <id>348275</id>
+  </point>
+  <point>
+    <name>Karlsborg (airport)</name>
+    <region>Vastra Gotaland County</region>
+    <district>Karlsborg (airport)</district>
+    <id>170368</id>
+  </point>
+  <point>
+    <name>Kroppefjall-Granan</name>
+    <region>Vastra Gotaland County</region>
+    <district>Kroppefjall-Granan</district>
+    <id>348279</id>
+  </point>
+  <point>
+    <name>Kymbo</name>
+    <region>Vastra Gotaland County</region>
+    <district>Kymbo</district>
+    <id>348282</id>
+  </point>
+  <point>
+    <name>Maseskar (lighthouse)</name>
+    <region>Vastra Gotaland County</region>
+    <district>Maseskar (lighthouse)</district>
+    <id>2253</id>
+  </point>
+  <point>
+    <name>Nordkoster</name>
+    <region>Vastra Gotaland County</region>
+    <district>Nordkoster</district>
+    <id>2237</id>
+  </point>
+  <point>
+    <name>Rangedala</name>
+    <region>Vastra Gotaland County</region>
+    <district>Rangedala</district>
+    <id>2298</id>
+  </point>
+  <point>
+    <name>Satenas (airport)</name>
+    <region>Vastra Gotaland County</region>
+    <district>Satenas (airport)</district>
+    <id>2281</id>
+  </point>
+  <point>
+    <name>Skovde (airport)</name>
+    <region>Vastra Gotaland County</region>
+    <district>Skovde (airport)</district>
+    <id>2295</id>
+  </point>
+  <point>
+    <name>Torpabron</name>
+    <region>Vastra Gotaland County</region>
+    <district>Torpabron</district>
+    <id>348276</id>
+  </point>
+  <point>
+    <name>Trollhattan-Vanersborg (airport)</name>
+    <region>Vastra Gotaland County</region>
+    <district>Trollhattan-Vanersborg (airport)</district>
+    <id>508718</id>
+  </point>
+  <point>
+    <name>Vaderoarna</name>
+    <region>Vastra Gotaland County</region>
+    <district>Vaderoarna</district>
+    <id>2250</id>
+  </point>
+  <point>
+    <name>Vinga</name>
+    <region>Vastra Gotaland County</region>
+    <district>Vinga</district>
+    <id>2273</id>
+  </point>
+</country>
